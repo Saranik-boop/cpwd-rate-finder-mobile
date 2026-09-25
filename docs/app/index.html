@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://*.supabase.co">
+<meta name="theme-color" content="#0f6e4f">
+<title>CPWD Rate Finder</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="CPWD Rates">
+<meta name="robots" content="noindex, nofollow">
+<link rel="stylesheet" href="app.css">
+<link rel="stylesheet" href="gate.css">
+</head>
+<body>
+
+<!-- ============ ACCESS SCREENS (shown until this phone is approved) ============ -->
+<div id="gate" class="gate">
+  <div class="gate-inner">
+    <div class="brand">
+      <div class="brand-mark" title="CPWD Rate Finder">₹</div>
+      <div>
+        <h1>CPWD Rate Finder</h1>
+        <p>CPWD · I&amp;WD · PWD R&amp;B · offline</p>
+      </div>
+      <button type="button" class="admin-pill" data-open-admin hidden>Admin</button>
+    </div>
+
+    <section class="gcard" id="scrChecking">
+      <div class="spinner" aria-hidden="true"></div>
+      <h2>Checking access…</h2>
+      <p class="gmuted">Confirming this phone is approved.</p>
+    </section>
+
+    <section class="gcard" id="scrRequest" hidden>
+      <h2>Request access</h2>
+      <p class="gmuted">This app is private. Send a request and the owner will approve this phone. You only need to do this once.</p>
+      <form id="reqForm" class="gform" autocomplete="on" novalidate>
+        <label class="gfield"><span>Your name</span>
+          <input id="reqName" type="text" autocomplete="name" maxlength="80" required></label>
+        <label class="gfield"><span>Phone number</span>
+          <input id="reqPhone" type="tel" inputmode="tel" autocomplete="tel" maxlength="16" placeholder="10-digit mobile number" required></label>
+        <label class="gfield"><span>Email <em>(optional)</em></span>
+          <input id="reqEmail" type="email" autocomplete="email" maxlength="120"></label>
+        <p class="gerr" id="reqErr" hidden></p>
+        <button type="submit" class="gbtn" id="reqBtn">Send request</button>
+      </form>
+    </section>
+
+    <section class="gcard" id="scrWaiting" hidden>
+      <div class="gicon gicon-wait" aria-hidden="true">⏳</div>
+      <h2>Waiting for approval</h2>
+      <p class="gmuted">Your request has been sent<span id="waitName"></span>. The app will open by itself once the owner approves this phone.</p>
+      <p class="gnote" id="waitNote" hidden></p>
+      <button type="button" class="gbtn gbtn-ghost" id="waitCheck">Check now</button>
+    </section>
+
+    <section class="gcard" id="scrRejected" hidden>
+      <div class="gicon gicon-bad" aria-hidden="true">✕</div>
+      <h2>Access not approved</h2>
+      <p class="gmuted">The owner did not approve this phone. Contact the owner if you think this is a mistake.</p>
+      <button type="button" class="gbtn gbtn-ghost" data-recheck>Check again</button>
+    </section>
+
+    <section class="gcard" id="scrLocked" hidden>
+      <div class="gicon gicon-bad" aria-hidden="true">🔒</div>
+      <h2>Access removed</h2>
+      <p class="gmuted">The owner has turned off access for this phone. Contact the owner to get access again.</p>
+      <button type="button" class="gbtn gbtn-ghost" data-recheck>Check again</button>
+    </section>
+
+    <section class="gcard" id="scrOffline" hidden>
+      <div class="gicon" aria-hidden="true">📶</div>
+      <h2>Connect to the internet</h2>
+      <p class="gmuted" id="offlineMsg">This phone needs to reach the server once.</p>
+      <button type="button" class="gbtn" data-recheck>Try again</button>
+    </section>
+
+    <section class="gcard" id="scrError" hidden>
+      <div class="gicon gicon-bad" aria-hidden="true">!</div>
+      <h2>Something went wrong</h2>
+      <p class="gmuted" id="errorMsg"></p>
+      <button type="button" class="gbtn" data-recheck>Try again</button>
+    </section>
+
+    <footer class="foot">Built for Saranik · Powered by Arya · <span class="tag">TCD1</span></footer>
+  </div>
+</div>
+
+<!-- ============ THE RATE FINDER (unchanged; shown only after approval) ============ -->
+<div id="app" hidden>
+<header class="head">
+  <div class="wrap">
+    <div class="brand">
+      <div class="brand-mark">₹</div>
+      <div>
+        <h1>CPWD Rate Finder</h1>
+        <p>CPWD · I&amp;WD · PWD R&amp;B · offline</p>
+      </div>
+      <button type="button" class="admin-pill" data-open-admin hidden>Admin</button>
+      <div class="count" id="count">loading…</div>
+    </div>
+    <form id="form" autocomplete="off">
+      <div class="inputs">
+        <div class="inp">
+          <input id="fItemNo" type="text" inputmode="text" autocapitalize="off" spellcheck="false" placeholder="Item no.">
+          <button type="button" class="clr" data-clear="fItemNo" aria-label="Clear item number" hidden>×</button>
+        </div>
+        <div class="inp">
+          <input id="fKeywords" type="search" enterkeyhint="search" placeholder="Keywords, e.g. brass hinges">
+          <button type="button" class="clr" data-clear="fKeywords" aria-label="Clear keywords" hidden>×</button>
+        </div>
+      </div>
+      <div class="row2">
+        <select id="fCategory" aria-label="Category"><option value="">All categories</option></select>
+        <select id="fSchedule" aria-label="Schedule"><option value="">All schedules</option></select>
+      </div>
+      <div class="chips" id="chips"></div>
+    </form>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="meta" id="metaRow" hidden>
+    <span id="resultsMeta"></span>
+    <select id="fSort" aria-label="Sort">
+      <option value="relevance">Best match</option>
+      <option value="rate_asc">Rate ↑</option>
+      <option value="rate_desc">Rate ↓</option>
+      <option value="item_no">Item no.</option>
+    </select>
+  </div>
+  <div id="loading" class="loading">Loading 6,870 items…</div>
+  <div id="empty" class="empty" hidden>
+    <h2>Search CPWD, I&amp;WD &amp; PWD R&amp;B rates</h2>
+    <p>Type an item number or a few words. You don't need to fill in everything.</p>
+    <div class="try" id="tryChips"></div>
+  </div>
+  <div id="list" class="list" hidden></div>
+  <footer class="foot">Built for Saranik · Powered by Arya · <span class="tag">TCD1</span></footer>
+</main>
+<div id="toast" class="toast" hidden></div>
+</div>
+
+<!-- ============ OWNER / ADMIN ============ -->
+<div id="admin" class="admin" hidden>
+  <div class="admin-bar">
+    <div class="wrap admin-bar-row">
+      <button type="button" class="abtn-back" id="adminClose" aria-label="Close admin">←</button>
+      <h2>Admin</h2>
+      <button type="button" class="abtn-small" id="adminRefresh" hidden>Refresh</button>
+      <button type="button" class="abtn-small" id="adminLogout" hidden>Log out</button>
+    </div>
+  </div>
+  <div class="wrap admin-body">
+    <section id="admLogin" class="gcard">
+      <h2>Owner login</h2>
+      <p class="gmuted" id="admLoginHint">Enter the owner email. A login code will be emailed to it.</p>
+      <form id="admEmailForm" class="gform" novalidate>
+        <label class="gfield"><span>Owner email</span>
+          <input id="admEmail" type="email" autocomplete="email" required></label>
+        <button type="submit" class="gbtn" id="admSendBtn">Email me a code</button>
+      </form>
+      <form id="admCodeForm" class="gform" novalidate hidden>
+        <label class="gfield"><span>Code from the email</span>
+          <input id="admCode" type="text" inputmode="numeric" autocomplete="one-time-code" maxlength="10" required></label>
+        <button type="submit" class="gbtn" id="admVerifyBtn">Log in</button>
+        <button type="button" class="gbtn gbtn-ghost" id="admBack">Use a different email</button>
+      </form>
+      <p class="gerr" id="admErr" hidden></p>
+    </section>
+
+    <section id="admPanel" hidden>
+      <div class="adm-tabs" role="tablist">
+        <button type="button" class="adm-tab active" data-tab="pending">Pending <b id="nPending">0</b></button>
+        <button type="button" class="adm-tab" data-tab="approved">Approved <b id="nApproved">0</b></button>
+        <button type="button" class="adm-tab" data-tab="blocked">Blocked <b id="nBlocked">0</b></button>
+      </div>
+      <p class="gerr" id="admListErr" hidden></p>
+      <div id="admList" class="adm-list"></div>
+    </section>
+  </div>
+</div>
+
+<div id="gtoast" class="toast" hidden></div>
+
+<script src="capacitor.js"></script>
+<script src="config.js"></script>
+<script src="fuse.js"></script>
+<script src="search-ui.js"></script>
+<script src="gate.js"></script>
+<script src="pwa.js"></script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+/* Access screens + Admin. Uses the colour tokens defined in app.css. */
+:root { --danger: #b3261e; --danger-soft: #fdecea; --ok: #0f6e4f; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --danger: #ff8a80; --danger-soft: #3a1d1b; } }
+:root[data-theme="dark"] { --danger: #ff8a80; --danger-soft: #3a1d1b; }
+
+body { padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); }
+
+.gate { min-height: 100vh; display: flex; }
+.gate-inner { width: 100%; max-width: 460px; margin: 0 auto; padding: 20px 16px 8px; display: flex; flex-direction: column; gap: 18px; }
+.gate .brand { margin-bottom: 0; }
+.gate .foot { margin-top: auto; }
+
+.gcard {
+  background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
+  padding: 20px 18px; box-shadow: var(--shadow); display: flex; flex-direction: column; gap: 10px;
+}
+.gcard h2 { margin: 0; font-size: 19px; letter-spacing: -.01em; text-wrap: balance; }
+.gmuted { margin: 0; color: var(--muted); font-size: 14.5px; }
+.gnote { margin: 0; font-size: 13px; color: var(--warn-fg); background: var(--warn-bg); border-radius: 8px; padding: 8px 10px; }
+.gicon { width: 46px; height: 46px; border-radius: 50%; display: grid; place-items: center; font-size: 22px; background: var(--accent-soft); color: var(--accent-dark); }
+.gicon-bad { background: var(--danger-soft); color: var(--danger); font-weight: 700; }
+.gform { display: flex; flex-direction: column; gap: 12px; margin-top: 4px; }
+.gfield { display: flex; flex-direction: column; gap: 5px; font-size: 13px; font-weight: 600; color: var(--muted); }
+.gfield em { font-weight: 400; font-style: normal; }
+.gfield input {
+  font: inherit; font-size: 16px; font-weight: 400; color: var(--text); background: var(--surface);
+  border: 1px solid var(--border); border-radius: 10px; padding: 12px; outline: none; width: 100%;
+}
+.gfield input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.gbtn {
+  font: inherit; font-size: 15.5px; font-weight: 700; cursor: pointer; border: 0; border-radius: 10px;
+  padding: 13px 16px; background: var(--accent); color: var(--on-accent); width: 100%;
+}
+.gbtn:disabled { opacity: .6; cursor: default; }
+.gbtn-ghost { background: transparent; color: var(--accent-dark); border: 1px solid var(--border); }
+.gerr { margin: 0; color: var(--danger); background: var(--danger-soft); border-radius: 8px; padding: 8px 10px; font-size: 13.5px; }
+.spinner { width: 30px; height: 30px; border-radius: 50%; border: 3px solid var(--accent-soft); border-top-color: var(--accent); animation: spin .8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.admin-pill {
+  margin-left: auto; font: inherit; font-size: 12.5px; font-weight: 700; cursor: pointer;
+  padding: 5px 11px; border-radius: 999px; border: 1px solid var(--accent); background: var(--accent-soft); color: var(--accent-dark);
+}
+.head .admin-pill + .count { margin-left: 6px; }
+.brand-mark { user-select: none; -webkit-user-select: none; -webkit-touch-callout: none; cursor: default; }
+
+/* Admin */
+.admin { position: fixed; inset: 0; z-index: 40; background: var(--bg); overflow-y: auto; padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); }
+.admin-bar { position: sticky; top: 0; background: var(--bg); border-bottom: 1px solid var(--border); z-index: 2; }
+.admin-bar-row { display: flex; align-items: center; gap: 8px; padding-block: 12px; }
+.admin-bar h2 { margin: 0 auto 0 0; font-size: 18px; }
+.abtn-back { font: inherit; font-size: 20px; width: 38px; height: 38px; border-radius: 10px; border: 1px solid var(--border); background: var(--surface); color: var(--text); cursor: pointer; }
+.abtn-small { font: inherit; font-size: 13px; font-weight: 600; padding: 7px 11px; border-radius: 8px; border: 1px solid var(--border); background: var(--surface); color: var(--text); cursor: pointer; }
+.admin-body { padding-block: 14px 30px; display: flex; flex-direction: column; gap: 12px; }
+.adm-tabs { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; background: var(--chip); padding: 4px; border-radius: 12px; }
+.adm-tab { font: inherit; font-size: 13.5px; padding: 9px 4px; border: 0; border-radius: 9px; background: transparent; color: var(--muted); cursor: pointer; }
+.adm-tab b { font-variant-numeric: tabular-nums; margin-left: 2px; }
+.adm-tab.active { background: var(--surface); color: var(--text); font-weight: 700; box-shadow: var(--shadow); }
+.adm-list { display: flex; flex-direction: column; gap: 10px; margin-top: 12px; }
+.adm-empty { text-align: center; color: var(--muted); padding: 28px 10px; font-size: 14px; }
+.dcard { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 12px 14px; display: flex; flex-direction: column; gap: 8px; }
+.dcard-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 8px; }
+.dname { font-weight: 700; font-size: 15.5px; }
+.dpill { font-size: 11.5px; font-weight: 700; padding: 2px 9px; border-radius: 999px; white-space: nowrap; }
+.dpill.pending { background: var(--c-upd-bg); color: var(--c-upd-fg); }
+.dpill.approved { background: var(--accent-soft); color: var(--accent-dark); }
+.dpill.rejected, .dpill.revoked { background: var(--danger-soft); color: var(--danger); }
+.dmeta { display: grid; grid-template-columns: auto 1fr; gap: 3px 10px; font-size: 13px; }
+.dmeta dt { color: var(--muted); }
+.dmeta dd { margin: 0; word-break: break-word; }
+.dact { display: flex; gap: 8px; flex-wrap: wrap; }
+.dbtn { font: inherit; font-size: 14px; font-weight: 700; padding: 9px 14px; border-radius: 9px; cursor: pointer; border: 1px solid var(--border); background: var(--surface-2); color: var(--text); flex: 1 1 auto; }
+.dbtn.approve { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+.dbtn.reject, .dbtn.revoke { color: var(--danger); }
+.dbtn.confirm { background: var(--danger); border-color: var(--danger); color: #fff; }
+.dbtn:disabled { opacity: .6; }
+.dthis { font-size: 11.5px; font-weight: 600; color: var(--accent-dark); }
