@@ -49,9 +49,10 @@ jobs:
           nohup /tmp/postgrest pgrst.conf > pgrst.log 2>&1 &
           SUPABASE_URL=http://127.0.0.1:8080 SUPABASE_SERVICE_ROLE_KEY=$(cat service.txt) DATA_KEY=$KEY OWNER_EMAIL=saranikbanerjee5805@gmail.com \
             APPROVE_PAGE_URL=http://127.0.0.1:8080/docs/approve.html RESEND_API_KEY=test RESEND_API_URL=http://127.0.0.1:8080/resend \
-            nohup deno run -A harness.ts > deno.log 2>&1 &
+            nohup deno run -A --node-modules-dir=none --config ../supabase/deno.json harness.ts > deno.log 2>&1 &
           ANON_FILE=anon.txt nohup node gateway.mjs > gw.log 2>&1 &
-          sleep 15; cat deno.log gw.log pgrst.log | tail -5
+          sleep 25; echo '--- deno'; cat deno.log; echo '--- gateway'; cat gw.log; echo '--- postgrest'; tail -3 pgrst.log
+          curl -s -X POST localhost:8080/functions/v1/device-status -H 'content-type: application/json' -d '{"device_id":"11111111-1111-4111-8111-111111111111","device_secret":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}'
       - name: Full access test in WebKit (iPhone 13 profile)
         working-directory: tests
         run: |
