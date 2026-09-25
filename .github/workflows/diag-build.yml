@@ -1,0 +1,64 @@
+name: Diagnostic install-test APK
+
+# Builds a bare "Install Test" app (no custom manifest settings, default icon),
+# signed with the same key, to check whether a phone accepts sideloaded apps at all.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+      - name: Build bare app
+        run: |
+          npm ci
+          cp -r diag/www diag-www
+          cp diag/capacitor.config.json capacitor.config.json
+          sed -i 's#"webDir": "www"#"webDir": "diag-www"#' capacitor.config.json
+          npx cap add android
+          npx cap sync android
+          cd android/app
+          python3 - <<'PY'
+          import re
+          p='build.gradle'; s=open(p).read()
+          s=s.replace('buildTypes {', '''signingConfigs {
+                  release {
+                      storeFile file('release.jks')
+                      storePassword System.getenv('KS_PASS')
+                      keyAlias System.getenv('KS_ALIAS')
+                      keyPassword System.getenv('KS_PASS')
+                      enableV1Signing true
+                      enableV2Signing true
+                  }
+              }
+              buildTypes {''',1)
+          s=re.sub(r'release \{\n(\s+)minifyEnabled false', r'release {\n\1signingConfig signingConfigs.release\n\1minifyEnabled false', s)
+          open(p,'w').write(s)
+          PY
+      - name: Sign + build
+        run: |
+          echo "$KEYSTORE_B64" | base64 -d > android/app/release.jks
+          cd android && chmod +x gradlew && ./gradlew assembleRelease --no-daemon
+          cp app/build/outputs/apk/release/app-release.apk ../Install-Test.apk
+        env:
+          KEYSTORE_B64: ${{ secrets.ANDROID_KEYSTORE_B64 }}
+          KS_PASS: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          KS_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+      - uses: softprops/action-gh-release@v2
+        with:
+          tag_name: diag-install-test
+          name: Diagnostic - Install Test app
+          prerelease: true
+          body: Bare test app to check whether the phone accepts sideloaded APKs. Safe to uninstall.
+          files: Install-Test.apk

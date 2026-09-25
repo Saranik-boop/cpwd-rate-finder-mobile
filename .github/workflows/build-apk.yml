@@ -6,7 +6,7 @@ name: Build APK
 on:
   push:
     branches: [main]
-    paths-ignore: ['docs/**', '*.md', '.github/workflows/test-install.yml']
+    paths-ignore: ['docs/**', '*.md', 'diag/**', '.github/workflows/test-install.yml', '.github/workflows/diag-build.yml']
   workflow_dispatch:
 
 permissions:
