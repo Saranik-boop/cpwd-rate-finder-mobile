@@ -1,0 +1,51 @@
+name: Test install on emulator
+
+# Installs the latest released APK on a clean Android emulator and reports the
+# exact install result, so install problems can be diagnosed without a phone.
+on:
+  workflow_dispatch:
+    inputs:
+      api:
+        description: Android API level
+        default: '35'
+
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Enable KVM
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules
+          sudo udevadm control --reload-rules
+          sudo udevadm trigger --name-match=kvm
+
+      - name: Download latest APK
+        run: |
+          gh release download --repo "$GITHUB_REPOSITORY" --pattern '*.apk' --dir .
+          ls -la *.apk
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - uses: reactivecircus/android-emulator-runner@v2
+        with:
+          api-level: ${{ inputs.api }}
+          arch: x86_64
+          target: google_apis
+          emulator-options: -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim
+          disable-animations: true
+          script: |
+            set -x; APK=$(ls *.apk | head -1); adb install -r "$APK" 2>&1 | tee install.txt || true; adb shell pm path com.saranik.cpwdratefinder.mobile 2>&1 | tee -a install.txt || true; adb shell monkey -p com.saranik.cpwdratefinder.mobile -c android.intent.category.LAUNCHER 1 2>&1 | tail -2 | tee -a install.txt || true; sleep 15; adb logcat -d 2>/dev/null | grep -iE "Capacitor|chromium|AndroidRuntime|PackageManager|cpwd" | tail -80 > logcat.txt || true; adb exec-out screencap -p > screen.png || true
+
+      - name: Report
+        if: always()
+        run: |
+          { echo '## Install result'; echo '```'; cat install.txt 2>/dev/null; echo '```'; echo '## Log'; echo '```'; tail -60 logcat.txt 2>/dev/null; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: emulator-result
+          path: |
+            install.txt
+            logcat.txt
+            screen.png
