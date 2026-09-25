@@ -23,8 +23,17 @@ function env(name: string): string {
 }
 
 function db() {
-  const key = Deno.env.get('SERVICE_KEY') || Deno.env.get('SUPABASE_SERVICE_ROLE_KEY');
-  if (!key) throw new Error('Missing server setting: SUPABASE_SERVICE_ROLE_KEY');
+  // Newer Supabase projects provide SUPABASE_SECRET_KEYS (a JSON map of sb_secret_ keys);
+  // older ones provide SUPABASE_SERVICE_ROLE_KEY. Either bypasses RLS.
+  let key = Deno.env.get('SERVICE_KEY') || '';
+  if (!key) {
+    try {
+      const m = JSON.parse(Deno.env.get('SUPABASE_SECRET_KEYS') || '{}');
+      key = (m.default || Object.values(m)[0] || '') as string;
+    } catch { /* ignore */ }
+  }
+  if (!key) key = Deno.env.get('SUPABASE_SERVICE_ROLE_KEY') || '';
+  if (!key) throw new Error('Missing server setting: service key');
   return createClient(env('SUPABASE_URL'), key, {
     auth: { persistSession: false, autoRefreshToken: false },
   });

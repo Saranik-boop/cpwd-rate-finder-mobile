@@ -43,3 +43,9 @@ alter table public.action_tokens enable row level security;
 
 revoke all on public.devices       from anon, authenticated;
 revoke all on public.action_tokens from anon, authenticated;
+
+-- The server functions use the service role; make sure it can use the tables
+-- even when "automatically expose new tables" is turned off.
+grant usage on schema public to service_role;
+grant select, insert, update, delete on public.devices       to service_role;
+grant select, insert, update, delete on public.action_tokens to service_role;

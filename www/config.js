@@ -2,7 +2,7 @@
 // "publishable"/anon key). They cannot read the device list on their own — the database
 // is locked and only the server functions can touch it. No secrets belong in this file.
 window.APP_CONFIG = {
-  SUPABASE_URL: 'https://YOUR-PROJECT.supabase.co',
-  SUPABASE_KEY: 'YOUR-PUBLISHABLE-KEY',
+  SUPABASE_URL: 'https://adobpzihxtzhbeierqei.supabase.co',
+  SUPABASE_KEY: 'sb_publishable_kqVJmtlhFiZmd0A-rS9hUA_-nqxAfTG',
   MAX_OFFLINE_DAYS: 30
 };
