@@ -54,7 +54,9 @@ jobs:
           sleep 15; cat deno.log gw.log pgrst.log | tail -5
       - name: Full access test in WebKit (iPhone 13 profile)
         working-directory: tests
-        run: ENGINE=webkit APP_PATH=/docs/app/index.html python flow_test.py 2>&1 | tee result.txt
+        run: |
+          set -o pipefail
+          BASE=http://localhost:8080 VERBOSE=1 ENGINE=webkit APP_PATH=/docs/app/index.html python flow_test.py 2>&1 | tee result.txt
       - name: Report
         if: always()
         run: |

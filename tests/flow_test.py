@@ -2,7 +2,7 @@
 import json, os, re, subprocess, time
 from playwright.sync_api import sync_playwright
 
-BASE = 'http://127.0.0.1:8080'
+BASE = os.environ.get('BASE', 'http://127.0.0.1:8080')
 APP = BASE + os.environ.get('APP_PATH', '/app/index.html')
 LOG = os.environ.get('EMAIL_LOG', os.path.abspath('emails.log'))
 OWNER = 'saranikbanerjee5805@gmail.com'
@@ -58,6 +58,9 @@ def phone(browser):
     pg.errors = []
     pg.on('pageerror', lambda e: pg.errors.append(str(e)))
     pg.on('console', lambda m: m.type == 'error' and pg.errors.append(m.text))
+    if os.environ.get('VERBOSE'):
+        pg.on('console', lambda m: print('  [console]', m.type, m.text))
+        pg.on('pageerror', lambda e: print('  [pageerror]', e))
     return ctx, pg
 
 

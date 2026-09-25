@@ -59,7 +59,7 @@ if ('serviceWorker' in navigator) {
   var box = document.createElement('div');
   box.className = 'gnote';
   box.style.marginBottom = '4px';
-  box.innerHTML = '<b>iPhone: do this first.</b> Tap the <b>Share</b> button (square with an arrow) at the bottom of Safari, then <b>Add to Home Screen</b>. Open the app from the new <b>CPWD Rates</b> icon and send your request there. A request sent from Safari will not carry over to the icon.';
+  box.innerHTML = '<b>iPhone: do this first.</b> In Safari tap <b>Share</b> (square with an arrow; on newer iPhones it is inside the <b>•••</b> menu), then <b>Add to Home Screen</b>. Open the app from the new <b>CPWD Rates</b> icon and send your request there. A request sent from Safari will not carry over to the icon.';
   var req = document.getElementById('scrRequest');
   if (req) req.insertBefore(box, req.querySelector('.gform'));
 })();

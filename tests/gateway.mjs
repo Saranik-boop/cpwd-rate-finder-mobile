@@ -20,7 +20,7 @@ http.createServer(async (req, res) => {
   const buf = await body(req);
   if (u.pathname.endsWith('/config.js')) {
     res.writeHead(200, { 'Content-Type': 'text/javascript' });
-    return res.end(`window.APP_CONFIG = { SUPABASE_URL: 'http://127.0.0.1:8080', SUPABASE_KEY: '${fs.readFileSync(process.env.ANON_FILE || 'anon.txt','utf8').trim()}', MAX_OFFLINE_DAYS: 30 };`);
+    return res.end(`window.APP_CONFIG = { SUPABASE_URL: 'http://${req.headers.host || '127.0.0.1:8080'}', SUPABASE_KEY: '${fs.readFileSync(process.env.ANON_FILE || 'anon.txt','utf8').trim()}', MAX_OFFLINE_DAYS: 30 };`);
   }
   for (const [pre, dir] of Object.entries(ROOTS)) {
     if (u.pathname.startsWith(pre)) {
