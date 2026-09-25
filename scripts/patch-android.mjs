@@ -41,6 +41,11 @@ g = g.replace(/buildTypes \{/, `signingConfigs {
             storePassword System.getenv('KS_PASS')
             keyAlias System.getenv('KS_ALIAS')
             keyPassword System.getenv('KS_PASS')
+            // Sign with every scheme: some phone brands' installers reject APKs
+            // that carry only the newer (v2) signature.
+            enableV1Signing true
+            enableV2Signing true
+            enableV3Signing true
         }
     }
     buildTypes {`);
