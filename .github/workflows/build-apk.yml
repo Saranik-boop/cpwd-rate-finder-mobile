@@ -1,0 +1,74 @@
+name: Build APK
+
+# Builds the signed Android app in GitHub's cloud and publishes it on the
+# repository's "Releases" page. Runs on every push to main, or by hand
+# (Actions tab -> Build APK -> Run workflow).
+on:
+  push:
+    branches: [main]
+    paths-ignore: ['docs/**', '*.md']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+
+      - uses: android-actions/setup-android@v3
+
+      - name: Install
+        run: npm ci
+
+      - name: Create Android project
+        run: |
+          npx cap add android
+          node scripts/patch-android.mjs
+          npx cap sync android
+        env:
+          BUILD_NUMBER: ${{ github.run_number }}
+
+      - name: Signing key
+        run: echo "$KEYSTORE_B64" | base64 -d > android/app/release.jks
+        env:
+          KEYSTORE_B64: ${{ secrets.ANDROID_KEYSTORE_B64 }}
+
+      - name: Build signed APK
+        working-directory: android
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleRelease --no-daemon
+        env:
+          KS_PASS: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          KS_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+
+      - name: Name the file
+        run: |
+          VER=$(node -p "require('./package.json').version")
+          echo "VER=$VER" >> $GITHUB_ENV
+          cp android/app/build/outputs/apk/release/app-release.apk "CPWD-Rate-Finder-$VER-build${{ github.run_number }}.apk"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: CPWD-Rate-Finder-APK
+          path: CPWD-Rate-Finder-*.apk
+
+      - name: Publish on Releases page
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ env.VER }}-build${{ github.run_number }}
+          name: CPWD Rate Finder ${{ env.VER }} (build ${{ github.run_number }})
+          body: Download the .apk file below and open it on the phone to install.
+          files: CPWD-Rate-Finder-*.apk

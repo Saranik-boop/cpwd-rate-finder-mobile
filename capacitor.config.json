@@ -1,0 +1,10 @@
+{
+  "appId": "com.saranik.cpwdratefinder.mobile",
+  "appName": "CPWD Rate Finder",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
