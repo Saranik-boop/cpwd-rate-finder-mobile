@@ -1,0 +1,92 @@
+name: iPhone test
+
+# 1) Runs the full access test (request, approve, unlock, search, admin, revoke, offline, tamper)
+#    in WebKit — the engine behind iPhone Safari — against a throwaway local copy of the server.
+# 2) Opens the LIVE web app in real Mobile Safari inside Apple's iPhone Simulator and takes screenshots.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  webkit-flow:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_PASSWORD: postgres
+        ports: ['5432:5432']
+        options: --health-cmd pg_isready --health-interval 5s --health-timeout 5s --health-retries 10
+    env:
+      PGHOST: localhost
+      PGPORT: '5432'
+      PGPASSWORD: postgres
+      REPO: ${{ github.workspace }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - uses: denoland/setup-deno@v2
+        with: { deno-version: v2.x }
+      - name: Tools
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps webkit
+          curl -sL https://github.com/PostgREST/postgrest/releases/download/v12.2.3/postgrest-v12.2.3-linux-static-x64.tar.xz | tar xJ -C /tmp
+      - name: Database
+        run: |
+          psql -U postgres -f tests/roles.sql
+          psql -U postgres -f supabase/schema.sql
+      - name: Start local server copy
+        run: |
+          KEY=$(node tests/make-fake-data.mjs)
+          node scripts/bundle-functions.mjs
+          cd tests
+          node -e "import('./keys.mjs').then(k=>{require('fs').writeFileSync('anon.txt',k.ANON);require('fs').writeFileSync('service.txt',k.SERVICE)})"
+          printf 'db-uri = "postgres://authenticator:authpass@localhost:5432/postgres"\ndb-schemas = "public"\ndb-anon-role = "anon"\njwt-secret = "test-jwt-secret-that-is-at-least-32-characters-long"\nserver-port = 3001\n' > pgrst.conf
+          nohup /tmp/postgrest pgrst.conf > pgrst.log 2>&1 &
+          SUPABASE_URL=http://127.0.0.1:8080 SUPABASE_SERVICE_ROLE_KEY=$(cat service.txt) DATA_KEY=$KEY OWNER_EMAIL=saranikbanerjee5805@gmail.com \
+            APPROVE_PAGE_URL=http://127.0.0.1:8080/docs/approve.html RESEND_API_KEY=test RESEND_API_URL=http://127.0.0.1:8080/resend \
+            nohup deno run -A harness.ts > deno.log 2>&1 &
+          ANON_FILE=anon.txt nohup node gateway.mjs > gw.log 2>&1 &
+          sleep 15; cat deno.log gw.log pgrst.log | tail -5
+      - name: Full access test in WebKit (iPhone 13 profile)
+        working-directory: tests
+        run: ENGINE=webkit APP_PATH=/docs/app/index.html python flow_test.py 2>&1 | tee result.txt
+      - name: Report
+        if: always()
+        run: |
+          { echo '## WebKit (iPhone Safari engine) access test'; echo '```'; cat tests/result.txt 2>/dev/null; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+
+  ios-simulator:
+    runs-on: macos-latest
+    steps:
+      - name: Boot an iPhone simulator
+        run: |
+          UDID=$(xcrun simctl list devices available -j | python3 -c "import json,sys;d=json.load(sys.stdin)['devices'];print([x['udid'] for k,v in d.items() if 'iOS' in k for x in v if x['name'].startswith('iPhone')][-1])")
+          NAME=$(xcrun simctl list devices available | grep "$UDID" | head -1)
+          echo "UDID=$UDID" >> $GITHUB_ENV
+          echo "Device: $NAME"
+          xcrun simctl boot "$UDID"
+          xcrun simctl bootstatus "$UDID" -b
+      - name: Open the live web app in Mobile Safari
+        run: |
+          xcrun simctl openurl "$UDID" "https://saranik-boop.github.io/cpwd-rate-finder-mobile/app/"
+          sleep 40
+          xcrun simctl io "$UDID" screenshot iphone-1-first-open.png
+          sleep 20
+          xcrun simctl io "$UDID" screenshot iphone-2-after-60s.png
+          xcrun simctl list devices | grep "$UDID" > device.txt
+          sw_vers > host.txt
+      - uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ios-test
+          name: iPhone test screenshots
+          prerelease: true
+          body: Screenshots of the live web app in Mobile Safari (Apple iPhone Simulator).
+          files: |
+            iphone-1-first-open.png
+            iphone-2-after-60s.png
+            device.txt
