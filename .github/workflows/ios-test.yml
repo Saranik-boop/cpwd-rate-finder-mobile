@@ -5,6 +5,9 @@ name: iPhone test
 # 2) Opens the LIVE web app in real Mobile Safari inside Apple's iPhone Simulator and takes screenshots.
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['tests/**', '.github/workflows/ios-test.yml', 'docs/app/**']
 
 permissions:
   contents: write
