@@ -1,0 +1,1366 @@
+=== PAGE 1
+@58 Code No @240 Description @440 Unit @502 Rate
+@165 10.14.2.2 @223 Fixing @256 with @281 carbon @317 steel @345 galvanised @398 dash
+@223 fastener of required dia and size (to be paid for
+@223 separately) @437 metre @494 598.85
+@113 10.14.3 @165 Profile E
+@165 10.14.3.1 @223 Fixing with adjustable lugs with split end tail to
+@223 each jamb @437 metre @494 640.20
+@165 10.14.3.2 @223 Fixing @256 with @281 carbon @317 steel @345 galvanised @398 dash
+@223 fastener of required dia and size (to be paid for
+@223 separately) @437 metre @494 627.30
+@58 10.15 @113 Providing and fixing M.S. Tubular frames for doors, windows, ventilators
+@113 and cupboard with rectangular/ L-Type sections, made of 1.60 mm thick
+@113 M.S. Sheet, joints mitred, welded and grinded finish, with profiles of
+@113 required size, including fixing of necessary butt hinges and screws and
+@113 applying a priming coat of approved steel primer.
+@113 10.15.1 @165 Fixing with 15x3 mm lugs 10 cm long embedded in cement
+@165 concrete block 15x10x10 cm of C.C. 1:3:6 (1 Cement : 3
+@165 coarse sand : 6 graded stone aggregate 20 mm nominal size) @444 kg @494 195.20
+@113 10.15.2 @165 Fixing with carbon steel galvanised dash fastener of required
+@165 dia and size (to be paid for separately) @444 kg @494 181.25
+@58 10.16 @113 Steel work in built up tubular (round, square or rectangular hollow tubes
+@113 etc.) trusses etc., including cutting, hoisting, fixing in position and applying
+@113 a priming coat of approved steel primer, including welding and bolted with
+@113 special shaped washers etc. complete.
+@113 10.16.1 @165 Hot finished welded type tubes @444 kg @494 194.40
+@113 10.16.2 @165 Hot finished seamless type tubes @444 kg @494 206.35
+@113 10.16.3 @165 Electric resistance or induction butt welded tubes @444 kg @494 194.40
+@58 10.17 @113 Providing and fixing M.S. fan clamp type I or II of 16 mm dia M.S. bar,
+@113 bent to shape with hooked ends in R.C.C. slabs or beams during laying,
+@113 including painting the exposed portion of loop, all as per standard design
+@113 complete. @438 each @494 226.00
+@58 10.18 @113 Providing and fixing circular/ Hexagonal cast iron or M.S. sheet box for
+@113 ceiling fan clamp, of internal dia 140 mm, 73 mm height, top lid of 1.5 mm
+@113 thick M.S. sheet with its top surface hacked for proper bonding, top lid
+@113 shall be screwed into the cast iron/ M.S. sheet box by means of 3.3 mm
+@113 dia round headed screws, one lock at the corners. Clamp shall be made
+@113 of 12 mm dia M.S. bar bent to shape as per standard drawing. @438 each @494 220.65
+@58 10.19 @113 Providing and fixing mild steel round holding down bolts with nuts and
+@113 washer plates complete. @444 kg @499 97.20
+@58 10.20 @113 Providing and fixing bolts including nuts and washers complete. @444 kg @494 159.35
+@58 10.21 @113 Providing and fixing M.S. rivets of sizes in position. @444 kg @494 278.30
+@58 10.22 @113 Welding by gas or electric plant including transportation of plant at site
+@113 etc. complete. @442 cm @504 3.70
+@58 10.25 @113 Steel work welded in built up sections/ framed work, including cutting,
+@113 hoisting, fixing in position and applying a priming coat of approved steel
+@113 primer using structural steel etc. as required.
+@113 10.25.1 @165 In stringers, treads, landings etc. of stair cases, including use
+@165 of chequered plate wherever required, all complete @444 kg @494 123.60
+@113 10.25.2 @165 In gratings, frames, guard bar, ladder, railings, brackets,
+@165 gates and similar works @444 kg @494 172.60
+@393 SUB HEAD : 10.0 STEEL WORK
+@51 172
+=== PAGE 2
+
+=== PAGE 3
+@58 Code No @240 Description @440 Unit @502 Rate
+@58 10.26 @113 Providing and fixing hand rail of approved size by welding etc. to steel
+@113 ladder railing, balcony railing, staircase railing and similar works, including
+@113 applying priming coat of approved steel primer.
+@113 10.26.1 @165 M.S. tube @444 kg @494 196.80
+@113 10.26.2 @165 E.R.W. tubes @444 kg @494 205.75
+@113 10.26.3 @165 G.I. pipes @444 kg @494 203.05
+@58 10.27 @113 Providing and fixing carbon steel galvanised ( minimum coating 5 micron)
+@113 dash fastener of 10 mm dia double threaded 6.8 grade (yield strength 480
+@113 N/mm2), counter sunk head, comprising of 10 mm dia polyamide PA 6
+@113 grade sleeve, including drilling of hole in frame , concrete/ masonry, etc.
+@113 as per direction of Engineer-in-charge.
+@113 10.27.1 @165 10 x 60 mm @438 each @494 131.10
+@113 10.27.2 @165 10 x 80 mm @438 each @494 137.65
+@113 10.27.3 @165 10 x 120 mm @438 each @494 170.95
+@113 10.27.4 @165 10 x 140 mm @438 each @494 182.20
+@113 10.27.5 @165 10 x 160 mm @438 each @494 224.50
+@58 10.28 @113 Providing and fixing stainless steel ( Grade 304) railing made of Hollow
+@113 tubes, channels, plates etc., including welding, grinding, buffing, polishing
+@113 and making curvature (wherever required) and fitting the same with
+@113 necessary stainless steel nuts and bolts complete, i/c fixing the railing
+@113 with necessary accessories & stainless steel dash fasteners , stainless
+@113 steel bolts etc., of required size, on the top of the floor or the side of waist
+@113 slab with suitable arrangement as per approval of Engineer-in-charge,
+@113 (for payment purpose only weight of stainless steel members shall be
+@113 considered excluding fixing accessories such as nuts, bolts, fasteners
+@113 etc.). @444 kg @494 772.40
+@58 10.29 @113 Providing & fixing fly proof wire gauze to windows, clerestory windows &
+@113 doors with M.S. Flat 15x3 mm and nuts & bolts complete.
+@113 10.29.1 @165 Galvanised M.S. Wire gauze with 0.63 mm dia wire and 1.4
+@165 mm aperture on both sides @440 sqm @494 844.70
+@113 10.29.2 @165 Stainless steel (grade 304) wire gauze of 0.5 mm dia wire
+@165 and 1.4 mm aperture on both sides @440 sqm @489 1133.55
+@58 10.30 @113 Providing & fixing glass panes with putty and glazing clips in steel doors,
+@113 windows, clerestory windows, all complete with :
+@113 10.30.1 @165 4.0 mm thick glass panes @440 sqm @488 1064.65
+@113 10.30.2 @165 5.5 mm thick glass panes @440 sqm @488 1390.15
+@58 10.31 @113 Providing and fixing angle iron frames for doors, windows and ventilators
+@113 of mild steel Angle sections of size 35x35x5 mm, joints mitred and welded
+@113 by angle iron 35x35x5 mm or 35x 5 mm flat pieces to the existing T-iron
+@113 frame or to the wall with dash fastener, including fixing of necessary butt
+@113 hinges and screws and applying a priming coat of approved steel primer,
+@113 all complete as per the direction of Engineer-In-charge. @444 kg @494 130.50
+@393 SUB HEAD : 10.0 STEEL WORK
+@51 173
+=== PAGE 4
+
+=== PAGE 5
+@175 SUB HEAD : 11.0
+@215 FLOORING
+=== PAGE 6
+
+=== PAGE 7
+@242 11.0 FLOORING
+@58 Code No @240 Description @440 Unit @502 Rate
+@58 11.1 @113 Brick on edge flooring with bricks of class designation 7.5 on a bed of
+@113 12 mm cement mortar, including filling the joints with same mortar, with
+@113 common burnt clay non modular bricks:
+@113 11.1.1 @165 1:4 (1 cement : 4 coarse sand) @440 sqm @488 1006.95
+@113 11.1.2 @165 1:6 (1cement : 6 coarse sand) @440 sqm @494 965.55
+@58 11.2 @113 Dry @134 brick @160 on @176 edge @203 flooring @240 in @253 required @294 pattern @330 with @352 bricks @383 of @397 class
+@113 designation 7.5 on a bed of 12 mm mud mortar, including filling joints with
+@113 Jamuna sand, with common burnt clay non modular bricks. @440 sqm @494 792.05
+@58 11.3 @113 Cement concrete flooring 1:2:4 (1 cement : 2 coarse sand : 4 graded
+@113 stone aggregate) finished with a floating coat of neat cement, including
+@113 cement slurry, but excluding the cost of nosing of steps etc. complete.
+@113 11.3.1 @165 40 mm thick with 20 mm nominal size stone aggregate @440 sqm @494 614.20
+@58 11.4 @113 52 mm thick cement concrete flooring with concrete hardener topping,
+@113 under layer 40 mm thick cement concrete 1:2:4 (1 cement : 2 coarse
+@113 sand : 4 graded stone aggregate 20 mm nominal size) and top layer 12
+@113 mm thick cement hardener consisting of mix 1:2 (1 cement hardener mix
+@113 : 2 graded stone aggregate 6 mm nominal size) by volume, hardening
+@113 compound mixed @ 2 litre per 50 kg of cement or as per manufacturer’s
+@113 specifications. This includes cost of cement slurry, but excluding the cost
+@113 of nosing of steps etc. complete. @440 sqm @494 978.45
+@58 11.5 @113 62 mm thick cement concrete flooring with concrete hardener topping,
+@113 under layer 50 mm thick cement concrete 1:2:4 (1 cement : 2 coarse
+@113 sand : 4 graded stone aggregate 20 mm nominal size) and top layer 12
+@113 mm thick cement hardener consisting of mix 1:2 (1 cement hardener mix
+@113 : 2 graded stone aggregate, 6 mm nominal size) by volume, hardening
+@113 compound mixed @ 2 litre per 50 kg of cement or as per manufacture’s
+@113 specifications. This includes cost of cement slurry, but excluding the cost
+@113 of nosing of steps etc. complete. @440 sqm @488 1056.15
+@58 11.6 @113 Cement plaster skirting up to 30 cm height, with cement mortar 1:3 (1
+@113 cement : 3 coarse sand), finished with a floating coat of neat cement.
+@113 11.6.1 @165 18 mm thick @440 sqm @494 662.05
+@58 11.7 @113 Cement concrete pavement with 1:2:4 (1 cement : 2 coarse sand : 4 graded
+@113 stone aggregate 20 mm nominal size), including finishing complete. @440 cum @488 8595.15
+@58 11.8 @113 Extra for making chequers of approved pattern on cement concrete floors,
+@113 steps, landings, pavements etc. @440 sqm @499 83.85
+@113 TERRAZO FLOORING
+@58 11.9 @113 40 mm thick marble chips flooring rubbed and polished to granolithic finish,
+@113 under layer 34 mm thick cement concrete 1:2:4 (1 cement : 2 coarse sand
+@113 : 4 graded stone aggregate 12.5 mm nominal size) and top layer 6 mm
+@113 thick with white, black, chocolate, grey, yellow or green marble chips of
+@113 sizes from 1 mm to 4 mm nominal size, laid in cement marble powder mix
+@113 3:1 (3 cement : 1 marble powder) by weight in proportion of 4:7 (4 cement
+@113 marble powder mix : 7 marble chips) by volume, including cement slurry
+@113 etc. complete :
+@113 11.9.1 @165 Dark shade pigment with ordinary cement @440 sqm @488 1065.75
+@113 11.9.2 @165 Light shade pigment with white cement @440 sqm @488 1092.50
+@113 11.9.3 @165 Medium shade pigment with 50% white cement and 50%
+@165 ordinary cement @440 sqm @488 1075.10
+@406 SUB HEAD : 11.0 FLOORING
+@51 175
+=== PAGE 8
+
+=== PAGE 9
+@58 Code No @240 Description @440 Unit @502 Rate
+@113 11.9.4 @165 White cement without any pigment @440 sqm @488 1067.50
+@113 11.9.5 @165 Light shade pigment with ordinary cement @440 sqm @488 1061.70
+@113 11.9.6 @165 Ordinary cement without any pigment @440 sqm @488 1034.25
+@58 11.10 @113 40 mm thick marble chips flooring, rubbed and polished to granolithic
+@113 finish, under layer 31 mm thick cement concrete 1:2:4 (1 cement : 2
+@113 coarse sand : 4 graded stone aggregate 12.5 mm nominal size) and top
+@113 layer 9 mm thick with white, black, chocolate, grey, yellow or green marble
+@113 chips of sizes from 4 mm to 7 mm nominal size, laid in cement marble
+@113 powder mix 3:1 (3 cement : 1 marble powder) by weight in proportion
+@113 of 4:7 (4 cement marble powder : 7 marble chips) by volume, including
+@113 cement slurry etc. complete
+@58 11.10.1 @113 Dark shade pigment with Ordinary cement @440 sqm @488 1072.10
+@58 11.10.2 @113 Light shade pigment with white cement @440 sqm @490 1110.30
+@58 11.10.3 @113 Medium shade pigment with 50% white cement and 50% ordinary cement @440 sqm @488 1085.45
+@58 11.10.4 @113 White cement without any pigment @440 sqm @488 1071.05
+@58 11.10.5 @113 Light shade pigment with ordinary cement @440 sqm @488 1066.35
+@58 11.10.6 @113 Ordinary cement without any pigment @440 sqm @488 1027.10
+@58 11.11 @113 40 mm thick marble chips flooring, rubbed and polished to granolithic
+@113 finish, under layer 28 mm thick cement concrete 1:2:4 (1 cement : 2 coarse
+@113 sand : 4 graded stone aggregate 12.5 mm nominal size) and top layer 12
+@113 mm thick with white, black, chocolate, grey yellow or green marble chips
+@113 of sizes from 7 mm to 10 mm nominal size, laid in cement marble powder
+@113 mix 3:1 (3 cement : 1 marble powder) by weight in proportion of 2:3 (2
+@113 cement marble powder mix : 3 marble chips) by volume, including cement
+@113 slurry etc. complete
+@58 11.11.1 @113 Dark shade pigment with ordinary cement @440 sqm @490 1110.75
+@58 11.11.2 @113 Light shade pigment with white cement @440 sqm @489 1164.25
+@58 11.11.3 @113 Medium shade pigment with 50% white cement and 50% ordinary cement @440 sqm @489 1129.45
+@58 11.11.4 @113 White cement without any pigment @440 sqm @489 1109.85
+@58 11.11.5 @113 Light shade pigment with ordinary cement @440 sqm @489 1102.70
+@58 11.11.6 @113 Ordinary cement without any pigment @440 sqm @488 1048.25
+@58 11.12 @113 Marble chips skirting up to 30 cm height, rubbed and polished to granolithic
+@113 finish, top layer 6 mm thick with white, black, chocolate, grey, yellow or
+@113 green marble chips of sizes from smallest to 4 mm nominal size, laid in
+@113 cement marble powder mix 3:1 (3 cement : 1 marble powder) by weight in
+@113 proportion of 4:7 (4 cement marble powder mix : 7 marble chips) by volume:
+@113 11.12.1 @165 18 mm thick with under layer 12 mm thick in cement plaster
+@165 1:3 (1 cement : 3 coarse sand) :
+@165 11.12.1.1 @223 Dark shade pigment with ordinary cement @440 sqm @488 1864.30
+@165 11.12.1.2 @223 Light shade pigment with white cement @440 sqm @488 1891.05
+@165 11.12.1.3 @223 Medium shade pigment with 50% white cement
+@223 and 50% ordinary cement @440 sqm @488 1873.65
+@165 11.12.1.4 @223 White cement without any pigment @440 sqm @488 1863.60
+@165 11.12.1.5 @223 Light shade pigment with ordinary cement @440 sqm @488 1860.25
+@165 11.12.1.6 @223 Ordinary cement without any pigment @440 sqm @488 1832.80
+@58 11.13 @113 Providing and fixing glass strips in joints of terrazo/ cement concrete
+@113 floors.
+@113 11.13.1 @165 40 mm wide and 4 mm thick @437 metre @499 91.75
+@406 SUB HEAD : 11.0 FLOORING
+@51 176
+=== PAGE 10
+
+=== PAGE 11
+@58 Code No @240 Description @440 Unit @502 Rate
+@58 11.14 @113 Extra for laying terrazo flooring on staircase treads not exceeding 30 cm
+@113 in width, including cost of forming, nosing etc. @440 sqm @499 97.65
+@58 11.15 @113 Crazy marble stone flooring, including filling the gaps with light shade
+@113 pigment with white cement marble powder mixture (3 parts of white
+@113 cement : 1 part of marble powder) by weight in proportion of 4:7 (4 cement
+@113 marble powder mix : 7 white, black or white and black marble chips of
+@113 sizes from 1 mm to 4 mm nominal size by volume), with under layer 25
+@113 mm thick cement concrete 1:2:4 (1 cement : 2 coarse sand : 4 graded
+@113 stone aggregate 12.5 mm nominal size), including rubbing, polishing and
+@113 cement slurry etc. complete :
+@113 11.15.1 @165 18 mm thick crazy marble stone white, black or as specified @440 sqm @488 1714.80
+@113 TILE FLOORING
+@58 11.16 @113 Precast terrazo tiles 22 mm thick with graded marble chips of size upto 12
+@113 mm, laid in floors, and landings, jointed with neat cement slurry mixed with
+@113 pigment to match the shade of the tiles, including rubbing and polishing
+@113 complete, on 20 mm thick bed of cement mortar 1:4 (1 cement:4 coarse
+@113 sand) :
+@113 11.16.1 @165 Light shade pigment using white cement @440 sqm @488 1549.45
+@113 11.16.2 @165 Medium shade pigment using 50% white cement and 50%
+@165 ordinary cement @440 sqm @488 1507.10
+@113 11.16.3 @165 Dark shade pigment using ordinary cement @440 sqm @488 1450.00
+@113 11.16.4 @165 Ordinary cement without any pigment @440 sqm @488 1386.80
+@58 11.17 @113 Extra if terrazo tiles are laid in treads of steps not exceeding 30 cm in
+@113 width. @440 sqm @494 124.05
+@58 11.18 @113 Precast terrazo tiles 22 mm thick with graded marble chips of sizes upto
+@113 12 mm, in skirting and risers of steps not exceeding 30 cm in height, on
+@113 12 mm thick cement plaster 1:3 (1 cement : 3 coarse sand), jointed with
+@113 neat cement slurry mixed with pigment to match the shade of the tiles,
+@113 including rubbing and polishing complete with tiles of :
+@113 11.18.1 @165 Light shade pigment using white cement @440 sqm @488 2422.80
+@113 11.18.2 @165 Medium shades pigment using 50% white cement and 50%
+@165 ordinary cement @440 sqm @488 2370.95
+@113 11.18.3 @165 Dark shade pigment using ordinary cement @440 sqm @488 2308.75
+@113 11.18.4 @165 Ordinary cement without any pigment @440 sqm @488 2229.15
+@58 11.19 @113 Chequered terrazo tiles 22 mm thick with graded marble chips of size up
+@113 to 6 mm in floors, jointed with neat cement slurry mixed with pigment to
+@113 match the shade of the tiles, including rubbing and polishing complete, on
+@113 20 mm thick bed of cement mortar 1:4 (1 cement :4 coarse sand) :
+@113 11.19.1 @165 Light shade pigment using white cement @440 sqm @488 1533.80
+@113 11.19.2 @165 Medium @205 shade @237 pigment @277 using @306 50% @331 white @360 cement, @399 50%
+@165 ordinary cement @440 sqm @488 1483.60
+@113 11.19.3 @165 Dark shade pigment using ordinary cement @440 sqm @488 1442.15
+@113 11.19.4 @165 Ordinary cement without any pigment @440 sqm @488 1379.00
+@58 11.20 @113 Chequerred precast cement concrete tiles 22 mm thick in footpath &
+@113 courtyard, jointed with neat cement slurry mixed with pigment to match
+@113 the shade of tiles, including rubbing and cleaning etc. complete, on 20
+@113 mm thick bed of cement mortar 1:4 (1 cement: 4 coarse sand).
+@113 11.20.1 @165 Light shade pigment using white cement @440 sqm @488 1402.00
+@113 11.20.2 @165 Medium shade pigment using 50% white cement 50% Grey
+@165 cement @440 sqm @488 1328.35
+@406 SUB HEAD : 11.0 FLOORING
+@51 177
+=== PAGE 12
+
+=== PAGE 13
+@58 Code No @240 Description @440 Unit @502 Rate
+@113 11.20.3 @165 Dark shade pigment using ordinary cement @440 sqm @490 1119.50
+@113 11.20.4 @165 Ordinary cement without any pigment @440 sqm @488 1056.35
+@58 11.21 @113 Providing and fixing 10 mm thick acid and/or alkali resistant tiles of
+@113 approved make and colour using acid and/or alkali resisting mortar
+@113 bedding, and joints filled with acid and/or alkali resisting cement as per IS
+@113 : 4457, complete as per the direction of Engineer-in- Charge.
+@113 11.21.1 @165 In flooring on a bed of 10 mm thick mortar 1:4 (1 acid proof
+@165 cement : 4 coarse sand)
+@165 11.21.1.1 @223 Acid and alkali resistant tile @440 sqm @488 1738.15
+@113 11.21.2 @165 In dado/skirting on 12 mm thick mortar 1:4 (1 acid proof
+@165 cement : 4 coarse sand)
+@165 11.21.2.1 @223 Acid and alkali resistant tile @440 sqm @488 1884.90
+@58 11.22 @113 Tile work in skirting, risers of steps and dado up to 2 m height over 12
+@113 mm thick bed of cement mortar 1:3 (1 cement :3 coarse sand) and jointed
+@113 with grey cement slurry @ 3.3 kg/sqm, including pointing in white cement
+@113 mixed with pigment of matching shade complete.
+@113 11.22.1 @165 Marble tiles (polished) Raj Nagar
+@165 11.22.1.1 @223 8 mm thick @440 sqm @488 1475.35
+@113 STONE FLOORING
+@58 11.23 @113 Marble stone flooring with 18 mm thick marble stone, as per sample of
+@113 marble approved by Engineer-in-charge, over 20 mm (average) thick
+@113 base of cement mortar 1:4 (1 cement : 4 coarse sand) laid and jointed
+@113 with grey cement slurry, including rubbing and polishing complete with :
+@113 11.23.1 @165 Makrana white second quality @440 sqm @488 3737.45
+@113 11.23.2 @165 Raj Nagar plain @440 sqm @488 2346.80
+@113 11.23.3 @165 Agaria White @440 sqm @488 3164.80
+@113 11.23.4 @165 Black Zebra @440 sqm @488 3001.20
+@113 11.23.5 @165 Udaipur green marble @440 sqm @488 2428.60
+@113 11.23.6 @165 Pink plain marble @440 sqm @488 2510.40
+@58 11.24 @113 Extra for pre finished nosing to treads of steps of marble stone. @437 metre @494 719.90
+@58 11.25 @113 Extra for marble stone flooring in treads of steps and risers using single
+@113 length up to 2.00 metre. @440 sqm @494 851.80
+@113 KOTA STONE FLOORING
+@58 11.26 @113 Kota stone slab flooring over 20 mm (average) thick base laid over and
+@113 jointed with grey cement slurry mixed with pigment to match the shade of
+@113 the slab, including rubbing and polishing complete with base of cement
+@113 mortar 1 : 4 (1 cement : 4 coarse sand) :
+@113 11.26.1 @165 25 mm thick @440 sqm @488 1948.25
+@58 11.27 @113 Kota stone slabs 20 mm thick in risers of steps, skirting, dado and pillars
+@113 laid on 12 mm (average) thick cement mortar 1:3 (1 cement: 3 coarse
+@113 sand) and jointed with grey cement slurry mixed with pigment to match
+@113 the shade of the slabs, including rubbing and polishing complete. @440 sqm @488 2354.70
+@113 SAND STONE FLOORING
+@58 11.28 @113 40 mm thick fine dressed stone flooring over 20 mm (average) thick base
+@113 of cement mortar 1:5 (1 cement : 5 coarse sand) with joints finished flush.
+@113 11.28.1 @165 Red sand stone @440 sqm @488 1280.10
+@406 SUB HEAD : 11.0 FLOORING
+@51 178
+=== PAGE 14
+
+=== PAGE 15
+@58 Code No @240 Description @440 Unit @502 Rate
+@113 11.28.2 @165 White sand stone @440 sqm @488 1342.65
+@58 11.29 @113 40 mm thick fine dressed stone flooring over 20 mm (average) thick base
+@113 of cement mortar 1:5 (1 cement : 5 coarse sand), including pointing with
+@113 cement mortar 1:2 (1 cement : 2 stone dust) with an admixture of pigment
+@113 to match the shade of stone.
+@113 11.29.1 @165 Red sand stone @440 sqm @488 1526.05
+@113 11.29.2 @165 White sand stone @440 sqm @488 1588.65
+@58 11.30 @113 40 mm thick rubbed stone flooring over 20 mm (average) thick base of
+@113 cement mortar 1:5 (1 cement : 5 coarse sand) with joints 3 mm thick, side
+@113 buttered with cement mortar 1:2 (1 cement : 2 stone dust) admixed with
+@113 pigment to match the shade of stone and pointing with same mortar.
+@113 11.30.1 @165 Red sand stone @440 sqm @488 1647.00
+@113 11.30.2 @165 White sand stone @440 sqm @488 1709.60
+@58 11.31 @113 Extra for pre finished nosing in treads of steps of Kota stone/ sand stone
+@113 slab. @437 metre @494 191.40
+@58 11.32 @113 Extra for Kota stone/ sand stone in treads of steps and risers using single
+@113 length above normal size up to 2.00 metre. @440 sqm @499 44.15
+@113 WOODEN FLOORING
+@58 11.33 @113 25 mm wooden planking, tongued and grooved in flooring, including fixing
+@113 with iron screws complete with :
+@113 11.33.1 @165 Second class teak wood @440 sqm @488 4508.95
+@113 11.33.2 @165 Second class deodar wood @440 sqm @488 3029.75
+@58 11.34 @113 38 mm thick wood block flooring of first class teak wood laid over 25 mm
+@113 thick leveling layer of cement concrete 1:2:4 (1 cement : 2 coarse sand:
+@113 4 graded stone aggregate 10 mm nominal size) to be paid separately,
+@113 coated with a thin layer of hot bitumen penetration 80/25 (blown type)
+@113 @ 2.45 kg per sqm, including fixing blocks in position after dipping in
+@113 hot bitumen (blown type) up to half depth, planed, levelled smooth and
+@113 finished complete. @440 sqm @483 12020.45
+@58 11.35 @113 Providing and fixing M.S. angle 50x50x5 mm to act as nosing with lugs of
+@113 M.S. flat 10x5 mm, 10 cm long, forked at end 60cm apart (minimum three
+@113 lugs to be provided), including necessary welding and applying a priming
+@113 coat of approved primer on exposed surface etc. complete. @444 kg @494 177.80
+@113 CERAMIC GLAZED TILES
+@58 11.37 @113 Providing and laying Ceramic glazed floor tiles of size 300x300 mm
+@113 (thickness to be specified by the manufacturer) of 1st quality conforming
+@113 to IS : 15622 of approved make in colours such as White, Ivory, Grey,
+@113 Fume Red Brown, laid on 20 mm thick cement mortar 1:4 (1 Cement : 4
+@113 Coarse sand), Jointing with grey cement slurry @ 3.3 kg/sqm including
+@113 pointing the joints with white cement and matching pigment etc., complete. @440 sqm @488 1096.55
+@58 11.37A @113 Providing and fixing 1st quality ceramic glazed floor tiles conforming to IS
+@113 : 15622 (thickness to be specified by the manufacturer) of approved make
+@113 in all colours, shades except burgundy, bottle green, black of any size as
+@113 approved by Engineer-in-Charge in skirting, risers of steps and dados
+@113 over 12 mm thick bed of cement Mortar 1:3 (1 cement: 3 coarse sand)
+@113 and jointing with grey cement slurry @ 3.3kg per sqm including pointing in
+@113 white cement mixed with pigment of matching shade complete. @440 sqm @490 1112.70
+@406 SUB HEAD : 11.0 FLOORING
+@51 179
+=== PAGE 16
+
+=== PAGE 17
+@58 Code No @240 Description @440 Unit @502 Rate
+@58 11.38 @113 Providing and laying Ceramic glazed floor tiles of size 300x300 mm
+@113 (thickness to be specified by the manufacturer), of 1st quality conforming
+@113 to IS : 15622, of approved make, in all colours, shades, except White,
+@113 Ivory, Grey, Fume Red Brown, laid on 20 mm thick bed of cement mortar
+@113 1:4 (1 Cement : 4 Coarse sand), jointing with grey cement slurry @ 3.3
+@113 kg/ sq.m including pointing the joints with white cement and matching
+@113 pigments etc., complete. @440 sqm @488 1315.30
+@58 11.39 @113 Providing and laying rectified Glazed Ceramic floor tiles of size 300x300
+@113 mm or more (thickness to be specified by the manufacturer), of 1st quality
+@113 conforming to IS : 15622, of approved make, in colours White, Ivory, Grey,
+@113 Fume Red Brown, laid on 20 mm thick cement mortar 1:4 (1 Cement: 4
+@113 Coarse sand), jointing with grey cement slurry @ 3.3 kg/ sqm including
+@113 grouting the joints with white cement and matching pigments etc., complete. @440 sqm @488 1330.00
+@58 11.40 @113 Providing and laying rectified Glazed Ceramic floor tiles of size 300x300
+@113 mm or more (thickness to be specified by the manufacturer), of 1st quality
+@113 conforming to IS : 15622, of approved make, in all colours, shades,
+@113 except White, Ivory, Grey, Fume Red Brown, laid on 20 mm thick Cement
+@113 Mortar 1:4 (1 Cement : 4 Coarse sand), jointing with grey cement slurry @
+@113 3.3 kg/ sqm including pointing the joints with white cement and matching
+@113 pigments etc., complete.
+@440 sqm @488 1439.40
+@113 VITRIFIED FLOOR TILES
+@58 11.41 @113 Providing and laying vitrified floor tiles in different sizes (thickness to be
+@113 specified by the manufacturer) with water absorption less than 0.08% and
+@113 conforming to IS: 15622, of approved make, in all colours and shades,
+@113 laid on 20 mm thick cement mortar 1:4 (1 cement : 4 coarse sand), jointing
+@113 with grey cement slurry @ 3.3 kg/ sqm including grouting the joints with
+@113 white cement and matching pigments etc., complete.
+@113 11.41.1 @165 Size of Tile 500x500 mm @440 sqm @488 1524.30
+@113 11.41.2 @165 Size of Tile 600x600 mm @440 sqm @488 1553.45
+@113 11.41.3 @165 Size of Tile 800x800 mm @440 sqm @488 1885.50
+@113 11.41.4 @165 Size of Tile 1000x1000 mm @440 sqm @488 2089.65
+@58 11.41A @113 Providing and laying Vitrified tiles in floor in different sizes (thickness to be
+@113 specified by the manufacturer) with water absorption less than 0.08% and
+@113 conforming to IS:15622, of approved brand & manufacturer, in all colours
+@113 and shade, laid on 20 mm thick cement mortar 1:4 (1 cement: 4 coarse
+@113 sand) jointing with grey cement slurry @3.3 kg/sqm including grouting the
+@113 joints with white cement and matching pigments etc. The tiles must be cut
+@113 with the zero chipping diamond cutter only . Laying of tiles will be done
+@113 with the notch trowel, plier, wedge, clips of required thickness, leveling
+@113 system and rubber mallet for placing the tiles gently and easily.
+@113 11.41A.1 @165 Double charge vitrified tile polished finish of size
+@165 11.41A.1.1 @223 Size of Tile 600 x 600 mm @440 sqm @488 1453.65
+@165 11.41A.1.2 @223 Size of Tile 800 x 800 mm @440 sqm @488 1534.85
+@165 11.41A.1.3 @223 Size of Tile 600 x 1200 mm @440 sqm @488 1577.15
+@165 11.41A.1.4 @223 Size of Tile 800 x 1600 mm @440 sqm @488 1870.25
+@165 11.41A.1.5 @223 Size of Tile 1000 x 1000 mm @440 sqm @488 1801.70
+@113 11.41A.2 @165 Glazed vitrified floor tiles polished finish of size
+@165 11.41A.2.1 @223 Size of Tile 600 x 600 mm @440 sqm @488 1502.75
+@165 11.41A.2.2 @223 Size of Tile 600 x 1200 mm @440 sqm @488 1798.80
+@165 11.41A.2.3 @223 Size of Tile 800 x 800 mm @440 sqm @488 1728.80
+@406 SUB HEAD : 11.0 FLOORING
+@51 180
+=== PAGE 18
+
+=== PAGE 19
+@58 Code No @240 Description @440 Unit @502 Rate
+@165 11.41A.2.4 @223 Size of Tile 800 x 1200 mm @440 sqm @488 2056.90
+@165 11.41A.2.5 @223 Size of Tile 1200 x 1200 mm @440 sqm @488 2541.00
+@113 11.41A.3 @165 Glazed Vitrified tiles Matt/Antiskid finish of size
+@165 11.41A.3.1 @223 Size of Tile 600 x 600 mm @440 sqm @488 1464.85
+@165 11.41A.3.2 @223 Size of Tile 600 x 1200 mm @440 sqm @488 1797.30
+@165 11.41A.3.3 @223 Size of Tile 800 x 800 mm @440 sqm @488 1724.40
+@165 11.41A.3.4 @223 Size of Tile 800 x 1200 mm @440 sqm @488 2056.90
+@165 11.41A.3.5 @223 Size of Tile 1200 x 1200 mm @440 sqm @488 2838.50
+@58 11.42 @113 Deduct for not using 20 mm thick cement mortar 1:4 (1 cement : 4 coarse
+@113 sand) bedding in laying of floor tiles and jointing with grey cement slurry
+@113 @ 3.3 kg/ sqm. @440 sqm @494 850.10
+@58 11.43 @113 Fixing glazed/ Ceramic/ Vitrified floor tiles with cement based high polymer
+@113 modified quick-set tile adhesive (Water based) conforming to IS: 15477, in
+@113 average 3 mm thickness. @440 sqm @494 753.25
+@58 11.44 @113 Crazy ceramic tile flooring, with under layer 12 mm thick cement mortar
+@113 1:4 (1 cement: 4 coarse sand), with joints not exceeding 5 mm, including
+@113 filling the gaps with ordinary cement mixture & mixing with synthetic
+@113 polyester fibre, triangular in shape having specific gravity of 1.34 to 1.40,
+@113 cross section size ranging from 10 to 40 micron & length upto 6 mm ,
+@113 mixing fibre @ 125 grams per 50 kg of cement in cement mortar, including
+@113 providing and mixing water proofing material in mortar @ 1 kg per 50 kg of
+@113 cement, all complete as per direction of Engineer-in-charge. @440 sqm @494 954.15
+@58 11.45 @113 Providing and laying 500x500x40 mm thick Turf paver (Turfpave XD) on
+@113 150 mm thick sub grade of compacted bed of 20 mm thick nominal size
+@113 stone aggregate and base course and filling with 150 mm thick Jamuna
+@113 sand, including spreading, well ramming, consolidating and finishing
+@113 smooth etc. all complete as per direction of Engineer-in-charge. @440 sqm @488 1708.10
+@58 11.46 @113 Providing and laying Vitrified tiles in different sizes (thickness to be
+@113 specified by manufacturer), with water absorption less than 0.08 % and
+@113 conforming to I.S. 15622, of approved make, in all colours & shade, in
+@113 skirting, riser of steps, over 12 mm thick bed of cement mortar 1:3 (1
+@113 cement: 3 coarse sand), jointing with grey cement slurry @ 3.3 kg/ sqm
+@113 including grouting the joint with white cement & matching pigments etc.
+@113 complete.
+@113 11.46.1 @165 Size of Tile 500x500 mm @440 sqm @488 1593.90
+@113 11.46.2 @165 Size of Tile 600x600 mm @440 sqm @488 1623.05
+@113 11.46.3 @165 Size of Tile 800x800 mm @440 sqm @488 1958.45
+@113 11.46.4 @165 Size of Tile 1000x1000 mm @440 sqm @488 2162.60
+@58 11.46A @113 Providing and fixing glazed screen printed border tile 75 mm wide having
+@113 thickness 5mm, of approved quality & make, in all shades, design and
+@113 prints, in dado, over 12 mm thick bed of cement mortar 1:3 (1 Cement : 3
+@113 Coarse sand) and jointing with grey cement slurry @ 3.3 kg/sqm including
+@113 pointing with white cement mixed with pigment of matching shade, all
+@113 complete as approved by Engineer - in - Charge @437 metre @494 216.20
+@58 11.47 @113 Providing and laying Vitrified tiles in different sizes (thickness to be
+@113 specified by the manufacturer), with water absorption less than 0.08%
+@113 and conforming to IS: 15622, of approved brand & manufacturer, in all
+@113 colours and shade, in skirting, riser of steps, laid with cement based high
+@113 polymer modified quick set tile adhesive (water based) conforming to IS:
+@113 15477, in average 6 mm thickness, including grouting of joints (Payment
+@113 for grouting of joints to be made separately).
+@406 SUB HEAD : 11.0 FLOORING
+@51 181
+=== PAGE 20
+
+=== PAGE 21
+@58 Code No @240 Description @440 Unit @502 Rate
+@113 11.47.1 @165 Size of Tile 500x500 mm @440 sqm @488 1864.75
+@113 11.47.2 @165 Size of Tile 600x600 mm @440 sqm @488 1893.90
+@113 11.47.3 @165 Size of Tile 800x800 mm @440 sqm @488 2229.25
+@113 11.47.4 @165 Size of Tile 1000x1000 mm @440 sqm @488 2433.40
+@58 11.48 @113 Grouting the joints of flooring tiles having joints of 3 mm width, using
+@113 epoxy grout mix of 0.70 kg of organic coated filler of desired shade (0.10
+@113 kg of hardener and 0.20 kg of resin per kg), including filling / grouting and
+@113 finishing complete as per direction of Engineer-in-charge.
+@113 11.48.1 @165 Size of Tile 500x500 mm @440 sqm @494 373.35
+@113 11.48.2 @165 Size of Tile 600x600 mm @440 sqm @494 309.05
+@113 11.48.3 @165 Size of Tile 800x800 mm @440 sqm @494 244.75
+@113 11.48.4 @165 Size of Tile 1000x1000 mm @440 sqm @494 174.50
+@58 11.49 @113 Providing and laying Vitrified tiles in floor with different sizes (thickness to
+@113 be specified by the manufacturer), with water absorption less than 0.08%
+@113 and conforming to IS:15622, of approved brand & manufacturer, in all
+@113 colours and shade, laid with cement based high polymer modified quick
+@113 set tile adhesive (water based) conforming to IS : 15477, in average 6 mm
+@113 thickness, including grouting of joints (Payment for grouting of joints to be
+@113 made separately).
+@113 11.49.1 @165 Size of Tile 500x500 mm @440 sqm @488 1696.20
+@113 11.49.2 @165 Size of Tile 600x600 mm @440 sqm @488 1725.35
+@113 11.49.3 @165 Size of Tile 800x800 mm @440 sqm @488 2060.75
+@113 11.49.4 @165 Size of Tile 1000x1000 mm @440 sqm @488 2264.90
+@58 11.49A @113 Providing and laying full body vitrified tile in floor of minimum thickness 15
+@113 mm with water absorption less than 0.06% and conforming to IS:15622,
+@113 of approved make, brand and manufacturer, laid on 20 mm thick base
+@113 cement mortar 1:4 (1 cement: 4 coarse sand) jointing with grey cement
+@113 slurry @3.30 kg / sqm including grouting the joints with white cement
+@113 and matching pigments etc. The slab must be cut with the zero chipping
+@113 diamond cutter only. Laying of slab will be done with the help of notch
+@113 trowel, @147 wedge, @183 clips @208 of @222 required @263 thickness, @311 vacuum @351 cups @377 for @394 lifting,
+@113 leveling system and rubber mallet for placing the slab gently and easily.
+@113 Size of tile 800x2400 mm of all colours and shades. @440 sqm @488 3623.95
+@58 11.50 @113 Deduct for not grouting the joints with white cement and matching pigment
+@113 in the items of fixing of vitrified tiles. @440 sqm @499 13.30
+@58 11.51 @113 Providing and laying machine cut, mirror polished, Italian Marble stone
+@113 flooring laid in required pattern in linear portion of the building all complete
+@113 as per architectural drawings, with 18 mm thick stone slab laid over 20
+@113 mm (average) thick base of cement mortar 1:4 (1 cement : 4 coarse sand)
+@113 laid and jointed with white cement slurry @ 4.4 kg/sqm including pointing
+@113 with white cement slurry admixed with pigment to match the marble shade
+@113 including rubbing, curing and polishing etc. all complete as specified and
+@113 as directed by the Engineer-in-Charge.
+@113 11.51.1 @165 18 mm thick Italian Marble stone slab, Perlato, Rosso verona,
+@165 Fire Red or Dark Emperadore etc. @440 sqm @488 6603.35
+@406 SUB HEAD : 11.0 FLOORING
+@51 182
+=== PAGE 22
+
+=== PAGE 23
+@58 Code No @240 Description @440 Unit @502 Rate
+@58 11.52 @113 Providing and laying machine cut, mirror polished Marble stone flooring,
+@113 in required design (Simple geometrical, abstract etc.) and in patterns in
+@113 combination with Italian marble stones of different colours, shades and
+@113 finished surface texture etc., in linear portions of the building, all complete
+@113 as per the architectural drawings, with 18 mm thick stone slab laid over
+@113 20 mm (average) thick base of cement mortar 1:4 (1 cement : 4 coarse
+@113 sand) laid and jointed with white cement slurry @ 4.4 kg/sqm, including
+@113 pointing with white cement slurry admixed with pigment to match the
+@113 marble shade, including rubbing, curing and polishing etc. all complete as
+@113 specified and as directed by the Engineer-in-Charge.
+@113 11.52.1 @165 18 mm thick Italian Marble stone slab, Perlato, Rosso verona,
+@165 Fire Red or Dark Emperadore etc. @440 sqm @488 6927.35
+@58 11.53 @113 Providing and fixing Glass mossaic tiles on finished plain wall surface
+@113 of size 20 mm x 20 mm x 4 mm in all colour, design , fixing in customize
+@113 design as per direction of Engineer-in- Charge. The glass mosaic tiles to
+@113 be fixed on the wall surface with the help of approved adhesive applied at
+@113 the rate of 2.5 kg per sqm and grouting of the same. The rate is inclusive
+@113 of all operation, material and required pattern approved by Engineer-in-
+@113 Charge: @440 sqm @488 3891.15
+@58 11.54 @113 Providing and fixing removable raised/false access flooring with system
+@113 and its components of approved make for different plenum height with
+@113 possible height adjustment upto 50 mm, comprising of modular load
+@113 bearing floor panels supported on G.I. rectangular stinger frame work
+@113 and G.I. Pedestal etc. all complete, as per the architectural drawings, as
+@113 specified and as directed by Engineer-in-charge consisting of:
+@113 (a) Providing at required spacing to form modular framework, pedestals
+@113 made out of GI tube of thickness minimum 2 mm and 25 mm outer
+@113 diameter, fully welded on to the G.I. Base plate of size 100 mm x 100
+@113 mm x 3 mm at the bottom of the pedestal tube, G.I. pedestal head of size
+@113 75mmx75mmx3.5 mm welded with GI fully threaded stud 16 mm outer
+@113 diameter with two GI Check nuts screwed on the stud for level adjustment
+@113 upto 50mm, locking and stabilizing the pedestal head in position at the
+@113 required level. The pedestals shall be fixed to the subfloor (base) through
+@113 base plate using epoxy based adhesive of approved make or the machine
+@113 screw with rawl plug.
+@113 (b) Stringers system in all steel construction hot dipped galvanized of
+@113 rectangular size 570x20x30x0.80 mm thick having holes at both ends for
+@113 securing the stringers on to the pedestal head using fully threaded screws
+@113 ensuring maximum lateral stability in all directions, the grid formed by the
+@113 pedestal and stringer assembly shall receive the floor panel, this system
+@113 shall provide adequate solid, rigid support for access floor panel, the
+@113 system shall provide a minimum clear uninterrupted clearance between
+@113 the bottom of the floor for electrical conduits and wiring etc. all complete
+@113 as per the architectural drawings, as specified and as directed by the
+@113 Engineer-in-charge.
+@406 SUB HEAD : 11.0 FLOORING
+@51 183
+=== PAGE 24
+
+=== PAGE 25
+@58 Code No @240 Description @440 Unit @502 Rate
+@113 (c) Providing and fixing Access Floor panel of 600x600x32 mm medium
+@113 grade Filled Steel anti static high pressure Lamination of 800H grade
+@113 (FS800H). Access Floor panel shall be steel welded construction with an
+@113 enclosed bottom pan with uniform pattern of 64 hemispherical cones. The
+@113 top and bottom plates of Steel Gauges: top 0.6 mm and bottom 0.7 mm
+@113 fused spot welded together (minimum 64 welds in each dome and 20
+@113 welds along each flange). The panel should be Corroresist epoxy coated
+@113 for lifetime rust protection and cavity formed by the top and bottom plate is
+@113 filled with Pyrogrip noncombustible Portland cementitious core mixed with
+@113 light weight foaming compound. The access floor shall be factory finished
+@113 with Anti-static High Pressure laminate with Non Warp technology upto 1
+@113 mm thickness for superior adhesion and Surface flatness within 0.75mm.
+@113 The panel is to withstand a Concentrated Load of 363 kgs applied on
+@113 area 25 mm x 25 mm without collapse in the centre of the panel which
+@113 is placed on four steel blocks. The panel will withstand and Uniformly
+@113 Distributed Load (UDL) minimum 1250 kg/sqm and an impact load of
+@113 50kg all complete as per the approved manufacturers specification and as
+@113 per the direction of Engineer-in-charge. All specification must be printed
+@113 on the side of the panel to ensure the quality of the product.
+@113 11.54.1 @165 300 mm Finished Floor Height (FFH) @440 sqm @488 5623.95
+@113 11.54.2 @165 450 mm Finished Floor Height (FFH). @440 sqm @488 5977.35
+@58 11.55 @113 Providing and laying flamed finish Granite stone flooring in required
+@113 design and patterns, in linear as well as curvilinear portions of the building
+@113 all complete as per the architectural drawings with 18 mm thick stone
+@113 slab over 20 mm (average) thick base of cement mortar 1:4 (1 cement : 4
+@113 coarse sand) laid and jointed with cement slurry and pointing with white
+@113 cement slurry admixed with pigment of matching shade including rubbing,
+@113 curing and polishing etc. all complete as specified and as directed by the
+@113 Engineer-in-Charge :
+@113 11.55.1 @165 Flamed finish granite stone slab Jet Black, Cherry Red, Elite
+@165 Brown, Cat Eye or equivalent. @440 sqm @488 3186.70
+@58 11.56 @113 Providing and laying Polished Granite stone flooring in required design
+@113 and patterns, in linear as well as curvilinear portions of the building all
+@113 complete as per the architectural drawings with 18 mm thick stone slab
+@113 over 20 mm (average) thick base of cement mortar 1:4 (1 cement : 4
+@113 coarse sand) laid and jointed with cement slurry and pointing with white
+@113 cement slurry admixed with pigment of matching shade including rubbing
+@113 , curing and polishing etc. all complete as specified and as directed by the
+@113 Engineer-in-Charge.
+@113 11.56.1 @165 Polished Granite stone slab of colour Black, Cherry/Ruby
+@165 Red or equivalent @440 sqm @488 4481.30
+@113 11.56.2 @165 Polished Granite stone slab of all colour and texture except
+@165 Black, Cherry/Ruby Red @440 sqm @488 3071.05
+@406 SUB HEAD : 11.0 FLOORING
+@51 184
+=== PAGE 26
+
+=== PAGE 27
+@175 SUB HEAD : 12.0
+@224 ROOFING
+=== PAGE 28
+
+=== PAGE 29
+@246 12.0 ROOFING
+@58 Code No @240 Description @440 Unit @490 Rate
+@113 SHEET ROOFING
+@58 12.1 @113 Providing corrugated G.S. sheet roofing including vertical / curved surface
+@113 fixed with polymer coated J or L hooks, bolts and nuts 8 mm diameter
+@113 with bitumen and G.I. limpet washers or with G.I. limpet washers filled
+@113 with white lead, including a coat of approved steel primer and two coats
+@113 of approved paint on overlapping of sheets complete (up to any pitch
+@113 in horizontal/ vertical or curved surfaces), excluding the cost of purlins,
+@113 rafters and trusses and including cutting to size and shape wherever
+@113 required.
+@113 12.1.1 @165 1.00 mm thick with zinc coating not less than 275 gm/m² @440 sqm @484 1457.15
+@113 12.1.2 @165 0.80 mm thick with zinc coating not less than 275 gm/m² @440 sqm @484 1257.55
+@113 12.1.3 @165 0.63 mm thick with zinc coating not less than 275 gm/ m² @440 sqm @484 1087.65
+@58 12.2 @113 Extra for straight cutting in C.G.S. sheet roofing for making opening of
+@113 area exceeding 40 sq. decimeter for chimney stacks, sky light etc.:
+@113 12.2.1 @165 1.00 mm thick @437 metre @487 116.15
+@113 12.2.2 @165 0.80 mm thick @437 metre @489 92.95
+@113 12.2.3 @165 0.63 mm thick @437 metre @489 92.95
+@58 12.3 @113 Extra for circular cutting in C.G.S. sheet roofing for making opening of
+@113 area exceeding 40 sq. decimeter:
+@113 12.3.1 @165 1.00 mm thick @437 metre @486 671.45
+@113 12.3.2 @165 0.80 mm thick @437 metre @486 536.30
+@113 12.3.3 @165 0.63 mm thick @437 metre @486 536.30
+@58 12.4 @113 Providing ridges or hips of width 60 cm overall width plain G.S. sheet fixed
+@113 with polymer coated J or L hooks, bolts and nuts 8 mm dia G.I. limpet and
+@113 bitumen washers complete.
+@113 12.4.1 @165 0.80 mm thick with zinc coating not less than 275 gm/m² @437 metre @484 1083.30
+@113 12.4.2 @165 0.63 mm thick with zinc coating not less than 275 gm/m² @437 metre @486 980.50
+@58 12.5 @113 Providing valleys of 90 cm wide overall in plain G.S. sheet fixed with
+@113 polymer coated J or L hooks, bolts and nuts 8 mm dia G.I. limpet and
+@113 bitumen washers complete :
+@113 12.5.1 @165 1.60 mm thick with zinc coating not less than 350 gm/m² @437 metre @484 1863.90
+@58 12.6 @113 Providing and fixing of 40 cm overall width plain G.S. sheet fixed with
+@113 polymer coated J or L hooks, bolts and nuts, G.l. limpet and bitumen
+@113 washer complete, bent to shape and fixed in wall with cement mortar 1:3
+@113 (1 cement : 3 coarse sand).
+@113 12.6.1 @165 1.00 mm thick with zinc coating not less than 275 gm/m² @437 metre @486 857.55
+@58 12.7 @113 Providing and fixing 15 cm wide, 45 cm overall semi-circular plain G.S.
+@113 sheet gutter with iron brackets 40x3 mm size, bolts, nuts and washers etc.,
+@113 including making necessary connections with rain water pipes complete.
+@113 12.7.1 @165 0.80 mm thick with zinc coating not less than 275 gm/m² @437 metre @484 1029.65
+@113 12.7.2 @165 0.63 mm thick with zinc coating not less than 275 gm/m² @437 metre @486 944.05
+@58 12.8 @113 Providing reinforced by organic fibres and/or inorganic synthetic fibres
+@113 cement 6 mm thick corrugated sheets (as per IS: 14871) roofing up to any
+@113 pitch and fixing with polymer coated J or L hooks, bolts and nuts 8 mm dia.
+@113 G.I. plain and bitumen washers or with self drilling fastener and EPDM
+@113 washers etc. complete (excluding the cost of purlins, rafters and trusses),
+@113 including cutting sheets to size and shape wherever required. @440 sqm @486 536.40
+@411 SUB HEAD : 12.0 ROOFING
+@51 186
+=== PAGE 30
+
+=== PAGE 31
+@58 Code No @240 Description @440 Unit @491 Rate
+@58 12.9 @113 Extra for straight cutting in reinforced by organic fibres and/or inorganic
+@113 synthetic fibres cement corrugated, semi corrugated 6 mm thick sheet
+@113 roofing for making openings of area exceeding 40 square decimeter for
+@113 chimney stacks, skylights etc. @437 metre @489 92.95
+@58 12.10 @113 Extra for circular cutting in reinforced by organic fibres and/or inorganic
+@113 synthetic fibres cement corrugated/ semi corrugated 6 mm thick sheet
+@113 roofing for making openings of area exceeding 40 square decimeter. @437 metre @486 256.70
+@58 12.11 @113 Extra for providing and fixing wind ties of 40x 6 mm flat iron section. @437 metre @486 195.60
+@58 12.12 @113 Providing @159 and @180 fixing @208 ridges @240 and @262 hips @285 in @299 fibre @323 cement @360 reinforced @409 by
+@113 organic fibres and/or inorganic synthetic fibres roofing with suitable fixing
+@113 accessories or self drilling fastener and EPDM washer etc. complete.
+@113 12.12.1 @165 Corrugated serrated adjustable ridges @437 metre @486 522.95
+@113 12.12.2 @165 Plain wing adjustable ridges @437 metre @486 522.95
+@113 12.12.3 @165 Close fitting adjustable ridges @437 metre @486 585.70
+@113 12.12.4 @165 Unserrated adjustable hips @437 metre @486 521.85
+@58 12.13 @113 Providing and fixing fibre cement reinforced by organic fibres and/or
+@113 inorganic synthetic fibres roofing accessories in all colours with polymer
+@113 coated J or L hooks, bolts and nuts and or G.I. seam bolts and nuts, G.I.
+@113 plain and bitumen washers or with self drilling fastener and EPDM washer
+@113 etc. complete:
+@113 12.13.1 @165 Corrugated apron pieces @437 metre @486 428.50
+@113 12.13.2 @165 Eave’s filler pieces @437 metre @486 345.05
+@113 12.13.3 @165 North light curves @437 metre @486 567.20
+@113 12.13.4 @165 Ventilator curves @437 metre @486 627.30
+@113 12.13.5 @165 Barge boards @437 metre @486 724.65
+@113 12.13.6 @165 Ridge finials @441 pair @486 303.70
+@113 12.13.7 @165 Special north light curves @439 each @484 1013.85
+@113 12.13.8 @165 S type louvers @437 metre @486 560.05
+@58 12.14 @113 Providing flat iron brackets 50x3 mm size with necessary bolts, nuts and
+@113 washers etc. for fixing G.S. sheets gutters with purlins. @437 metre @489 92.40
+@58 12.15 @113 Painting top of roofs with bitumen of approved quality @ 17kg per 10 sqm
+@113 impregnated with a coat of coarse sand at 60 cudm per 10 sqm, including
+@113 cleaning the slab surface with brushes and finally with a piece of cloth
+@113 lightly soaked in kerosene oil complete :
+@113 12.15.1 @165 With residual type petroleum bitumen of grade VG -10 @440 sqm @486 166.20
+@58 12.16 @113 10 cm thick (average) mud phaska of damped brick earth on roofs laid to
+@113 slope consolidated and plastered with 25 mm thick mud mortar mixed with
+@113 bhusa @ 35 kg per cum of earth and gobri leaping with mix 1:1 (1 clay :
+@113 1 cow dung) and covered with flat tile bricks, grouted with cement mortar
+@113 1:3 (1 cement : 3 fine sand) mixed with 2% of integral water proofing
+@113 compound by weight of cement and finished neat:
+@113 12.16.1 @165 With common burnt clay F.P.S.(non modular) brick tile of
+@165 class designation 10 @440 sqm @484 1050.20
+@58 12.17 @113 10 cm thick (average) mud phaska of damped brick earth on roofs laid
+@113 to slope consolidated and plastered with 25 mm thick mud mortar with
+@113 bhusha @ 35 kg per cum of earth and gobri leaping with mix 1:1 (1 clay :
+@113 1 cow-dung) and covered with machine moulded tile bricks, grouted with
+@113 cement mortar 1:3 (1 cement : 3 fine sand) mixed with 2% of integral
+@113 water proofing compound by weight of cement and finished neat.
+@411 SUB HEAD : 12.0 ROOFING
+@51 187
+=== PAGE 32
+
+=== PAGE 33
+@58 Code No @240 Description @440 Unit @490 Rate
+@113 12.17.1 @165 With @191 machine @233 moulded @275 common @318 burnt @346 clay @369 F.P.S. @400 (non
+@165 modular) brick tiles of class designation 12.5, conforming to
+@165 IS 2690 @440 sqm @484 1074.50
+@58 12.18 @113 Extra for every additional 1 cm thickness of mud phaska. @440 sqm @489 24.20
+@58 12.19 @113 Providing and laying brick tiles over mumty roofs, grouted with cement
+@113 mortar 1:3 (1 cement : 3 fine sand) mixed with 2% of integral water
+@113 proofing compound by weight of cement, over 12 mm layer of cement
+@113 mortar 1:3 (1 cement : 3 fine sand) and finished neat:
+@113 12.19.1 @165 With common burnt clay F.P.S. (non modular) brick tiles of
+@165 class designation 10 @440 sqm @486 607.40
+@58 12.20 @113 Providing and laying pressed clay tiles (as per approved pattern 20 mm
+@113 nominal thickness of approved size) on roofs jointed with cement mortar
+@113 1:4 (1 cement : 4 coarse sand) mixed with 2% integral water proofing
+@113 compound, laid over a bed of 20 mm thick cement mortar 1:4 (1 cement :
+@113 4 coarse sand) and finished neat complete. @440 sqm @486 709.75
+@58 12.21 @113 Providing gola 75x75 mm in cement concrete 1:2:4 (1 cement : 2 coarse
+@113 sand : 4 stone aggregate 10 mm and down gauge), including finishing
+@113 with cement mortar 1:3 (1 cement : 3 fine sand) as per standard design :
+@113 12.21.1 @165 In 75x75 mm deep chase @437 metre @486 305.15
+@58 12.22 @113 Making khurras 45x45 cm with average minimum thickness of 5 cm cement
+@113 concrete 1:2:4 (1 cement : 2 coarse sand : 4 graded stone aggregate of
+@113 20 mm nominal size) over P.V.C. sheet 1 m x1 m x 400 micron, finished
+@113 with 12 mm cement plaster 1:3 (1 cement : 3 coarse sand) and a coat
+@113 of neat cement, rounding the edges and making and finishing the outlet
+@113 complete. @438 each @486 298.25
+@58 12.23 @113 Providing sand stone slab for roofing and laying them in cement mortar
+@113 1 : 4 (1 cement : 4 coarse sand) over wooden karries or R.C.C. battens
+@113 or structural steel sections (Karries or battens or structural steel sections
+@113 to be paid separately), including pointing the ceiling joints with cement
+@113 mortar 1:3 (1 cement : 3 fine sand ) complete :
+@113 12.23.1 @165 Red sand stone slab
+@165 12.23.1.1 @223 40 to 50 mm thick @440 sqm @484 1138.20
+@113 12.23.2 @165 White sand stone slab
+@165 12.23.2.1 @223 40 to 50 mm thick @440 sqm @484 1106.90
+@113 CEILING
+@58 12.24 @113 Providing and fixing insulating board ceiling of approved quality with
+@113 necessary nails etc. complete (frame work to be paid separately) :
+@113 12.24.1 @165 Natural colour insulating board
+@165 12.24.1.1 @223 12 mm thick @440 sqm @486 924.35
+@113 12.24.2 @165 White face insulating board
+@165 12.24.2.1 @223 12 mm thick @440 sqm @486 966.60
+@113 12.24.3 @165 Flame retardant face insulating board
+@165 12.24.3.1 @223 12 mm thick @440 sqm @484 1121.55
+@58 12.25 @113 Providing and fixing flat pressed 3 layer medium density particle board or
+@113 graded particle board (Grade I) IS: 3087 marked, in ceiling with necessary
+@113 nails etc. complete (frame work to be paid separately):
+@113 12.25.1 @165 12 mm thick @440 sqm @484 1070.60
+@411 SUB HEAD : 12.0 ROOFING
+@51 188
+=== PAGE 34
+
+=== PAGE 35
+@58 Code No @240 Description @440 Unit @491 Rate
+@58 12.26 @113 Providing and fixing plain multipurpose cement board(Hight pressure
+@113 steam cured) with suitable screws for cement particle board in ceiling etc.
+@113 complete (frame work to be paid seperatately).
+@113 12.26.1 @165 6 mm thick Cement fiber board, Type-B, Category-III as per
+@165 IS: 14862 : 2000 @440 sqm @486 921.95
+@113 12.26.2 @165 6 mm thick Cement bonded wood particle board as per
+@165 IS:14276 @440 sqm @486 890.65
+@58 12.27 @113 Extra for Circular cutting including wastages in ceiling with:
+@113 12.27.1 @165 2nd class teak wood planks 20 mm thick @437 metre @486 726.30
+@113 12.27.2 @165 Natural colour insulating board
+@165 12.27.2.1 @224 12 mm thick @437 metre @486 487.00
+@113 12.27.3 @165 White face insulating board:
+@165 12.27.3.1 @224 12 mm thick @437 metre @486 492.25
+@113 12.27.4 @165 Flame retardant face insulating board:
+@165 12.27.4.1 @224 12 mm thick @437 metre @487 511.50
+@113 12.27.5 @165 Standard quality hard board sheet:
+@165 12.27.5.1 @224 3 mm thick @437 metre @486 470.10
+@165 12.27.5.2 @224 4.5 mm thick @437 metre @486 485.70
+@58 12.28 @113 Extra for providing and fixing ceiling to curved surfaces in narrow widths @440 sqm @486 453.10
+@58 12.31 @113 Providing 10 mm thick plaster of Paris (gypsum anhydrous) ceiling up to
+@113 a height of 5 m above floor level, over first class kail wood strips 25x6 mm
+@113 with 10 mm gap in between and reinforced with rabbit wire mesh fixed to
+@113 wooden frame (frame work to be paid separately):
+@113 12.31.1 @165 Flat surfaces @440 sqm @484 1718.95
+@113 12.31.2 @165 Curved surfaces @440 sqm @484 2067.45
+@58 12.32 @113 Extra for sunk or raised mouldings in the plaster of Paris (Gypsum
+@113 anhydrous) ceiling. @440 sqm @486 607.45
+@58 12.33 @113 Extra for providing plaster of Paris (Gypsum anhydrous) ceiling above 5 @432 sqm per
+@113 metres height from floor level. @437 metre
+@436 height @486 265.70
+@58 12.34 @113 Providing fixing thermal insulation of ceiling (under deck insulation) with
+@113 Resin Bonded Fibre glass wool conforming to IS : 8183, density 24kg /
+@113 m3, 50 mm thick, wrapped in 200 G Virgin Polythene bags, fixed to ceiling
+@113 with metallic cleats (50x50x3 mm) @ 60 cm and wire mesh of 12.5 mm x
+@113 24 gauge wire mesh, for top most ceiling of building. @440 sqm @486 703.05
+@58 12.35 @113 Providing and fixing thermal insulation with Resin Bonded Fibre glass
+@113 wool conforming to IS: 8183. Density 16 kg/m³, 50 mm thick, wrapped in
+@113 200G Virgin Polythene bags placed over existing false ceiling and held in
+@113 position by criss-crossing GI wire. @440 sqm @486 297.25
+@58 12.36 @113 Thermal @154 Insulation @200 of @214 roofing @249 with @272 Expanded @321 polystyrene @376 fixed @402 with
+@113 suitable adhesive to the false ceiling as per the directions of the Engineer-
+@113 in-charge:
+@113 12.36.1 @165 With Type N - Normal 50 mm thick @440 sqm @486 321.75
+@113 12.36.2 @165 With Type SE - Self Extinguishing type 50 mm thick @440 sqm @486 353.05
+@113 RAIN WATER SPOUT AND PIPE
+@58 12.37 @113 Providing and fixing 100 mm diameter and 60 cm long rain water spout in
+@113 cement mortar 1:4 (1 cement : 4 fine sand).
+@113 12.37.1 @165 Stone ware spout @439 each @486 164.20
+@411 SUB HEAD : 12.0 ROOFING
+@51 189
+=== PAGE 36
+
+=== PAGE 37
+@58 Code No @240 Description @440 Unit @490 Rate
+@58 12.38 @113 Providing and fixing M.S. holder bat clamps of approved design to C.I.
+@113 or S.C.I. rain water pipes embedded in and including cement concrete
+@113 blocks 10x10x10 cm of 1:2:4 mix (1 cement : 2 coarse sand : 4 graded
+@113 stone aggregate 20 mm nominal size) and cost of cutting holes and
+@113 making good the walls etc. :
+@113 12.38.1 @165 100 mm diameter @438 each @486 362.85
+@113 12.38.2 @165 150 mm diameter @438 each @486 395.60
+@58 12.39 @113 Providing lead caulked joints to sand cast iron rain water pipes and fittings:
+@113 12.39.1 @165 100 mm dia Pipe @438 each @486 580.50
+@113 12.39.2 @165 150 mm dia Pipe @438 each @486 798.00
+@58 12.40 @113 Providing, fixing and embedding sand cast iron accessories for rain
+@113 water pipes in the masonry surrounded with 12 mm thick cement
+@113 mortar of the same mix, as that of masonry (lead caulking will be paid
+@113 for separately):
+@113 12.40.1 @165 Sand cast iron plain shoes :
+@165 12.40.1.1 @223 150 mm diameter @438 each @487 511.90
+@58 12.41 @113 Providing and fixing on wall face unplasticised Rigid PVC rain water
+@113 pipes conforming to IS : 13592 Type A, including jointing with seal ring
+@113 conforming to IS : 5382, leaving 10 mm gap for thermal expansion, (i)
+@113 Single socketed pipes.
+@113 12.41.1 @165 75 mm diameter @437 metre @486 248.80
+@113 12.41.2 @165 110 mm diameter @437 metre @486 377.40
+@58 12.42 @113 Providing and fixing on wall face unplasticised - PVC moulded fittings/
+@113 accessories for unplasticised Rigid PVC rain water pipes conforming to IS
+@113 : 13592 Type A, including jointing with seal ring conforming to IS : 5382,
+@113 leaving 10 mm gap for thermal expansion.
+@113 12.42.1 @165 Coupler
+@165 12.42.1.1 @223 75 mm @438 each @489 91.70
+@165 12.42.1.2 @223 110 mm @438 each @486 136.15
+@113 12.42.2 @165 Single pushfit Coupler
+@165 12.42.2.1 @223 75 mm @438 each @489 93.10
+@165 12.42.2.2 @223 110 mm @438 each @486 127.60
+@113 12.42.3 @165 Single tee with door
+@165 12.42.3.1 @223 75x75x75 mm @438 each @486 164.20
+@165 12.42.3.2 @223 110x110x110 mm @438 each @486 234.15
+@113 12.42.4 @165 Single tee without door
+@165 12.42.4.1 @223 75x75x75 mm @438 each @486 144.30
+@165 12.42.4.2 @223 110x110x110 mm @438 each @486 221.35
+@113 12.42.5 @165 Bend 87.5°
+@165 12.42.5.1 @223 75 mm bend @438 each @486 105.90
+@165 12.42.5.2 @223 110 mm bend @438 each @486 150.35
+@113 12.42.6 @165 Shoe (Plain)
+@165 12.42.6.1 @223 75 mm Shoe @438 each @489 93.10
+@165 12.42.6.2 @223 110 mm Shoe @438 each @486 131.85
+@411 SUB HEAD : 12.0 ROOFING
+@51 190
+=== PAGE 38
+
+=== PAGE 39
+@58 Code No @240 Description @440 Unit @490 Rate
+@58 12.43 @113 Providing and fixing unplasticised -PVC pipe clips of approved design
+@113 to unplasticised - PVC rain water pipes by means of 50x50x50 mm hard
+@113 wood plugs, screwed with M.S. screws of required length, including cutting
+@113 brick work and fixing in cement mortar 1:4 (1 cement : 4 coarse sand) and
+@113 making good the wall etc. complete.
+@113 12.43.1 @165 75 mm @438 each @486 369.85
+@113 12.43.2 @165 110 mm @438 each @486 371.30
+@58 12.44 @113 Providing and fixing to the inlet mouth of rain water pipe cast iron grating
+@113 15 cm diameter and weighing not less than 440 grams. @438 each @489 54.70
+@58 12.45 @113 Providing and fixing false ceiling at all heights including providing and
+@113 fixing of frame work made of special sections, power pressed from M.S.
+@113 sheets and galvanized with zinc coating of 120 gms/sqm (both side
+@113 inclusive) as per IS : 277 and consisting of angle cleats of size 25 mm
+@113 wide x 1.6 mm thick with flanges of 27 mm and 37mm, at 1200 mm centre
+@113 to centre, one flange fixed to the ceiling with dash fastener 12.5 mm dia
+@113 x 50 mm long with 6 mm dia bolts, other flange of cleat fixed to the angle
+@113 hangers of 25x10x0.50 mm of required length with nuts & bolts of required
+@113 size and other end of angle hanger fixed with intermediate G.I. channels
+@113 45x15x0.9 mm running at the spacing of 1200 mm centre to centre, to
+@113 which the ceiling section 0.5 mm thick bottom wedge of 80 mm with
+@113 tapered flanges of 26 mm each having lips of 10.5 mm, at 450 mm centre
+@113 to centre, shall be fixed in a direction perpendicular to G.I. intermediate
+@113 channel with connecting clips made out of 2.64 mm dia x 230 mm long G.I.
+@113 wire at every junction, including fixing perimeter channels 0.5 mm thick
+@113 27 mm high having flanges of 20 mm and 30 mm long, the perimeter of
+@113 ceiling fixed to wall/partition with the help of rawl plugs at 450 mm centre,
+@113 with 25 mm long dry wall screws @ 230 mm interval, including fixing of
+@113 gypsum board to ceiling section and perimeter channel with the help of
+@113 dry wall screws of size 3.5 x 25 mm at 230 mm c/c, including jointing and
+@113 finishing to a flush finish of tapered and square edges of the board with
+@113 recommended jointing compound , jointing tapes , finishing with jointing
+@113 compound in 3 layers covering upto 150 mm on both sides of joint and two
+@113 coats of primer suitable for board, all as per manufacturer’s specification
+@113 and also including the cost of making openings for light fittings, grills,
+@113 diffusers, cutouts made with frame of perimeter channels suitably fixed,
+@113 all complete as per drawings, specification and direction of the Engineer
+@113 in Charge but excluding the cost of painting with :
+@113 12.45.1 @165 12.5 mm thick tapered edge gypsum plain board conforming
+@165 to IS: 2095- (Part I) :2011 (Board with BIS certification marks) @440 sqm @484 1355.80
+@113 12.45.2 @165 12.5 @190 mm @211 thick @236 tapered @274 edge @301 Glass @331 Reinforced @383 Gypsum
+@165 (GRG) board conforming to IS: 2095- (Part 3):1996 (Boards
+@165 with BIS certification marks) @440 sqm @484 1520.10
+@113 12.45.3 @165 12.5 mm thick tapered edge gypsum moisture resistant board @440 sqm @484 1529.10
+@113 12.45.4 @165 Fully @191 Perforated @242 Gypsum @283 Plaster @319 Board @350 of @364 size @387 1200 @414 x
+@165 2400x12.5 mm having approx. 15 % perforated area with
+@165 perforation size and pattern as approved by the Engineer-
+@165 in-charge and as per manufacturer’s specification, with all
+@165 4 sides tapered and backed by acoustical tissue with NRC
+@165 value not less than 0.60 @440 sqm @484 1744.15
+@411 SUB HEAD : 12.0 ROOFING
+@51 191
+=== PAGE 40
+
+=== PAGE 41
+@58 Code No @240 Description @440 Unit @490 Rate
+@58 12.46 @113 Providing and fixing to the inlet mouth of rain water pipe PTMT (an
+@113 Engineering Thermoplastic) grating square (Slit) 150 mm square with a
+@113 height of 8 mm and weighing not less than 100 gms. @438 each @489 84.55
+@58 12.47 @113 Providing & fixing UV stabilised fiberglass reinforced plastic sheet roofing
+@113 up to any pitch, including fixing with polymer coated ‘J’ or ‘L’ hooks, bolts
+@113 & nuts 8 mm dia. G.I plain/bitumen washers complete but excluding the
+@113 cost of purlins, rafters, trusses etc. The sheets shall be manufactured
+@113 out of 2400 TEX panel rovigs incorporating minimum 0.3% ultra-violet
+@113 stabiliser in resin system under approximately 2400 psi and hot cured.
+@113 They shall be of uniform pigmentation and thickness without air pockets
+@113 and shall conform to IS 10192 and IS 12866.The sheets shall be opaque
+@113 or translucent, clear or pigmented, textured or smooth as specified.
+@113 12.47.1 @165 2 mm thick corrugated (2.5” or 4.2” or 6”) or step-down (2” or
+@165 3” or 6” ) as specified @440 sqm @484 1401.35
+@113 12.47.2 @165 2 mm thick flat @440 sqm @484 1245.65
+@58 12.48 @113 Providing & fixing on roof pressed clay tile (Mangalore tile) of 20 mm
+@113 nominal thickness and of approved size and as per approved pattern on
+@113 steel frame work complete (steel frame work to be paid separately). @440 sqm @486 433.45
+@58 12.49 @113 Providing & laying on roof pressed clay tile ridge (Mangalore tile) of 20
+@113 mm thickness and of approved pattern on steel frame work complete
+@113 (steel frame work to be paid separately). @437 metre @489 96.90
+@58 12.50 @113 Providing and fixing precoated galvanised iron profile sheets (size, shape
+@113 and pitch of corrugation as approved by Engineer-in-Charge) of total
+@113 coated thickness 0.50 mm (base metal of minimum 0.45 mm thickness
+@113 with total coating thickness of 0.05mm) with zinc coating 120 grams per
+@113 sqm as per IS: 277, in 240 mpa steel grade, 5-7 microns epoxy primer on
+@113 both side of the sheet and polyester top coat 15-18 microns. Sheet should
+@113 have protective guard film of 25 microns minimum to avoid scratches
+@113 during transportation and should be supplied in single length upto 12
+@113 metre or as desired by Engineer-in-charge. The sheet shall be fixed
+@113 using self drilling /self tapping screws of size (5.5x 55 mm) with EPDM
+@113 seal, complete upto any pitch in horizontal/ vertical or curved surfaces,
+@113 excluding the cost of purlins, rafters and trusses and including cutting to
+@113 size and shape wherever required. @440 sqm @486 738.65
+@58 12.51 @113 Providing and fixing precoated galvanised steel sheet roofing accessories
+@113 of total coated thickness 0.50 mm (base metal of minimum 0.45 mm
+@113 thickness with total coating thickness of 0.05 mm) with Zinc coating 120
+@113 gram per sqm as per IS: 277, in 240 mpa steel grade, 5-7 microns epoxy
+@113 primer on both side of the sheet and polyester top coat 15-18 microns
+@113 using self drilling/ self tapping screws complete :
+@113 12.51.1 @165 Ridges plain (500 - 600mm) @437 metre @486 532.35
+@113 12.51.2 @165 Flashings/ Aprons.( Upto 600 mm) @437 metre @486 485.60
+@113 12.51.3 @165 North light curves @437 metre @486 546.10
+@113 12.51.4 @165 Barge board (Upto 300 mm) @437 metre @486 451.50
+@113 12.51.5 @165 Crimp curve @440 sqm @486 496.75
+@113 12.51.6 @165 Gutter (600 mm over all girth) @437 metre @484 1313.70
+@411 SUB HEAD : 12.0 ROOFING
+@51 192
+=== PAGE 42
+
+=== PAGE 43
+@58 Code No @240 Description @440 Unit @490 Rate
+@58 12.52 @113 Providing and fixing tiled false ceiling of specified materials of size
+@113 595x595 mm in true horizontal level, suspended on inter locking metal grid
+@113 of hot dipped galvanized steel sections ( galvanized @ 120 grams/ sqm,
+@113 both side inclusive) consisting of main “T” runner with suitably spaced
+@113 joints to get required length and of size 24x38 mm made from 0.30 mm
+@113 thick (minimum) sheet, spaced at 1200 mm center to center and cross
+@113 “T” of size 24x25 mm made of 0.30 mm thick (minimum) sheet, 1200
+@113 mm long spaced between main “T” at 600 mm center to center to form
+@113 a grid of 1200x600 mm and secondary cross “T” of length 600 mm and
+@113 size 24x25 mm made of 0.30 mm thick (minimum) sheet to be interlocked
+@113 at middle of the 1200x600 mm panel to form grids of 600x600 mm and
+@113 wall angle of size 24x24x0.3 mm and laying false ceiling tiles of approved
+@113 texture in the grid including, required cutting/making, opening for services
+@113 like diffusers, grills, light fittings, fixtures, smoke detectors etc. Main “T”
+@113 runners to be suspended from ceiling using GI slotted cleats of size 27 x
+@113 37 x 25 x1.6 mm fixed to ceiling with 12.5 mm dia and 50 mm long dash
+@113 fasteners, 4 mm GI adjustable rods with galvanised butterfly level clips of
+@113 size 85 x 30 x 0.8 mm spaced at 1200 mm center to center along main T,
+@113 bottom exposed width of 24 mm of all T-sections shall be pre-painted with
+@113 polyester paint, all complete for all heights as per specifications, drawings
+@113 and as directed by Engineer-in-charge.
+@113 12.52.1 @165 GI Metal Ceiling Lay in plain Tegular edge Global white
+@165 color tiles of size 595x595 mm, and 0.5 mm thick with 8 mm
+@165 drop; made of G I sheet having galvanizing of 100 gms/sqm
+@165 (both sides inclusive) and electro statically polyester powder
+@165 coated of thickness 60 microns (minimum), including factory
+@165 painted after bending. @440 sqm @484 1902.95
+@113 12.52.2 @165 GI Metal Ceiling Lay in perforated Tegular edge global white
+@165 color tiles of size 595x595 mm and 0.5 mm thick with 8 mm
+@165 drop; made of GI sheet having galvanizing of 100 gms/sqm
+@165 (both sides inclusive) and 20% perforation area with 1.8 mm
+@165 dia holes and having NRC (Noise Reduction Coefficient ) of
+@165 0.5, electro statically polyester powder coated of thickness
+@165 60 @184 microns @224 (minimum), @279 including @325 factory @361 painted @400 after
+@165 bending and perforation and backed with a black Glass fiber
+@165 acoustical fleece. @440 sqm @484 2068.75
+@113 12.52.3 @165 12.5 @191 mm @214 thick @241 square @277 edge @305 PVC @332 Laminated @383 Gypsum
+@165 Tile of size 595x595 mm, made of Gypsum plasterboard,
+@165 manufactured from natural gypsum as per IS 2095 part I and
+@165 laminated with white 0.16 mm thick fire retardant PVC film
+@165 on the face side and 12 micron metalized polyester on the
+@165 back side with all edges sealed with the face side PVC film
+@165 which goes around and wraps the edges and is bonded to
+@165 the edges and the back side metalized polyester film so as to
+@165 make the tile a completely sealed unit. @440 sqm @484 2215.15
+@113 12.52.4 @165 12.5 mm thick fully Perforated Gypsum Board tile made from
+@165 plasterboard having glass fibre conforming to IS: 2095 part
+@165 I, of size 595x595 mm, having perforation of 9.7x9.7 mm
+@165 at 19.4 mm c/c with center borders of 48 mm and the side
+@165 borders of 30 mm, backed with non woven tissue on the back
+@165 side, having an NRC (Noise Reduction Coefficient) of 0.79,
+@165 with 50 mm resin bonded glass wool backing. @440 sqm @484 1528.00
+@411 SUB HEAD : 12.0 ROOFING
+@51 193
+=== PAGE 44
+
+=== PAGE 45
+@58 Code No @240 Description @440 Unit @490 Rate
+@58 12.53 @113 Providing and Fixing 15 mm thick densified tegular edged eco friendly light
+@113 weight calcium silicate false ceiling tiles of approved texture of size 595 x
+@113 595 mm in true horizontal level, suspended on inter locking metal grid of
+@113 hot dipped galvanised steel sections (galvanising @ 120 grams per sqm
+@113 including both side) consisting of main ‘T’ runner suitably spaced at joints
+@113 to get required length and of size 24x38 mm made from 0.33 mm thick
+@113 (minimum) sheet, spaced 1200 mm centre to centre, and cross “T” of size
+@113 24x28 mm made out of 0.33 mm (Minimum) sheet, 1200 mm long spaced
+@113 between main’T’ at 600 mm centre to centre to form a grid of 1200x600
+@113 mm and secondary cross ‘T’ of length 600 mm and size 24 x28 mm made
+@113 of 0.33 mm thick (Minimum) sheet to be inter locked at middle of the 1200x
+@113 600 mm panel to from grid of size 600x600 mm, resting on periphery walls
+@113 /partitions on a Perimeter wall angle pre-coated steel of size(24x24X3000
+@113 mm made of 0.40 mm thick (minimum) sheet with the help of rawl plugs
+@113 at 450 mm centre to centre with 25 mm long dry wall screws @ 230 mm
+@113 interval and laying 15 mm thick densified edges calicum silicate ceiling
+@113 tiles of approved texture in the grid, including, cutting/ making opening
+@113 for services like diffusers, grills, light fittings, fixtures, smoke detectors
+@113 etc., wherever required. Main ‘T’ runners to be suspended from ceiling
+@113 using G.I. slotted cleats of size 25x35x1.6 mm fixed to ceiling with 12.5
+@113 mm dia and 50 mm long dash fasteners, 4 mm G.I. adjustable rods with
+@113 galvanised steel level clips of size 85 x 30 x 0.8 mm, spaced at 1200
+@113 mm centre to centre along main ‘T’. Bottom exposed with 24 mm of all
+@113 T-sections shall be pre-painted with polyster baked paint, for all heights,
+@113 as per specifications, drawings and as directed by Engineer-in-Charge. @440 sqm @484 2158.15
+@113 Note :- Only calcium silicate false ceiling area will be measured from wall
+@113 to wall. No deduction shall be made for exposed frames/opening (cut outs)
+@113 having area less than 0.30 sqm.The calcium silicate ceiling tile shall have
+@113 NRC value of 0.50 (Minimum), light reflection > 85%, non- combustible as
+@113 per B.S. 476 part IV, 100% humidity resistance and also having thermal
+@113 conductivity <0.043 w/mK.
+@58 12.54 @113 Providing and fixing Gl Clip in Metal Ceiling System of 600x600 mm
+@113 module which includes providing and fixing ‘C’ wall angle of size 20x30x20
+@113 mm made of 0.5 mm thick pre painted steel along the perimeter of the
+@113 room with help of nylon sleeves and wooden screws at 300 mm center to
+@113 centre, suspending the main C carrier of size 10x38x10 mm made of G.I
+@113 steel 0.7 mm thick from the soffit with the help of soffit cleat 37x27x25x1.6
+@113 mm, rawl plugs of size 38x12 mm and C carrier suspension clip and
+@113 main carrier bracket at 1000 mm c/c. Inverted triangle shaped Spring Tee
+@113 having height of 24 mm and width of 34 mm made of Gl steel 0.45 mm
+@113 thick is then fixed to the main C carrier and in direction perpendicular to
+@113 it at 600 mm centers with the help of suspension brackets. Wherever the
+@113 main C carrier and spring T have to join, C carrier and spring T connectors
+@113 have to be used. All sections to be galvanized @ 120 gms/sqm (both side
+@113 inclusive), fixing with clip in tiles into spring T with :
+@113 12.54.1 @165 GI Metal Ceiling Clip in plain Beveled edge global white color
+@165 tiles of size 600x600 and 0.5 mm thick with 25 mm height,
+@165 made of G I sheet having galvanizing of 100 gms/ sqm
+@165 (both sides inclusive) and electro statically polyester powder
+@165 coated of thickness 60 microns (minimum), including factory
+@165 painted after bending. @440 sqm @484 2221.70
+@411 SUB HEAD : 12.0 ROOFING
+@51 194
+=== PAGE 46
+
+=== PAGE 47
+@58 Code No @240 Description @440 Unit @490 Rate
+@113 12.54.2 @165 GI Metal Ceiling Clip in plain Beveled edge global white color
+@165 tiles of size 600x600 and 0.5 mm thick with 25 mm height,
+@165 made of G I sheet having galvanizing of 100 gms/ sqm (both
+@165 sides inclusive) and 20% perforation area with 1.8 mm dia
+@165 holes and having NRC of 0.5, electro statically polyester
+@165 powder coated of thickness 60 microns (minimum), including
+@165 factory painted after bending and perforation. @440 sqm @484 2354.65
+@58 12.55 @113 Providing and fixing Heat Resistant Terrace Tiles (300 mm x 300 mm
+@113 x 20 mm) with SRI (solar refractive index) > 78, solar reflection > 0.70
+@113 and initial emittance > 0.75 on waterproof and sloped surface of terrace,
+@113 laid on 20 mm thick cement sand mortar in the ratio of 1:4 (1 cement : 4
+@113 coarse sand) and grouting the joints with mix of white cement & marble
+@113 powder in ratio of 1:1, including rubbing and polishing of the surface upto
+@113 3 cuts complete, including providing skirting upto 150 mm height along
+@113 the parapet walls in the same manner. @440 sqm @484 1703.95
+@58 12.56 @113 Providing and laying roof insulation with 40 mm thick impervious sprayed,
+@113 closed cell free Rigid Polyurethane foam over deck insulation conforming
+@113 to IS - 12432 Pt. III (density of foam being 40-45 kg/ cum), over a coat of
+@113 polyurethane primer applied @ 6-8 sqm per litre, laying 400 G polythene
+@113 sheet over PUF spray and providing a wearing course of 40 mm thick
+@113 cement screed 1:2:4 (1 cement : 2 coarse sand : 4 stone aggregate 20 mm
+@113 nominal size) in chequered rough finish, in panels of 2.5 m x 2.5 m and
+@113 embedding with 24 G wire netting and sealing the joints with polymerized
+@113 mastic, all complete as per direction of Engineer-in-Charge. @440 sqm @484 1570.00
+@58 12.57 @113 Providing and fixing thermal insulation with Resin Bonded Fibre glass wool
+@113 conforming to IS: 8183 having density 24 kg/m3, 50 mm thick, wrapped
+@113 in 200G Virgin Polythene Bags fixed to wall with screw, rawel plug &
+@113 washers and held in position by criss crossing GI wire etc. complete as
+@113 per directions of Engineer-in-Charge. @440 sqm @486 358.50
+@58 12.58 @113 Providing and fixing tiled false ceiling of specified materials of size
+@113 595x595 mm in true horizontal level, suspended on interlocking metal grid
+@113 of hot dipped galvanized steel sections ( galvanized @ 120 grams/ sqm,
+@113 both side inclusive) consisting of main “T” runner with suitably spaced
+@113 joints to get required length and of size 24x38 mm made from 0.30 mm
+@113 thick (minimum) sheet, spaced at 1200 mm center to center and cross
+@113 “T” of size 24x25 mm made of 0.30 mm thick (minimum) sheet, 1200
+@113 mm long spaced between main “T” at 600 mm center to center to form
+@113 a grid of 1200x600 mm and secondary cross “T” of length 600 mm and
+@113 size 24x25 mm made of 0.30 mm thick (minimum) sheet to be interlocked
+@113 at middle of the 1200x600 mm panel to form grids of 600x600 mm and
+@113 wall angle of size 24x24x0.3 mm and laying false ceiling tiles of approved
+@113 texture in the grid including, required cutting/making, opening for services
+@113 like diffusers, grills, light fittings, fixtures, smoke detectors etc. Main “T”
+@113 runners to be suspended from ceiling using GI slotted cleats of size 27 x
+@113 37 x 25 x1.6 mm fixed to ceiling with 12.5 mm dia and 50 mm long dash
+@113 fasteners, 4 mm GI adjustable rods with galvanized butterfly level clips of
+@113 size 85 x 30 x 0.8 mm spaced at 1200 mm center to center along main T,
+@113 bottom exposed width of 24 mm of all T-sections shall be pre-painted with
+@113 polyester paint, all complete for all heights as per specifications, drawings
+@113 and as directed by Engineer-in-charge.
+@411 SUB HEAD : 12.0 ROOFING
+@51 195
+=== PAGE 48
+
+=== PAGE 49
+@58 Code No @240 Description @440 Unit @490 Rate
+@113 12.58.1 @165 8 mm thick fully perforated calcium silicate board made with
+@165 Calcareous & Siliceous materials reinforced with cellulose
+@165 fiber @190 manufactured @254 through @293 autoclaving @347 process @387 to @401 give
+@165 stable @199 crystalline @249 structure @294 with @319 minimum @365 compressive
+@165 strength 225 kg/ sq. cm, bending strength 100 kg/sq. cm ,
+@165 of size 595x595 mm, having perforation of dia. 10 mm with
+@165 minimum perforated area 18 % with non woven tissue on the
+@165 back side, having an NRC ( Noise Reduction Coefficient) of
+@165 0.85, with 50 mm thick rockwool of 48 kg /cum backing. @440 sqm @484 1789.45
+@58 12.59 @113 Providing & fixing false ceiling at all height including providing & fixing of
+@113 framework made of special section, power pressed from M.S. sheets and
+@113 galvanised with zinc coating of 120 gms/ sqm (both side inclusive) as per
+@113 IS : 277 and consisting of angle cleat of size 25 mm wide x 1.6 mm thick
+@113 with flanges of 27 mm and 37mm, at 1200 mm c/c, one flange fixed to the
+@113 ceiling with dash fastener 12.5 mm dia x 50 mm long with 6 mm dia bolts,
+@113 other flange of cleat fixed to the angle hangers of 25 x10 x0.50 mm of
+@113 required length with nuts & bolts of required size and other end of angle
+@113 hanger fixed with intermediate G.I chanels 45 x15 x 0.90 mm running at
+@113 the spacing of 1200 mm c/c, to which the ceiling section 0.5 mm thick
+@113 bottom wedge of 80 mm with tapered flanges of 26 mm each having lips
+@113 of 10.5mm, at 450 mm c/c, shall be fixed in a direction perpendicular
+@113 to G.I intermediate channel with connecting clip made out of 2.64 mm
+@113 dia x 230 mm long G.I wire at every junction, including fixing perimeter
+@113 channels 0.50 mm thick 27 mm high having flanges of 20 mm and 30
+@113 mm long, the perimeter of ceiling fixed to wall/ partitions with the help of
+@113 Rawl plugs at 450 mm centre, with 25 mm long dry wall screws @ 230
+@113 mm interval, including fixing of Calcium Silicate Board to ceiling section
+@113 and perimeter channels with the help of dry wall screws of size 3.5 x25
+@113 mm at 230 mm c/c, including jointing & finishing to a flush finish of tapered
+@113 and square edges of the board with recommended jointing compounds,
+@113 jointing tapes,finishing with jointing compounds in three layers covering
+@113 up to 150 mm on both sides of joints and two coats of primer suitable for
+@113 boards, all as per manufacture’s specification and also including the cost
+@113 of making opening for light fittings, grills, diffusers, cut outs made with
+@113 frame of perimeter channels suitably fixed, all complete as per drawings,
+@113 specificaton and direction of the Engineer in charge but excluding the cost
+@113 of painting with:
+@113 12.59.1 @165 8 mm thick Calcium Silicate Board made with Calcareous
+@165 & @181 Siliceous @228 materials @276 reinforced @328 with @354 cellulose @400 fiber
+@165 manufactured through autoclaving process. @440 sqm @484 1572.30
+@58 12.60 @113 Providing and fixing thermal insulation of ceiling (under deck insulation)
+@413 3
+@113 with Resin Bonded Rockwool conforming to IS: 8183,density 48 kg/ m @416 ,
+@113 50 mm thick, wrapped in 200 G Virgin Polythene bags fixed to ceiling with
+@113 metallic cleats (50x50x3 mm) @ 60 cm and wire mesh of 12.5 mm x 24
+@113 gauge wire mesh, for top most ceiling of building. @440 sqm @486 667.05
+@58 12.61 @113 Providing and fixing thermal insulation with Resin bonded rock wool
+@285 3
+@113 conforming to IS: 8183, density 48 kg/m @288 , 50 mm thick, wrapped in 200
+@113 G virgin Polythene bags placed over existing false ceilng and held in
+@113 position by criss-crossing Gl wire. @440 sqm @486 316.05
+@58 12.62 @113 Providing and fixing thermal insulation with Resin Bonded rock wool
+@317 3
+@113 conforming to IS: 8183, having density 48 kg/m @320 , 50 mm thick,wrapped
+@113 in 200 G Virgin Polythene Bags fixed to wall with screw, rawel plug &
+@113 washers and held and in position by criss cossing GI wire etc. complete
+@113 as per directions of Engineer-in-Charge. @440 sqm @486 322.50
+@411 SUB HEAD : 12.0 ROOFING
+@51 196
+=== PAGE 50
+
+=== PAGE 51
+@58 Code No @240 Description @440 Unit @490 Rate
+@58 12.63 @113 Providing and applying two coats of High Albedo paint having minimum
+@113 Solar @141 Reflective @189 Index @218 (SRI) @247 108 @269 (with @295 solar @322 reflectance @374 & @387 thermal
+@113 emittance tested as per ASTMC 1549 and ASTMC 1371 respectively),
+@113 VOC less than 10 cc/gm. The coating thickness and the methodology of
+@113 application shall be strctly as per manufacturer’s specifications and as
+@113 approved by Engineer-in-Charge. Surface preparation includes cleaning
+@113 with metal wire brush to remove all dust, fungus etc., washing with water
+@113 all complete. The contractor shall give guarantee for the perfomance of
+@113 SRI and also the durabitity of coating, all complete as per direction of
+@113 Engineer-in-Charge. @440 sqm @486 357.60
+@58 12.64 @113 Providing & fixing at all heights, levels and locations Mill finish Aluminium
+@113 alloy roofing sheets of alloy IS designation 31500, temper Hx8 conforming
+@113 to IS 737 and dimensions as per IS code 2676 with characteristics of
+@113 good formability and corrosion resistance. The profile sheets shall be
+@113 fixed to truss members in slope or required pitch or curvature with Hex
+@113 cap headed self drilling/tapping Stainless steel screws M6, 50 mm long
+@113 with 3 mm EPDM seal washer etc. all inclusive of labour, scaffolding, T&P
+@113 and sundries etc. complete as per directions of the Engineer-In-Charge.
+@113 (Cost of truss/frame work shall be paid separately).
+@113 12.64.1 @165 0.56 mm, Aluminium troughed profile with center to center
+@165 pitch of 200 mm, depth of 32 mm, overall profile width 1092
+@165 mm, cover width 1000 mm. @440 sqm @484 1034.10
+@113 12.64.2 @165 0.71 mm, Aluminium troughed profile with centre to centre
+@165 pitch of 200 mm, depth of 32 mm, overall profile width 1092
+@165 mm, cover width 1000 mm. @440 sqm @484 1252.75
+@113 12.64.3 @165 0.91 mm, troughed profile with center to center pitch of 200
+@165 mm, depth of 32 mm, overall profile width 1092 mm, cover
+@165 width 1000 mm. @440 sqm @484 1572.80
+@113 12.64.4 @165 0.56 mm Aluminium profile with center to center pitch of 175
+@165 mm, depth of 46 mm, top crest width of 41 mm, bottom valley
+@165 width of 80 mm, overall profile width of 1144 mm, cover width
+@165 1050 mm. @440 sqm @484 1313.70
+@113 12.64.5 @165 0.71 mm Aluminium profile with center to center pitch of 175
+@165 mm, depth of 46 mm, top crest width of 41 mm, bottom valley
+@165 width of 80 mm, overall profile width of 1144 mm, cover width
+@165 1050 mm. @440 sqm @484 1616.45
+@113 12.64.6 @165 0.91 mm Aluminium profile with center to center pitch of 175
+@165 mm, depth of 46 mm, top crest width of 41 mm, bottom valley
+@165 width of 80 mm, overall profile width of 1144 mm, cover width
+@165 1050 mm. @440 sqm @484 2026.40
+@113 12.64.7 @165 0.56 mm Aluminium Circular (sinusoidal) profile with center
+@165 to center pitch of 75 mm, depth of 19 mm, overall profile
+@165 width 1250 mm,cover width 1150 mm. @440 sqm @484 1012.15
+@113 12.64.8 @165 0.71 mm Aluminium Circular (sinusoidal) profile with center
+@165 to center pitch of 75 mm, depth of 19 mm, overall profile
+@165 width 1250 mm,cover width 1150 mm. @440 sqm @484 1256.95
+@113 12.64.9 @165 0.91 mm Aluminium Circular (sinusoidal) profile with center
+@165 to center pitch of 75 mm, depth of 19 mm, overall profile
+@165 width 1250 mm,cover width 1150 mm. @440 sqm @484 1596.45
+@411 SUB HEAD : 12.0 ROOFING
+@51 197
+=== PAGE 52
+
+=== PAGE 53
+@58 Code No @240 Description @440 Unit @490 Rate
+@58 12.65 @113 Providing & fixing at all heights, levels and locations colour finish Aluminium
+@113 alloy roofing sheets of alloy IS designation 31500, temper Hx8 conforming
+@113 to IS 737 and dimensions as per IS code 2676 with characteristics of
+@113 good formability and corrosion resistance. The profile sheets shall be
+@113 fixed to truss members in slope or required pitch or curvature with Hex
+@113 cap headed self drilling/tapping Stainless steel screws M6, 50 mm long
+@113 with 3 mm EPDM seal washer etc. all inclusive of labour, scaffolding, T&P
+@113 and sundries etc. complete as per directions of the Engineer-In-Charge.
+@113 (Cost of truss/frame work shall be paid separately).
+@113 12.65.1 @165 0.56 mm, Aluminium Colour coated troughed profile with
+@165 center to center pitch of 200 mm, depth of 32 mm, overall
+@165 profile width 1092 mm, cover width 1000 mm. @440 sqm @484 1176.70
+@113 12.65.2 @165 0.71 mm, Aluminium Colour coated troughed profile with
+@165 center to center pitch of 200 mm, depth of 32 mm, overall
+@165 profile width 1092 mm, cover width 1000 mm. @440 sqm @484 1430.20
+@113 12.65.3 @165 0.91 mm, Aluminium Colour coated troughed profile with
+@165 center to center pitch of 200 mm, depth of 32 mm, overall
+@165 profile width 1092 mm, cover width 1000 mm. @440 sqm @484 1797.75
+@113 12.65.4 @165 0.56 mm Aluminium Colour profile with center to center pitch
+@165 of 175 mm, depth of 46 mm, top crest width of 41 mm, bottom
+@165 valley width of 80 mm, overall profile width of 1144 mm, cover
+@165 width 1050 mm. @440 sqm @484 1484.00
+@113 12.65.5 @165 0.71 mm Aluminium Colour coated profile with center to
+@165 center pitch of 175 mm, depth of 46 mm, top crest width of
+@165 41 mm, bottom valley width of 80 mm, overall profile width of
+@165 1144 mm, cover width 1050 mm. @440 sqm @484 1865.60
+@113 12.65.6 @165 0.91 mm Aluminium Colour coated profile with center to
+@165 center pitch of 175 mm, depth of 46 mm, top crest width of
+@165 41 mm, bottom valley width of 80 mm, overall profile width of
+@165 1144 mm, cover width 1050 mm. @440 sqm @484 2335.45
+@113 12.65.7 @165 0.56 mm Aluminium profile with center to center pitch of
+@165 177.5 mm, depth of 28.5 mm, 987 mm overall profile width,
+@165 cover width 900 mm @440 sqm @484 1221.15
+@113 12.65.8 @165 0.71 mm Aluminium profile with center to center pitch of
+@165 177.5 mm, depth of 28.5 mm, 987 mm overall profile width,
+@165 cover width 900 mm @440 sqm @484 1533.00
+@58 12.66 @113 Providing @159 and @181 fixing @210 of @225 Pre-coated @278 colour @310 or @325 mill @346 finish @374 Aluminium
+@113 Roofing Accessories in 0.71 mm thickness ,Alloy 31500 (IS designation)
+@113 [Aluminium Alloy (AA) 3004 (ISO designation)]. For colour, coating shall
+@113 be 5-7 microns epoxy primer on both sides of the sheet and polyester top
+@113 coat 15-18 microns, using self drilling/tapping SS screws of size 6 x 50
+@113 mm with 3 mm thick EPDM seal and SS plain washer complete :
+@113 12.66.1 @165 Precoated/mill finish aluminium Ridges plain (500- 600mm) @437 metre @484 1066.20
+@113 12.66.2 @165 Precoated/mill finish aluminium Flashings/ Aprons (Upto 600
+@165 mm) @437 metre @486 977.15
+@113 12.66.3 @165 Precoated/mill finish aluminium North light curves @437 metre @484 1055.90
+@113 12.66.4 @165 Precoated/mill finish aluminium Barge board (Upto 200 mm) @437 metre @486 813.25
+@113 12.66.5 @165 Precoated/mill finish aluminium Crimp curve @437 metre @486 914.70
+@113 12.66.6 @165 Precoated/mill finish aluminium Gutter (600 mm over all girth) @437 metre @484 1808.65
+@411 SUB HEAD : 12.0 ROOFING
+@51 198
+=== PAGE 54
+
+=== PAGE 55

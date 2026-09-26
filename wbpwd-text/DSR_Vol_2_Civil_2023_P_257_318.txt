@@ -1,0 +1,2862 @@
+=== PAGE 1
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 PP-R PIPES
+@58 18.4 @110 Providing and fixing 3 layer PP-R (Poly propylene Random copolymer)
+@110 pipes confirming to IS:15801, UV stabilized & anti - microbial fusion
+@110 welded, having thermal stability for hot & cold water supply, including all
+@110 PP - R plain & brass threaded polypropylene random fittings and fixing
+@110 the pipe with clamps at 1.00 m spacing. This includes testing of joints
+@110 complete as per direction of Engineer-in-Charge.
+@110 Internal Exposed on walls
+@110 18.4.1 @167 PN - 16 Pipe, 20 mm OD (SDR-7.4) @433 metre @484 272.00
+@110 18.4.2 @167 PN - 16 Pipe, 25 mm OD (SDR-7.4) @433 metre @484 318.35
+@110 18.4.3 @167 PN - 16 Pipe, 32 mm OD (SDR-7.4) @433 metre @484 362.90
+@110 18.4.4 @167 PN - 16 Pipe, 40 mm OD (SDR-7.4) @433 metre @484 545.75
+@110 18.4.5 @167 PN - 10 Pipe, 50 mm OD (SDR-11) @433 metre @484 580.10
+@58 18.5 @110 Providing and fixing 3 layer PP-R (Poly propylene Random copolymer)
+@110 pipes confirming to IS:15801, UV stabilized & anti - microbial fusion
+@110 welded, having thermal stability for hot & cold water supply, including all
+@110 PP - R plain & brass threaded polypropylene random fittings and fixing
+@110 the pipe with clamps at 1.00 m spacing. This includes the cost of cutting
+@110 chases and making good the same including testing of joints complete as
+@110 per direction of Engineer-in-Charge.
+@110 Concealed work,including cutting chases and making good the wall etc.
+@110 18.5.1 @167 PN - 16 Pipe, 20 mm OD (SDR-7.4) @433 metre @484 477.85
+@110 18.5.2 @167 PN - 16 Pipe, 25 mm OD (SDR-7.4) @433 metre @484 515.20
+@110 18.5.3 @167 PN - 16 Pipe, 32 mm OD (SDR-7.4) @433 metre @484 561.45
+@58 18.6 @110 Providing and fixing 3 layer PP-R (Poly propylene Random copolymer)
+@110 pipes confirming to IS:15801 UV stabilized & anti - microbial fusion welded,
+@110 having thermal stability for hot & cold water supply, including all PP - R
+@110 plain & brass threaded polypropylene random fittings, including trenching,
+@110 refilling & testing of joints complete as per direction of Engineer-in-Charge.
+@110 External work
+@110 18.6.1 @167 PN - 16 Pipe, 20 mm OD (SDR-7.4) @433 metre @484 224.95
+@110 18.6.2 @167 PN - 16 Pipe, 25 mm OD (SDR-7.4) @433 metre @484 265.05
+@110 18.6.3 @167 PN - 16 Pipe, 32 mm OD (SDR-7.4) @433 metre @484 316.25
+@110 18.6.4 @167 PN - 16 Pipe, 40 mm OD (SDR-7.4) @433 metre @484 415.10
+@110 18.6.5 @167 PN - 10 Pipe, 50 mm OD (SDR-11) @433 metre @484 450.95
+@110 18.6.6 @167 PN - 10 Pipe, 63 mm OD (SDR-11) @433 metre @484 597.75
+@110 18.6.7 @167 PN - 10 Pipe, 75 mm OD (SDR-11) @433 metre @484 696.75
+@110 18.6.8 @167 PN - 10 Pipe, 90 mm OD (SDR-11) @433 metre @484 975.30
+@110 18.6.9 @167 PN - 10 Pipe, 110 mm OD (SDR-11) @433 metre @481 1301.35
+@110 18.6.10 @167 PN - 10 Pipe, 160 mm OD (SDR-11) @433 metre @481 2746.85
+@58 18.6A @110 Providing and fixing PPR Unions
+@110 18.6A.1 @167 PPR Union 20mm @435 each @484 315.50
+@110 18.6A.2 @167 PPR Union 25mm @435 each @484 334.00
+@110 18.6A.3 @167 PPR Union 32mm @435 each @484 403.70
+@110 18.6A.4 @167 PPR Union 40mm @435 each @484 543.10
+@110 18.6A.5 @167 PPR Union 50mm @435 each @484 782.10
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 257
+=== PAGE 2
+
+=== PAGE 3
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 18.6A.6 @167 PPR Union 63mm @435 each @484 913.00
+@110 18.6A.7 @167 PPR Union 75mm @435 each @481 1684.05
+@110 C.P.V.C. PIPES
+@58 18.7 @110 Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having
+@110 thermal stability for hot & cold water supply and all CPVC plain & brass
+@110 threaded fittings, including fixing the pipe with clamps at 1.00 m spacing.
+@110 This includes jointing of pipes & fittings with one step CPVC solvent
+@110 cement and testing of joints complete as per direction of Engineer in
+@110 Charge.
+@110 Internal work - Exposed on wall
+@110 18.7.1 @167 15 mm nominal dia Pipes @433 metre @484 286.80
+@110 18.7.2 @167 20 mm nominal dia Pipes @433 metre @484 335.00
+@110 18.7.3 @167 25 mm nominal dia Pipes @433 metre @484 401.55
+@110 18.7.4 @167 32 mm nominal dia Pipes @433 metre @484 518.75
+@110 18.7.5 @167 40 mm nominal dia Pipes @433 metre @484 702.95
+@110 18.7.6 @167 50 mm nominal dia Pipes @433 metre @484 934.15
+@58 18.8 @110 Providing @157 and @179 fixing @208 Chlorinated @264 Polyvinyl @308 Chloride @350 (CPVC) @390 pipes,
+@110 having thermal stability for hot & cold water supply, including all CPVC
+@110 plain & brass threaded fittings and fixing the pipe with clamps at 1.00
+@110 m spacing. This includes jointing of pipes & fittings with one step CPVC
+@110 solvent cement and the cost of cutting chases and making good the same
+@110 including testing of joints complete as per direction of Engineer in Charge.
+@110 Concealed work, including cutting chases and making good the walls etc.
+@110 18.8.1 @167 15 mm nominal dia Pipes @433 metre @484 497.80
+@110 18.8.2 @167 20 mm nominal dia Pipes @433 metre @484 537.60
+@110 18.8.3 @167 25 mm nominal dia Pipes @433 metre @484 627.25
+@110 18.8.4 @167 32 mm nominal dia Pipes @433 metre @484 739.30
+@58 18.9 @110 Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having
+@110 thermal stability for hot & cold water supply including all CPVC plain &
+@110 brass threaded fittings This includes jointing of pipes & fittings with one
+@110 step CPVC solvent cement, trenching, refilling & testing of joints complete
+@110 as per direction of Engineer in Charge.
+@110 External work
+@110 18.9.1 @167 15 mm nominal dia Pipes @433 metre @484 244.70
+@110 18.9.2 @167 20 mm nominal dia Pipes @433 metre @484 274.30
+@110 18.9.3 @167 25 mm nominal dia Pipes @433 metre @484 355.40
+@110 18.9.4 @167 32 mm nominal dia Pipes @433 metre @484 438.60
+@110 18.9.5 @167 40 mm nominal dia Pipes @433 metre @484 563.05
+@110 18.9.6 @167 50 mm nominal dia Pipes @433 metre @484 794.25
+@110 18.9.7 @167 65 mm nominal dia Pipes @433 metre @481 1674.40
+@110 18.9.8 @167 80 mm nominal dia Pipes @433 metre @481 2166.35
+@110 18.9.9 @167 100 mm nominal dia Pipes @433 metre @481 3271.70
+@110 18.9.10 @167 150 mm nominal dia Pipes @433 metre @481 6822.70
+@58 18.10 @110 Providing and fixing G.I. pipes complete with G.I. fittings and clamps,
+@110 including cutting and making good the walls etc.
+@110 Internal work - Exposed on wall
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 258
+=== PAGE 4
+
+=== PAGE 5
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 18.10.1 @167 15 mm dia nominal bore @433 metre @484 366.40
+@110 18.10.2 @167 20 mm dia nominal bore @433 metre @484 437.30
+@110 18.10.3 @167 25 mm dia nominal bore @433 metre @484 551.70
+@110 18.10.4 @167 32 mm dia nominal bore @433 metre @484 667.00
+@110 18.10.5 @167 40 mm dia nominal bore @433 metre @484 811.90
+@110 18.10.6 @167 50 mm dia nominal bore @433 metre @481 1048.35
+@58 18.11 @110 Providing and fixing G.I. Pipes complete with G.I. fittings and clamps,
+@110 including making good the walls etc. concealed pipe, including painting with
+@110 anti corrosive bitumastic paint, cutting chases and making good the wall :
+@110 18.11.1 @167 15 mm dia nominal bore @433 metre @484 580.45
+@110 18.11.2 @167 20 mm dia nominal bore @433 metre @484 635.20
+@58 18.12 @110 Providing @156 and @178 fixing @206 G.I. @227 pipes @256 complete @300 with @323 G.I. @344 fittings @378 including
+@110 trenching and refilling etc.
+@110 External work
+@110 18.12.1 @167 15 mm dia nominal bore @433 metre @484 322.15
+@110 18.12.2 @167 20 mm dia nominal bore @433 metre @484 368.60
+@110 18.12.3 @167 25 mm dia nominal bore @433 metre @484 467.75
+@110 18.12.4 @167 32 mm dia nominal bore @433 metre @484 540.30
+@110 18.12.5 @167 40 mm dia nominal bore @433 metre @484 617.05
+@110 18.12.6 @167 50 mm dia nominal bore @433 metre @484 762.15
+@110 18.12.7 @167 65 mm dia nominal bore @433 metre @484 896.60
+@110 18.12.8 @167 80 mm dia nominal bore @433 metre @481 1041.70
+@58 18.13 @110 Making connection of G.I. distribution branch with G.I. main of following
+@110 sizes by providing and fixing tee, including cutting and threading the pipe
+@110 etc. complete :
+@110 18.13.1 @167 25 to 40 mm nominal bore @435 each @484 911.90
+@110 18.13.2 @167 50 to 80 mm nominal bore @435 each @481 1785.35
+@58 18.14 @110 Fixing water meter and stop cock in G.I. pipe line including cutting and
+@110 threading the pipe and making long screws etc. complete (cost of water
+@110 meter and stop cock to be paid separately). @435 each @484 812.30
+@110 BRASS FITTINGS
+@58 18.15 @110 Providing and fixing brass bib cock of approved quality :
+@110 18.15.1 @167 15 mm nominal bore @435 each @484 353.25
+@110 18.15.2 @167 20 mm nominal bore @435 each @484 379.20
+@58 18.16 @110 Providing and fixing brass stop cock of approved quality :
+@110 18.16.1 @167 15 mm nominal bore @435 each @484 353.25
+@110 18.16.2 @167 20 mm nominal bore @435 each @484 379.20
+@58 18.17 @110 Providing and fixing gun metal gate valve with C.I. wheel of approved
+@110 quality (screwed end) :
+@110 18.17.1 @167 25 mm nominal bore @435 each @484 622.40
+@110 18.17.1A @167 20 mm nominal bore @435 each @484 539.95
+@110 18.17.2 @167 32 mm nominal bore. @435 each @484 689.60
+@110 18.17.3 @167 40 mm nominal bore @435 each @484 826.10
+@110 18.17.4 @167 50 mm nominal bore @435 each @481 1026.65
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 259
+=== PAGE 6
+
+=== PAGE 7
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 18.17.5 @167 65 mm nominal bore @435 each @481 1742.15
+@110 18.17.6 @167 80 mm nominal bore @435 each @481 2604.55
+@58 18.18 @110 Providing and fixing ball valve (brass) of approved quality, High or low
+@110 pressure, with plastic floats complete :
+@110 18.18.1 @167 15 mm nominal bore @435 each @484 406.85
+@110 18.18.2 @167 20 mm nominal bore @435 each @484 462.50
+@110 18.18.3 @167 25 mm nominal bore @435 each @484 464.05
+@58 18.19 @110 Providing and fixing gun metal non- return valve of approved quality
+@110 (screwed end) :
+@110 18.19.1 @167 25 mm nominal bore
+@167 18.19.1.1 @225 Horizontal @435 each @484 591.40
+@167 18.19.1.2 @225 Vertical @435 each @484 624.10
+@110 18.19.2 @167 32 mm nominal bore
+@167 18.19.2.1 @225 Horizontal @435 each @484 791.90
+@167 18.19.2.2 @225 Vertical @435 each @484 850.25
+@110 18.19.3 @167 40 mm nominal bore
+@167 18.19.3.1 @225 Horizontal @435 each @484 952.60
+@167 18.19.3.2 @225 Vertical @435 each @482 1134.70
+@110 18.19.4 @167 50 mm nominal bore
+@167 18.19.4.1 @225 Horizontal @435 each @481 1371.20
+@167 18.19.4.2 @225 Vertical @435 each @481 1445.15
+@110 18.19.5 @167 65 mm nominal bore
+@167 18.19.5.1 @225 Horizontal @435 each @481 2448.05
+@167 18.19.5.2 @225 Vertical @435 each @481 2291.55
+@110 18.19.6 @167 80 mm nominal bore
+@167 18.19.6.1 @225 Horizontal @435 each @481 3664.75
+@167 18.19.6.2 @225 Vertical @435 each @481 3855.40
+@58 18.20 @110 Providing and fixing brass ferrule with C.I. mouth cover including boring
+@110 and tapping the main :
+@110 18.20.1 @167 15 mm nominal bore @435 each @484 329.30
+@110 18.20.2 @167 20 mm nominal bore @435 each @484 380.00
+@110 18.20.3 @167 25 mm nominal bore @435 each @484 486.80
+@58 18.21 @110 Providing and fixing uplasticised PVC connection pipe with brass unions :
+@110 18.21.1 @167 30 cm length
+@167 18.21.1.1 @225 15 mm nominal bore @435 each @487 85.00
+@167 18.21.1.2 @225 20 mm nominal bore @435 each @487 93.55
+@110 18.21.2 @167 45 cm length
+@167 18.21.2.1 @225 15 mm nominal bore @435 each @487 97.75
+@167 18.21.2.2 @225 20 mm nominal bore @435 each @484 119.05
+@58 18.22 @110 Providing and fixing C.P. brass shower rose with 15 or 20 mm inlet :
+@110 18.22.1 @167 100 mm diameter @435 each @484 193.95
+@110 18.22.2 @167 150 mm diameter @435 each @484 222.35
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 260
+=== PAGE 8
+
+=== PAGE 9
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 C.I./DUCTILE IRON PIPES & SPECIALS
+@58 18.23 @110 Laying in position centrifugally cast (spun) iron S&S or flanged pipes
+@110 (excluding cost of pipe). @431 quintal @484 361.65
+@58 18.24 @110 Laying in position S&S or flanged C.I. special such as tees, bends, collars,
+@110 tapers and caps etc.(excluding cost of specials). @431 quintal @484 661.85
+@58 18.25 @110 Providing and laying S&S C.I. standard specials such as tees, bends,
+@110 collars, tapers, caps etc. (Heavy class):
+@110 18.25.1 @167 Up to 300 mm dia @431 quintal @481 6352.40
+@110 18.25.2 @167 Over 300 mm dia @431 quintal @481 6352.40
+@58 18.26 @110 Providing and laying flanged C.I. standard specials such as tees, bends,
+@110 collars, tapers, caps etc., suitable for flanged jointing as per IS : 1538 :
+@110 18.26.1 @167 Up to 300 mm dia @431 quintal @481 8913.15
+@110 18.26.2 @167 Over 300 mm dia @431 quintal @481 8486.35
+@58 18.27 @110 Providing and laying S&S centrifugally cast (spun) iron pipes (Class LA)
+@110 conforming to IS :1536 :
+@110 18.27.1 @167 100 mm dia pipe @433 metre @481 1423.10
+@110 18.27.2 @167 125 mm dia pipe @433 metre @481 1729.35
+@110 18.27.3 @167 150 mm dia pipe @433 metre @481 2037.00
+@110 18.27.4 @167 200 mm dia pipe @433 metre @481 3406.85
+@110 18.27.5 @167 250 mm dia pipe @433 metre @481 4639.80
+@110 18.27.6 @167 300 mm dia pipe @433 metre @481 6128.65
+@110 18.27.7 @167 350 mm dia pipe @433 metre @481 7343.80
+@110 18.27.8 @167 400 mm dia pipe @433 metre @481 9701.00
+@110 18.27.9 @167 450 mm dia pipe @433 metre @479 11714.85
+@110 18.27.10 @167 500 mm dia pipe @433 metre @479 13728.75
+@110 18.27.11 @167 600 mm dia pipe @433 metre @479 18636.45
+@58 18.28 @110 Providing lead caulked joints to spun iron or C.I. pipes and specials,
+@110 including testing of joints but excluding the cost of pig lead :
+@110 18.28.1 @167 100 mm diameter pipe @435 each @484 496.40
+@110 18.28.2 @167 125 mm diameter pipe @435 each @484 737.50
+@110 18.28.3 @167 150 mm diameter pipe @435 each @484 744.85
+@110 18.28.4 @167 200 mm diameter pipe @435 each @484 990.20
+@110 18.28.5 @167 250 mm diameter pipe @435 each @481 1237.80
+@110 18.28.6 @167 300 mm diameter pipe @435 each @481 1488.80
+@110 18.28.7 @167 350 mm diameter pipe @435 each @481 1513.60
+@110 18.28.8 @167 400 mm diameter pipe @435 each @481 1993.75
+@110 18.28.9 @167 450 mm diameter pipe @435 each @481 2238.45
+@110 18.28.10 @167 500 mm diameter pipe @435 each @481 2366.45
+@110 18.28.11 @167 600 mm diameter pipe @435 each @482 3211.40
+@58 18.29 @110 Supplying pig lead at site of work. @431 quintal @479 29875.40
+@58 18.30 @110 Providing flanged joints to double flanged C.I./ D.I. pipes and specials,
+@110 including testing of joints :
+@110 18.30.1 @167 80 mm diameter pipe @435 each @484 215.10
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 261
+=== PAGE 10
+
+=== PAGE 11
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 18.30.2 @167 100 mm diameter pipe @435 each @484 332.00
+@110 18.30.3 @167 125 mm diameter pipe @435 each @484 351.90
+@110 18.30.4 @167 150 mm diameter pipe @435 each @484 387.40
+@110 18.30.5 @167 200 mm diameter pipe @435 each @484 428.65
+@110 18.30.6 @167 250 mm diameter pipe @435 each @484 596.65
+@110 18.30.7 @167 300 mm diameter pipe @435 each @484 599.50
+@110 18.30.8 @167 350 mm diameter pipe @435 each @484 762.90
+@110 18.30.9 @167 400 mm diameter pipe @435 each @481 1066.80
+@110 18.30.10 @167 450 mm diameter pipe @435 each @481 1305.60
+@110 18.30.11 @167 500 mm diameter pipe @435 each @481 1437.80
+@110 18.30.12 @167 600 mm diameter pipe @435 each @481 1704.10
+@110 C.I. SLUICE VALVES/ FIRE HYDRANTS & FIXTURES
+@58 18.31 @110 Providing and fixing C.I. sluice valves (with cap) complete with bolts, nuts,
+@110 rubber insertions etc. (the tail pieces if required will be paid separately) :
+@110 18.31.1 @167 100 mm diameter
+@167 18.31.1.1 @225 Class I @435 each @481 4791.20
+@167 18.31.1.2 @225 Class II @435 each @481 4985.85
+@110 18.31.2 @167 125 mm diameter
+@167 18.31.2.1 @225 Class I @435 each @481 5160.80
+@167 18.31.2.2 @225 Class II @435 each @481 5943.00
+@110 18.31.3 @167 150 mm diameter
+@167 18.31.3.1 @225 Class I @435 each @481 6966.55
+@167 18.31.3.2 @225 Class II @435 each @481 7312.40
+@110 18.31.4 @167 200 mm diameter
+@167 18.31.4.1 @225 Class I @435 each @479 13554.70
+@167 18.31.4.2 @225 Class II @435 each @479 14622.95
+@110 18.31.5 @167 250 mm diameter
+@167 18.31.5.1 @225 Class I @435 each @479 19566.55
+@167 18.31.5.2 @225 Class II @435 each @479 24623.50
+@110 18.31.6 @167 300 mm diameter
+@167 18.31.6.1 @225 Class I @435 each @479 27059.30
+@167 18.31.6.2 @225 Class II @435 each @479 30203.00
+@58 18.32 @110 Constructing masonry Chamber 30x30x50 cm inside, in brick work in
+@110 cement mortar 1:4 (1 cement :4 coarse sand) for stop cock, with C. I.
+@110 surface box 100x100 x75 mm (inside) with hinged cover fixed in reinforced
+@110 cement concrete slab 1:1.5:3 mix (1 cement : 1.5 coarse sand : 3 graded
+@110 stone aggregate 20 mm nominal size), including necessary excavation,
+@110 foundation concrete 1:5:10 ( 1 cement : 5 fine sand : 10 graded stone
+@110 aggregate 40 mm nominal size ) and inside plastering with cement mortar
+@110 1:3 (1 cement : 3 coarse sand) 12 mm thick, finished with a floating coat
+@110 of neat cement complete as per standard design :
+@110 18.32.1 @167 With common burnt clay F.P.S.(non modular) bricks of class
+@167 designation 7.5 @435 each @481 1992.60
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 262
+=== PAGE 12
+
+=== PAGE 13
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 18.33 @110 Constructing masonry Chamber 60x60x75 cm inside, in brick work in
+@110 cement mortar 1:4 (1 cement : 4 coarse sand) for sluice valve, with C.I.
+@110 surface box 100 mm top diameter, 160 mm bottom diameter and 180 mm
+@110 deep ( inside) with chained lid and RCC top slab 1:1.5:3 mix (1 cement : 1.5
+@110 coarse sand : 3 graded stone aggregate 20 mm nominal size), including
+@110 necessary excavation, foundation concrete 1:5:10 (1 cement : 5 fine sand
+@110 : 10 graded stone aggregate 40 mm nominal size) and inside plastering
+@110 with cement mortar 1:3 (1 cement : 3 coarse sand) 12 mm thick, finished
+@110 with a floating coat of neat cement complete as per standard design :
+@110 18.33.1 @167 With common burnt clay F.P.S.(non modular) bricks of class
+@167 designation 7.5 @435 each @479 10862.40
+@58 18.34 @110 Constructing masonry Chamber 90x90x100 cm inside, in brick work in
+@110 cement mortar 1:4 (1 cement : 4 coarse sand) for sluice valve, with C.I.
+@110 surface box 100 mm top diameter, 160 mm bottom diameter and 180 mm
+@110 deep (inside) with chained lid and RCC top slab 1:1.5:3 mix (1 cement : 1.5
+@110 coarse sand : 3 graded stone aggregate 20 mm nominal size), including
+@110 necessary excavation, foundation concrete 1:5:10 (1 cement : 5 fine sand
+@110 : 10 graded stone aggregate 40 mm nominal size ) and inside plastering
+@110 with cement mortar 1:3 (1 cement : 3 coarse sand) 12 mm thick, finished
+@110 with a floating coat of neat cement complete as per standard design :
+@110 18.34.1 @167 With common burnt clay F.P.S.(non modular) bricks of class
+@167 designation 7.5 @435 each @479 18896.70
+@58 18.35 @110 Constructing masonry Chamber 120x120x100 cm inside, in brick work in
+@110 cement mortar 1:4 (1 cement : 4 coarse sand) for sluice valve, with C.I.
+@110 surface box 100 mm top diameter, 160 mm bottom diameter and 180 mm
+@110 deep ( inside) with chained lid and RCC top slab 1:1.5:3 mix (1 cement : 1.5
+@110 coarse sand : 3 graded stone aggregate 20 mm nominal size), including
+@110 necessary excavation, foundation concrete 1:5:10 (1 cement : 5 fine sand
+@110 : 10 graded stone aggregate 40 mm nominal size) and inside plastering
+@110 with cement mortar 1:3 (1 cement : 3 coarse sand) 12 mm thick, finished
+@110 with a floating coat of neat cement complete as per standard design :
+@110 18.35.1 @167 With common burnt clay F.P.S.(non modular) bricks of class
+@167 designation 7.5 @435 each @479 26163.40
+@58 18.36 @110 Constructing masonry Chamber 60x60x75 cm, inside in brick work in
+@110 cement mortar 1:4 (1 cement : 4 coarse sand) for fire hydrants, with C.I.
+@110 surface box 350x350 mm top and 165 mm deep ( inside) with chained
+@110 lid and RCC top slab 1:1.5:3 mix (1 cement : 1.5 coarse sand : 3 graded
+@110 stone aggregate 20 mm nominal size), including necessary excavation,
+@110 foundation concrete 1:5:10 (1 cement : 5 fine sand:10 graded stone
+@110 aggregate 40 mm nominal size) and inside plastering with cement mortar
+@110 1:3 (1 cement : 3 coarse sand) 12 mm thick, finished with a floating coat
+@110 of neat cement complete as per standard design :
+@110 18.36.1 @167 With common burnt clay F.P.S.(non modular) bricks of class
+@167 designation 7.5 @435 each @479 10354.95
+@58 18.37 @110 Constructing masonry Chamber 60x45x50 cm inside, in brick work in
+@110 cement mortar 1:4 (1 cement : 4 coarse sand) for water meter complete
+@110 with C.I. double flap surface box 400x200x200 mm (inside) with locking
+@110 arrangement and RCC top slab 1:1.5:3 mix (1 cement : 1.5 coarse sand
+@110 : 3 graded stone aggregate 20 mm nominal size), including necessary
+@110 excavation, foundation concrete 1:5:10 ( 1 cement : 5 fine sand:10 graded
+@110 stone aggregate 40 mm nominal size) and inside plastering with cement
+@110 mortar 1:3 (1 cement : 3 coarse sand) 12 mm thick, finished with a floating
+@110 coat of neat cement complete as per standard design :
+@110 18.37.1 @167 With common burnt clay F.P.S.(non modular) bricks of class
+@167 designation 7.5 @435 each @481 9698.55
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 263
+=== PAGE 14
+
+=== PAGE 15
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 18.38 @110 Painting G.I. pipes and fittings with synthetic enamel white paint with two
+@110 coats over a ready mixed priming coat, both of approved quality for new
+@110 work :
+@110 18.38.1 @167 15 mm diameter pipe @433 metre @487 19.40
+@110 18.38.2 @167 20 mm diameter pipe @433 metre @487 23.25
+@110 18.38.3 @167 25 mm diameter pipe @433 metre @487 30.25
+@110 18.38.4 @167 32 mm diameter pipe @433 metre @487 36.35
+@110 18.38.5 @167 40 mm diameter pipe @433 metre @487 42.65
+@110 18.38.6 @167 50 mm diameter pipe @433 metre @487 51.00
+@58 18.39 @110 Repainting G.I. pipes and fittings with synthetic enamel white paint with
+@110 one coat of approved quality :
+@110 18.39.1 @167 15 mm diameter pipe @433 metre @489 9.50
+@110 18.39.2 @167 20 mm diameter pipe @433 metre @487 11.30
+@110 18.39.3 @167 25 mm diameter pipe @433 metre @487 14.40
+@110 18.39.4 @167 32 mm diameter pipe @433 metre @487 17.25
+@110 18.39.5 @167 40 mm diameter pipe @433 metre @487 20.00
+@110 18.39.6 @167 50 mm diameter pipe @433 metre @487 23.85
+@58 18.40 @110 Painting G.I. pipes and fittings with two coats of anti-corrosive bitumastic
+@110 paint of approved quality :
+@110 18.40.1 @167 15 mm diameter pipe @433 metre @487 12.05
+@110 18.40.2 @167 20 mm diameter pipe @433 metre @487 14.45
+@110 18.40.3 @167 25 mm diameter pipe @433 metre @487 18.35
+@110 18.40.4 @167 32 mm diameter pipe @433 metre @487 22.20
+@110 18.40.5 @167 40 mm diameter pipe @433 metre @487 25.25
+@110 18.40.6 @167 50 mm diameter pipe @433 metre @487 30.50
+@110 18.40.7 @167 65 mm diameter pipe @433 metre @487 37.85
+@110 18.40.8 @167 80 mm diameter pipe @433 metre @487 44.00
+@58 18.41 @110 Providing and filling sand of grading zone V or coarser grade, allround the
+@110 G.I. pipes in external work :
+@110 18.41.1 @167 15 mm diameter pipe @433 metre @484 154.45
+@110 18.41.2 @167 20 mm diameter pipe @433 metre @484 156.55
+@110 18.41.3 @167 25 mm diameter pipe @433 metre @484 160.70
+@110 18.41.4 @167 32 mm diameter pipe @433 metre @484 164.90
+@110 18.41.5 @167 40 mm diameter pipe @433 metre @484 167.00
+@110 18.41.6 @167 50 mm diameter pipe @433 metre @484 173.25
+@110 18.41.7 @167 65 mm diameter pipe @433 metre @484 273.45
+@110 18.41.8 @167 80 mm diameter pipe @433 metre @484 281.80
+@110 18.41.9 @167 100 mm diameter pipe @433 metre @484 298.50
+@110 18.41.10 @167 150 mm diameter pipe @433 metre @484 444.60
+@58 18.42 @110 Boring with 100 mm diameter casing pipe for hand pump / tubewell, in all
+@110 soils except ordinary hard rocks requiring blasting, including removing the
+@110 casing pipe after the hand pump / tube well is lowered and tested :
+@110 18.42.1 @167 Up to 6 metres depth @433 metre @484 747.90
+@110 18.42.2 @167 Beyond 6 m and up to 12 m depth @433 metre @484 884.85
+@110 18.42.3 @167 Beyond 12 m and up to 18 m depth @433 metre @481 1025.95
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 264
+=== PAGE 16
+
+=== PAGE 17
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 18.43 @110 Providing and placing in position filters of 40 mm diameter G.I. pipe with
+@110 brass strainer of approved quality. @433 metre @484 960.30
+@58 18.44 @110 Providing and fixing to filter and lowering to proper levels 40 mm G.I. pipe
+@110 for tube well including cleaning and priming the tube well. @433 metre @484 546.00
+@58 18.45 @110 Providing and placing in position hand pump of approved quality for 40
+@110 mm diameter G.I. pipe complete with all accessories. @435 each @481 1321.65
+@58 18.46 @110 Providing and fixing G.I. Union in G.I. pipe including cutting and threading
+@110 the pipe and making long screws etc. complete (New work) :
+@110 18.46.1 @167 15 mm nominal bore @435 each @484 318.35
+@110 18.46.2 @167 20 mm nominal bore @435 each @484 346.80
+@110 18.46.3 @167 25 mm nominal bore @435 each @484 439.25
+@110 18.46.4 @167 32 mm nominal bore @435 each @484 489.05
+@110 18.46.5 @167 40 mm nominal bore @435 each @484 631.30
+@110 18.46.6 @167 50 mm nominal bore @435 each @484 823.80
+@110 18.46.7 @167 65 mm nominal bore @435 each @482 1136.80
+@110 18.46.8 @167 80 mm nominal bore @435 each @481 1207.95
+@58 18.47 @110 Providing and fixing G.I. Union in existing G.I. pipe line, cutting and
+@110 threading the pipe and making long screws, including excavation, refilling
+@110 the earth or cutting of wall and making good the same complete wherever
+@110 required :
+@110 18.47.1 @167 15 mm nominal bore @435 each @484 829.45
+@110 18.47.2 @167 20 mm nominal bore @435 each @484 857.85
+@110 18.47.3 @167 25 mm nominal bore @435 each @484 950.35
+@110 18.47.4 @167 32 mm nominal bore @435 each @481 1000.15
+@110 18.47.5 @167 40 mm nominal bore @435 each @482 1142.40
+@110 18.47.6 @167 50 mm nominal bore @435 each @481 1520.80
+@110 18.47.7 @167 65 mm nominal bore @435 each @481 1833.75
+@110 18.47.8 @167 80 mm nominal bore @435 each @481 1904.90
+@58 18.48 @110 Providing and placing on terrace (at all floor levels) polyethylene water
+@110 storage @148 tank, @175 IS @190 : @199 12701 @232 marked, @272 with @295 cover @325 and @347 suitable @386 locking
+@110 arrangement and making necessary holes for inlet, outlet and overflow
+@110 pipes but without fittings and the base support for tank. @429 per litre @487 11.00
+@58 18.48A @110 Providing and fixing rectangular high density polyethylene water storage
+@110 loft tank with cover, conforming to ISI : 12701, colour of opaque white or
+@110 as approved by Engineer-in-charge. The rate includes making necessary
+@110 holes for inlet, outlet & over flow pipes. The base support Including fittings
+@110 & fixtures for tank shall be paid separately. @429 per litre @487 11.00
+@110 C.P. BRASS FITTINGS
+@58 18.49 @110 Providing and fixing C.P. brass bib cock of approved quality conforming
+@110 to IS:8931 :
+@110 18.49.1 @167 15 mm nominal bore @435 each @484 506.80
+@58 18.50 @110 Providing and fixing C.P. brass long nose bib cock of approved quality
+@110 conforming to IS standards and weighing not less than 810 gms.
+@110 18.50.1 @167 15 mm nominal bore @435 each @484 820.70
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 265
+=== PAGE 18
+
+=== PAGE 19
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 18.51 @110 Providing and fixing C.P. brass long body bib cock of approved quality
+@110 conforming to IS standards and weighing not less than 690 gms.
+@110 18.51.1 @167 15 mm nominal bore @435 each @484 798.95
+@58 18.52 @110 Providing and fixing C.P. brass stop cock (concealed) of standard design
+@110 and of approved make conforming to IS:8931.
+@110 18.52.1 @167 15 mm nominal bore @435 each @484 670.45
+@58 18.53 @110 Providing and fixing C.P. brass angle valve for basin mixer and geyser
+@110 points of approved quality conforming to IS:8931
+@110 18.53.1 @167 15 mm nominal bore @435 each @484 574.30
+@58 18.53A @110 Providing and fixing C.P. Brass extension nipple (size 15 mm x 50 mm) of
+@110 approved make and quality as per direction of Engineer-in-charge. @435 each @487 74.80
+@110 PTMT FITTINGS
+@58 18.54 @110 Providing and fixing PTMT bib cock of approved quality and colour.
+@110 18.54.1 @167 15 mm nominal bore, 86 mm long, weighing not less than
+@167 88 gms @435 each @484 125.60
+@110 18.54.2 @167 15 mm nominal bore, 122 mm long, weighing not less than
+@167 99 gms @435 each @484 161.20
+@110 18.54.3 @167 15 mm nominal bore, 165 mm long, weighing not less than
+@167 110 gms @435 each @484 176.85
+@110 18.54.4 @167 15 mm nominal bore, 90 mm long, weighing not less than
+@167 93 gms @435 each @484 196.75
+@58 18.55 @110 Providing and fixing PTMT stop cock of approved quality and colour.
+@110 18.55.1 @167 15 mm nominal bore, 86 mm long, weighing not less than
+@167 88 gms @435 each @484 118.50
+@110 18.55.2 @167 20 mm nominal bore, 89 mm long, weighing not less than
+@167 88 gms @435 each @484 129.90
+@110 18.55.3 @167 Concealed stop cock, 15 mm nominal bore, 108 mm long,
+@167 weighing not less than 108 gms @435 each @484 218.10
+@58 18.56 @110 Providing and fixing PTMT pillar cock of approved quality and colour.
+@110 18.56.1 @167 15 mm nominal bore, 107 mm long, weighing not less than
+@167 110 gms @435 each @484 208.45
+@110 18.56.2 @167 15 mm nominal bore, 125 mm long foam flow, weighing not
+@167 less than 120 gms @435 each @484 224.10
+@58 18.57 @110 Providing and fixing PTMT, push cock of approved quality and colour.
+@110 18.57.1 @167 15 mm nominal bore, 98 mm long, weighing not less than
+@167 75 gms @435 each @484 112.80
+@110 18.57.2 @167 15 mm nominal bore, 80 mm long, weighing not less than
+@167 46 gms @435 each @487 95.75
+@58 18.58 @110 Providing and fixing PTMT grating of approved quality and colour.
+@110 18.58.1 @167 Circular type
+@167 18.58.1.1 @225 100 mm nominal dia @435 each @487 37.60
+@167 18.58.1.2 @225 125 mm nominal dia with 25 mm waste hole @435 each @487 51.85
+@110 18.58.2 @167 Rectangular type with openable circular lid
+@167 18.58.2.1 @225 150 @249 mm @273 nominal @314 size @339 square @376 100 @400 mm
+@225 diameter of the inner hinged round grating @435 each @484 196.95
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 266
+=== PAGE 20
+
+=== PAGE 21
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 AIR VALVE & WATER METER (BULK TYPE)
+@58 18.59 @110 Providing and fixing C.I. double acting air valve of approved quality with
+@110 bolts, nuts, rubber insertions etc. complete (The tail pieces, tapers etc if
+@110 required will be paid separately) :
+@110 18.59.1 @167 50 mm dia @435 each @481 5748.80
+@110 18.59.2 @167 80 mm dia @435 each @481 6993.60
+@110 18.59.3 @167 100 mm dia @435 each @481 8893.00
+@58 18.60 @110 Providing and fixing enclosed type water meter (bulk type) conforming to
+@110 IS : 2373 and tested by Municipal Board complete with bolts, nuts, rubber
+@110 insertions etc. (The tail pieces if required will be paid separately) :
+@110 18.60.1 @167 80 mm dia nominal bore @435 each @481 3627.65
+@110 18.60.2 @167 100 mm dia nominal bore @435 each @481 5468.35
+@110 18.60.3 @167 150 mm dia nominal bore @435 each @481 8408.80
+@110 18.60.4 @167 200 mm dia nominal bore @435 each @481 9043.30
+@58 18.61 @110 Providing and fixing C.I. dirt box strainer for bulk type water meter with
+@110 nuts, bolts, rubber insertions etc. complete conforming to IS : 2373 :
+@110 18.61.1 @167 80 mm dia @435 each @481 4623.50
+@110 18.61.2 @167 100 mm dia @435 each @481 7460.00
+@110 18.61.3 @167 150 mm dia @435 each @481 9433.10
+@110 18.61.4 @167 200 mm dia @435 each @479 12927.10
+@58 18.62 @110 Providing and fixing PTMT Ball cock of approved quality, colour and make
+@110 complete with Epoxy coated aluminium rod with L.P./ H.P.H.D. plastic ball.
+@110 18.62.1 @167 15 mm nominal bore, 105 mm long, weighing not less than
+@167 138 gms @435 each @484 182.10
+@110 18.62.2 @167 20 mm nominal bore, 120 mm long, weighing not less than
+@167 198 gms @435 each @484 257.60
+@110 18.62.3 @167 25 mm nominal bore, 152 mm long, weighing not less than
+@167 440 gms @435 each @484 523.80
+@110 18.62.4 @167 40 mm nominal bore, 206 mm long, weighing not less than
+@167 690 gms @435 each @484 737.20
+@110 18.62.5 @167 50 mm nominal bore, 242 mm long, weighing not less than
+@167 1240 gms @435 each @481 1375.95
+@58 18.63 @110 Providing and fixing PTMT angle stop cock 15 mm nominal bore, weighing
+@110 not less than 85 gms @435 each @484 156.90
+@58 18.64 @110 Providing and fixing PTMT swivelling shower, 15 mm nominal bore,
+@110 weighing not less than 40 gms @435 each @484 121.40
+@58 18.65 @110 Providing and fixing PTMT soap Dish Holder having length of 138 mm,
+@110 breadth 102 mm, height of 75 mm with concealed fitting arrangements,
+@110 weighing not less than 106 gms. @435 each @485 111.45
+@58 18.66 @110 Providing and laying S&S C.I. Standard specials such as tees, bends,
+@110 collars tapers and caps etc, suitable for flanged jointing as per IS : 1538 :
+@110 18.66.1 @167 Up to 300 mm dia @431 quintal @481 8628.60
+@110 18.66.2 @167 Above 300 mm dia @431 quintal @479 10157.95
+@58 18.67 @110 Providing and laying S&S C.I. Standard specials suitable for mechanical
+@110 jointing as per IS : 13382 :
+@110 18.67.1 @167 Up to 300 mm dia @431 quintal @479 13764.35
+@110 18.67.2 @167 Above 300 mm dia @431 quintal @479 14532.55
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 267
+=== PAGE 22
+
+=== PAGE 23
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 18.68 @110 Providing and laying D.I. specials of class K-12 suitable for push-on
+@110 jointing as per IS : 9523 :
+@110 18.68.1 @167 Up to 600 mm dia @431 quintal @479 20009.70
+@110 18.68.2 @167 Above 600 mm dia @431 quintal @479 26696.10
+@58 18.68A @110 Providing and laying Class K-12 Ductile Iron double chamber restrained
+@110 joint (bolt less) specials such as tees, bends, collars, tapers and caps etc.
+@110 conforming to IS : 9523 including testing of joints all complete.
+@110 18.68A.1 @167 Up to 600 mm nominal dia @431 quintal @479 30394.95
+@110 18.68A.2 @167 Above 600 mm nominal dia @431 quintal @479 39073.05
+@58 18.69 @110 Providing and laying D.I. Specials of Class K - 12 suitable for mechanical
+@110 jointing as per IS : 9523 :
+@110 18.69.1 @167 Up to 600 mm dia @431 quintal @479 21290.10
+@110 18.69.2 @167 Above 600 mm dia @431 quintal @479 28403.25
+@58 18.70 @110 Providing push-on-joints to Centrifugally (Spun) Cast Iron Pipes or Ductile
+@110 Iron Pipes including testing of joints and the cost of rubber gasket :
+@110 18.70.1 @167 100 mm dia pipes @436 joint @484 119.45
+@110 18.70.2 @167 150 mm dia pipes @436 joint @484 192.85
+@110 18.70.3 @167 200 mm dia pipes @436 joint @484 280.85
+@110 18.70.4 @167 250 mm dia pipes @436 joint @484 340.35
+@110 18.70.5 @167 300 mm dia pipes @436 joint @484 435.45
+@110 18.70.6 @167 350 mm dia pipes @436 joint @484 495.00
+@110 18.70.7 @167 400 mm dia pipes @436 joint @484 696.80
+@110 18.70.8 @167 450 mm dia pipes @436 joint @484 820.35
+@110 18.70.9 @167 500 mm dia pipes @436 joint @484 871.45
+@110 18.70.10 @167 600 mm dia pipes @436 joint @481 1207.90
+@110 18.70.11 @167 700 mm dia pipes @436 joint @481 1572.70
+@110 18.70.12 @167 750 mm dia pipes @436 joint @481 1693.65
+@110 18.70.13 @167 800 mm dia pipes @436 joint @481 1844.40
+@110 18.70.14 @167 900 mm dia pipes @436 joint @481 2314.65
+@110 18.70.15 @167 1000 mm dia pipes @436 joint @481 2604.40
+@58 18.71 @110 Providing and laying Double Flanged (screwed / welded) Centrifugally
+@110 (Spun) Cast Iron, Class B (IS : 1536) :
+@110 18.71.1 @167 100 mm dia C.I. Double Flanged Pipe @433 metre @481 2089.35
+@110 18.71.2 @167 150 mm dia C.I. Double Flanged Pipe @433 metre @481 3218.50
+@110 18.71.3 @167 200 mm dia C.I. Double Flanged Pipe @433 metre @481 4995.85
+@110 18.71.4 @167 250 mm dia C.I. Double Flanged Pipe @433 metre @481 6227.00
+@110 18.71.5 @167 300 mm dia C.I. Double Flanged Pipe @433 metre @481 8094.30
+@110 18.71.6 @167 350 mm dia C.I. Double Flanged Pipe @433 metre @479 10093.90
+@110 18.71.7 @167 400 mm dia C.I. Double Flanged Pipe @433 metre @479 13136.65
+@110 18.71.8 @167 450 mm dia C.I. Double Flanged Pipe @433 metre @479 16769.30
+@110 18.71.9 @167 500 mm dia C.I. Double Flanged Pipe @433 metre @479 21619.65
+@110 18.71.10 @167 600 mm dia C.I. Double Flanged Pipe @433 metre @479 27459.40
+@58 18.72 @110 Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes
+@110 conforming to IS : 8329 :
+@110 18.72.1 @167 100 mm dia Ductile Iron Class K-7 pipes @433 metre @481 1257.80
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 268
+=== PAGE 24
+
+=== PAGE 25
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 18.72.2 @167 150 mm dia Ductile Iron Class K-7 pipes @433 metre @481 1789.60
+@110 18.72.3 @167 200 mm dia Ductile Iron Class K-7 pipes @433 metre @481 2328.15
+@110 18.72.4 @167 250 mm dia Ductile Iron Class K-7 pipes @433 metre @481 2880.70
+@110 18.72.5 @167 300 mm dia Ductile Iron Class K-7 pipes @433 metre @481 3518.25
+@110 18.72.6 @167 350 mm dia Ductile Iron Class K-7 pipes @433 metre @481 4186.50
+@110 18.72.7 @167 400 mm dia Ductile Iron Class K-7 pipes @433 metre @481 5084.55
+@110 18.72.8 @167 450 mm dia Ductile Iron Class K-7 pipes @433 metre @481 6163.35
+@110 18.72.9 @167 500 mm dia Ductile Iron Class K-7 pipes @433 metre @481 6787.40
+@110 18.72.10 @167 600 mm dia Ductile Iron Class K-7 pipes @433 metre @481 8965.95
+@110 18.72.11 @167 700 mm dia Ductile Iron Class K-7 pipes @433 metre @479 11566.35
+@110 18.72.12 @167 800 mm dia Ductile Iron Class K-7 pipes @433 metre @479 14609.05
+@110 18.72.13 @167 900 mm dia Ductile Iron Class K-7 pipes @433 metre @479 18734.20
+@110 18.72.14 @167 1000 mm dia Ductile Iron Class K-7 pipes @433 metre @479 19895.80
+@110 18.72.15 @167 100 mm dia Ductile Iron Class K-9 pipes @433 metre @481 1344.60
+@110 18.72.16 @167 150 mm dia Ductile Iron Class K-9 pipes @433 metre @481 1837.75
+@110 18.72.17 @167 200 mm dia Ductile Iron Class K-9 pipes @433 metre @481 2478.10
+@110 18.72.18 @167 250 mm dia Ductile Iron Class K-9 pipes @433 metre @481 3516.80
+@110 18.72.19 @167 300 mm dia Ductile Iron Class K-9 pipes @433 metre @481 4344.40
+@110 18.72.20 @167 350 mm dia Ductile Iron Class K-9 pipes @433 metre @481 5409.85
+@110 18.72.21 @167 400 mm dia Ductile Iron Class K-9 pipes @433 metre @481 6844.30
+@110 18.72.22 @167 450 mm dia Ductile Iron Class K-9 pipes @433 metre @481 7976.85
+@110 18.72.23 @167 500 mm dia Ductile Iron Class K-9 pipes @433 metre @481 9679.85
+@110 18.72.24 @167 600 mm dia Ductile Iron Class K-9 pipes @433 metre @479 12986.95
+@110 18.72.25 @167 700 mm dia Ductile Iron Class K-9 pipes @433 metre @479 17431.60
+@110 18.72.26 @167 750 mm dia Ductile Iron Class K-9 pipes @433 metre @479 18567.85
+@110 18.72.27 @167 800 mm dia Ductile Iron Class K-9 pipes @433 metre @479 18891.20
+@110 18.72.28 @167 900 mm dia Ductile Iron Class K-9 pipes @433 metre @479 23163.00
+@110 18.72.29 @167 1000 mm dia Ductile Iron Class K-9 pipes @433 metre @479 25133.00
+@58 18.72A @110 Providing, laying, jointing and testing S&S Centrifugally Cast Ductile Iron
+@110 double chamber Class K-9 pressure pipes conforming to IS : 8329:2000
+@110 with restrained joints (bolt less), all complete.
+@110 18.72A.1 @167 100 mm nominal dia pipe @433 metre @481 1870.75
+@110 18.72A.2 @167 150 mm nominal dia pipe @433 metre @481 2590.90
+@110 18.72A.3 @167 200 mm nominal dia pipe @433 metre @481 3260.55
+@110 18.72A.4 @167 250 mm nominal dia pipe @433 metre @481 4357.60
+@110 18.72A.5 @167 300 mm nominal dia pipe @433 metre @481 5452.95
+@110 18.72A.6 @167 350 mm nominal dia pipe @433 metre @481 6636.80
+@110 18.72A.7 @167 400 mm nominal dia pipe @433 metre @481 8279.45
+@110 18.72A.8 @167 450 mm nominal dia pipe @433 metre @481 9861.20
+@110 18.72A.9 @167 500 mm nominal dia pipe @433 metre @479 11628.30
+@110 18.72A.10 @167 600 mm nominal dia pipe @433 metre @479 15202.60
+@110 18.72A.11 @167 700 mm nominal dia pipe @433 metre @479 19217.15
+@110 18.72A.12 @167 750 mm nominal dia pipe @433 metre @479 21627.85
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 269
+=== PAGE 26
+
+=== PAGE 27
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 18.72A.13 @167 800 mm nominal dia pipe @433 metre @479 23932.65
+@110 18.72A.14 @167 900 mm nominal dia pipe @433 metre @479 29836.95
+@110 18.72A.15 @167 1000 mm nominal dia pipe @433 metre @479 36164.10
+@58 18.73 @110 Providing and laying Double Flanged (Screwed/ Welded) Centrifugally
+@110 (Spun) Ductile Iron Pipes of Class K - 9 conforming to IS : 8329 :
+@110 18.73.1 @167 100 mm dia Ductile Iron Double Flanged @433 metre @481 1821.55
+@110 18.73.2 @167 150 mm dia Ductile Iron Double Flanged @433 metre @481 2607.50
+@110 18.73.3 @167 200 mm dia Ductile Iron Double Flanged @433 metre @481 3360.80
+@110 18.73.4 @167 250 mm dia Ductile Iron Double Flanged @433 metre @481 4696.15
+@110 18.73.5 @167 300 mm dia Ductile Iron Double Flanged @433 metre @481 5895.70
+@110 18.73.6 @167 350 mm dia Ductile Iron Double Flanged @433 metre @481 7550.45
+@110 18.73.7 @167 400 mm dia Ductile Iron Double Flanged @433 metre @481 9744.40
+@110 18.73.8 @167 450 mm dia Ductile Iron Double Flanged @433 metre @479 10136.10
+@110 18.73.9 @167 500 mm dia Ductile Iron Double Flanged @433 metre @479 15472.95
+@110 18.73.10 @167 600 mm dia Ductile Iron Double Flanged @433 metre @479 19925.30
+@110 18.73.11 @167 700 mm dia Ductile Iron Double Flanged @433 metre @479 22830.80
+@58 18.74 @110 Providing and fixing unplasticised P.V.C. connection pipe with PTMT Nuts,
+@110 collar and bush of approved quality and colour.
+@110 18.74.1 @167 15 mm nominal bore with 30 cm length @435 each @487 96.35
+@110 18.74.2 @167 15 mm nominal bore with 45 cm length @435 each @484 121.90
+@58 18.75 @110 Providing and fixing PTMT extension nipple for water tank pipe, fittings of
+@110 approved quality and colour.
+@110 18.75.1 @167 15 mm nominal bore, weighing not less than 32 gms @435 each @487 53.60
+@110 18.75.2 @167 20 mm nominal bore, weighing not less than 40 gms @435 each @487 93.45
+@110 18.75.3 @167 25 mm nominal bore, weighing not less than 62 gms @435 each @484 113.35
+@58 18.76 @110 Cutting holes up to 30x30 cm in walls including making good the same:
+@110 18.76.1 @167 With common burnt clay F.P.S. (non modular) bricks @435 each @484 416.80
+@58 18.77 @110 Cutting holes up to 15x15 cm in R.C.C. floors and roofs for passing
+@110 drain pipe etc. and repairing the hole after insertion of drain pipe etc.
+@110 with cement concrete 1:2:4 (1 cement : 2 coarse sand : 4 graded stone
+@110 aggregate 20 mm nominal size), including finishing complete so as to
+@110 make it leak proof. @435 each @484 452.00
+@58 18.78 @110 Making chases up to 7.5x7.5 cm in walls including making good and
+@110 finishing with matching surface after housing G.I. pipe etc. @433 metre @484 202.90
+@58 18.79 @110 Making hole up to 20x20 cm and embedding pipes up to 150 mm diameter
+@110 in masonry and filling with cement concrete 1:3:6 (1 cement : 3 coarse
+@110 sand: 6 graded stone aggregate 20 mm nominal size) including disposal
+@110 of malba. @433 metre @484 209.20
+@58 18.80 @110 Disinfecting C.I. water mains by flushing with water containing bleaching
+@110 powder @ 0.5 gms per litre of water and cleaning the same with fresh
+@110 water, operation to be repeated three times including getting the sample
+@110 of water from the disinfected main tested in the municipal laboratory.
+@110 18.80.1 @167 80 mm diameter C.I. pipe @424 100 metre @481 1844.00
+@110 18.80.2 @167 100 mm diameter C.I. pipe @424 100 metre @481 2415.15
+@110 18.80.3 @167 125 mm diameter C.I. pipe @424 100 metre @481 3006.40
+@110 18.80.4 @167 150 mm diameter C.I. pipe @424 100 metre @481 3593.85
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 270
+=== PAGE 28
+
+=== PAGE 29
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 18.80.5 @167 200 mm diameter C.I. pipe @424 100 metre @481 4771.60
+@110 18.80.6 @167 250 mm diameter C.I. pipe @424 100 metre @481 5977.65
+@110 18.80.7 @167 300 mm diameter C.I. pipe @424 100 metre @481 6618.15
+@110 18.80.8 @167 350 mm diameter C.I. pipe @424 100 metre @481 7272.35
+@110 18.80.9 @167 400 mm diameter C.I. pipe @424 100 metre @481 7950.85
+@110 18.80.10 @167 450 mm diameter C.I. pipe @424 100 metre @481 8635.75
+@110 18.80.11 @167 500 mm diameter C.I. pipe @424 100 metre @481 9351.25
+@110 18.80.12 @167 600 mm diameter C.I. pipe @424 100 metre @479 10787.45
+@58 18.81 @110 Extra for every operation of disinfecting the C.I. main by flushing with
+@110 water containing bleaching powder @ 0.5 gms per litre of water and
+@110 cleaning the same with fresh water, including getting the samples of water
+@110 tested in the municipal laboratory :
+@110 18.81.1 @167 80 mm diameter C.I. pipe @424 100 metre @484 674.95
+@110 18.81.2 @167 100 mm diameter C.I. pipe @424 100 metre @484 824.95
+@110 18.81.3 @167 125 mm diameter C.I. pipe @424 100 metre @481 1003.95
+@110 18.81.4 @167 150 mm diameter C.I. pipe @424 100 metre @482 1164.25
+@110 18.81.5 @167 200 mm diameter C.I. pipe @424 100 metre @481 1753.10
+@110 18.81.6 @167 250 mm diameter C.I. pipe @424 100 metre @481 2012.75
+@110 18.81.7 @167 300 mm diameter C.I. pipe @424 100 metre @481 2255.15
+@110 18.81.8 @167 350 mm diameter C.I. pipe @424 100 metre @481 2632.00
+@110 18.81.9 @167 400 mm diameter C.I. pipe @424 100 metre @482 3011.20
+@110 18.81.10 @167 450 mm diameter C.I. pipe @424 100 metre @481 3398.15
+@110 18.81.11 @167 500 mm diameter C.I. pipe @424 100 metre @481 3787.10
+@110 18.81.12 @167 600 mm diameter C.I. pipe @424 100 metre @481 4573.95
+@58 18.82 @110 Dismantling old C.I. pipes including excavation and refilling trenches after
+@110 taking out the pipes, breaking lead caulked joints, melting of lead and
+@110 making into blocks, including stacking of pipes at site lead up to 50 metre:
+@110 18.82.1 @167 80 mm diameter C.I. pipe @433 metre @484 315.55
+@110 18.82.2 @167 100 mm diameter C.I. pipe @433 metre @484 332.50
+@110 18.82.3 @167 125 mm diameter C.I. pipe @433 metre @484 348.75
+@110 18.82.4 @167 150 mm diameter C.I. pipe @433 metre @484 365.45
+@110 18.82.5 @167 200 mm diameter C.I. pipe @433 metre @484 411.50
+@110 18.82.6 @167 250 mm diameter C.I. pipe @433 metre @484 456.60
+@110 18.82.7 @167 300 mm diameter C.I. pipe @433 metre @484 497.80
+@110 18.82.8 @167 350 mm diameter C.I. pipe @433 metre @484 538.00
+@110 18.82.9 @167 400 mm diameter C.I. pipe @433 metre @484 575.80
+@110 18.82.10 @167 450 mm diameter C.I. pipe @433 metre @484 614.30
+@110 18.82.11 @167 500 mm diameter C.I. pipe @433 metre @484 649.45
+@110 18.82.12 @167 600 mm diameter C.I. pipe @433 metre @484 713.95
+@58 18.83 @110 Labour for cutting C.I. pipe with steel saw.
+@110 18.83.1 @167 80 mm diameter C.I. pipe @427 each cut @484 145.25
+@110 18.83.2 @167 100 mm diameter C.I. pipe @427 each cut @484 194.70
+@110 18.83.3 @167 125 mm diameter C.I. pipe @427 each cut @484 269.80
+@110 18.83.4 @167 150 mm diameter C.I. pipe @427 each cut @484 365.70
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 271
+=== PAGE 30
+
+=== PAGE 31
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 18.83.5 @167 200 mm diameter C.I. pipe @427 each cut @484 487.75
+@110 18.83.6 @167 250 mm diameter C.I. pipe @427 each cut @484 606.85
+@110 18.83.7 @167 300 mm diameter C.I. pipe @427 each cut @484 728.85
+@110 18.83.8 @167 350 mm diameter C.I. pipe @427 each cut @484 847.95
+@110 18.83.9 @167 400 mm diameter C.I. pipe @427 each cut @484 969.55
+@110 18.83.10 @167 450 mm diameter C.I. pipe @427 each cut @481 1089.10
+@110 18.83.11 @167 500 mm diameter C.I. pipe @427 each cut @481 1210.70
+@110 18.83.12 @167 600 mm diameter C.I. pipe @427 each cut @481 1445.95
+@58 18.84 @110 Providing & fixing chrome plated brass battery based infrared sensor
+@110 operated pillar cock, having foam flow technology.
+@110 18.84.1 @167 15 mm nominal bore @435 each @481 8803.70
+@58 18.85 @110 Providing and fixing Stainless Steel pipe and fitting of grade AISI 304
+@110 as per JIS standard 3448 complete with press type fitting (fitting shall
+@110 be paid for separately) including fixing of the pipe with clamps at 1.00 m
+@110 spacing including cutting and making good the walls including testing of
+@110 joints complete as per direction of Engineer-in-charge. (The pipe length
+@110 inserted in the fitting shall not be measured for payment)
+@110 Internal work - Exposed on wall
+@110 18.85.1 @167 15.88 mm outer dia pipe @433 metre @484 420.25
+@110 18.85.2 @167 22.22 mm outer dia Pipe @433 metre @484 599.50
+@110 18.85.3 @167 28.58 mm outer dia Pipe @433 metre @484 704.55
+@110 18.85.4 @167 34.00 mm outer dia Pipe @433 metre @484 913.65
+@110 18.85.5 @167 42.70 mm outer dia Pipe @433 metre @484 943.90
+@110 18.85.6 @167 48.60 mm outer dia Pipe @433 metre @481 1202.35
+@58 18.85A @110 Providing and fixing Stainless Steel pipe and fitting of grade 316L as per
+@110 IS : 6911:2017 and conforming to EN-10312 standards complete with press
+@110 type fitting (fitting shall be paid for separately) including fixing of the pipe
+@110 with clamps at 1.00 m spacing including cutting and making good the walls
+@110 including testing of joints complete as per direction of Engineer-in-charge.
+@110 (The pipe length inserted in the fitting shall not be measured for payment)
+@110 Internal work - Exposed on wall
+@110 18.85A.1 @167 15 mm outer dia pipe @433 metre @484 704.05
+@110 18.85A.2 @167 22 mm outer dia Pipe @433 metre @481 1025.25
+@110 18.85A.3 @167 28 mm outer dia Pipe @433 metre @481 1272.15
+@110 18.85A.4 @167 35 mm outer dia Pipe @433 metre @481 1765.10
+@110 18.85A.5 @167 42 mm outer dia Pipe @433 metre @481 2124.00
+@110 18.85A.6 @167 54 mm outer dia Pipe @433 metre @481 2699.10
+@58 18.86 @110 Providing and fixing Stainless Steel pipe and fitting of grade AISI 304 as
+@110 per JIS standard 3448 complete with press type fitting (fitting shall be paid
+@110 for separately) including fixing of the pipe with clamps at 1.00m spacing
+@110 and also including cutting of chases and making good the walls including
+@110 testing of joints complete as per direction of Engineer -in-charge. (The
+@110 pipe length inserted in the fitting shall not be measured for payment)
+@110 Internal work - Concealed Pipe
+@110 18.86.1 @167 15.88 mm outer dia Pipe. @433 metre @484 622.25
+@110 18.86.2 @167 22.22 mm Outer dia pipe @433 metre @484 801.50
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 272
+=== PAGE 32
+
+=== PAGE 33
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 18.86A @110 Providing and fixing Stainless Steel pipe and fitting of grade 316L as per
+@110 IS : 6911:2017 and conforming to EN-10312 standards complete with
+@110 press type fitting (fitting shall be paid for separately) including fixing of the
+@110 pipe with clamps at 1.00m spacing and also including cutting of chases
+@110 and making good the walls including testing of joints complete as per
+@110 direction of Engineer -in-charge. (The pipe length inserted in the fitting
+@110 shall not be measured for payment)
+@110 Internal work - Concealed Pipe
+@110 18.86A.1 @167 15 mm outer dia Pipe. @433 metre @484 906.10
+@110 18.86A.2 @167 22 mm Outer dia pipes @433 metre @481 1227.25
+@58 18.87 @110 Providing and fixing required Stainless Steel Fitting of press fit design
+@110 of grade AISI 304 conforming to JWWA G116 standard with V-profile or
+@110 M-profile and with O-ring sealing gasket of EPDM material of required dia
+@110 as per direction of Engineer-in-charge.
+@110 Coupling/Socket
+@110 18.87.1 @167 For 15.88 mm outer dia pipe @435 each @487 93.90
+@110 18.87.2 @167 For 22.22 mm outer dia pipe @435 each @484 113.80
+@110 18.87.3 @167 For 28.58 mm outer dia pipe @435 each @484 156.50
+@110 18.87.4 @167 For 34.00 mm outer dia pipe @435 each @484 213.40
+@110 18.87.5 @167 For 42.70 mm outer dia pipe @435 each @484 256.10
+@110 18.87.6 @167 For 48.60 mm outer dia pipe @435 each @484 291.65
+@58 18.87A @110 Providing and fixing required Stainless Steel Fitting of press fit design of
+@110 grade 316L as per IS : 6911:2017 and conforming to EN-10312 standards
+@110 with V-profile and with O-ring sealing gasket of EPDM material of required
+@110 dia as per direction of Engineer-in-charge.
+@110 Coupling/Socket
+@110 18.87A.1 @167 For 15 mm outer dia pipe @435 each @484 341.45
+@110 18.87A.2 @167 For 22 mm outer dia pipe @435 each @484 426.80
+@110 18.87A.3 @167 For 28 mm outer dia pipe @435 each @484 497.90
+@110 18.87A.4 @167 For 35 mm outer dia pipe @435 each @484 625.95
+@110 18.87A.5 @167 For 42 mm outer dia pipe @435 each @484 846.45
+@110 18.87A.6 @167 For 54 mm outer dia pipe @435 each @481 1017.20
+@58 18.88 @110 Providing and fixing required Stainless Steel Fitting of press fit design
+@110 of grade AISI 304 conforming to JWWA G116 standard with V-profile or
+@110 M-profile and with O-ring sealing gasket of EPDM material of providing
+@110 and fixing required Stainless Steel Fitting of press fit design of grade
+@110 AISI 304 conforming to JWWA G116 standard with V-profile or M-profile
+@110 and with O-ring sealing gasket of EPDM material of required dia as per
+@110 dirction of Engineer-in-charge.
+@110 Reducer
+@110 18.88.1 @167 For 22.22 mm x 15.88 mm outer dia pipe @435 each @484 139.40
+@110 18.88.2 @167 For 28.58 mm x 15.88 mm outer dia pipe @435 each @484 186.35
+@110 18.88.3 @167 For 28.58 mm x 22.22 mm outer dia pipe @435 each @484 189.20
+@110 18.88.4 @167 For 34.00 mm x 15.88 mm outer dia pipe @435 each @484 313.00
+@110 18.88.5 @167 For 34.00 mm x 22.22 mm outer dia pipe @435 each @484 327.20
+@110 18.88.6 @167 For 34.00 mm x 28.58 mm outer dia pipe @435 each @484 327.20
+@110 18.88.7 @167 For 42.70 mm x 15.88 mm outer dia pipe @435 each @484 517.85
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 273
+=== PAGE 34
+
+=== PAGE 35
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 18.88.8 @167 For 42.70 mm x 22.22 mm outer dia pipe @435 each @484 529.25
+@110 18.88.9 @167 For 42.70 mm x 28.58 mm outer dia pipe @435 each @484 606.05
+@110 18.88.10 @167 For 42.70 mm x 34.00 mm outer dia pipe @435 each @484 643.05
+@110 18.88.11 @167 For 48.60 mm x 15.88 mm outer dia pipe @435 each @484 643.05
+@110 18.88.12 @167 For 48.60 mm x 22.22 mm outer dia pipe @435 each @484 643.05
+@110 18.88.13 @167 For 48.60 mm x 28.58 mm outer dia pipe @435 each @484 643.05
+@110 18.88.14 @167 For 48.60 mm x 34.00 mm outer dia pipe @435 each @484 664.35
+@110 18.88.15 @167 For 48.60 mm x 42.70 mm outer dia pipe @435 each @484 667.20
+@58 18.88A @110 Providing and fixing required Stainless Steel Fitting of press fit design of
+@110 grade 316L as per IS : 6911:2017 and conforming to EN-10312 standards
+@110 with V-profile and with O-ring sealing gasket of EPDM material of required
+@110 dia as per dirction of Engineer-in-charge.
+@110 Reducer
+@110 18.88A.1 @167 For 22 mm x 15 mm outer dia pipe @435 each @484 405.45
+@110 18.88A.2 @167 For 28 mm x 15 mm outer dia pipe @435 each @484 490.80
+@110 18.88A.3 @167 For 28 mm x 22 mm outer dia pipe @435 each @484 597.50
+@110 18.88A.4 @167 For 35 mm x 22 mm outer dia pipe @435 each @484 604.60
+@110 18.88A.5 @167 For 35 mm x 28 mm outer dia pipe @435 each @484 746.85
+@110 18.88A.6 @167 For 42 mm x 22 mm outer dia pipe @435 each @484 960.30
+@110 18.88A.7 @167 For 42 mm x 28 mm outer dia pipe @435 each @481 1095.45
+@110 18.88A.8 @167 For 42 mm x 35 mm outer dia pipe @435 each @482 1145.25
+@110 18.88A.9 @167 For 54 mm x 28 mm outer dia pipe @435 each @481 1330.15
+@110 18.88A.10 @167 For 54 mm x 35 mm outer dia pipe @435 each @481 1572.00
+@110 18.88A.11 @167 For 54 mm x 42 mm outer dia pipe @435 each @481 1636.05
+@58 18.89 @110 Providing and fixing required Stainless Steel Fitting of press fit design
+@110 of grade AISI 304 conforming to JWWA G116 standard with V-profile or
+@110 M-profile and with O-ring sealing gasket of EPDM material of required dia
+@110 as per direction of Engineer-in-charge.
+@110 Slip Coupling/ Socket
+@110 18.89.1 @167 For 15.88 mm outer dia pipe @435 each @487 92.45
+@110 18.89.2 @167 For 22.22 mm outer dia pipe @435 each @484 113.80
+@110 18.89.3 @167 For 28.58 mm outer dia pipe @435 each @484 156.50
+@110 18.89.4 @167 For 34.00 mm outer dia pipe @435 each @484 220.50
+@110 18.89.5 @167 For 42.70 mm outer dia pipe @435 each @484 256.10
+@110 18.89.6 @167 For 48.60 mm outer dia pipe @435 each @484 277.40
+@58 18.89A @110 Providing and fixing required Stainless Steel Fitting of press fit design of
+@110 grade 316L as per IS : 6911:2017 and conforming to EN-10312 standards
+@110 with V-profile and with O-ring sealing gasket of EPDM material of required
+@110 dia as per direction of Engineer-in-charge.
+@110 Sleeve/Slip Coupling/ Socket
+@110 18.89A.1 @167 For 15 mm outer dia pipe @435 each @484 597.50
+@110 18.89A.2 @167 For 22 mm outer dia pipe @435 each @484 711.30
+@110 18.89A.3 @167 For 28 mm outer dia pipe @435 each @484 825.15
+@110 18.89A.4 @167 For 35 mm outer dia pipe @435 each @484 917.60
+@110 18.89A.5 @167 For 42 mm outer dia pipe @435 each @481 1066.95
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 274
+=== PAGE 36
+
+=== PAGE 37
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 18.89A.6 @167 For 54 mm outer dia pipe @435 each @481 1515.10
+@58 18.90 @110 Providing and fixing required Stainless Steel Fitting of press fit design
+@110 of grade AISI 304 conforming to JWWA G116 standard with V-profile or
+@110 M-profile and with O-ring sealing gasket of EPDM material of required dia
+@110 as per direction of Engineer-in-charge.
+@110 Elbow 90°
+@110 18.90.1 @167 For 15.88 mm outer dia pipe @435 each @487 99.60
+@110 18.90.2 @167 For 22.22 mm outer dia pipe @435 each @484 113.80
+@110 18.90.3 @167 For 28.58 mm outer dia pipe @435 each @484 163.60
+@110 18.90.4 @167 For 34.00 mm outer dia pipe @435 each @484 204.85
+@110 18.90.5 @167 For 42.70 mm outer dia pipe @435 each @484 221.95
+@110 18.90.6 @167 For 48.60 mm outer dia pipe @435 each @484 273.15
+@58 18.90A @110 Providing and fixing required Stainless Steel Fitting of press fit design of
+@110 grade 316L as per IS : 6911:2017 and conforming to EN-10312 standards
+@110 with V-profile and with O-ring sealing gasket of EPDM material of required
+@110 dia as per direction of Engineer-in-charge.
+@110 Elbow 90°
+@110 18.90A.1 @167 For 15 mm outer dia pipe @435 each @484 483.70
+@110 18.90A.2 @167 For 22 mm outer dia pipe @435 each @484 682.85
+@110 18.90A.3 @167 For 28 mm outer dia pipe @435 each @484 910.50
+@110 18.90A.4 @167 For 35 mm outer dia pipe @435 each @481 1493.75
+@110 18.90A.5 @167 For 42 mm outer dia pipe @435 each @481 2418.50
+@110 18.90A.6 @167 For 54 mm outer dia pipe @435 each @481 3200.95
+@58 18.91 @110 Providing and fixing required Stainless Steel Fitting of press fit design
+@110 of grade AISI 304 conforming to JWWA G116 standard with V-profile or
+@110 M-profile and with O-ring sealing gasket of EPDM material of required dia
+@110 as per direction of Engineer-in-charge.
+@110 Reducing Elbow 90°
+@110 18.91.1 @167 For22.22 mm x 15.88 mm outer dia pipe @435 each @484 223.35
+@110 18.91.2 @167 For 28.58 mm x 15.88 mm outer dia pipe @435 each @484 304.45
+@110 18.91.3 @167 For 28.58 mm x 22.22 mm outer dia pipe @435 each @484 318.65
+@110 18.91.4 @167 For 34.00 mm x 22.22 mm outer dia pipe @435 each @484 426.80
+@110 18.91.5 @167 For 34.00 mm x 28.58 mm outer dia pipe @435 each @484 512.15
+@110 18.91.6 @167 For 42.70 mm x 34.00 mm outer dia pipe @435 each @484 554.80
+@58 18.92 @110 Providing and fixing required Stainless Steel Fitting of press fit design
+@110 of grade AISI 304 conforming to JWWA G116 standard with V-profile or
+@110 M-profile and with O-ring sealing gasket of EPDM material of required dia
+@110 as per direction of Engineer-in-charge.
+@110 Equal Tee
+@110 18.92.1 @167 For 15.88 mm outer dia pipe @435 each @484 197.75
+@110 18.92.2 @167 For 22.22 mm outer dia pipe @435 each @484 300.20
+@110 18.92.3 @167 For 28.58 mm outer dia pipe @435 each @484 466.60
+@110 18.92.4 @167 For 34.00 mm outer dia pipe @435 each @484 688.55
+@110 18.92.5 @167 For 42.70 mm outer dia pipe @435 each @481 1088.30
+@110 18.92.6 @167 For 48.60 mm outer dia pipe @435 each @481 1429.75
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 275
+=== PAGE 38
+
+=== PAGE 39
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 18.92A @110 Providing and fixing required Stainless Steel Fitting of press fit design of
+@110 grade 316L as per IS : 6911:2017 and conforming to EN-10312 standards
+@110 with V-profile and with O-ring sealing gasket of EPDM material of required
+@110 dia as per direction of Engineer-in-charge.
+@110 Equal Tee
+@110 18.92A.1 @167 For 15 mm outer dia pipe @435 each @484 796.70
+@110 18.92A.2 @167 For 22 mm outer dia pipe @435 each @484 931.85
+@110 18.92A.3 @167 For 28 mm outer dia pipe @435 each @482 1145.25
+@110 18.92A.4 @167 For 35 mm outer dia pipe @435 each @481 1422.65
+@110 18.92A.5 @167 For 42 mm outer dia pipe @435 each @481 1991.70
+@110 18.92A.6 @167 For 54 mm outer dia pipe @435 each @481 2390.05
+@58 18.93 @110 Providing and fixing required Stainless Steel Fitting of press fit design
+@110 of grade AISI 304 conforming to JWWA G116 standard with V-profile or
+@110 M-profile and with O-ring sealing gasket of EPDM material of required dia
+@110 as per direction of Engineer-in-charge.
+@110 Reducing Tee
+@110 18.93.1 @167 For 22.22 mm x 15.88 mm outer dia pipe @435 each @484 268.85
+@110 18.93.2 @167 For 28.58 mm x 15.88 mm outer dia pipe @435 each @484 357.10
+@110 18.93.3 @167 For 28.58 mm x 22.22 mm outer dia pipe @435 each @484 362.75
+@110 18.93.4 @167 For 34.00 mm x 15.88 mm outer dia pipe @435 each @484 633.10
+@110 18.93.5 @167 For 34.00 mm x 22.22 mm outer dia pipe @435 each @484 654.40
+@110 18.93.6 @167 For 34.00 mm x 28.58 mm outer dia pipe @435 each @484 675.75
+@110 18.93.7 @167 For 42.70 mm x 15.88 mm outer dia pipe @435 each @481 1045.65
+@110 18.93.8 @167 For 42.70 mm x 22.22 mm outer dia pipe @435 each @481 1066.95
+@110 18.93.9 @167 For 42.70 mm x 28.58 mm outer dia pipe @435 each @481 1095.45
+@110 18.93.10 @167 For 42.70 mm x 34.00 mm outer dia pipe @435 each @482 1123.90
+@110 18.93.11 @167 For 48.60 mm x 15.88 mm outer dia pipe @435 each @481 1280.35
+@110 18.93.12 @167 For 48.60 mm x 22.22 mm outer dia pipe @435 each @481 1296.00
+@110 18.93.13 @167 For 48.60 mm x 28.58 mm outer dia pipe @435 each @481 1320.20
+@110 18.93.14 @167 For 48.60 mm x 34.00 mm outer dia pipe @435 each @481 1372.85
+@110 18.93.15 @167 For 48.60 mm x 42.70 mm outer dia pipe @435 each @481 1401.30
+@58 18.93A @110 Providing and fixing required Stainless Steel Fitting of press fit design of
+@110 grade 316L as per IS : 6911:2017 and conforming to EN-10312 standards
+@110 with V-profile and with O-ring sealing gasket of EPDM material of required
+@110 dia as per direction of Engineer-in-charge.
+@110 Reducing Tee
+@110 18.93A.1 @167 For 22 mm x 15 mm outer dia pipe @435 each @484 910.50
+@110 18.93A.2 @167 For 28 mm x 15 mm outer dia pipe @435 each @482 1131.00
+@110 18.93A.3 @167 For 28 mm x 22 mm outer dia pipe @435 each @482 1138.10
+@110 18.93A.4 @167 For 35 mm x 15 mm outer dia pipe @435 each @481 1429.75
+@110 18.93A.5 @167 For 35 mm x 22 mm outer dia pipe @435 each @481 1436.85
+@110 18.93A.6 @167 For 35 mm x 28 mm outer dia pipe @435 each @481 1451.10
+@110 18.93A.7 @167 For 42 mm x 22 mm outer dia pipe @435 each @481 2013.05
+@110 18.93A.8 @167 For 42 mm x 28 mm outer dia pipe @435 each @481 2034.35
+@110 18.93A.9 @167 For 42 mm x 35 mm outer dia pipe @435 each @481 2048.60
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 276
+=== PAGE 40
+
+=== PAGE 41
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 18.93A.10 @167 For 54 mm x 22 mm outer dia pipe @435 each @481 2390.05
+@110 18.93A.11 @167 For 54 mm x 28 mm outer dia pipe @435 each @481 2446.95
+@110 18.93A.12 @167 For 54 mm x 35 mm outer dia pipe @435 each @481 2468.25
+@110 18.93A.13 @167 For 54 mm x 42 mm outer dia pipe @435 each @481 2496.75
+@58 18.94 @110 Providing and fixing required Stainless Steel Fitting of press fit design
+@110 of grade AISI 304 conforming to JWWA G116 standard with V-profile or
+@110 M-profile and with O-ring sealing gasket of EPDM material of required dia
+@110 as per direction of Engineer-in-charge.
+@110 Male Thread Tee
+@110 18.94.1 @167 For 15.88 mm outer dia x 15 mm nominal dia threaded @435 each @484 291.65
+@110 18.94.2 @167 For 22.22 mm outer dia x 15 mm nominal dia threaded @435 each @484 334.30
+@110 18.94.3 @167 For 22.22 mm outer dia x 20 mm nominal dia threaded @435 each @484 355.65
+@110 18.94.4 @167 For 28.58 mm outer dia x 15 mm nominal dia threaded @435 each @484 448.15
+@110 18.94.5 @167 For 28.58 mm outer dia x 20 mm nominal dia threaded @435 each @484 462.35
+@110 18.94.6 @167 For 28.58 mm outer dia x 25 mm nominal dia threaded @435 each @484 476.60
+@110 18.94.7 @167 For 34.00 mm outer dia x 15 mm nominal dia threaded @435 each @484 661.50
+@110 18.94.8 @167 For 34.00 mm outer dia x 20 mm nominal dia threaded @435 each @484 675.75
+@110 18.94.9 @167 For 34.00 mm outer dia x 25 mm nominal dia threaded @435 each @484 704.20
+@110 18.94.10 @167 For 34.00 mm outer dia x 32 mm nominal dia threaded @435 each @484 732.65
+@110 18.94.11 @167 For 42.70 mm outer dia x 15 mm nominal dia threaded @435 each @481 1010.05
+@110 18.94.12 @167 For 42.70 mm outer dia x 20 mm nominal dia threaded @435 each @481 1031.40
+@110 18.94.13 @167 For 42.70 mm outer dia x 25 mm nominal dia threaded @435 each @481 1088.30
+@110 18.94.14 @167 For 42.70 mm outer dia x 32 mm nominal dia threaded @435 each @482 1131.00
+@110 18.94.15 @167 For 42.70 mm outer dia x 40 mm nominal dia threaded @435 each @482 1173.65
+@110 18.94.16 @167 For 48.60 mm outer dia x 15 mm nominal dia threaded @435 each @481 1415.55
+@110 18.94.17 @167 For 48.60 mm outer dia x 20 mm nominal dia threaded @435 each @481 1442.55
+@110 18.94.18 @167 For 48.60 mm outer dia x 25 mm nominal dia threaded @435 each @481 1458.20
+@110 18.94.19 @167 For 48.60 mm outer dia x 32 mm nominal dia threaded @435 each @481 1493.75
+@110 18.94.20 @167 For 48.60 mm outer dia x 40 mm nominal dia threaded @435 each @481 1536.45
+@110 18.94.21 @167 For 48.60 mm outer dia x 50 mm nominal dia threaded @435 each @481 1586.25
+@58 18.95 @110 Providing and fixing required Stainless Steel Fitting of press fit design
+@110 of grade AISI 304 conforming to JWWA G116 standard with V-profile or
+@110 M-profile and with O-ring sealing gasket of EPDM material of required dia
+@110 as per direction of Engineer-in-charge.
+@110 Female Thread Tee
+@110 18.95.1 @167 For 15.88 mm outer dia x15 mm nominal dia threaded @435 each @484 277.40
+@110 18.95.2 @167 For 22.22 mm outer dia x 15 mm nominal dia threaded @435 each @484 305.85
+@110 18.95.3 @167 For 22.22 mm outer dia x 20 mm nominal dia threaded @435 each @484 320.10
+@110 18.95.4 @167 For 28.58 mm outer dia x 15 mm nominal dia threaded @435 each @484 405.45
+@110 18.95.5 @167 For 28.58 mm outer dia x 20 mm nominal dia threaded @435 each @484 419.70
+@110 18.95.6 @167 For 28.58 mm outer dia x 25 mm nominal dia threaded @435 each @484 433.90
+@110 18.95.7 @167 For 34.00 mm outer dia x 15 mm nominal dia threaded @435 each @484 647.30
+@110 18.95.8 @167 For 34.00 mm outer dia x 20 mm nominal dia threaded @435 each @484 690.00
+@110 18.95.9 @167 For 34.00 mm outer dia x 25 mm nominal dia threaded @435 each @484 732.65
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 277
+=== PAGE 42
+
+=== PAGE 43
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 18.95.10 @167 For 34.00 mm outer dia x 32 mm nominal dia threaded @435 each @484 775.35
+@110 18.95.11 @167 For 42.70 mm outer dia x 15 mm nominal dia threaded @435 each @484 995.85
+@110 18.95.12 @167 For 42.70 mm outer dia x 20 mm nominal dia threaded @435 each @481 1010.05
+@110 18.95.13 @167 For 42.70 mm outer dia x 25 mm nominal dia threaded @435 each @481 1038.50
+@110 18.95.14 @167 For 42.70 mm outer dia x 32 mm nominal dia threaded @435 each @481 1066.95
+@110 18.95.15 @167 For 42.70 mm outer dia x 40 mm nominal dia threaded @435 each @482 1145.25
+@110 18.95.16 @167 For 48.60 mm outer dia x 15 mm nominal dia threaded @435 each @481 1287.50
+@110 18.95.17 @167 For 48.60 mm outer dia x 20 mm nominal dia threaded @435 each @481 1301.70
+@110 18.95.18 @167 For 48.60 mm outer dia x 25 mm nominal dia threaded @435 each @481 1323.05
+@110 18.95.19 @167 For 48.60 mm outer dia x 32 mm nominal dia threaded @435 each @481 1394.20
+@110 18.95.20 @167 For 48.60 mm outer dia x 40 mm nominal dia threaded @435 each @481 1429.75
+@110 18.95.21 @167 For 48.60 mm outer dia x 50 mm nominal dia threaded @435 each @481 1543.55
+@58 18.95A @110 Providing and fixing required Stainless Steel Fitting of press fit design of
+@110 grade 316L as per IS : 6911:2017 and conforming to EN-10312 standards
+@110 with V-profile and with O-ring sealing gasket of EPDM material of required
+@110 dia as per direction of Engineer-in-charge.
+@110 Female Thread Tee
+@110 18.95A.1 @167 For 15 mm outer dia x 1/2” nominal dia threaded @435 each @484 889.15
+@110 18.95A.2 @167 For 22 mm outer dia x 1/2” nominal dia threaded @435 each @484 967.40
+@110 18.95A.3 @167 For 22 mm outer dia x 3/4” nominal dia threaded @435 each @481 1095.45
+@110 18.95A.4 @167 For 28 mm outer dia x 1/2” nominal dia threaded @435 each @482 1159.45
+@110 18.95A.5 @167 For 28 mm outer dia x 3/4” nominal dia threaded @435 each @481 1202.15
+@110 18.95A.6 @167 For 28 mm outer dia x 1” nominal dia threaded @435 each @481 1330.15
+@110 18.95A.7 @167 For 35 mm outer dia x 1/2” nominal dia threaded @435 each @481 1337.30
+@110 18.95A.8 @167 For 35 mm outer dia x 1-1/4” nominal dia threaded @435 each @481 1842.30
+@110 18.95A.9 @167 For 42 mm outer dia x 1-1/4” nominal dia threaded @435 each @481 2141.05
+@110 18.95A.10 @167 For 54 mm outer dia x 1-1/2” nominal dia threaded @435 each @481 3058.65
+@110 18.95A.11 @167 For 54 mm outer dia x 2” nominal dia threaded @435 each @481 3670.40
+@58 18.96 @110 Providing and fixing required Stainless Steel Fitting of press fit design
+@110 of grade AISI 304 conforming to JWWA G116 standard with V-profile or
+@110 M-profile and with O-ring sealing gasket of EPDM material of required dia
+@110 as per direction of Engineer-in-charge.
+@110 Female Thread Connector/ Adapter
+@110 18.96.1 @167 For 15.88 mm outer dia x 15 mm nominal dia threaded @435 each @484 264.60
+@110 18.96.2 @167 For 22.22 mm outer dia x 15 mmnominal dia threaded @435 each @484 291.65
+@110 18.96.3 @167 For 22.22 mm outer dia x 20 mm nominal dia threaded @435 each @484 337.15
+@110 18.96.4 @167 For 28.58 mm outer dia x 15 mm nominal dia threaded @435 each @484 394.05
+@110 18.96.5 @167 For 28.58 mm outer dia x 20 mm nominal dia threaded @435 each @484 412.55
+@110 18.96.6 @167 For 28.58 mm outer dia x 25 mm nominal dia threaded @435 each @484 505.05
+@110 18.96.7 @167 For 34.00 mm outer dia x 25 mm nominal dia threaded @435 each @484 640.20
+@110 18.96.8 @167 For 34.00 mm outer dia x 32 mm nominal dia threaded @435 each @484 768.25
+@110 18.96.9 @167 For 42.70 mm outer dia x 32 mm nominal dia threaded @435 each @484 953.15
+@110 18.96.10 @167 For 42.70 mm outer dia x 40 mm nominal dia threaded @435 each @481 1002.95
+@110 18.96.11 @167 For 48.60 mm outer dia x 40 mm nominal dia threaded @435 each @481 1287.50
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 278
+=== PAGE 44
+
+=== PAGE 45
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 18.96.12 @167 For 48.60 mm outer dia x 50 mm nominal dia threaded @435 each @481 1387.05
+@58 18.96A @110 Providing and fixing required Stainless Steel Fitting of press fit design of
+@110 grade 316L as per IS : 6911:2017 and conforming to EN-10312 standards
+@110 with V-profile and with O-ring sealing gasket of EPDM material of required
+@110 dia as per direction of Engineer-in-charge.
+@110 Female Thread Connector/ Adapter
+@110 18.96A.1 @167 For 15 mm outer dia x 1/2” mm nominal dia threaded @435 each @484 697.10
+@110 18.96A.2 @167 For 22 mm outer dia x 1/2” mm nominal dia threaded @435 each @484 782.45
+@110 18.96A.3 @167 For 22 mm outer dia x 3/4” mm nominal dia threaded @435 each @484 917.60
+@110 18.96A.4 @167 For 28 mm outer dia X 1” nominal dia threaded @435 each @481 1515.10
+@110 18.96A.5 @167 For 35 mm outer dia X 1-1/4” nominal dia threaded @435 each @481 1621.80
+@110 18.96A.6 @167 For 42 mm outer dia X 1-1/2” nominal dia threaded @435 each @481 2489.60
+@110 18.96A.7 @167 For 54 mm outer dia X 2” nominal dia threaded @435 each @481 3819.80
+@58 18.97 @110 Providing and fixing required Stainless Steel Fitting of press fit design
+@110 of grade AISI 304 conforming to JWWA G116 standard with V-profile or
+@110 M-profile and with O-ring sealing gasket of EPDM material of required dia
+@110 as per direction of Engineer-in-charge.
+@110 Male Thread Connector/ Adapter
+@110 18.97.1 @167 For 15.88 mm outer dia x 15 mm nominal dia threaded @435 each @484 250.40
+@110 18.97.2 @167 For 22.22 mm outer dia x 15 mm nominal dia threaded @435 each @484 268.85
+@110 18.97.3 @167 For 22.22 mm outer dia x 20 mm nominal dia threaded @435 each @484 300.20
+@110 18.97.4 @167 For 28.58 mm outer dia x 20 mm nominal dia threaded @435 each @484 458.10
+@110 18.97.5 @167 For 28.58 mm outer dia x 25 mm nominal dia threaded @435 each @484 460.95
+@110 18.97.6 @167 For 34.00 mm outer dia x 25 mm nominal dia threaded @435 each @484 675.75
+@110 18.97.7 @167 For 34.00 mm outer dia x 32 mm nominal dia threaded @435 each @484 803.80
+@110 18.97.8 @167 For 42.70 mm outer dia x 32 mm nominal dia threaded @435 each @481 1017.20
+@110 18.97.9 @167 For 42.70 mm outer dia x 40 mm nominal dia threaded @435 each @481 1038.50
+@110 18.97.10 @167 For 48.60 mm outer dia x 40 mm nominal dia threaded @435 each @481 1330.15
+@110 18.97.11 @167 For 48.60 mm outer dia x 50 mm nominal dia threaded @435 each @481 1621.80
+@58 18.97A @110 Providing and fixing required Stainless Steel Fitting of press fit design of
+@110 grade 316L as per IS : 6911:2017 and conforming to EN-10312 standard
+@110 with V-profile and with O-ring sealing gasket of EPDM material of required
+@110 dia as per direction of Engineer-in-charge.
+@110 Male Thread Connector/ Adapter
+@110 18.97A.1 @167 For 15 mm outer dia X 1/2” nominal dia threaded @435 each @484 640.20
+@110 18.97A.2 @167 For 22 mm outer dia X 1/2” nominal dia threaded @435 each @484 761.10
+@110 18.97A.3 @167 For 22 mm outer dia X 3/4” nominal dia threaded @435 each @484 803.80
+@110 18.97A.4 @167 For 28 mm outer dia X 1” nominal dia threaded @435 each @481 1052.75
+@110 18.97A.5 @167 For 35 mm outer dia X 1-1/4” nominal dia threaded @435 each @481 1543.55
+@110 18.97A.6 @167 For 42 mm outer dia X 1-1/2”nominal dia threaded @435 each @481 2247.75
+@110 18.97A.7 @167 For 54 mm outer dia X 2” nominal dia threaded @435 each @481 3016.00
+@58 18.98 @110 Providing and fixing required Stainless Steel Fitting of press fit design
+@110 of grade AISI 304 conforming to JWWA G116 standard with V-profile or
+@110 M-profile and with O-ring sealing gasket of EPDM material of required dia
+@110 as per direction of Engineer-in-charge.
+@110 Valve Connector
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 279
+=== PAGE 46
+
+=== PAGE 47
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 18.98.1 @167 For 15.88 mm outer dia x 15 mm nominal dia threaded @435 each @484 317.25
+@110 18.98.2 @167 For 22.22 mm outer dia x 15 mm nominal dia threaded @435 each @484 364.20
+@110 18.98.3 @167 For 22.22 mm outer dia x 20 mm nominal dia threaded @435 each @484 395.50
+@110 18.98.4 @167 For 28.58 mm outer dia x 25 mm nominal dia threaded @435 each @484 604.60
+@110 18.98.5 @167 For 34.00 mm outer dia x 32 mm nominal dia threaded @435 each @484 917.60
+@110 18.98.6 @167 For 42.70 mm outer dia x 40 mm nominal dia threaded @435 each @481 1298.85
+@110 18.98.7 @167 For 48.60 mm outer dia x 50 mm nominal dia threaded @435 each @481 1756.95
+@58 18.99 @110 Providing and fixing required Stainless Steel Fitting of press fit design
+@110 of grade AISI 304 conforming to JWWA G116 standard with V-profile or
+@110 M-profile and with O-ring sealing gasket of EPDM material of required dia
+@110 as per direction of Engineer-in-charge.
+@110 Female Threaded Elbow 90°
+@110 18.99.1 @167 For 15.88 mm outer dia x 15 mm nominal dia threaded @435 each @484 270.30
+@110 18.99.2 @167 For 22.22 mm outer dia x 15 mm nominal dia threaded @435 each @484 305.85
+@110 18.99.3 @167 For 22.22 mm outer dia x 20 mm nominal dia threaded @435 each @484 341.45
+@110 18.99.4 @167 For 25.58 mm outer dia x 25 mm nominal dia threaded @435 each @484 369.90
+@110 18.99.5 @167 For 34.00 mm outer dia x 32 mm nominal dia threaded @435 each @484 476.60
+@110 18.99.6 @167 For 42.70 mm outer dia x 32 mm nominal dia threaded @435 each @484 754.00
+@110 18.99.7 @167 For 42.70 mm outer dia x 40 mm nominal dia threaded @435 each @484 754.00
+@110 18.99.8 @167 For 48.60 mm outer dia x 40 mm nominal dia threaded @435 each @482 1123.90
+@110 18.99.9 @167 For 48.60 mm outer dia x 50 mm nominal dia threaded @435 each @482 1123.90
+@58 18.99A @110 Providing and fixing required Stainless Steel Fitting of press fit design of
+@110 grade 316L as per IS : 6911:2017 and conforming to EN-10312 standard
+@110 with V-profile and with O-ring sealing gasket of EPDM material of required
+@110 dia as per direction of Engineer-in-charge.
+@110 Female Threaded Elbow 90°
+@110 18.99A.1 @167 For 15 mm outer dia X 1/2” nominal dia threaded @435 each @481 1017.20
+@110 18.99A.2 @167 For 22 mm outer dia X 3/4” nominal dia threaded @435 each @481 1365.70
+@110 18.99A.3 @167 For 28 mm outer dia X 1” nominal dia threaded @435 each @481 1877.90
+@110 18.99A.4 @167 For 35 mm outer dia X 1-1/4” nominal dia threaded @435 each @481 3051.55
+@110 18.99A.5 @167 For 42 mm outer dia X 1-1/2” nominal dia threaded @435 each @481 3321.85
+@110 18.99A.6 @167 For 54 mm outer dia X 2” nominal dia threaded @435 each @481 5135.70
+@58 18.100 @110 Providing and fixing required Stainless Steel Fitting of press fit design
+@110 of grade AISI 304 conforming to JWWA G116 standard with V-profile or
+@110 M-profile and with O-ring sealing gasket of EPDM material of required dia
+@110 as per direction of Engineer-in-charge.
+@110 Male Threaded Elbow 90°
+@110 18.100.1 @167 For 15.88 mm outer dia x 15 mm nominal dia threaded @435 each @484 325.80
+@110 18.100.2 @167 For 22.22 mm outer dia x 15 mm nominal dia threaded @435 each @484 355.65
+@110 18.100.3 @167 For 22.22 mm outer dia x 20 mm nominal dia threaded @435 each @484 377.00
+@110 18.100.4 @167 For 28.58 mm outer dia x 25 mm nominal dia threaded @435 each @484 405.45
+@110 18.100.5 @167 For 34.00 mm outer dia x 25 mm nominal dia threaded @435 each @484 448.15
+@110 18.100.6 @167 For 34.00 mm outer dia x 32 mm nominal dia threaded @435 each @484 448.15
+@110 18.100.7 @167 For 42.70 mm outer dia x 32 mm nominal dia threaded @435 each @484 682.85
+@110 18.100.8 @167 For 42.70 mm outer dia x 40 mm nominal dia threaded @435 each @484 754.00
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 280
+=== PAGE 48
+
+=== PAGE 49
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 18.100.9 @167 For 48.60 mm outer dia x 40 mm nominal dia threaded @435 each @481 1088.30
+@110 18.100.10 @167 For 48.60 mm outer dia x 50 mm nominal dia threaded @435 each @482 1187.90
+@58 18.100.A @110 Providing and fixing required Stainless Steel Fitting of press fit design of
+@110 grade 316L as per IS : 6911:2017 and conforming to EN-10312 standard
+@110 with V-profile and with O-ring sealing gasket of EPDM material of required
+@110 dia as per direction of Engineer-in-charge.
+@110 Male Threaded Elbow 90°
+@110 18.100A.1 @167 For 15 mm outer dia X 1/2” nominal dia threaded @435 each @484 832.25
+@110 18.100A.2 @167 For 22 mm outer dia X 3/4” nominal dia threaded @435 each @481 1251.95
+@110 18.100A.3 @167 For 28 mm outer dia X 1” nominal dia threaded @435 each @481 1664.50
+@110 18.100A.4 @167 For 35 mm outer dia X 1-1/4” nominal dia threaded @435 each @481 2290.45
+@110 18.100A.5 @167 For 42 mm outer dia X 1-1/2” nominal dia threaded @435 each @481 4196.80
+@110 18.100A.6 @167 For 54 mm outer dia X 2” mm nominal dia threaded @435 each @481 4772.95
+@58 18.101 @110 Providing and fixing required Stainless Steel Fitting of press fit design
+@110 of grade AISI 304 conforming to JWWA G116 standard with V-profile or
+@110 M-profile and with O-ring sealing gasket of EPDM material of required dia
+@110 as per direction of Engineer-in-charge.
+@110 Cap
+@110 18.101.1 @167 For 15.88 mm outer dia pipe @435 each @487 58.35
+@110 18.101.2 @167 For 22.22 mm outer dia pipe @435 each @487 85.35
+@110 18.101.3 @167 For 28.58 mm outer dia pipe @435 each @484 122.35
+@110 18.101.4 @167 For 34.00 mm outer dia pipe @435 each @484 234.75
+@110 18.101.5 @167 For 42.70 mm outer dia pipe @435 each @484 342.85
+@110 18.101.6 @167 For 48.60 mm outer dia pipe @435 each @484 426.80
+@58 18.101A @110 Providing and fixing required Stainless Steel Fitting of press fit design of
+@110 grade 316L as per IS : 6911:2017 and conforming to EN-10312 standard
+@110 with V-profile and with O-ring sealing gasket of EPDM material of required
+@110 dia as per direction of Engineer-in-charge.
+@110 Cap
+@110 18.101A.1 @167 For 15 mm outer dia pipe @435 each @484 505.05
+@110 18.101A.2 @167 For 22 mm outer dia pipe @435 each @484 654.40
+@110 18.101A.3 @167 For 28 mm outer dia pipe @435 each @484 818.00
+@110 18.101A.4 @167 For 35 mm outer dia pipe @435 each @482 1145.25
+@110 18.101A.5 @167 For 42 mm outer dia pipe @435 each @481 2489.60
+@110 18.101A.6 @167 For 54 mm outer dia pipe @435 each @481 2738.55
+@58 18.102 @110 Providing and fixing required Stainless Steel Fitting of press fit design
+@110 of grade AISI 304 conforming to JWWA G116 standard with V-profile or
+@110 M-profile and with O-ring sealing gasket of EPDM material of required dia
+@110 as per direction of Engineer-in-charge.
+@110 Pipe Bridge
+@110 18.102.1 @167 For 15.88 mm outer dia pipe @435 each @484 136.55
+@110 18.102.2 @167 For 22.22 mm outer dia pipe @435 each @484 240.45
+@110 18.102.3 @167 For 28.58 mm outer dia pipe @435 each @484 386.95
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 281
+=== PAGE 50
+
+=== PAGE 51
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 18.102A @110 Providing and fixing required Stainless Steel Fitting of press fit design of
+@110 grade 316L as per IS : 6911:2017 and conforming to EN-10312 standard
+@110 with V-profile and with O-ring sealing gasket of EPDM material of required
+@110 dia as per direction of Engineer-in-charge.
+@110 Pipe Bridge
+@110 18.102A.1 @167 For 15 mm outer dia pipe @435 each @484 654.40
+@110 18.102A.2 @167 For 22 mm outer dia pipe @435 each @481 1764.10
+@110 18.102A.3 @167 For 28 mm outer dia pipe @435 each @481 2425.60
+@58 18.103 @110 Providing and fixing required Stainless Steel Fitting of press fit design of
+@110 grade 316L as per IS : 6911:2017 and conforming to EN-10312 standard
+@110 with V-profile and with O-ring sealing gasket of EPDM material of required
+@110 dia as per direction of Engineer-in-charge.
+@110 Male Union
+@110 18.103.1 @167 For 15 mm outer dia X 1/2” nominal dia threaded @435 each @481 1408.40
+@110 18.103.2 @167 For 22 mm outer dia X 1/2” nominal dia threaded @435 each @481 1422.65
+@110 18.103.3 @167 For 22 mm outer dia X 3/4” nominal dia threaded @435 each @481 1628.90
+@110 18.103.4 @167 For 28 mm outer dia X 1” nominal dia threaded @435 each @481 2873.70
+@110 18.103.5 @167 For 35 mm outer dia X 1-1/4” nominal dia threaded @435 each @481 3001.75
+@110 18.103.6 @167 For 42 mm outer dia X 1-1/2” nominal dia threaded @435 each @481 3385.85
+@110 18.103.7 @167 For 54 mm outer dia X 2” nominal dia threaded @435 each @481 5861.25
+@58 18.104 @110 Providing and fixing required Stainless Steel Fitting of press fit design of
+@110 grade 316L as per IS : 6911:2017 and conforming to EN-10312 standard
+@110 with V-profile and with O-ring sealing gasket of EPDM material of required
+@110 dia as per direction of Engineer-in-charge.
+@110 Female Union
+@110 18.104.1 @167 For 22 mm outer dia X 3/4” nominal dia threaded @435 each @481 1508.00
+@110 18.104.2 @167 For 28 mm outer dia X 1” nominal dia threaded @435 each @481 2034.35
+@58 18.105 @110 Providing and fixing required Stainless Steel Fitting of press fit design of
+@110 grade 316L as per IS : 6911:2017 and conforming to EN-10312 standard
+@110 with V-profile and with O-ring sealing gasket of EPDM material of required
+@110 dia as per direction of Engineer-in-charge.
+@110 Female Transition Elbow / FTE
+@110 18.105.1 @167 For 15 mm outer dia X 1/2” nominal dia threaded @435 each @481 1031.40
+@110 18.105.2 @167 For 22 mm outer dia X 1/2” nominal dia threaded @435 each @481 1379.95
+@110 18.105.3 @167 For 22 mm outer dia X 3/4” nominal dia threaded @435 each @481 1429.75
+@385 SUB HEAD : 18.0 WATER SUPPLY
+@52 282
+=== PAGE 52
+
+=== PAGE 53
+@175 SUB HEAD : 19.0
+@214 DRAINAGE
+=== PAGE 54
+
+=== PAGE 55
+@241 19.0 DRAINAGE
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 NOTE : - The rates given for all the items under sub-head ‘Drainage’ are
+@110 applicable to work executed in soils above sub- soil water level. Extra
+@110 allowance has to be made for work under sub- soil water level.
+@110 STONE WARE PIPES AND FITTINGS
+@58 19.1 @110 Providing, laying and jointing glazed stoneware pipes class SP-1 with stiff
+@110 mixture of cement mortar in the proportion of 1:1 (1 cement : 1 fine sand)
+@110 including testing of joints etc. complete :
+@110 19.1.1 @167 100 mm diameter @433 metre @484 443.60
+@110 19.1.2 @167 150 mm diameter @433 metre @484 695.80
+@110 19.1.3 @167 200 mm diameter @433 metre @484 970.35
+@110 19.1.4 @167 250 mm diameter @433 metre @481 1505.60
+@110 19.1.5 @167 300 mm diameter @433 metre @481 2064.15
+@58 19.2 @110 Providing and laying cement concrete 1:5:10 (1 cement : 5 coarse sand
+@110 : 10 graded stone aggregate 40 mm nominal size) all-round S.W. pipes
+@110 including bed concrete as per standard design :
+@110 19.2.1 @167 100 mm diameter S.W. pipe @433 metre @484 964.75
+@110 19.2.2 @167 150 mm diameter S.W. pipe @433 metre @482 1179.85
+@110 19.2.3 @167 200 mm diameter S.W. pipe @433 metre @481 1375.45
+@110 19.2.4 @167 250 mm diameter S.W. pipe @433 metre @481 1590.55
+@58 19.3 @110 Providing and laying cement concrete 1:5:10 (1 cement : 5 coarse sand :
+@110 10 graded stone aggregate 40 mm nominal size) up to haunches of S.W.
+@110 pipes including bed concrete as per standard design :
+@110 19.3.1 @167 100 mm diameter S.W. pipe @433 metre @484 458.50
+@110 19.3.2 @167 150 mm diameter S.W. pipe @433 metre @484 743.10
+@110 19.3.3 @167 200 mm diameter S.W. pipe @433 metre @484 873.50
+@110 19.3.4 @167 250 mm diameter S.W. pipe @433 metre @481 1016.90
+@110 19.3.5 @167 300 mm diameter S.W. pipe @433 metre @482 1173.35
+@58 19.4 @110 Providing and fixing square-mouth S.W. gully trap class SP-1 complete
+@110 with C.I. grating brick masonry chamber with water tight C.I. cover with
+@110 frame of 300 x 300 mm size (inside) the weight of cover to be not less than
+@110 4.50 kg and frame to be not less than 2.70 kg as per standard design:
+@110 19.4.1 @167 100x100 mm size P type
+@167 19.4.1.1 @225 With common burnt clay F.P.S. (non modular)
+@435 each @481 2707.65
+@225 bricks of class designation 7.5
+@167 19.4.1.2 @225 With Sewer bricks conforming to IS : 4885 @435 each @481 2685.20
+@110 19.4.2 @167 150 x 100 mm size P type
+@167 19.4.2.1 @225 With common burnt clay F.P.S. (non modular)
+@435 each @481 2734.20
+@225 bricks of class designation 7.5
+@167 19.4.2.2 @225 With sewer bricks conforming to IS : 4885 @435 each @482 2711.70
+@110 19.4.3 @167 180x150 mm size P type
+@167 19.4.3.1 @225 With common burnt clay F.P.S. (non modular)
+@435 each @481 2802.15
+@225 bricks of class designation 7.5
+@167 19.4.3.2 @225 With Sewer bricks conforming to IS : 4885 @435 each @481 2779.65
+@407 SUB HEAD : 19.0 DRAINAGE
+@52 284
+=== PAGE 56
+
+=== PAGE 57
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 19.5 @110 Dismantling of old S.W. pipes including breaking of joints and bed concrete
+@110 stacking of useful materials near the site within 50 m lead and disposal of
+@110 unserviceable materials into municipal dumps :
+@110 19.5.1 @167 100 mm diameter @433 metre @487 89.00
+@110 19.5.2 @167 150 mm diameter @433 metre @487 98.45
+@110 19.5.3 @167 200 mm diameter @433 metre @484 104.70
+@110 19.5.4 @167 250 mm diameter @433 metre @485 111.00
+@110 19.5.5 @167 300 mm diameter @433 metre @484 117.25
+@110 19.5.6 @167 350 mm diameter @433 metre @484 135.05
+@110 19.5.7 @167 400 mm diameter @433 metre @484 147.65
+@110 19.5.8 @167 450 mm diameter @433 metre @484 153.90
+@58 19.6 @110 Providing and laying non-pressure NP2 class (light duty) R.C.C.
+@110 pipes with collars jointed with stiff mixture of cement mortar in the
+@110 proportion of 1:2 (1 cement : 2 fine sand) including testing of joints
+@110 etc. complete :
+@110 19.6.1 @167 100 mm dia. R.C.C. pipe @433 metre @484 507.05
+@110 19.6.2 @167 150 mm dia. R.C.C. pipe @433 metre @484 556.45
+@110 19.6.3 @167 250 mm dia. R.C.C. pipe @433 metre @484 899.80
+@110 19.6.4 @167 300 mm dia. R.C.C. pipe @433 metre @484 994.30
+@110 19.6.5 @167 450 mm dia. R.C.C. pipe @433 metre @481 1620.95
+@110 19.6.6 @167 500 mm dia. R.C.C. pipe @433 metre @481 1918.90
+@110 19.6.7 @167 600 mm dia. R.C.C. pipe @433 metre @481 2243.40
+@110 19.6.8 @167 700 mm dia. R.C.C. pipe @433 metre @481 2932.50
+@110 19.6.9 @167 800 mm dia. R.C.C. pipe @433 metre @482 3511.95
+@110 19.6.10 @167 900 mm dia. R.C.C. pipe @433 metre @481 4750.85
+@110 19.6.11 @167 1000 mm dia. R.C.C. pipe @433 metre @481 5562.60
+@110 19.6.12 @167 1100 mm dia. R.C.C. pipe @433 metre @481 6276.60
+@110 19.6.13 @167 1200 mm dia. R.C.C. pipe @433 metre @481 7102.15
+@58 19.7 @110 Constructing brick masonry manhole in cement mortar 1:4 ( 1 cement
+@110 : 4 coarse sand ) with R.C.C. top slab with 1:1.5:3 mix (1 cement : 1.5
+@110 coarse sand (zone-III) : 3 graded stone aggregate 20 mm nominal size),
+@110 foundation concrete 1:4:8 mix (1 cement : 4 coarse sand (zone-III) : 8
+@110 graded stone aggregate 40 mm nominal size), inside plastering 12 mm
+@110 thick with cement mortar 1:3 (1 cement : 3 coarse sand) finished with
+@110 floating coat of neat cement and making channels in cement concrete
+@110 1:2:4 (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm
+@110 nominal size) finished with a floating coat of neat cement complete as per
+@110 standard design :
+@110 19.7.1 @167 Inside size 90x80 cm and 45 cm deep including C.I.
+@167 cover @198 with @222 frame @254 (light @283 duty) @312 455x610 @357 mm @379 internal
+@167 dimensions, total weight of cover and frame to be not
+@167 less than 38 kg (weight of cover 23 kg and weight of
+@167 frame 15 kg) :
+@167 19.7.1.1 @225 With common burnt clay F.P.S. (non modular)
+@435 each @479 12770.55
+@225 bricks of class designation 7.5
+@167 19.7.1.2 @225 With Sewer bricks conforming to IS : 4885 @435 each @479 12711.80
+@407 SUB HEAD : 19.0 DRAINAGE
+@52 285
+=== PAGE 58
+
+=== PAGE 59
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 19.7.2 @167 Inside size 120x90 cm and 90 cm deep including C.I. cover
+@167 with frame (medium duty) 500 mm internal diameter, total
+@167 weight of cover and frame to be not less than 116 kg (weight
+@167 of cover 58 kg and weight of frame 58 kg) :
+@167 19.7.2.1 @225 With common burnt clay F.P.S. (non modular)
+@435 each @479 26405.50
+@225 bricks of class designation 7.5
+@167 19.7.2.2 @225 With Sewer bricks conforming to IS : 4885 @435 each @479 26244.70
+@110 19.7.3 @167 Inside size 120x90 cm and 90 cm deep including C.I. cover
+@167 with frame (heavy duty) 560 mm internal diameter, total
+@167 weight of cover and frame to be not less than 208 kg (weight
+@167 of cover 108 kg and weight of frame 100 kg) :
+@167 19.7.3.1 @225 With common burnt clay F.P.S. (non modular)
+@435 each @479 32857.85
+@225 bricks of class designation 7.5
+@167 19.7.3.2 @225 With Sewer bricks conforming to IS : 4885 @435 each @479 32719.50
+@58 19.8 @110 Extra for depth for manholes :
+@110 19.8.1 @167 Size 90x80 cm
+@167 19.8.1.1 @225 With common burnt clay F.P.S. (non modular)
+@433 metre @481 8825.40
+@225 bricks of class designation 7.5
+@167 19.8.1.2 @225 With Sewer bricks conforming to IS : 4885 @433 metre @481 8654.25
+@110 19.8.2 @167 Size 120x90 cm
+@167 19.8.2.1 @225 With common burnt clay F.P.S. (non modular)
+@433 metre @479 10585.50
+@225 bricks of class designation 7.5
+@167 19.8.2.2 @225 With Sewer bricks conforming to IS : 4885 @433 metre @479 10381.45
+@58 19.9 @110 Constructing brick masonry circular type manhole 0.91 m internal dia at
+@110 bottom and 0.56 m dia at top in cement mortar 1:4 (1 cement : 4 coarse
+@110 sand), inside cement plaster 12 mm thick with cement mortar 1:3 (1 cement
+@110 : 3 coarse sand) finished with a floating coat of neat cement, foundation
+@110 concrete 1:3:6 mix (1 cement : 3 coarse sand : 6 graded stone aggregate
+@110 40 mm nominal size), and making necessary channel in cement concrete
+@110 1:2:4 (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm
+@110 nominal size) finished with a floating coat of neat cement, all complete as
+@110 per standard design :
+@110 19.9.1 @167 0.91 m deep with S.F.R.C. cover and frame (heavy duty,
+@167 HD-20 @202 grade @234 designation) @293 560 @316 mm @340 internal @378 diameter
+@167 conforming to I.S. 12592, total weight of cover and frame to
+@167 be not less than 182 kg., fixed in cement concrete 1:2:4 (1
+@167 cement : 2 coarse sand : 4 graded stone aggregate 20 mm
+@167 nominal size) including centering, shuttering all complete.
+@167 (Excavation, foot rests and 12 mm thick cement plaster at
+@167 the external surface shall be paid for separately) :
+@167 19.9.1.1 @225 With common burnt clay F.P.S. (non modular)
+@435 each @479 12725.00
+@225 bricks of class designation 7.5
+@167 19.9.1.2 @225 With Sewer bricks conforming to IS : 4885 @435 each @479 12600.40
+@58 19.10 @110 Extra depth for circular type manhole 0.91m internal dia (at bottom)
+@110 beyond 0.91 m to 1.67 m
+@110 19.10.1 @167 With common burnt clay F.P.S. (non modular) bricks of class
+@433 metre @481 7591.80
+@167 designation 7.5
+@110 19.10.2 @167 With Sewer bricks conforming IS : 4885 @433 metre @481 7448.45
+@407 SUB HEAD : 19.0 DRAINAGE
+@52 286
+=== PAGE 60
+
+=== PAGE 61
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 19.11 @110 Constructing brick masonry circular manhole 1.22 m internal dia at bottom
+@110 and 0.56 m dia at top in cement mortar 1:4 (1 cement :4 coarse sand)
+@110 inside cement plaster 12 mm thick with cement mortar 1:3 (1 cement :
+@110 3 coarse sand) finished with a floating coat of neat cement foundation
+@110 concrete 1:3:6 (1 cement : 3 coarse sand : 6 graded stone aggregate
+@110 40 mm nominal size) and making necessary channel in cement concrete
+@110 1:2:4 (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm
+@110 nominal size) finished with a floating coat of neat cement, all complete as
+@110 per standard design :
+@110 19.11.1 @167 1.68 m deep with SFRC Cover and frame (heavy duty
+@167 HD-20 @202 grade @234 designation) @293 560 @316 mm @340 internal @378 diameter
+@167 conforming to I.S. 12592, total weight of cover and frame to
+@167 be not less than 182 kg. fixed in cement concrete 1:2:4 (1
+@167 cement : 2 coarse sand : 4 graded stone aggregate 20 mm
+@167 nominal size) including centering, shuttering all complete.
+@167 (Excavation, foot rests and 12 mm thick cement plaster at
+@167 the external surface shall be paid for separately) :
+@167 19.11.1.1 @225 With common burnt clay F.P.S. (non modular)
+@435 each @479 24702.75
+@225 bricks of class designation 7.5
+@167 19.11.1.2 @225 With Sewer bricks conforming IS : 4885 @435 each @479 24446.70
+@58 19.12 @110 Extra depth for circular type manhole 1.22 m internal dia (at bottom)
+@110 beyond 1.68 m to 2.29 m :
+@110 19.12.1 @167 With common burnt clay F.P.S. (non modular) bricks of class
+@433 metre @481 9861.45
+@167 designation 7.5
+@110 19.12.2 @167 With Sewer bricks conforming IS : 4885 @433 metre @481 9674.40
+@58 19.13 @110 Constructing brick masonry circular manhole 1.52 m internal dia at bottom
+@110 and 0.56 m dia at top in cement mortar 1:4 (1 cement : 4 coarse sand)
+@110 inside cement plaster 12 mm thick with cement mortar 1:3 (1 cement :
+@110 3 coarse sand) finished with a floating coat of neat cement, foundation
+@110 concrete 1:3:6 (1 cement : 3 coarse sand : 6 graded stone aggregate
+@110 40 mm nominal size) and making necessary channel in cement concrete
+@110 1:2:4 (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm
+@110 nominal size) finished with a floating coat of neat cement, all complete as
+@110 per standard design :
+@110 19.13.1 @167 2.30 m deep with SFRC Cover and frame (heavy duty
+@167 HD- @190 20 @207 grade @238 designation) @296 560 @319 mm @341 internal @378 diameter
+@167 conforming to I.S. 12592, total weight of cover and frame to
+@167 be not less than 182 kg. fixed in cement concrete 1:2:4 (1
+@167 cement : 2 coarse sand : 4 graded stone aggregate 20 mm
+@167 nominal size) including centering, shuttering all complete.
+@167 (Excavation, foot rests and 12 mm thick cement plaster at
+@167 the external surface shall be paid for separately) :
+@167 19.13.1.1 @225 With common burnt clay F.P.S. (non modular)
+@435 each @479 52969.10
+@225 bricks of class designation 7.5
+@167 19.13.1.2 @225 With Sewer bricks conforming IS : 4885 @435 each @479 52266.80
+@58 19.14 @110 Extra depth for circular type manhole 1.52 m internal dia (at bottom)
+@110 beyond 2.30 m :
+@110 19.14.1 @167 With common burnt clay F.P.S. (non modular) bricks of class
+@433 metre @479 22771.85
+@167 designation 7.5
+@110 19.14.2 @167 With Sewer bricks conforming IS : 4885 @433 metre @479 22288.10
+@407 SUB HEAD : 19.0 DRAINAGE
+@52 287
+=== PAGE 62
+
+=== PAGE 63
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 19.15 @110 Providing M.S. foot rests including fixing in manholes with 20x20x10 cm
+@110 cement concrete blocks 1:3:6 (1 cement : 3 coarse sand : 6 graded stone
+@110 aggregate 20 mm nominal size) as per standard design :
+@110 19.15.1 @167 With 20x20 mm square bar @435 each @484 544.70
+@110 19.15.2 @167 With 20 mm diameter round bar @435 each @484 496.50
+@58 19.16 @110 Providing orange colour safety foot rest of minimum 6 mm thick plastic
+@110 encapsulated as per IS : 10910, on 12 mm dia steel bar conforming to
+@110 IS: 1786, having minimum cross section as 23 mmx25 mm and over
+@110 all minimum length 263 mm and width as 165 mm with minimum 112
+@110 mm space between protruded legs having 2 mm tread on top surface
+@110 by ribbing or chequering besides necessary and adequate anchoring
+@435 each @484 553.70
+@110 projections on tail length on 138 mm as per standard drawing and
+@110 suitable to with stand the bend test and chemical resistance test as per
+@110 specifications and having manufacture’s permanent identification mark to
+@110 be visible even after fixing, including fixing in manholes with 30x20x15 cm
+@110 cement concrete block 1:3:6 (1 cement : 3 coarse sand : 6 graded stone
+@110 aggregate 20 mm nominal size) complete as per design.
+@58 19.17 @110 Replacement of M.S. foot rests in manholes including dismantling concrete
+@110 blocks and fixing with 20x20x10 cm cement concrete blocks 1:3:6 (1
+@110 cement : 3 coarse sand : 6 graded stone aggregate 20 mm nominal size):
+@110 19.17.1 @167 With 20x20 mm square bar @435 each @484 670.20
+@110 19.17.2 @167 With 20 mm diameter round bar @435 each @484 621.95
+@58 19.18 @110 Supplying and fixing C.I. cover without frame for manholes :
+@110 19.18.1 @167 455x610 mm rectangular C.I. cover (light duty) the weight of
+@435 each @481 1358.00
+@167 the cover to be not less than 23 kg
+@110 19.18.2 @167 500 mm diameter C.I. cover (medium duty) the weight of the
+@435 each @481 3441.20
+@167 cover to be not less than 58 kg
+@110 19.18.3 @167 560 mm diameter C.I. cover (heavy duty) the weight of the
+@435 each @481 7575.40
+@167 cover to be not less than 108 kg
+@58 19.19 @110 Providing and fixing in position pre-cast R.C.C. manhole cover and frame
+@110 of required shape and approved quality
+@110 19.19.1 @167 L D- 2.5
+@167 19.19.1.1 @225 Rectangular @284 shape @317 600x450 @361 mm @384 internal
+@435 each @481 1437.65
+@225 dimensions
+@167 19.19.1.2 @225 Square shape 450 mm internal dimensions @435 each @482 1155.45
+@167 19.19.1.3 @225 Circular shape 450 mm internal diameter @435 each @482 1169.65
+@110 19.19.2 @167 M D - 10
+@167 19.19.2.1 @225 Square shape 450 mm internal dimension @435 each @481 1386.55
+@167 19.19.2.2 @225 Circular shape 500 mm internal diameter @435 each @482 1172.60
+@110 19.19.3 @167 H D - 20
+@167 19.19.3.1 @225 Circular shape 560 mm internal diameter @435 each @481 1675.70
+@110 19.19.4 @167 EHD - 35
+@167 19.19.4.1 @225 Circular shape 560 mm internal dia @435 each @481 2123.80
+@58 19.20 @110 Supplying and fixing C.I. cover 300x300 mm without frame for gully trap
+@435 each @484 787.00
+@110 (standard pattern) the weight of cover to be not less than 4.5 kg
+@407 SUB HEAD : 19.0 DRAINAGE
+@52 288
+=== PAGE 64
+
+=== PAGE 65
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 19.21 @110 Making connection of drain or sewer line with existing manhole including
+@110 breaking into and making good the walls, floors with cement concrete
+@110 1:2:4 mix (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm
+@110 nominal size) cement plastered on both sides with cement mortar 1:3 (1
+@110 cement : 3 coarse sand), finished with a floating coat of neat cement and
+@110 making necessary channels for the drain etc. complete :
+@110 19.21.1 @167 For pipes 100 to 250 mm diameter @435 each @484 810.45
+@110 19.21.2 @167 For pipes 250 to 300 mm diameter @435 each @484 922.40
+@110 19.21.3 @167 For pipes 350 to 450 mm diameter @435 each @481 1328.45
+@58 19.22 @110 Providing sand cast iron drop connection externally for 60 cm drop
+@110 from branch sewer line to main sewer manhole including inspection
+@110 and cleaning eye with chain and lid, sand cast iron drop pipe and bend
+@110 encased all-round with cement concrete 1:5:10 (1 cement : 5 fine sand :
+@110 10 graded stone aggregate 40 mm nominal size) with all centering and
+@110 shuttering required, cutting holes in walls and making good with brick
+@110 work in cement mortar 1:4 (1 cement : 4 coarse sand) plastered with
+@110 cement mortar 1:3 (1 cement : 3 coarse sand) on inside of the manhole
+@110 wall, lead caulked joints between sand cast iron pipes and fittings, stiff
+@110 cement mortar 1:1 (1 cement : 1 fine sand) joints between sand cast iron
+@110 tee and S.W. pipe, making required channels complete as per standard
+@110 design and specifications :
+@110 19.22.1 @167 100 mm dia sand cast iron drop connection @435 each @479 12172.05
+@110 19.22.2 @167 150 mm dia sand cast iron drop connection @435 each @479 16577.80
+@58 19.23 @110 Extra for depths beyond 60 cm of sand cast iron drop connection complete:
+@110 19.23.1 @167 For 100 mm dia sand cast iron drop connection @433 metre @481 3240.45
+@110 19.23.2 @167 For 150 mm dia sand cast iron drop connection @433 metre @481 4126.90
+@58 19.24 @110 Dismantling of manhole including R.C.C. top slab, C.I. cover with frame,
+@110 including stacking of useful materials near the site and disposal of
+@110 unserviceable materials within 50 m lead as per direction of Engineer-in-
+@110 charge:
+@110 19.24.1 @167 Rectangular manhole 90x80 cm and 45 cm deep @435 each @481 2540.85
+@110 19.24.2 @167 Rectangular manhole 120x90 cm and 90 cm deep @435 each @481 4475.50
+@110 19.24.3 @167 Rectangular arch type manhole 140x90 cm and 2.45 m
+@435 each @481 8466.35
+@167 deep
+@110 19.24.4 @167 Circular manhole 122 cm diameter and 1.68 m deep @435 each @481 6472.40
+@58 19.25 @110 Extra for depth of manholes dismantled :
+@110 19.25.1 @167 Rectangular manhole 90x80 cm and beyond 45 cm depth @433 metre @481 2045.50
+@110 19.25.2 @167 Rectangular manhole 120x90 cm and beyond 90 cm depth @433 metre @481 2436.90
+@110 19.25.3 @167 Rectangular arch type manhole 140x90 cm and beyond
+@433 metre @481 1975.85
+@167 2.45 m depth (up to 4.25 m depth)
+@110 19.25.4 @167 Circular manhole 122 cm diameter and beyond 1.68 m
+@433 metre @481 2229.20
+@167 depth (up to 2.29 m depth)
+@58 19.26 @110 Raising @148 manhole @191 cover @220 and @242 frame @273 slab @297 to @311 required @352 level @378 including
+@110 dismantling existing slab and making good the damage as required
+@110 (Raising depth of manhole to be paid separately) :
+@110 19.26.1 @167 Rectangular manhole 90x80 cm with rectangular cover 600
+@435 each @481 2625.50
+@167 x 450 mm of grade LD - 2.5
+@110 19.26.2 @167 Rectangular manhole 120x90 cm with circular cover 500
+@435 each @481 4168.05
+@167 mm dia of grade MD - 10
+@407 SUB HEAD : 19.0 DRAINAGE
+@52 289
+=== PAGE 66
+
+=== PAGE 67
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 19.26.3 @167 Rectangular manhole 120x90 cm with circular cover 560
+@435 each @481 3881.50
+@167 mm dia of grade HD - 20
+@110 19.26.4 @167 Circular manhole 140 cm dia with circular cover 600 mm dia
+@435 each @484 320.15
+@167 of grade EHD - 35
+@58 19.27 @110 Constructing brick masonry road gully chamber 50x45x60 cm with bricks
+@110 in cement mortar 1:4 (1 cement : 4 coarse sand) including 500x450 mm
+@110 pre-cast R.C.C. horizontal grating with frame complete as per standard
+@110 design :
+@110 19.27.1 @167 With common burnt clay F.P.S. (non modular) bricks of class
+@435 each @481 5957.90
+@167 designation 7.5
+@58 19.28 @110 Constructing brick masonry road gully chamber 45x45x77.5 cm with
+@110 bricks in cement mortar 1:4 (1 cement : 4 coarse sand ) with precast
+@110 R.C.C. vertical grating complete as per standard design :
+@110 19.28.1 @167 With common burnt clay F.P.S. (non modular) bricks of class
+@435 each @481 6889.80
+@167 designation 7.5
+@58 19.29 @110 Constructing brick masonry road gully chamber 110x50x77.5 cm with
+@110 bricks in cement mortar 1:4 (1 cement : 4 coarse sand) including 500x450
+@110 mm precast R.C.C. horizontal grating with frame and vertical grating
+@110 complete as per standard design :
+@110 19.29.1 @167 With common burnt clay F.P.S. (non modular) bricks of class
+@435 each @479 11520.55
+@167 designation 7.5
+@58 19.30 @110 Constructing brick masonry chamber for underground C.I. inspection
+@110 chamber and bends with bricks in cement mortar 1:4 (1 cement : 4 coarse
+@110 sand) C.I. cover with frame (light duty) 455x610 mm internal dimensions,
+@110 total weight of cover with frame to be not less than 38 kg (weight of cover
+@110 23 kg and weight of frame 15 kg), R.C.C. top slab with 1:1.5:3 mix (1
+@110 cement : 1.5 fine sand : 3 graded stone aggregate 20 mm nominal size),
+@110 foundation concrete 1:5:10 (1 cement : 5 fine sand : 10 graded stone
+@110 aggregate 40 mm nominal size), inside plastering 12 mm thick with
+@110 cement mortar 1:3 (1 cement : 3 coarse sand), finished smooth with a
+@110 floating coat of neat cement on walls and bed concrete etc. complete as
+@110 per standard design:
+@110 19.30.1 @167 Inside dimensions 455x610 mm and 45 cm deep for single
+@167 pipe line :
+@167 19.30.1.1 @225 With common burnt clay F.P.S. (non modular)
+@435 each @481 6937.90
+@225 bricks of class designation 7.5
+@110 19.30.2 @167 Inside dimensions 500x700 mm and 45 cm deep for pipe
+@167 line with one or two inlets :
+@167 19.30.2.1 @225 With common burnt clay F.P.S. (non modular)
+@435 each @481 8150.50
+@225 bricks of class designation 7.5
+@110 19.30.3 @167 Inside dimensions 600x 850 mm and 45 cm deep for pipe
+@167 line with three or more inlets :
+@167 19.30.3.1 @225 With common burnt clay F.P.S. (non modular)
+@435 each @481 9594.35
+@225 bricks of class designation 7.5
+@58 19.31 @110 Extra for depth beyond 45 cm of brick masonry chamber :
+@110 19.31.1 @167 For 455x610 mm size
+@167 19.31.1.1 @225 With common burnt clay F.P.S. (non modular)
+@433 metre @482 6117.00
+@225 bricks of class designation 7.5
+@110 19.31.2 @167 For 500x700 mm size
+@407 SUB HEAD : 19.0 DRAINAGE
+@52 290
+=== PAGE 68
+
+=== PAGE 69
+@58 Code No @237 Description @436 Unit @488 Rate
+@167 19.31.2.1 @225 With common burnt clay F.P.S. (non modular)
+@433 metre @481 6680.60
+@225 bricks of class designation 7.5
+@110 19.31.3 @167 For 600x850 mm size
+@167 19.31.3.1 @225 With common burnt clay F.P.S. (non modular)
+@433 metre @481 7789.85
+@225 bricks of class designation 7.5
+@58 19.32 @110 Making soak pit 2.5 m diameter 3.0 metre deep with 45 x 45 cm dry brick
+@110 honey comb shaft with bricks and S.W. drain pipe 100 mm diameter, 1.8
+@110 m long complete as per standard design.
+@110 19.32.1 @167 With common burnt clay F.P.S. (non modular) bricks of class
+@435 each @479 26861.90
+@167 designation 7.5
+@58 19.33 @110 Constructing soak pit 1.20x1.20x1.20 m filled with brick bats including
+@110 S.W. drain pipe 100 mm diameter and 1.20 m long complete as per @435 each @481 2890.10
+@110 standard design.
+@58 19.34 @110 Providing and fixing S.W. intercepting trap in manholes with stiff mixture
+@110 of cement mortar 1:1 (1 cement : 1 fine sand) including testing of joints
+@110 etc. complete :
+@110 19.34.1 @167 100 mm dia @435 each @484 441.40
+@110 19.34.2 @167 150 mm dia @435 each @484 602.65
+@58 19.35 @110 Providing and laying Non Pressure NP-3 class (Medium duty) R.C.C.
+@110 pipes including collars/spigot jointed with stiff mixture of cement mortar
+@110 in the proportion of 1:2 (1 cement : 2 fine sand) including testing of joints
+@110 etc. complete
+@110 19.35.1 @167 450 mm dia RCC pipes. @433 metre @481 2676.55
+@110 19.35.2 @167 600 mm dia RCC pipes. @433 metre @481 3401.25
+@110 19.35.3 @167 900 mm dia RCC pipes. @433 metre @481 5377.25
+@110 19.35.4 @167 1000 mm dia RCC pipes. (Laying by manual/ machanical
+@433 metre @481 6656.55
+@167 means)
+@110 19.35.5 @167 1200 mm dia RCC pipes. (Laying by manual/ machanical
+@433 metre @481 9126.20
+@167 means)
+@110 19.35.6 @167 1800 mm dia RCC pipes. (Laying by manual/ machenical
+@433 metre @479 16184.00
+@167 means)
+@58 19.36 @110 Providing and laying Non Pressure NP-4 class (Heavy duty) R.C.C. pipes
+@110 including collars/spigot jointed with stiff mixture of cement mortar in the
+@110 proportion of 1:2 (1 cement : 2 fine sand) including testing of joints etc.
+@110 complete
+@110 19.36.1 @167 450 mm dia RCC pipes. @433 metre @481 3053.55
+@110 19.36.2 @167 600 mm dia RCC pipes. @433 metre @481 3934.75
+@110 19.36.3 @167 900 mm dia RCC pipes. @433 metre @481 7397.40
+@110 19.36.4 @167 1000 mm dia RCC pipes. (Laying by manual/ machanical
+@433 metre @481 9181.75
+@167 means)
+@110 19.36.5 @167 1200 mm dia RCC pipes. (Laying by manual/ machanical
+@433 metre @480 11119.35
+@167 means)
+@110 19.36.6 @167 1800 mm dia RCC pipes. (Laying by manual/ machanical
+@433 metre @479 22578.75
+@167 means)
+@407 SUB HEAD : 19.0 DRAINAGE
+@52 291
+=== PAGE 70
+
+=== PAGE 71
+@175 SUB HEAD : 20.0
+@210 PILE WORK
+=== PAGE 72
+
+=== PAGE 73
+@239 20.0 PILE WORK
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 20.1 @110 Providing, driving with hydraulic piling rigs with power units and installing
+@110 driven cast-in-situ reinforced cement concrete piles of grade M-25 of
+@110 specified diameter and length below the pile cap, to carry safe working
+@110 load not less than specified, excluding the cost of steel reinforcement but
+@110 including the cost of shoe and the length of pile to be embedded in the pile
+@110 cap etc. all complete. (Length of pile for payment shall be measured from
+@110 top of shoe to the bottom of pile cap) :
+@110 20.1.1 @156 400 mm dia piles @433 metre @481 2767.00
+@110 20.1.2 @156 450 mm dia piles @433 metre @481 3430.65
+@110 20.1.3 @156 500 mm dia piles @433 metre @481 4129.95
+@110 20.1.4 @156 550 mm dia piles @433 metre @481 4530.90
+@110 20.1.5 @156 750 mm dia piles @433 metre @481 7738.55
+@110 20.1.6 @156 1000 mm dia piles @433 metre @479 12748.45
+@110 20.1.7 @156 1200 mm dia piles @433 metre @479 16671.05
+@110 20.1.8 @156 1500 mm dia piles @433 metre @479 23577.75
+@58 20.2 @110 Boring, providing and installation bored cast-in-situ reinforced cement
+@110 concrete piles of grade M-25 of specified diameter and length below the
+@110 pile cap, to carry a safe working load not less than specified, excluding the
+@110 cost of steel reinforcement but including the cost of boring with bentonite
+@110 solution and temporary casing of appropriate length for setting out and
+@110 removal of same and the length of the pile to be embedded in the pile
+@110 cap etc. by percussion drilling using Direct mud circulation (DMC) or
+@110 Bailer and chisel technique by tripod and mechanical Winch Machine all
+@110 complete, including removal of excavated earth with all its lifts and leads
+@110 (length of pile for payment shall be measured up to bottom of pile cap).
+@110 20.2.1 @156 450 mm dia piles @433 metre @481 2278.30
+@110 20.2.2 @156 500 mm dia piles @433 metre @481 2703.25
+@110 20.2.3 @156 600 mm dia piles @433 metre @481 3637.20
+@110 20.2.4 @156 750 mm dia piles @433 metre @481 5581.20
+@58 20.2A @110 Boring, providing and installation bored cast-in-situ reinforced cement
+@110 concrete piles of garde M-25 of specified diameter and length below pile
+@110 cap, to carry a safe working load not less than specified, excluding the
+@110 cost of steel reinforcement but including the cost of boring with bentonite
+@110 solution and temporary casing of appropriate length for setting out and
+@110 removal of same and the length of the pile to be embedded in the pile
+@110 cap etc. by Crawler mounted, telescopic boom hydraulic pilling Rig all
+@110 complete, including removal of excavated earth with all its lifts and leads
+@110 (length of pile for payment shall be measured up to bottom of pile cap). @433 metre
+@110 Note: Truck Mounted rotary/TMR/Tube well boring machine shall not be
+@110 used.
+@110 20.2A.1 @156 600 mm dia piles @433 metre @481 5386.25
+@110 20.2A.2 @156 750 mm dia piles @433 metre @481 7758.75
+@110 20.2A.3 @156 1000 mm dia piles @433 metre @479 12990.80
+@110 20.2A.4 @156 1200 mm dia piles @433 metre @479 17025.75
+@110 20.2A.5 @156 1500 mm dia piles @433 metre @479 24408.80
+@404 SUB HEAD : 20.0 PILE WORK
+@52 293
+=== PAGE 74
+
+=== PAGE 75
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 20.3 @110 Boring with hydraulic piling rigs with power units, providing and installing
+@110 cast in situ single under reamed piles of specified diameter and length
+@110 below pile cap in M-25 cement concrete, to carry a safe working load not
+@110 less than specified, excluding the cost of steel reinforcement but including
+@110 the cost of boring with bentonite solution and the length of the pile to be
+@110 embedded in pile cap etc. all complete. (Length of pile for payment shall
+@110 be measured upto to the bottom of pile cap) :
+@110 20.3.1 @156 300 mm dia piles @433 metre @481 3065.60
+@110 20.3.2 @156 400 mm dia piles @433 metre @481 3797.30
+@110 20.3.3 @156 450 mm dia piles @433 metre @481 4232.75
+@110 20.3.4 @156 550 mm dia piles @433 metre @481 4721.15
+@58 20.4 @110 Extra over single under ream for providing additional bulbs in under
+@110 reamed piles, under specified diameter(only the nos. of extra bulbs are
+@110 to be paid)
+@110 20.4.1 @156 300 mm dia piles @435 each @481 2626.30
+@110 20.4.2 @156 400 mm dia piles @435 each @481 2924.45
+@110 20.4.3 @156 450 mm dia piles @435 each @481 3104.20
+@110 20.4.4 @156 550 mm dia piles @435 each @481 3360.15
+@58 20.5 @110 Providing, driving (with vibrating pile driving hammer complete with power
+@110 units & accessories) and installing driven Pre-cast reinforced cement
+@110 concrete piles of specified diameter and length below the pile cap in M-25
+@110 cement concrete to carry safe working load not less than specified with
+@110 a central through preformed hole with M.S. black pipe of dia, 40 mm for
+@110 grouting with cement sand grouting of mix 1:2 (1cement : 2 coarse sand)
+@110 under sufficient positive pressure to ensure complete filling including
+@110 centring, shuttering, driving and removing the steel casing pipe and
+@110 lifting casing etc. complete but excluding the cost of steel reinforcement.
+@110 (Length of pile for payment shall be measured from top of the shoe to the
+@110 bottom of pile cap).
+@58 20.5.1 @110 400 mm dia piles @433 metre @481 3727.80
+@110 20.5.2 @156 450 mm dia piles @433 metre @481 4766.25
+@110 20.5.3 @156 500 mm dia piles @433 metre @481 4931.35
+@110 20.5.4 @156 550 mm dia piles @433 metre @481 5633.00
+@110 20.5.5 @156 750 mm dia piles @433 metre @479 10846.80
+@110 20.5.6 @156 1000 mm dia piles @433 metre @479 14946.40
+@58 20.6 @110 Vertical load testing of piles in accordance with IS 2911 (Part IV) including
+@110 installation of loading platform by Kentledge/Anchor piles method and
+@110 preparation of pile head or construction of test cap and dismantling of
+@110 test cap after test etc. complete as per specification & the direction of
+@110 Engineer in-charge.
+@110 Note: 1. Initial and Routine Load Test shall not be carried out by Dynamic
+@110 method of testing.
+@110 Note: 2. Testing agency shall submit the design of loading platform for the
+@110 approval of Engineer-in-charge.
+@110 20.6.1 @156 Single pile upto 50 tonne Safe capacity
+@156 20.6.1.1 @214 Initial test (Test Load 2.5 times the Safe capacity) @429 per test @479 54771.50
+@156 20.6.1.2 @214 Routine @253 test @274 (Test @301 Load @328 1.5 @348 times @377 the @396 Safe
+@214 capacity) @429 per test @479 19632.40
+@404 SUB HEAD : 20.0 PILE WORK
+@52 294
+=== PAGE 76
+
+=== PAGE 77
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 20.6.2 @156 Single pile above 50 tonne and upto 100 tonne Safe capacity
+@156 20.6.2.1 @214 Initial test (Test Load 2.5 times the Safe capacity) @429 per test @479 61173.35
+@156 20.6.2.2 @214 Routine @253 test @274 (Test @301 Load @328 1.5 @348 times @377 the @396 Safe
+@214 capacity) @429 per test @479 32436.10
+@110 20.6.3 @156 Group of two or more piles upto 50 tonne Safe capacity
+@156 20.6.3.1 @214 Initial test (Test Load 2.5 times the Safe capacity) @429 per test @479 70420.50
+@156 20.6.3.2 @214 Routine @253 test @274 (Test @301 Load @328 1.5 @348 times @377 the @396 Safe
+@214 capacity) @429 per test @479 40545.15
+@58 20.7 @110 Cyclic vertical load testing of pile in accordance with IS Code of practice
+@110 IS:2911 (part IV) by Kentledge method including preparation of pile head
+@110 etc for.
+@110 20.7.1 @156 Single pile
+@156 20.7.1.1 @214 Upto 50 tonne Safe capacity pile @429 per test @479 19632.40
+@156 20.7.1.2 @214 Above @248 50 @265 tonne @295 and @318 upto @343 100 @366 tonne @396 Safe
+@214 capacity pile @429 per test @479 32436.10
+@110 20.7.2 @156 Group of two or more piles
+@156 20.7.2.1 @214 Upto 400 tonne Safe capacity of group @429 per test @479 40545.15
+@58 20.8 @110 Lateral load testing of single pile in accordance with IS : Code of practice
+@110 IS: 2911 (Part IV) for determining safe allowable lateral load on pile :
+@110 20.8.1 @156 Upto 50 tonne capacity pile @429 per test @479 19632.40
+@110 20.8.2 @156 Above 50 tonne and upto 100 tonne capacity pile @429 per test @479 32862.90
+@58 20.9 @110 Integrity testing of Pile using Low Strain/ Sonic Integrity Test/ Sonic Echo
+@110 Test method in accordance with IS :14893 including surface preparation
+@110 of pile top by removing soil, mud, dust & chipping lean concrete lumps
+@110 etc. and use of computerised equipment and high skill trained personal for
+@110 conducting the test & submission of results, all complete as per direction
+@110 of Engineer-in-charge. @429 per test @482 1153.20
+@110 Note :- The inclusion of the above item in the schedule of work shall be
+@110 judiciously decided by the technical sanctioning authority, keeping in view
+@110 the quality control, type of soil strata & importance of the project.
+@404 SUB HEAD : 20.0 PILE WORK
+@52 295
+=== PAGE 78
+
+=== PAGE 79
+@175 SUB HEAD : 21.0
+@158 ALUMINIUM WORK
+=== PAGE 80
+
+=== PAGE 81
+@217 21.0 ALUMINIUM WORK
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 21.1 @110 Providing and fixing aluminium work for doors, windows, ventilators and
+@110 partitions with extruded built up standard tubular sections/ appropriate Z
+@110 sections and other sections of approved make conforming to IS: 733 and
+@110 IS: 1285, fixing with dash fasteners of required dia and size, including
+@110 necessary filling up the gaps at junctions, i.e. at top, bottom and sides
+@110 with required EPDM rubber/ neoprene gasket etc. Aluminium sections
+@110 shall be smooth, rust free, straight, mitred and jointed mechanically
+@110 wherever required including cleat angle, Aluminium snap beading for
+@110 glazing / panelling, C.P. brass / stainless steel screws, all complete as per
+@110 architectural drawings and the directions of Engineer-in-charge. (Glazing,
+@110 paneling and dash fasteners to be paid for separately) :
+@110 21.1.1 @167 For fixed portion
+@167 21.1.1.1 @225 Anodised aluminium (anodised transparent or
+@225 dyed to required shade according to IS: 1868,
+@225 Minimum anodic coating of grade AC 15) @440 kg @484 495.05
+@167 21.1.1.2 @225 Powder @272 coated @316 aluminium @374 (minimum
+@225 thickness of powder coating 50 micron) @440 kg @484 530.90
+@167 21.1.1.3 @225 Polyester powder coated aluminium (minimum
+@225 thickness @271 of @285 polyester @330 powder @368 coating @405 50
+@225 micron) @440 kg @484 539.85
+@110 21.1.2 @167 For @187 shutters @227 of @241 doors, @274 windows @316 & @329 ventilators @378 including
+@167 providing and fixing hinges/ pivots and making provision
+@167 for fixing of fittings wherever required including the cost of
+@167 EPDM rubber / neoprene gasket required (Fittings shall be
+@167 paid for separately)
+@167 21.1.2.1 @225 Anodised aluminium (anodised transparent or
+@225 dyed to required shade according to IS: 1868,
+@225 Minimum anodic coating of grade AC 15) @440 kg @484 598.60
+@167 21.1.2.2 @225 Powder @272 coated @316 aluminium @374 (minimum
+@225 thickness of powder coating 50 micron) @440 kg @484 634.45
+@167 21.1.2.3 @225 Polyester powder coated aluminium (minimum
+@225 thickness @271 of @285 polyester @330 powder @368 coating @405 50
+@225 micron) @440 kg @484 643.45
+@58 21.2 @110 Providing and fixing 12 mm thick prelaminated particle board flat pressed
+@110 three layer or graded wood particle board conforming to IS: 12823 Grade
+@110 l Type ll, in panelling fixed in aluminum doors, windows shutters and
+@110 partition frames with C.P. brass / stainless steel screws etc. complete as
+@110 per architectural drawings and directions of engineer-in-charge.
+@110 21.2.1 @167 Pre-laminated particle board with decorative lamination on
+@167 one side and balancing lamination on other side @436 sqm @482 1139.30
+@110 21.2.2 @167 Pre-laminated particle board with decorative lamination on
+@167 both sides @436 sqm @482 1115.40
+@58 21.3 @110 Providing and fixing glazing in aluminium door, window, ventilator shutters
+@110 and partitions etc. with EPDM rubber / neoprene gasket etc. complete as
+@110 per the architectural drawings and the directions of engineer-in-charge .
+@110 (Cost of aluminium snap beading shall be paid in basic item):
+@110 21.3.1 @167 With float glass panes of 4.0 mm thickness (weight not less
+@167 than 10kg/sqm) @436 sqm @482 1176.80
+@373 SUB HEAD : 21.0 ALUMINIUM WORK
+@52 297
+=== PAGE 82
+
+=== PAGE 83
+@58 Code No @237 Description @436 Unit @488 Rate
+@110 21.3.2 @167 With float glass panes of 5 mm thickness (weight not less
+@167 than 12.50 kg/sqm) @436 sqm @481 1505.25
+@110 21.3.3 @167 With float glass panes of 8 mm thickness (weight not less
+@167 than 20 kg/sqm) @436 sqm @481 1685.40
+@58 21.4 @110 Providing and fixing double action hydraulic floor spring of approved brand
+@110 and manufacture conforming to IS : 6315, having brand logo embossed
+@110 on the body / plate with double spring mechanism and door weight upto
+@110 125 kg, for doors, including cost of cutting floors, embedding in floors
+@110 as required and making good the same matching to the existing floor
+@110 finishing and cover plates with brass pivot and single piece M.S. sheet
+@110 outer box with slide plate etc. complete as per the direction of Engineer-
+@110 in-charge.
+@110 21.4.1 @167 With stainless steel cover plate minimum 1.25 mm thickness @435 each @481 2823.85
+@110 21.4.2 @167 With brass cover plate minimum 1.25 mm thickness @435 each @481 2966.10
+@58 21.5 @110 Providing and fixing powder coated aluminium work (minimum thickness
+@110 of @124 powder @161 coating @197 50 @214 micron) @251 consisting @299 of @313 tee/ @335 angle @364 sections, @407 of
+@110 approved make conforming to IS : 733 in frames of false ceiling including
+@110 aluminium angle cleats with necessary C.P. brass/ stainless steel sunk
+@110 screws, aluminium perimeter angles fixed to wall with stainless steel rawl
+@110 plugs @ 450 mm centre to centre and fixing the frame work to G.I. level
+@110 adjusting hangers 6 mm dia. with necessary cadmium plated machine
+@110 screws all complete as per approved architectural drawings and direction
+@110 of the Engineer-in-charge (level adjusting hangers, ceiling cleats and
+@110 expansion hold fasteners to be paid for separately). @440 kg @484 817.15
+@58 21.6 @110 Providing and fixing 6 mm dia. G.I. level adjusting hangers (upto 1200 mm
+@110 length), fixed to roof slabs by means of ceiling cleats made out of G.I. flat
+@110 40x3 mm size 60 mm long and stainless steel expandable dash fastener
+@110 of 12.5 mm dia and 50 mm long, complete as per direction of Engineer-
+@110 in-charge. @435 each @487 82.45
+@58 21.7 @110 Providing and fixing machine moulded aluminium covering of approved
+@110 pattern & design, made out of machine cut aluminium sheet and machine
+@110 holed @139 for @156 receiving @200 dash @226 fastener, over @292 expansion @341 joints @369 on @385 vertical
+@110 surfaces/ceiling floors, the fixing on plate in one row on one side of joint
+@110 only shall be done with stainless steel dash fasteners of 8 mm dia and
+@110 75 mm long bolt including providing aluminium washers 2 mm thick & 15
+@110 mm dia , at a staggered pitch of 200 mm centre to centre including drilling
+@110 holes in the receiving surface and providing expandable plastic sleeves in
+@110 holes etc. complete as per direction of Engineer-in-charge.
+@110 21.7.1 @167 Anodised @215 aluminium @267 sheet @299 2.5 @321 mm @345 thick @374 (anodised
+@167 transparent or dyed to required shade according to IS:
+@167 1868, Minimum anodic coating of grade AC 15) @440 kg @484 680.55
+@110 21.7.2 @167 Powder coated aluminium sheet 2.5 mm thick (minimum
+@167 thickness of powder coating 50 micron) @440 kg @484 716.40
+@58 21.8 @110 Filling the gap in between aluminium frame & adjacent RCC/ Brick/ Stone
+@110 work by providing weather silicon sealant over backer rod of approved
+@110 quality as per architectural drawings and direction of Engineer-in-charge
+@110 complete.
+@110 21.8.1 @167 Upto 5 mm depth and 5 mm width @433 metre @487 96.75
+@373 SUB HEAD : 21.0 ALUMINIUM WORK
+@52 298
+=== PAGE 84
+
+=== PAGE 85
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 21.9 @110 Extra for applying additional anodic coating AC 25 instead of AC 15 to
+@110 aluminium extruded sections.
+@110 21.9.1 @167 For fixed portion @440 kg @487 12.80
+@110 21.9.2 @167 For shutters of doors, windows & ventilators @440 kg @487 12.80
+@58 21.10 @110 Providing @157 and @179 fixing @208 double @244 glazed @279 hermetically @336 sealed @371 glazing @408 in
+@110 aluminium windows, ventilators and partition etc. with 6 mm thick clear
+@110 float glass both side, having 12 mm air gap, including providing EPDM
+@110 gasket, perforated aluminium spacers, desiccants, sealant (Both primary
+@110 and secondary sealant) etc. as per specifications, drawings and direction
+@110 of Engineer-in-charge complete. @436 sqm @481 4997.70
+@58 21.11 @110 Providing and fixing stainless steel (SS 304 grade) adjustable friction
+@110 windows stays of approved quality with necessary stainless steel screws
+@110 etc. to the side hung windows as per direction of Engineer-in-charge
+@110 complete.
+@110 21.11.1 @167 205 X 19 mm @435 each @484 344.30
+@110 21.11.2 @167 255 X 19 mm @435 each @484 387.00
+@110 21.11.3 @167 355 X 19 mm @435 each @484 325.80
+@110 21.11.4 @167 510 X 19 mm @435 each @484 802.40
+@110 21.11.5 @167 710 X 19 mm @435 each @481 1478.15
+@58 21.12 @110 Providing and fixing aluminium tubular handle bar 32 mm outer dia, 3.0
+@110 mm thick & 2100 mm long with SS screws etc .complete as per direction
+@110 of Engineer-in-Charge.
+@110 21.12.1 @167 Anodized (AC 15 ) aluminium tubular handle bar @435 each @484 575.75
+@110 21.12.2 @167 Powder coated minimum thickness 50 micron aluminium
+@167 tubular handle bar @435 each @484 631.55
+@110 21.12.3 @167 Polyester powder coated minimum thickness 50 micron
+@167 aluminium tubular handle bar @435 each @484 645.50
+@58 21.13 @110 Providing and fixing Brass 100 mm mortice latch and lock with 6 levers
+@110 without pair of handles (best make of approved quality) for aluminium
+@110 doors including necessary cutting and making good etc. complete. @435 each @484 528.85
+@58 21.14 @110 Providing and fixing anodised aluminium (anodised transparent or dyed to
+@110 required shade according to IS: 1868. Minimum anodic coating of grade
+@110 AC 15) sub frame work for windows and ventilators with extruded built up
+@110 standard tubular sections of approved make conforming to IS: 733 and IS:
+@110 1285, fixed with dash fastener of required dia and size (Dash fastener to
+@110 be paid for separately). @440 kg @484 402.80
+@58 21.15 @110 Providing and fixing aluminium casement windows fastener of required
+@110 length for aluminium windows with necessary screws etc. complete.
+@110 21.15.1 @167 Anodized (AC 15) aluminium @435 each @487 89.40
+@110 21.15.2 @167 Powder coated minimum thickness 50 micron aluminium @435 each @487 97.95
+@110 21.15.3 @167 Polyester powder coated minimum thickness 50 micron
+@167 aluminium @435 each @487 95.10
+@58 21.16 @110 Providing and fixing aluminium round shape handle of outer dia 100 mm
+@110 with SS screws etc. complete as per direction of Engineer-in-charge
+@110 21.16.1 @167 Anodized (AC 15) aluminium @435 each @484 107.90
+@110 21.16.2 @167 Powder coated minimum thickness 50 micron aluminium @435 each @484 109.30
+@110 21.16.3 @167 Polyester powder coated minimum thickness 50 micron
+@167 aluminium @435 each @484 112.15
+@373 SUB HEAD : 21.0 ALUMINIUM WORK
+@52 299
+=== PAGE 86
+
+=== PAGE 87
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 21.17 @110 Providing @156 and @177 fixing @205 anodised @250 aluminium @299 grill @320 (anodised @367 transparent
+@110 or dyed to required shade according to IS: 1868 with minimum anodic
+@110 coating of grade AC 15) of approved design/pattern, with approved
+@110 standard section and fixed to the existing window frame with C.P. brass/
+@110 stainless steel screws @ 200 mm centre to centre, including cutting the
+@110 grill to proper opening size for fixing and operation of handles and fixing
+@110 approved anodised aluminium standard section around the opening, all
+@110 complete as per requirement and direction of Engineer-in-charge. (Only
+@110 weight of grill to be measured for payment). @440 kg @484 638.35
+@58 21.18 @110 Providing and fixing 12 mm thick frameless toughened glass door shutter
+@110 of approved brand and manufacture, including providing and fixing top &
+@110 bottom pivot & double acting hydraulic floor spring type fixing arrangement
+@110 and making necessary holes etc. for fixing required door fittings, all
+@110 complete as per direction of Engineer-in-charge (Door handle, lock and
+@110 stopper etc.to be paid separately). @436 sqm @481 5325.90
+@58 21.19 @110 Filling the gap in between aluminium/ stone/ wood frame and adjacent
+@110 RCC/Brick/ Stone/ wood/ Ceramic/ Gypsum work by providing weather/
+@110 structural non sag elastomeric PU sealant over backer rod of approved
+@110 quality as per architectural drawings and direction of Engineer-in-charge
+@110 complete, complying to ASTM C920, DIN 18540-F & ISO 11600
+@110 21.19.1 @167 Upto 5 mm depth and 5 mm width @433 metre @484 148.10
+@110 21.19.2 @167 Upto 10 mm depth and 10 mm width @433 metre @484 200.95
+@110 21.19.3 @167 Upto 20 mm depth and 20 mm width @433 metre @484 363.20
+@373 SUB HEAD : 21.0 ALUMINIUM WORK
+@52 300
+=== PAGE 88
+
+=== PAGE 89
+@175 SUB HEAD : 22.0
+@159 WATER PROOFING
+=== PAGE 90
+
+=== PAGE 91
+@217 22.0 WATER PROOFING
+@58 Code No @237 Description @436 Unit @488 Rate
+@58 22.1 @110 Providing and laying integral cement based treatment for water proofing
+@110 on horizontal surface at all depth below ground level for under ground
+@110 structures as directed by Engineer-in-Charge and consisting of :
+@110 (i) Ist layer of 22 mm to 25 mm thick approved and specified rough stone
+@110 slab over a 25 mm thick base of cement mortar 1:3 (1 cement : 3 coarse
+@110 sand) including applying of twice ( at base and top of mortar ) cement
+@110 slurry @ 2.2kg/m2 (each time) mixed with water proofing compound
+@110 conforming to IS:2645 in the recommended proportion over the leveling
+@110 course (leveling course to be paid separately). Joints sealed and grouted
+@110 with cement slurry mixed with water proofing compound.
+@110 (ii) 2nd layer of 25 mm thick cement mortar 1:3 (1 cement: 3 coarse sand)
+@110 mixed with water proofing compound in recommended proportions.
+@110 (iii) Finishing top with stone aggregate of 10 mm to 12 mm nominal size
+@110 spreading @ 8 cudm/sqm thoroughly embedded in the 2nd layer.
+@110 22.1.1 @167 Using rough kota stone. @436 sqm @481 1515.60
+@58 22.2 @110 Providing and laying integral cement based treatment for water proofing
+@110 on the vertical surface by fixing specified stone slab 22 mm to 25 mm
+@110 thick with cement slurry mixed with water proofing compound conforming
+@110 to IS:2645 in recommended proportions with a gap of 20 mm (minimum)
+@110 between stone slabs and the receiving surfaces and filling the gaps with
+@110 neat cement slurry mixed with water proofing compound and finishing
+@110 the exterior of stone slab with cement mortar 1:3 (1 cement : 3 coarse
+@110 sand) 20 mm thick with neat cement punning mixed with water proofing
+@110 compound in recommended proportion complete at all levels and as
+@110 directed by Engineer-in-charge :
+@110 22.2.1 @167 Using rough Kota stone @436 sqm @481 2024.70
+@58 22.3 @110 Providing and laying water proofing treatment to vertical and horizontal
+@110 surfaces of depressed portions of W.C., kitchen and the like consisting of:
+@110 (i) Ist course of applying cement slurry @ 4.4 kg/sqm mixed with water
+@110 proofing compound conforming to IS : 2645 in recommended proportions
+@110 including rounding off junction of vertical and horizontal surface.
+@110 (ii) IInd course of 20 mm cement plaster 1:3 (1 cement : 3 coarse sand)
+@110 mixed @143 with @167 water @197 proofing @239 compound @290 in @305 recommended @373 proportion
+@110 including rounding off junction of vertical and horizontal surface.
+@110 (iii) IIIrd course of applying blown or residual bitumen applied hot at 1.7
+@110 kg. per sqm of area.
+@110 (iv) @134 IVth course of 400 micron thick PVC sheet. (Overlaps at joints of
+@110 PVC sheet should be 100 mm wide and pasted to each other with bitumen
+@110 @ 1.7 kg/sqm). @436 sqm @484 769.60
+@58 22.4 @110 Providing and Placing in position suitable PVC water stops conforming to
+@110 IS:12200 for construction/ expansion joints between two RCC members
+@110 and fixed to the reinforcement with binding wire before pouring concrete
+@110 etc. complete :
+@110 22.4.1 @167 Serrated with central bulb (225 mm wide, 8-11 mm thick) @433 metre @484 327.65
+@110 22.4.2 @167 Dumb bell with central bulb (180 mm wide, 8 mm thick) @433 metre @484 267.90
+@110 22.4.3 @167 Kickers (320 mm wide, 5 mm thick) @433 metre @484 263.65
+@58 22.5 @110 Providing and laying water proofing treatment in sunken portion of WCs,
+@110 bathroom etc., by applying cement slurry mixed with water proofing
+@110 cement compound consisting of applying :
+@373 SUB HEAD : 22.0 WATER PROOFING
+@52 302
+=== PAGE 92
+
+=== PAGE 93
+@58 Code No @237 Description
+@436 Unit @488 Rate
+@110 (a) First layer of slurry of cement @ 0.488 kg/sqm mixed with water
+@110 proofing cement compound @ 0.253 kg/ sqm. This layer will be allowed
+@110 to air cure for 4 hours.
+@110 (b) Second layer of slurry of cement @ 0.242 kg/sqm mixed with water
+@110 proofing cement compound @ 0.126 kg/sqm. This layer will be allowed to
+@110 air cure for 4 hours followed with water curing for 48 hours.
+@110 The rate includes preparation of surface, treatment and sealing of all
+@110 joints, corners, junctions of pipes and masonry with polymer mixed slurry. @436 sqm @484 617.05
+@58 22.6 @110 Providing and laying water proofing treatment on roofs of slabs by applying
+@110 cement slurry mixed with water proofing cement compound consisting of
+@110 applying:
+@110 (a) after surface preparation, first layer of slurry of cement @ 0.488 kg/
+@110 sqm mixed with water proofing cement compound @ 0.253 kg/sqm.
+@110 (b) laying second layer of Fibre glass cloth when the first layer is still
+@110 green. Overlaps of joints of fibre cloth should not be less than 10 cm.
+@110 (c) third layer of 1.5 mm thickness consisting of slurry of cement @ 1.289
+@110 kg/sqm mixed with water proofing cement compound @ 0.670 kg/sqm
+@110 and coarse sand @ 1.289 kg/sqm. This will be allowed to air cure for 4
+@110 hours followed by water curing for 48 hours. The entire treatment will be
+@110 taken upto 30 cm on parapet wall and tucked into groove in parapet all
+@110 around.
+@110 (d) fourth and final layer of brick tiling with cement mortar (which will be
+@110 paid for separately.
+@110 For the purpose of measurement the entire treated surface will be
+@110 measured. @436 sqm @484 688.90
+@58 22.7 @110 Providing and laying integral cement based water proofing treatment
+@110 including @153 preparation @207 of @221 surface @258 as @274 required @315 for @332 treatment @378 of @392 roofs,
+@110 balconies, terraces etc consisting of following operations:
+@110 (a) Applying a slurry coat of neat cement using 2.75 kg/sqm of cement
+@110 admixed with water proofing compound conforming to IS. 2645 and
+@110 approved by Engineer-in-charge over the RCC slab including adjoining
+@110 walls upto 300 mm height including cleaning the surface before treatment.
+@110 (b) Laying brick bats with mortar using broken bricks/brick bats 25 mm
+@110 to 115 mm size with 50% of cement mortar 1:5 (1 cement : 5 coarse
+@110 sand) admixed with water proofing compound conforming to IS : 2645
+@110 and approved by Engineer-in-charge over 20 mm thick layer of cement
+@110 mortar of mix 1:5 (1 cement :5 coarse sand) admixed with water proofing
+@110 compound conforming to IS : 2645 and approved by Engineer-in-charge
+@110 to required slope and treating similarly the adjoining walls upto 300 mm
+@110 height including rounding of junctions of walls and slabs.
+@110 (c) After two days of proper curing applying a second coat of cement slurry
+@110 using 2.75 kg/ sqm of cement admixed with water proofing compound
+@110 conforming to IS : 2645 and approved by Engineer-in-charge.
+@110 (d) Finishing the surface with 20 mm thick jointless cement mortar of mix
+@110 1:4 (1 cement :4 coarse sand) admixed with water proofing compound
+@110 conforming to IS : 2645 and approved by Engineer-in-charge including
+@110 laying glass fibre cloth of approved quality in top layer of plaster and
+@110 finally finishing the surface with trowel with neat cement slurry and making
+@110 pattern of 300x300 mm square 3 mm deep.
+@373 SUB HEAD : 22.0 WATER PROOFING
+@52 303
+=== PAGE 94
+
+=== PAGE 95
+@58 Code No @237 Description
+@436 Unit @488 Rate
+@110 (e) The whole terrace so finished shall be flooded with water for a minimum
+@110 period of two weeks for curing and for final test. “All above operations to be
+@110 done in order and as directed and specified by the Engineer-in-Charge”:
+@110 22.7.1 @167 With average thickness of 120 mm and minimum thickness
+@167 at khurra as 65 mm. @436 sqm @481 1684.60
+@58 22.8 @110 Providing and laying four courses water proofing treatment with bitumen
+@110 felt over roofs consisting of first and third courses of blown bitumen 85/25
+@110 or 90/15 conforming to IS : 702 applied hot @ 1.45 Kg per square metre of
+@110 area for each course, second course of roofing felt type 3 grade-I (hessian
+@110 based self finished bitumen felt) and fourth and final course of stone grit
+@110 6 mm and down size or pea sized gravel spread at 6 cubic decimeter
+@110 per square metre, including preparation of surface but excluding grading
+@110 complete with :
+@110 22.8.1 @167 Bitumen felt (hessian base) type 3 grade I conforming to
+@167 IS : 1322 @436 sqm @484 515.05
+@58 22.9 @110 Providing and laying six courses water proofing treatment with bitumen
+@110 felt over roofs consisting of first, third and fifth course of blown bitumen
+@110 85/25 or 90/15 conforming to IS : 702 applied hot @ 1.45, 1.20 and 1.45
+@110 Kg per square metre of area respectively, second and fourth courses of
+@110 roofing felt type 3 grade I conforming to IS : 1322 (Hessian based self
+@110 finished bitumen felt) , sixth and final course of stone grit 6 mm and down
+@110 size or pea sized gravel spread at 6 cubic decimeter per sqm including
+@110 preparation of surface but excluding grading, complete. @436 sqm @484 806.45
+@58 22.10 @110 Providing and laying six courses water proofing treatment with bitumen
+@110 felt over roofs consisting of first, third and fifth courses of blown or / and
+@110 residual bitumen applied hot at 1.45, 1.20 and 1.70 kg per square metre of
+@110 area respectively, second and fourth courses of roofing felt type 2 grade
+@110 I (fibre base self finished bitumen felt) six and final courses of stone grit
+@110 6 mm and down size or pea sized gravel spread at 6 cubic decimeter per
+@110 sqm including preparation of surface, excluding grading, compete. @436 sqm @484 910.85
+@58 22.11 @110 Providing and laying six courses water proofing treatment with bitumen
+@110 felt over roofs consisting of first, third and fifth courses of blown or / and
+@110 residual bitumen applied hot at 1.45, 1.20 and 1.70 kg per square metre of
+@110 area respectively, second and fourth courses of roofing felt type 2 grade
+@110 II (glass fibre base self finished bitumen felt) and sixth and final course
+@110 of stone grit 6 mm and down size or pea sized gravel spread at 6 cubic
+@110 decimeter per sqm including preparation of surface but excluding grading,
+@110 complete. @436 sqm @484 910.85
+@58 22.12 @110 Supplying and applying bituminous solution primer on roof and / or wall
+@110 surface at 0.24 litre per sqm. @436 sqm @487 59.45
+@58 22.13 @110 Deduct for omitting in water proofing treatment final course of spreading
+@110 stone grit 6 mm down size or pea sized gravel :
+@110 22.13.1 @167 at 6 cudm per sqm @436 sqm @487 17.55
+@110 22.13.2 @167 at 8 cudm per sqm @436 sqm @487 22.10
+@58 22.14 @110 Grading roof for water proofing treatment with
+@110 22.14.1 @167 Cement concrete 1:2:4 (1 cement : 2 coarse sand : 4 graded
+@167 stone aggregate 20 mm nominal size) @436 cum @481 8042.30
+@110 22.14.2 @167 Cement mortar 1:3 (1 cement : 3 coarse sand) @436 cum @479 16112.10
+@110 22.14.3 @167 Cement mortar 1:4 (1cement : 4 coarse sand) @436 cum @479 15155.60
+@373 SUB HEAD : 22.0 WATER PROOFING
+@52 304
+=== PAGE 96
+
+=== PAGE 97
+@58 Code No @237 Description
+@436 Unit @488 Rate
+@58 22.22 @110 Providing and mixing integral crystalline admixture for water proofing
+@110 treatment to RCC structures like basement raft, retaining walls, reservior,
+@110 sewage & water treatment plant, tunnels / subway and bridge deck etc. at
+@110 the time of transporting of concrete into the drum of the ready-mix truck ,
+@110 using integral crystalline admixture @0.80% (minimum) to the weight of
+@110 cement content per cubic meter of concrete) or higher as recommended
+@110 by the manufacturer’s specification in reinforced cement concrete at site
+@110 of work. The material shall meet the requirements as specified in ACI-
+@110 212-3R-2010 i.e. by reducing permeability of concrete by more than 90%,
+@110 compared with control concrete as per DIN 1048 and resistant to 16 bar
+@110 hydrostatic pressure. The crystalline admixture shall be capable of self-
+@110 healing of cracks up to a width of 0.50 mm. The work shall be carried
+@110 out all complete as per specification and the direction of the Engineer-
+@110 in-charge. The product performance shall carry guarantee for 10 years
+@110 against any leakage. @440 kg @484 388.00
+@58 22.22A @110 Providing and applying fibre reinforced elastomeric liquid water proofing
+@110 membrane with resilient acrylic polymers having Sun Reflectivity Index
+@110 (SRI) of 105 on top of concrete roof in three coats @10.76 litre/ 10 sqm.
+@110 One coat of self-priming of elastomeric waterproofing liquid (dilution
+@110 with water in the ratio of 3:1) and two coats of undiluted elastomeric
+@110 waterproofing liquid (dry film thickness of complete application/system
+@110 not less than 500 microns). The operation shall be carried out after
+@110 scrapping and properly cleaning the surface to remove loose particles
+@110 with wire brushes, complete in all respect as per the direction of Engineer-
+@110 in-Charge. @436 sqm @484 563.10
+@58 22.23 @110 Providing and applying integral crystalline slurry of hydrophilic in nature
+@110 for waterproofing treatment to the RCC structures like retaining walls of
+@110 the basement, water tanks, roof slabs, podiums, reservior, sewage &
+@110 water treatment plant, tunnels / subway and bridge deck etc., prepared
+@110 by mixing in the ratio of 5 : 2 (5 parts integral crystalline slurry : 2 parts
+@110 water) for vertical surfaces and 3 : 1 (3 parts integral crystalline slurry : 1
+@110 part water) for horizontal surfaces and applying the same from negative
+@110 (internal) side with the help of synthetic fiber brush. The material shall
+@110 meet the requirements as specified in ACI-212-3R-2010 i.e by reducing
+@110 permeability @167 of @181 concrete @223 by @239 more @267 than @291 90% @316 compared @364 with @387 control
+@110 concrete as per DIN 1048 and resistant to 16 bar hydrostatic pressure
+@110 on negative side. The crystalline slurry shall be capable of self-healing
+@110 of cracks up to a width of 0.50 mm. The work shall be carried out all
+@110 complete as per specification and the direction of the engineer-in-charge.
+@110 The product performance shall carry guarantee for 10 years against any
+@110 leakage.
+@110 22.23.1 @167 For vertical surface two coats @ 0.70 kg per sqm per coat @436 sqm @484 472.90
+@110 22.23.2 @167 For horizontal surface one coat @1.10 kg per sqm. @436 sqm @484 362.80
+@58 22.23A @110 Providing & Applying polymer modified, flexible cementatious negative
+@110 side waterproofing coating with elastic waterproofing polymers on interior
+@110 wall plaster surface in three coats @14.35 kg /10 sqm. one coat of self
+@110 priming of cementatious waterproofing polymer(dilution with water in the
+@110 ratio of 1:1) and two coats of cementatious waterproofing polymer (dilution
+@110 with water in the ratio of 3:1 ) after scrapping and properly cleaning the
+@110 surface to remove pre-existing paint film & loose particles till plaster is
+@110 visible, complete in all respect as per the direction of Engineer-in-Charge. @436 sqm @484 447.35
+@373 SUB HEAD : 22.0 WATER PROOFING
+@52 305
+=== PAGE 98
+
+=== PAGE 99
+@58 Code No @237 Description
+@436 Unit @488 Rate
+@58 22.24 @110 Providing and applying integral crystalline (dry shake) of hydrophilic in
+@110 nature for waterproofing treatment to the RCC structures like basement
+@110 raft, foundation slab, sewage & water treatment plant slab, warehouses
+@110 floor, parking structures and water tank base slab etc. sprinkled @0.60 kg
+@110 per sqm or higher as recommended by the manufacturer’s specification
+@110 over the lean concrete of above cited structures. The material shall
+@110 meet the requirements as specified in ACI-212-3R-2010 i.e. by reducing
+@110 permeability of concrete by more than 85%, compared control concrete
+@110 as per DIN 1048 and resistant to 16 bar hydrostatic pressure on negative
+@110 side. The crystalline dry-shake shall be capable of self-healing of cracks
+@110 up to a width of 0.50 mm. The work shall be carried out all complete as
+@110 per specification and the direction of the Engineer-in-charge. The product
+@110 performance shall carry guarantee for 10 years against any leakage. @436 sqm @484 309.60
+@58 22.24A @110 Providing & Applying high quality acrylic modified resin based texture
+@110 of Dholpur/Red sand stone @234 Pattern with anti algae and UV resistance
+@110 properties to be applied as intermediate finish in desired pattern @ 43.04
+@110 kg/10 sqm to form film of 1- 1.5 mm thickness after scrapping and properly
+@110 cleaning the surface to remove loose particles from the plaster surface,
+@110 followed by top coating with Premium Acrylic Smooth exterior paint with
+@110 Silicone additives of required shade by two or more coats @ 1.43 litre/10
+@110 sqm, complete as the direction of Engineer -in-Charge. @436 sqm @484 597.00
+@58 22.25 @110 Providing and applying crystalline mortar by mixing in the ratio of 4.5 : 1 (4.5
+@110 parts crystalline mortar : 1 part water) for the treatment of faulty construction
+@110 joints, cracks, tie rod holes and spalled & honeycombed surface of RCC
+@110 underground structures like basement, water tanks, bridge deck etc. to
+@110 ensure water tightness. The crystallie mortar shall conform to the EN 1504-
+@110 3 having compressive strength Class R4 ≥45 MPa and adhesive bond
+@110 strength Class R3 ≥1.5 MPa. The work shall be carried out all complete as
+@110 per specification and the direction of the engineer-in-charge. The product
+@110 performance shall carry guarantee for 10 years against any leakage.
+@110 22.25.1 @167 For sealing cracks and faulty construction joints, routed out/
+@167 making U-shape groove size 25x25 mm and then primed the
+@167 area with integral crystalline slurry @0.05 kg/running metre
+@167 and while the surface is tacky filled the groove upto surface
+@167 with @191 crystalline @239 mortar @273 @1.50 @308 kg/running @359 metre. @393 Once
+@167 crystalline mortar is touch dry then finally applied two coats
+@167 of integral crystalline slurry @0.05 kg/running metre per coat. @433 metre @484 547.70
+@110 22.25.2 @167 For patching of tie rod holes, prepared tie rod hole surface
+@167 and then primed the area with integral crystalline slurry
+@167 @0.070 kg/sqm and while the surface is tacky repair and
+@167 then filled the tie rod holes with crystalline mortar@0.040kg
+@167 per hole. The crystalline mortar should be tightly rodded into
+@167 tie rod holes or packed tightly (For 25x25x25 mm tie rod
+@167 hole, use 0.040 kg to fill the hole) @424 each hole @487 23.05
+@58 22.26 @110 Providing and applying of swellable type water stop tape, 19 mm x 25 mm
+@110 thick in linear metre (expansive nature) for construction joints treatment
+@110 of RCC structure such as raft slab, retaining walls, water storage tank and
+@110 at the junctions of raft slab with the retaining walls etc.. After cleaning the
+@110 surface, one coat of required primer for swellable water stop tape shall
+@110 be applied throughout the length of the joint @3.78 litre per 240 running
+@110 metre. Over the primed surface swellable type water stop tape shall be
+@110 placed. The work shall be carried out all complete as per specification and
+@110 the direction of the Engineer-In-Charge. The product performance shall
+@110 carry guarantee for 10 years against any leakage. @433 metre @484 573.45
+@373 SUB HEAD : 22.0 WATER PROOFING
+@52 306
+=== PAGE 100
+
+=== PAGE 101
+@175 SUB HEAD : 23.0
+@201 RAIN WATER
+@182 HARVESTING &
+@201 TUBEWELLS
+=== PAGE 102
+
+=== PAGE 103
+@142 23.0 RAIN WATER HARVESTING & TUBEWELLS
+@58 Code No @237 Description
+@423 Unit @474 Rate
+@58 23.1 @110 Boring/drilling bore well of required dia for casing/ strainer pipe, by suitable
+@110 method prescribed in IS: 2800 (part I), including collecting samples from
+@110 different strata, preparing and submitting strata chart/ bore log, including
+@110 hire & running charges of all equipments, tools, plants & machineries
+@110 required for the job, all complete as per direction of Engineer-in-charge,
+@110 upto 90 metre depth below ground level.
+@110 23.1.1 @167 All types of soil
+@167 23.1.1.1 @225 300 mm dia @423 metre @474 707.75
+@167 23.1.1.2 @225 350 mm dia @423 metre @474 774.05
+@167 23.1.1.3 @225 400 mm dia @423 metre @474 990.80
+@110 23.1.2 @167 Rocky strata including Boulders
+@167 23.1.2.1 @225 300 mm dia @423 metre @474 1695.10
+@167 23.1.2.2 @225 350 mm dia @423 metre @474 1792.85
+@167 23.1.2.3 @225 400 mm dia @423 metre @474 2131.45
+@58 23.2 @110 Boring/drilling bore well of required dia for casing/ strainer pipe, by suitable
+@110 method prescribed in IS: 2800 (part I), including collecting samples from
+@110 different strata, preparing and submitting strata chart/ bore log, including
+@110 hire & running charges of all equipments, tools, plants & machineries
+@110 required for the job, all complete as per direction of Engineer -in-charge,
+@110 beyond 90 metre & upto 150 metre depth below ground level.
+@110 23.2.1 @167 All types of soil
+@167 23.2.1.1 @225 300 mm dia @423 metre @474 825.70
+@167 23.2.1.2 @225 350 mm dia @423 metre @474 917.40
+@167 23.2.1.3 @225 400 mm dia @423 metre @474 1238.50
+@110 23.2.2 @167 Rocky strata including Boulders
+@167 23.2.2.1 @225 300 mm dia @423 metre @474 1870.60
+@167 23.2.2.2 @225 350 mm dia @423 metre @474 1955.60
+@167 23.2.2.3 @225 400 mm dia @423 metre @474 2496.55
+@58 23.3 @110 Supplying, assembling, lowering and fixing in vertical position in bore
+@110 well, unplasticized PVC medium well casing (CM) pipe of required dia,
+@110 conforming to IS: 12818, including required hire and labour charges,
+@110 fittings & accessories etc. all complete, for all depths, as per direction of
+@110 Engineer -in-charge.
+@110 23.3.1 @167 100 mm nominal size dia @423 metre @474 672.30
+@110 23.3.2 @167 150 mm nominal size dia @423 metre @474 793.25
+@110 23.3.3 @167 200 mm nominal size dia @423 metre @474 1113.35
+@58 23.4 @110 Supplying, assembling, lowering and fixing in vertical position in bore well
+@110 unplasticized PVC medium well screen (RMS) pipes with ribs, conforming
+@110 to IS: 12818, including hire & labour charges, fittings & accessories etc. all
+@110 complete, for all depths, as per direction of Engineer-in-charge.
+@110 23.4.1 @167 100 mm nominal size dia @423 metre @474 686.55
+@110 23.4.2 @167 150 mm nominal size dia @423 metre @474 807.45
+@110 23.4.3 @167 200 mm nominal size dia @423 metre @474 1255.70
+@58 23.5 @110 Supplying, filling, spreading & leveling stone boulders of size range 5 cm
+@110 to 20 cm, in recharge pit, in the required thickness, for all leads & lifts, all
+@110 complete as per direction of Engineer-in-charge. @423 cum @474 1509.80
+@270 SUB HEAD : 23.0 RAIN WATER HARVESTING & TUBEWELLS
+@52 308
+=== PAGE 104
+
+=== PAGE 105
+@58 Code No @237 Description
+@423 Unit @474 Rate
+@58 23.6 @110 Supplying, filling, spreading & leveling gravels of size range 5 mm to 10
+@110 mm, in the recharge pit, over the existing layer of boulders, in required
+@110 thickness, for all leads & lifts, all complete as per direction of Engineer-
+@110 in-charge. @423 cum @474 1538.25
+@58 23.7 @110 Supplying, filling, spreading & leveling coarse sand of size range 1.5 mm
+@110 to 2 mm in recharge pit, in required thickness over gravel layer, for all
+@110 leads & lifts, all complete as per direction of Engineer -in-charge. @423 cum @474 1538.25
+@58 23.8 @110 Gravel packing in tubewell construction in accordance with IS: 4097,
+@110 including providing gravel fine/ medium/ coarse, in required grading &
+@110 sizes as per actual requirement, all complete as per direction of Engineer-
+@110 in-charge. @423 cum @474 2024.50
+@58 23.9 @110 Providing and fixing factory made precast RCC perforated drain covers,
+@110 having concrete of strength not less than M-25, of size 1000 x 450x50
+@110 mm, reinforced with 8 mm dia four nos longitudinal & 9 nos cross sectional
+@110 T.M.T. hoop bars, including providing 50 mm dia perforations @ 100 to
+@110 125 mm c/c, including providing edge binding with M.S. flats of size 50
+@110 mm x 1.6 mm complete, all as per direction of Engineer-in-charge. @423 each @474 1399.95
+@58 23.10 @110 Supplying, assembling, lowering and fixing in vertical position in bore
+@110 well, ERW (Electric Resistance Welded) FE 410 mild steel screwed and
+@110 socketed/plain ended casing pipes of required dia, conforming to IS:
+@110 4270, of reputed & approved make, including painted with outside surface
+@110 with two coats of anticorrosive paint of approved brand and manufacture,
+@110 including @153 required @194 hire @216 & @228 labour @260 charges, @302 fittings @335 & @347 accessories, @406 all
+@110 complete, for all depths, as per direction of Engineer-in-charge.
+@110 23.10.1 @167 100 mm nominal size dia having minimum wall thickness
+@167 5.00 mm @423 metre @474 1359.25
+@110 23.10.2 @167 150 mm nominal size dia having minimum wall thickness
+@167 5.00 mm @423 metre @474 1972.25
+@110 23.10.3 @167 200 mm nominal size dia having minimum wall thickness
+@167 5.40 mm @423 metre @474 2442.75
+@58 23.11 @110 Supplying, assembling, lowering and fixing in vertical position in bore well,
+@110 ERW (Electric Resistance Welded) FE 410 plain slotted (having slot of
+@110 size 1.6/3.2 mm) mild steel threaded and socketed/ plain bevel ended pipe
+@110 (type A) of required dia, conforming to IS: 8110, of reputed and approved
+@110 make, having wall thickness not less than 5.40 mm, including painted
+@110 with outside surface with two coats of anticorrosive bitumestic paint of
+@110 approved brand and manufacture, including hire & labour charges, fittings
+@110 & accessories, all complete, for all depths, as per direction of Engineer
+@110 -in-charge.
+@110 23.11.1 @167 100 mm nominal size dia @423 metre @474 1456.80
+@110 23.11.2 @167 150 mm nominal size dia @423 metre @474 2102.25
+@110 23.11.3 @167 200 mm nominal size dia @423 metre @474 2571.05
+@58 23.12 @110 Development of tube well in accordance with IS : 2800 (part I) and IS:
+@110 11189, to establish maximum rate of useable water yield without sand
+@110 content (beyond permissible limit), with required capacity air compressor,
+@110 running the compressor for required time till well is fully developed,
+@110 measuring yield of well by “V” notch method or any other approved
+@110 method, measuring static level & draw down etc. by step draw down
+@110 method, collecting water samples & getting tested in approved laboratory,
+@110 including disinfection of tubewell, all complete, including hire & labour
+@110 charges of air compressor, tools & accessories etc., all as per requirement
+@110 and direction of Engineer-in-charge. @423 hour @474 1085.05
+@270 SUB HEAD : 23.0 RAIN WATER HARVESTING & TUBEWELLS
+@52 309
+=== PAGE 106
+
+=== PAGE 107
+@58 Code No @237 Description
+@423 Unit @474 Rate
+@58 23.13 @110 Providing and fixing suitable size threaded mild steel cap or spot welded
+@110 plate to the top of bore well housing/ casing pipe, removable as per
+@110 requirement, all complete for borewell of:
+@110 23.13.1 @167 100 mm dia @423 each @474 224.10
+@110 23.13.2 @167 150 mm dia @423 each @474 246.45
+@110 23.13.3 @167 200 mm dia @423 each @474 321.15
+@58 23.14 @110 Providing and fixing M.S. clamp of required dia to the top of casing/
+@110 housing pipe of tubewell as per IS: 2800 (part I), including necessary
+@110 bolts & nuts of required size complete.
+@110 23.14.1 @167 100 mm clamp @423 each @474 1911.40
+@110 23.14.2 @167 150 mm clamp @423 each @474 2019.05
+@110 23.14.3 @167 200 mm clamp @423 each @474 2293.65
+@58 23.15 @110 Providing and fixing Bail plug/ Bottom plug of required dia to the bottom of
+@110 pipe assembly of tubewell as per IS:2800 (part I).
+@110 23.15.1 @167 100 mm dia @423 each @474 265.10
+@110 23.15.2 @167 150 mm dia @423 each @474 322.00
+@110 23.15.3 @167 200 mm dia @423 each @474 357.60
+@270 SUB HEAD : 23.0 RAIN WATER HARVESTING & TUBEWELLS
+@52 310
+=== PAGE 108
+
+=== PAGE 109
+@175 SUB HEAD : 24.0
+@153 CONSERVATION OF
+@133 HERITAGE BUILDINGS
+=== PAGE 110
+
+=== PAGE 111
+@142 24.0 CONSERVATION OF HERITAGE BUILDINGS
+@58 Code No @237 Description
+@436 Unit @488 Rate
+@58 24.1 @110 Raking out joints of stone masonry surface to the required width and
+@110 depth, with due care and precaution, by mechanical / manual means,
+@110 including preparing and cleaning the surface for re-pointing/ refilling of
+@110 joints, including disposal of rubbish to the dumping ground within 50
+@110 metre lead. @436 sqm @487 72.45
+@58 24.2 @110 Providing and fixing double scaffolding system (cup lock type) on the
+@110 exterior side of building/structure, upto @282 25 metre height, above ground
+@110 level, including additional rows of scaffolding in stepped manner as per
+@110 requirement of site, made with 40 mm dia M.S. tube, placed 1.5 metre
+@110 centre to centre, horizontal & vertical tubes joint with cup & lock system
+@110 with M.S. Tubes, M.S. tube challis, M.S. clamps and staircase system in
+@110 the scaffolding for working platform etc. and maintaining it in a serviceable
+@110 condition for execution of work of cleaning and/ or pointing and/ or
+@110 applying chemical and removing it thereafter. The scaffolding system
+@110 shall be stiffened with bracings, runners, connecting with the building etc,
+@110 wherever required, if feasible, for inspection of work at required locations
+@110 with essential safety features for the workmen etc., complete as per
+@110 directions and approval of Engineer-in-charge.
+@110 Note:- (1) The elevational area of the scaffolding shall be measured for
+@110 payment purpose. (2) The payment will be made once only for execution
+@110 of all items for such works. @436 sqm @484 338.25
+@58 24.3 @110 Cleaning the sand stone surface and removing dirt, dust, bird dropping,
+@110 grease, oil, algae, fungus, monkey beats, vegetable growth etc., including
+@110 providing, @158 applying @200 and @223 washing @265 the @285 surface @323 with @347 liquid @375 Ammonia
+@110 Chemical of 5% solution and other chemical cleaning agent as approved
+@110 by Archaeological Survey of India/ Engineer-in-charge, of approved brand
+@110 and manufacturer, with the help of required scrubbers and also cleaning
+@110 with machine operated water jet mixed with desired quantity of fine silica
+@110 where ever required, without causing any scratching/ damage to the
+@110 stone surface and finally washing the surface with clean water with the
+@110 help of pressure jet machine, complete in all respect, including taking
+@110 all precautions to safeguard ventilators, windows, doors etc. by suitable
+@110 covering so as to avoid any damage to the building/structure, all as per
+@110 direction of Engineer-in-charge (The rate is inclusive of all materials &
+@110 labours involved except scaffolding). @436 sqm @484 211.05
+@58 24.4 @110 Providing and applying antifungal wash treatment using 3% solution
+@110 of @124 sodium @161 pentachlorophenate, @253 of @267 reputed @305 brand @336 and @357 manufacturer,
+@110 on cleaned sand stone surface at desired locations as per direction
+@110 of Engineer-in-charge (The rate is inclusive of all materials & labours
+@110 involved except scaffolding). @436 sqm @487 77.90
+@58 24.5 @110 Ruled / Flush pointing on Red sand stone masonry surface with lime,
+@110 surkhi and marble dust mortar in the ratio of 1:1.5:1/2 {One lime: 1.5
+@110 surkhi (50% red and 50% light yellow surkhi ) : 1/2 marble dust}. (The rate
+@110 is inclusive of all materials & labours involved except scaffolding). @436 sqm @484 374.30
+@58 24.6 @110 Ruled/ Flush pointing on White sand stone masonry surface with lime,
+@110 surkhi and marble dust mortar in the ratio of 1:1.5:1/2 {One lime : 1.5
+@110 surkhi (15% dark red and 85% light yellow surkhi) : 1/2 marble dust}. (The
+@110 rate is inclusive of all materials & labours involved except scaffolding). @436 sqm @484 374.30
+@268 SUB HEAD : 24.0 CONSERVATION OF HERITAGE BUILDINGS
+@52 312
+=== PAGE 112
+
+=== PAGE 113
+@58 Code No @237 Description
+@436 Unit @488 Rate
+@58 24.7 @110 Applying two or more coat of Ethyl Silicate chemical as approved by
+@110 Archaeological Survey of India/ Engineer-in-charge, of approved brand
+@110 and manufacturer, with brush or spray on the existing stone masonry
+@110 surface till there is no further absorption of chemical by stone surface,
+@110 including protecting the applied surface from direct sunlight by suitable
+@110 means during application, all complete as per direction of the Engineer-
+@110 in-Charge (The rate is inclusive of all materials & labours involved except
+@110 scaffolding). @436 sqm @484 329.05
+@58 24.8 @110 Applying breathable, non-reactive, antifungal, and water repellant Silane/
+@110 Siloxane @153 chemical @196 as @212 approved @258 by Archaeological @342 Survey @378 of @392 India/
+@110 Engineer-in-charge, of approved brand and manufacture, diluted with
+@110 solvent mineral Turpentine oil in the ratio of 1:12 (One part of approved
+@110 chemical :12 Part of Turpentine oil), on the existing sand stone masonry
+@110 surface with two or more coats to give uniform application of chemical on
+@110 the surface, all complete as per direction of Engineer-In-charge (The rate
+@110 is inclusive of all materials & labours involved except scaffolding). @436 sqm @484 109.90
+@268 SUB HEAD : 24.0 CONSERVATION OF HERITAGE BUILDINGS
+@52 313
+=== PAGE 114
+
+=== PAGE 115
+@175 SUB HEAD : 25.0
+@123 STRUCTURAL GLAZING
+@117 ALUMINIUM COMPOSITE
+@244 PANEL
+=== PAGE 116
+
+=== PAGE 117
+@98 25.0 STRUCTURAL GLAZING ALUMINIUM COMPOSITE PANEL
+@58 Code No @110 Description @436 Unit @488 Rate
+@58 25.1 @110 Providing and supplying aluminium extruded tubular and other aluminium
+@110 sections as per the architectural drawings and approved shop drawings ,
+@110 the aluminium quality as per grade 6063 T5 or T6 as per BS 1474,including
+@110 super durable powder coating of 60-80 microns conforming to AAMA 2604
+@110 of required colour and shade as approved by the Engineer-in-Charge. (
+@110 The item includes cost of material such as cleats, sleeves, screws etc.
+@110 necessary for fabrication of extruded aluminium frame work. Nothing
+@110 extra shall be paid on this account). The weight of aluminium extruded
+@110 section shall be taken for purpose of payment. @440 kg @484 414.30
+@58 25.2 @110 Designing, fabricating, testing, protection, installing and fixing in position
+@110 semi (grid) unitized system of structural glazing (with open @375 joints) for
+@110 linear as well as curvilinear portions of the building for all heights and all
+@110 levels, including:
+@110 (a) Structural analysis & design and preparation of shop drawings for the
+@110 specified design loads conforming to IS 875 part III (the system @395 must
+@110 passed the proof test at 1.5 times design wind pressure without @400 any
+@110 failure), including functional design of the aluminum sections for @393 fixing
+@110 glazing panels of various thicknesses, aluminium cleats, sleeves @400 and
+@110 splice plates etc. gaskets, screws, toggles, nuts, bolts, clamps @397 etc.,
+@110 structural and weather silicone sealants, flashings, fire stop @378 (barrier)-
+@110 cum-smoke seals, microwave cured EPDM gaskets for water @375 tightness,
+@110 pressure equalisation & drainage and protection against fire hazard
+@110 including:
+@110 (b) Fabricating and supplying serrated M.S. hot dip galvanised / Aluminium
+@110 alloy of 6005 T5 brackets of required sizes, sections and @356 profiles etc. to
+@110 accommodate 3 Dimentional movement for achieving @344 perfect verticality
+@110 and fixing structural glazing system rigidly to the RCC/ masonry/structural
+@110 steel @136 framework @187 of @201 building @239 structure @282 using @317 stainless @360 steel @386 anchor
+@110 fasteners/ bolts, nylon seperator to prevent @297 bimetallic contacts with nuts
+@110 and washers etc. of stainless steel @265 grade 316, of the required capacity
+@110 and in required numbers.
+@110 (c) Providing and filling, two part pump filled, structural silicone sealant
+@110 and one part weather silicone sealant compatible with the structural
+@110 silicone sealant of required bite size in a clean and controlled factory @413 /
+@110 work shop environment, including double sided spacer tape, setting
+@110 blocks and backer rod, all of approved grade, brand and manufacture, as
+@110 per the approved sealant design, within and all around the perimeter for
+@110 holding glass.
+@110 (d) Providing and fixing in position flashings of solid aluminium sheet @410 1
+@110 mm thick and of sizes, shapes and profiles, as required as per the @401 site
+@110 conditions, to seal the gap between the building structure and @392 all its
+@110 interfaces with curtain glazing to make it watertight.
+@110 (e) Making provision for drainage of moisture/ water that enters the
+@110 curtain glazing system to make it watertight, by incorporating principles
+@110 of pressure equalization, providing suitable gutter profiles at bottom (if
+@110 required), making necessary holes of required sizes and of required
+@110 numbers etc. complete. This item includes cost of all inputs of designing,
+@110 labour for fabricating and installation of aluminium grid, installation of
+@110 glazed units, T&P, scaffolding and other incidental charges including
+@110 wastages etc., enabling temporary structures and @333 services, cranes or
+@110 cradles etc. as described above and as specified.
+@208 SUB HEAD : 25.0 STRUCTURAL GLAZING ALUMINIUM COMPOSITE PANEL
+@52 315
+=== PAGE 118
+
+=== PAGE 119
+@58 Code No @110 Description @436 Unit @488 Rate
+@110 The item includes the cost of getting all the structural and functional
+@110 design including shop drawings checked by a structural designer, dully
+@110 approved by Engineer-in-charge. The item also includes the cost of all
+@110 mock ups at site, cost of all samples of the individual components for
+@110 testing in an approved laboratory, field tests on the @333 assembled working
+@110 structural glazing as specified, cleaning and @307 protection till the handing
+@110 over of the building for occupation. In the end, the Contractor shall provide
+@110 a water tight structural glazing having all the performance characteristics
+@110 etc. all complete as required, as @255 per the Architectural drawings, as per
+@110 item description, as specified, as per the approved shop drawings and as
+@110 directed by the Engineer- in-Charge.
+@110 Note:- 1. The cost of providing extruded aluminium frames, shadow
+@110 boxes, extruded aluminium section capping for fixing in the grooves @407 of
+@110 the curtain glazing and vermin proof stainless steel wire mesh @382 shall be
+@110 paid for separately under relevant items under this sub- head. However,
+@110 for the purpose of payment, only the actual area of structural glazing
+@110 (including width of grooves) on the external face shall be measured in
+@110 sqm. up to two decimal places.
+@110 Note:-2. The following performance test are to be conducted on structural
+@110 glazing system if area of structural glazing exceeds 2500 Sqm from the
+@110 certified laboratories accreditated by NABL(National Accreditation Board
+@110 for Testing @163 and @184 Calibration @236 Laboratories), @300 Department @356 of @369 Science @409 &
+@110 Technologies, India. Cost of testing is payable separately.
+@110 The NIT approving authority will decide the necessity of testing on the
+@110 basis of cost of the work, cost of the test @295 and importance of the work.
+@110 Performance Testing of Structural glazing system Tests to be conducted in
+@110 the NABL accredited lab or any other accreditation body which operates in
+@110 accordance with ISO/IEC 17011 and accredits labs as per ISO/IEC 17025
+@110 1. Performance Laboratory Test for Air Leakage Test (-50pa to - 300pa) &
+@110 (+50pa to +300pa) as per ASTM E-283-04 testing method for a range of
+@110 testing limit 1 to 200 mVhr
+@110 2. Static Water Penetration Test. (50pa to 1500pa) as per ASTME- 331-09
+@110 testing method for a range up to 2000 ml.
+@110 3. Dynamic Water Penetration (50pa to 1500pa) as per AAMA 501.01- 05
+@110 testing method for a range upto 2000 ml
+@110 4. @124 Structural @171 Performance @232 Deflection @281 and @303 deformation @360 by @376 static @405 air
+@110 pressure test (1.5 times design wind pressure without any failure) as per
+@110 ASTME-330-10 testing method for a range upto 50 mm
+@110 5. Seismic Movement Test (upto 30 mm) as per AAMA 501.4-09 @387 testing
+@110 method for Qualitative test, Tests to be conducted on site.
+@110 6. Onsite Test for Water Leakage for a pressure range 50 kpa to 240 kpa
+@110 (35psi) upto 2000 ml @436 sqm @481 3510.50
+@58 25.3 @110 Providing, @160 assembling @217 and @240 supplying @289 vision @321 glass @351 panels @387 (IGUs)
+@110 comprising of hermetically-sealed 6-12- 6 mm insulated glass (double
+@110 glazed) vision panel units of size and shape as required and specified,
+@110 comprising of an outer heat strengthened float glass 6 mm thick, of
+@110 approved colour and shade with reflective soft coating on surface # 2 of
+@110 approved colour and shade, an inner Heat strengthned clear float glass
+@110 6 mm thick, spacer tube 12 mm wide, dessicants, including primary seal
+@110 and secondary seal (structural silicone sealant) etc. all complete for the
+@110 required performances, as per the Architectural drawings, as per the
+@110 approved shop drawings, as specified and as directed by the Engineer-
+@110 in-Charge. The IGUs shall be assembled in the factory/ workshop of the
+@110 glass processor.
+@208 SUB HEAD : 25.0 STRUCTURAL GLAZING ALUMINIUM COMPOSITE PANEL
+@52 316
+=== PAGE 120
+
+=== PAGE 121
+@58 Code No @110 Description @436 Unit @488 Rate
+@110 (Payment for fixing of IGU Panels in the curtain glazing is included in cost
+@110 of item No.25.2)
+@110 For payment, only the actual area of glass on face # 1 of the glass panels
+@110 (excluding the areas of the grooves and weather silicone sealant) provided
+@110 and fixed in position, shall be measured in sqm.
+@110 (i) Coloured tinted float glass 6 mm thick substrate with reflective soft
+@110 coating on face # 2, + 12 mm Airgap + 6 mm Heat Strengthened clear
+@110 Glass of approved make having properties as visible Light transmittance
+@110 (VLT) of 25 to 35 %, Light reflection internal 10 to 15%, light reflection
+@110 external 10 to 20 %, shading coefficient (0.25- 0.28) and U value of 3.0
+@110 to 3.3 W/m2 degree K etc. The properties of performance glass shall be
+@110 decided by technical sanctioning authority as per the site requirement. @436 sqm @481 3718.70
+@58 25.4 @110 Extra for openable side / top hung vision glass panels (IGUs) including
+@110 providing and supplying at site all accessories and hardwares for the
+@110 openable panels as specified and of the approved make such as heavy
+@110 duty stainless steel friction hinges, min 4 -point cremone locking sets with
+@110 stainless steel plates, handles, buffers etc. including necessary stainless
+@110 steel screws/ fasteners, nuts, bolts, washers etc. all complete as per the
+@110 Architectural drawings, as per the approved shop drawings, as specified
+@110 and as directed by the Engineer- in-Charge. @436 sqm @481 3671.50
+@58 25.5 @110 Providing, fabricating and supplying shadow box of required size and
+@110 shape, for fixing in the spandrel portion of the structural glazing, in linear
+@110 as well as curvilinear portions of the building by providing semi -rigid,
+@110 inorganic, @157 non-combustible @232 fibre @257 glass wool insulation @355 50 mm thick,
+@110 conforming to IS: 8183 and BS: 3958 Part 5. The insulation layer shall
+@110 have facing (factory bonded on surface # 1 of the fibre glass insulation
+@110 layer), of black non-woven fibre glass tissue of nominal thickness 0.5 mm
+@110 and nominal mass not less than 60 gm /sqm, made of randomly oriented
+@110 glass fibres distributed in a binder by a wet-lay process including fixing 1.5
+@110 mm thick solid aluminum sheet backing using, 6 mm thick cement board
+@110 including SS rivets, nuts, bolts, washers etc complete. @436 sqm @481 2159.65
+@58 25.6 @110 Providing and supplying Spandrel Glass Panels comprising of 6 mm thick
+@110 heat strengthened monolithic float glass of approved colour and shade
+@110 with reflective soft coating on surface # 2 of approved colour and shade
+@110 so as to match the colour and shade of the IGUs in the vision panels
+@110 etc. ,all complete for the required performances as specified, as per the
+@110 Architectural drawings, as per the approved shop drawings, as specified,
+@110 and as directed by the Engineer- in- Charge.
+@110 For payment, only the actual area of glass on face # 1 of the glass panels
+@110 (but excluding the area of grooves and weather silicone sealant) provided
+@110 and fixed in position, shall be measured in sqm. (Payment for @382 fixing of
+@110 Spandrel Glass Panels in the curtain glazing is included in cost of relevent
+@110 Item*).“(i) Coloured tinted float glass 6 mm thick substrate with reflective
+@110 soft coating on face # 2, having properties as visible Light transmittance
+@110 (VLT) of 25 to 35 %, Light reflection internal 10 to 15%, light reflection
+@110 external 10 to 20 %, shading coefficient (0.25- 0.28) and U value of 3.0 to
+@110 3.3 W/m2 K etc. . The properties of performance glass shall be decided by
+@110 technical sanctioning authority as per the site requirement. @436 sqm @481 2450.15
+@58 25.8 @110 Design supply & installation of suspended Spider Glazing system designed
+@110 to withstand the wind pressure as per IS 875 (Part-III). The Suspended
+@110 System held with Spider Fittings of SS-316 Grade Steel of approved
+@110 manufacturer with glass panel having 12 mm thick clear toughened glass
+@110 held together with SS- 316 Grade Stainless steel Spider & bolt assembly
+@110 with laminated glass fins 21 mm thick. The Glass fins
+@208 SUB HEAD : 25.0 STRUCTURAL GLAZING ALUMINIUM COMPOSITE PANEL
+@52 317
+=== PAGE 122
+
+=== PAGE 123
+@58 Code No @110 Description @436 Unit @488 Rate
+@110 and glass panel assembly shall be connected to Slab/beams by means
+@110 of SS- 316 Grade stainless steel brackets & Anchor bolts and at the
+@110 bottom using SS channel of 50x25x2 mm using fastener & anchor bolts,
+@110 non staining weather sealants of approved make, Teflon/ nylon bushes
+@110 and separators to prevent bi-metallic contacts, all complete to perform
+@110 as per specification and approved drawings. The complete system to be
+@110 designed to accommodate thermal expansion & seismic movements etc.
+@110 The joints between glass panels (6 to 8 mm) and gaps at the perimeter
+@110 & in U channel of the assembly to be filled with non staining weather
+@110 sealant, so as to make the entire system fully water proof & dust proof.
+@110 The rate shall include all design, Engineering and shop drawing including
+@110 approval from structural designer, labour, T&P, scaffolding, other incidental
+@110 charges including wastage, enabling temporary services all fitting fixers
+@110 nut bolts, washer, Buffer plates, fastener, anchors, SS channel laminated
+@110 glass etc. all complete. For the purpose of payment, actual elevation area
+@110 of Glazing including thickness of joints and the portion of Glass panel
+@110 inside the SS channel shall be measured. @436 sqm @481 9502.35
+@208 SUB HEAD : 25.0 STRUCTURAL GLAZING ALUMINIUM COMPOSITE PANEL
+@52 318
+=== PAGE 124

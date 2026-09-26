@@ -1,0 +1,2829 @@
+=== PAGE 1
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 7800 @104 Ceramic Glazed Tiles 1st quality minimum thickness 5 mm in all @422 sqm @495 225.00
+@104 colours shades and designs except burgundy, bottle green, black
+@67 7801 @104 Ceramic Glazed Tiles 1st quality 300 x 300 mm in all shades and @422 sqm @495 200.00
+@104 designs of White, Ivory, grey, Fume Red brown etc.
+@67 7802 @104 Ceramic Glazed Tiles 1st quality 300 x 300 mm in all shades designs @422 sqm @495 350.00
+@104 except White, Ivory, Grey, Fume Red Brown etc.
+@67 7803 @104 Rectified Ceramic Glazed Tiles 1st quality 300 x 300 mm or more in all @422 sqm @495 375.00
+@104 shades designs White, Ivory, Grey, Fume Red Brown etc.
+@67 7804 @104 Rectified Ceramic Glazed Tiles 1st quality 300 x 300 mm or more in all @422 sqm @495 450.00
+@104 shades designs except White, Ivory, Grey, Fume Red Brown etc.
+@67 7805 @104 Salem Stainless steel AISI - 304 (18/8) Orrisa pattern W.C. pan 724 @421 each @490 4600.00
+@104 mm X 578 mm
+@67 7806 @104 Salem Stainless steel AISI - 304 (18/8) Round basin 405 mm X 355 @421 each @490 1650.00
+@104 mm
+@67 7807 @104 Salem Stainless steel AISI - 304 (18/8) Wash basin 530 mm X 345 @421 each @490 2150.00
+@104 mm
+@67 7808 @104 Centrifugally cast (spun) iron S&S 100 mm inlet and 100 mm outlet @421 each @495 550.00
+@104 trap
+@67 7809 @104 Centrifugally cast (spun) iron S&S 100 mm inlet and 75 mm outlet trap @421 each @495 535.00
+@67 7850 @104 Agaria White marble slab plain 18 mm thick @422 sqm @491 1100.00
+@67 7857 @104 P.T.M.T. Grating square slit 150 mm @421 each @501 50.00
+@67 7858 @104 P.T.M.T. Urinal cock 15 mm dia @421 each @495 105.00
+@67 7859 @104 P.T.M.T. Bib cock with nozzle 15 mm @421 each @495 120.00
+@67 7861 @104 P.T.M.T. Stop cock (concealed) 15 mm @421 each @495 135.00
+@67 7862 @104 15 mm nominal bore and 30 cm length PVC connection pipe with @421 each @501 40.00
+@104 P.T.M.T. Nuts
+@67 7863 @104 15 mm nominal bore and 45 cm length PVC connection pipe with @421 each @501 55.00
+@104 P.T.M.T. Nuts
+@67 7864 @104 P.T.M.T. extension nipple 15 mm dia @421 each @501 30.00
+@67 7865 @104 P.T.M.T. extension nipple 20 mm dia @421 each @501 58.00
+@67 7866 @104 P.T.M.T. extension nipple 25 mm dia @421 each @501 72.00
+@67 7893 @104 Tactile tile @422 sqm @495 890.00
+@67 7895 @104 Matt finished vitrified tile 100x100 x16 mm @422 sqm @495 990.00
+@67 7896 @104 Vitrified tile @422 sqm @495 495.00
+@67 7900 @104 Modular common burnt clay bricks of class designation 7.5 @411 1000 Nos @490 4500.00
+@67 7901 @104 Machine moulded perforated common burnt clay FPS (non modular) @411 1000 Nos @490 5000.00
+@104 bricks of class designation 12.5
+@67 7902 @104 Machine moulded common burnt clay modular perforated bricks of @411 1000 Nos @490 5500.00
+@104 class designation 12.5
+@67 7903 @104 Machine moulded common burnt clay FPS (non modular) bricks of @411 1000 Nos @490 5300.00
+@104 class designation 12.5
+@67 7904 @104 Machine moulded common burnt clay tile bricks of class designation @411 1000 Nos @490 5200.00
+@104 12.5
+@67 7911 @104 Chemical Rust Remover @423 litre @495 290.00
+@67 7912 @104 Hire charges of Drill machine upto 30 mm dia @423 day @495 180.00
+@67 7913 @104 Epoxy @426 kg @495 380.00
+@67 7914 @104 SBR Polymer @426 kg @495 200.00
+@395 BASIC RATES : 03 MATERIALS
+@51 54
+=== PAGE 2
+@518 `
+=== PAGE 3
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 7915 @104 Woven PVC cloth @422 sqm @500 28.00
+@67 7916 @104 Hire charges of sand blasting equipment @423 day @495 500.00
+@67 7917 @104 Hire charges of compressure @423 day @495 750.00
+@67 7918 @104 25 mm thick cement concrete shotcrete(guniting) with compressor @422 sqm @495 125.00
+@67 7919 @104 50 mm thick cement concrete shotcrete(guniting) with compressor @422 sqm @495 190.00
+@67 7920 @104 75 mm thick cement concrete shotcrete(guniting) with compressor @422 sqm @495 310.00
+@67 7921 @104 Adhesive chemical @426 ml @506 2.00
+@67 7922 @104 Bit of drilling machine for Hole upto 30 mm dia @421 each @495 550.00
+@67 7923 @104 GI injection nipple 12 mm dia, 75 mm long @421 each @501 50.00
+@67 7924 @104 Blowing compressed air for cleaning holes upto 30 mm dia @421 each @501 10.00
+@67 7925 @104 L shaped 100 mm long, 10 mm dia mild steel shear key @426 kg @501 90.00
+@67 7926 @104 Welding charges of shear key to existing reinforcement @421 each @506 2.50
+@67 7927 @104 Acrylic Polymer chemical for cracks @426 kg @501 35.00
+@67 7928 @104 Hire charges of Plant and machinery, it can inject - 350kg/day @423 day @495 120.00
+@67 7929 @104 Shear loops (6 mm dia GI wire rope) (For vertical joints) 6 nos on @421 each @495 230.00
+@104 each side
+@67 7930 @104 Dowel tubes (Corrugated GI pipes 50 to 80 mm dia) (For horizontal @419 metre @495 165.00
+@104 joints)
+@67 7931 @104 Hooks for lifting (Alloy steel) having 2.5 tonne capacity @421 each @495 310.00
+@67 7996 @104 Factory made EPS light weight composite sandwitched wall/roof @422 sqm @495 760.00
+@104 panel (50 mm thick) having core material of EPS granule balls/beads
+@104 (conforming to IS 4671:1984 and shall have density not less than
+@104 15kg per cum). The outer face on both sides of the panels will be non
+@104 asbestos fiber cement board conforming to IS 14862:2000 or Calcium
+@104 silicate board conforming to EN 14306:2009 of 5 mm thick each.
+@67 7997 @104 Factory made EPS light weight composite sandwitched wall/roof @422 sqm @495 875.00
+@104 panel (60 mm thick) having core material of EPS granule balls/beads
+@104 (conforming to IS 4671:1984 and shall have density not less than
+@104 15kg per cum). The outer face on both sides of the panels will be non
+@104 asbestos fiber cement board conforming to IS 14862:2000 or Calcium
+@104 silicate board conforming to EN 14306:2009 of 5 mm thick each
+@67 7998 @104 Factory made EPS light weight composite sandwitched wall/roof @422 sqm @492 1111.00
+@104 panel (75 mm thick) having core material of EPS granule balls/beads
+@104 (conforming to IS 4671:1984 and shall have density not less than
+@104 15kg per cum). The outer face on both sides of the panels will be non
+@104 asbestos fiber cement board conforming to IS 14862:2000 or Calcium
+@104 silicate board conforming to EN 14306:2009 of 5 mm thick each
+@67 7999 @104 Factory made EPS light weight composite sandwitched wall/roof @422 sqm @490 1313.00
+@104 panel (90 mm thick) having core material of EPS granule balls/beads
+@104 (conforming to IS 4671:1984 and shall have density not less than
+@104 15kg per cum). The outer face on both sides of the panels will be non
+@104 asbestos fiber cement board conforming to IS 14862:2000 or Calcium
+@104 silicate board conforming to EN 14306:2009 of 5 mm thick each
+@395 BASIC RATES : 03 MATERIALS
+@51 55
+=== PAGE 4
+@518 `
+=== PAGE 5
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8000 @104 Factory made EPS light weight composite sandwitched wall/roof @422 sqm @490 1565.00
+@104 panel (100 mm thick) having core material of EPS granule balls/beads
+@104 (conforming to IS 4671:1984 and shall have density not less than
+@104 15kg per cum). The outer face on both sides of the panels will be non
+@104 asbestos fiber cement board conforming to IS 14862:2000 or Calcium
+@104 silicate board conforming to EN 14306:2009 of 5 mm thick each
+@67 8001 @104 24 mm thick Factory made shutters with style, rails and panels of PVC @422 sqm @490 1800.00
+@104 extruded sections in white, grey or wooden finish
+@67 8002 @104 30 mm thick Factory made shutters with style, rails and panels of PVC @422 sqm @490 2000.00
+@104 extruded sections in white, grey or wooden finish
+@67 8003 @104 30 mm thick Factory made PVC rigid foam panelled shutter as per @422 sqm @490 1912.00
+@104 IS:4020 (Plain) i/c carriage
+@67 8004 @104 30 mm thick Factory made PVC rigid foam panelled shutter as per IS : @422 sqm @490 2250.00
+@104 4020(Both side laminated) i/c carriage
+@67 8006 @104 Factory made PVC rigid foam sheet 1 mm thick @422 sqm @495 165.00
+@67 8007 @104 Factory made PVC rigid foam sheet 5 mm thick @422 sqm @495 530.00
+@67 8008 @104 Factory made prelaminated PVC rigid foam sheet 5 mm thick @422 sqm @490 1024.00
+@67 8010 @104 48 mmX40 mmX1.5 mm thick Factory made door frame of PVC @419 metre @495 140.00
+@104 extruded sections in white, grey or wooden finish
+@67 8011 @104 Factory made 50 mmx47 mm with a wall thickness of 5 mm door @419 metre @495 295.00
+@104 frame PVC extruded sheet i/c carriage
+@67 8012 @104 Adhesive solvent cement @426 kg @495 150.00
+@67 8013 @104 Factory made EPS Core wall panel /roof panel sandwiched between @422 sqm @490 1708.00
+@104 two Engineered welded wire fabric mesh of 3 mm dia G.I. wire
+@104 mesh,with 50 mm pitch in both the directions, kept at 120-135 mm gap
+@104 and interconnected by the zig zag G.I. wire of 3 mm dia at alternate
+@104 row by welding.
+@67 8014 @104 Factory made door frame of size 50x47 mm with wall thickness 5 mm @419 metre @495 350.00
+@104 made of single piece extruded profile
+@384 3
+@67 8015 @104 Expanded poly ethylene Foam sheet 4 mm thick of density 40kg/m @422 sqm @500 22.00
+@67 8016 @104 High Density expanded poly ethylene (EPE) Foam 1 mm thick @422 sqm @500 12.00
+@67 8017 @104 Fire rated door frame made with 1.6 mm thick G.I sheet (120 minutes @419 metre @490 1400.00
+@104 fire rating)
+@67 8018 @104 Fire rated door shutter made with 1.6 mm thick G.I sheet (120 minutes @422 sqm @490 7000.00
+@104 fire rating) including hinges ( without glass panels)
+@67 8019 @104 GI sheet 0.8 mm thick conforming to IS 277:1992 @426 kg @500 69.00
+@67 8020 @104 Factory made EPS Core wall panel /roof panel sandwiched between @422 sqm @495 621.00
+@104 two Engineered welded wire fabric mesh of 3 mm dia G.I. wire mesh,
+@104 with 50 mm pitch in both the directions, connected by G.I. wire of 3
+@104 mm dia at alternate row by welding
+@67 8021 @104 Bamboo wood Tile Flooring 14 mm thick, minimum 1800 mm length @422 sqm @490 3790.50
+@104 and minimum 100 mm wide
+@67 8022 @104 Bamboo wood Quarter Round 18 mm thick of size 1900 mm x 18 mm @419 metre @495 128.25
+@67 8023 @104 Bamboo wood door reducer 14 mm thick of size 1900 mm x 44 mm @419 metre @495 289.75
+@67 8024 @104 Bamboo wood Skirting 14 mm thick of size 1900 mm x 85 mm @419 metre @495 327.75
+@67 8025 @104 Bamboo wood Tile Wall Cladding 10 mm thick, minimum 1800 mm @422 sqm @490 3562.50
+@104 length and minimum 100 mm wide
+@67 8026 @104 Bamboo wood T-mold 14 mm thick of size 1900 mm x 44 mm @419 metre @495 275.50
+@67 8027 @104 Bamboo wood Threshold 14 mm thick of size 1900 mm x 44 mm @419 metre @495 275.50
+@395 BASIC RATES : 03 MATERIALS
+@51 56
+=== PAGE 6
+@518 `
+=== PAGE 7
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8028 @104 Bamboo wood shutter of doors @413 10 cudm @490 2018.75
+@67 8029 @104 Bamboo wood panelling (10 mm thick) @413 10 cudm @490 2018.75
+@67 8030 @104 Superior class Bamboo wood door frame 65 mm thick, @413 10 cudm @490 2018.75
+@67 8031 @104 Aluminium sheets Grade 5052, 4 mm thick for wall panel/deck panel/ @422 sqm @490 8800.00
+@104 WRB panel/Kicker Panels/door closing panels ( for form work)
+@67 8032 @104 Aluminium sheets Grade 5052, 4 mm thick for Internal Corner/ @422 sqm @485 13300.00
+@104 Column Corners/ ( for form work)
+@67 8033 @104 Aluminium sheets Grade 5052, 4 mm thick for Mid Soldier/End @422 sqm @485 33050.00
+@104 soldier (for form work)
+@104 Accessories for aluminium form work
+@67 8034 @104 External corner 2050 mm @421 each @490 1500.00
+@67 8035 @104 External corner 825 mm @421 each @495 650.00
+@67 8036 @104 soldier tie 370 mm @421 each @495 333.00
+@67 8037 @104 Adjustable prop-2.0 x2.0 m @421 each @490 1320.00
+@67 8038 @104 Pin-50 @421 each @500 15.00
+@67 8039 @104 Pin-127 @421 each @501 60.00
+@67 8040 @104 wedge @421 each @501 10.00
+@67 8041 @104 wall tie-150 (355 mm ) @421 each @501 50.00
+@67 8042 @104 Polythene Sleeve 90 x 150 mm @421 each @506 3.00
+@67 8043 @104 Polythene Roll - 150 mm Long. @421 each @506 6.00
+@67 8044 @104 Vertical Soldier -1100 mm @421 each @495 410.00
+@67 8045 @104 Wall Attached Bracket 600x1000 mm @421 each @490 1090.00
+@67 8046 @104 Allignment Pipe - 3.00 metre @421 each @491 1100.00
+@67 8047 @104 Allignment Bracket @421 each @495 530.00
+@67 8048 @104 Tie Rod for Bracket - 500 mm @421 each @495 132.00
+@67 8049 @104 Anchor Wing Nut Ø100 mm @421 each @501 70.00
+@67 8050 @104 Debit Pin - 250 mm @421 each @501 65.00
+@67 8051 @104 PVC Pipe Ø20 mm - 150 mm long @421 each @506 5.00
+@67 8052 @104 PVC Cone @421 each @506 5.00
+@67 8053 @104 Bolt+Nut - 16 x 80 mm @421 each @501 40.00
+@67 8054 @104 Flat Washer Ø16, 3 mm thick @421 each @506 6.00
+@67 8055 @104 Bolt+Nut - 16 x 30 mm @421 each @501 20.00
+@67 8056 @104 Door spacer 45x45x5-1135 mm Long @421 each @495 400.00
+@67 8057 @104 Door spacer 45x45x5-1135 mm Long @421 each @495 400.00
+@67 8100 @104 Powder coated M.S. butt hinges 100 mm X58 mmX1.9 mm @416 10 Nos @495 145.00
+@67 8101 @104 SS ball bearing of size 100 x89x3 mm @421 each @495 517.00
+@68 8116 @104 Zinc alloy (white powder coated) 3D Hinges for uPVC door @421 each @495 546.00
+@68 8117 @104 Zinc alloy (white powder coated) handles with zinc plated mild steel @413 each set @490 3030.00
+@104 multi point locking having transmission gear, cylinder with keeps and
+@104 one side key for uPVC casement door
+@68 8118 @104 Zinc alloy (white powder coated) handles along with zinc plated mild @413 each set @490 1455.00
+@104 steel multi point locking having transmission gear with keeps for uPVC
+@104 sliding / casement window
+@395 BASIC RATES : 03 MATERIALS
+@51 57
+=== PAGE 8
+@518 `
+=== PAGE 9
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8119 @104 Zinc alloy (white powder coated) handles with key along with zinc @413 each set @490 1765.00
+@104 plated mild steel multi point locking having transmission gear with
+@104 keeps for uPVC sliding door
+@67 8121 @104 uPVC extruded range R2 casement window frame size (39 mm & @419 metre @495 224.00
+@104 above) x (39 mm & above)
+@67 8122 @104 uPVC extruded range R2 casement window sash/window mullion size @419 metre @495 248.00
+@104 (39 mm & above) x (60 mm & above)
+@67 8125 @104 uPVC extruded glazing bead of appropriate dimension for range R2 @419 metre @495 130.00
+@104 casement window
+@67 8126 @104 uPVC extruded range R4 casement window frame size (64 mm & @419 metre @495 385.00
+@104 above) x (50 mm & above)
+@67 8127 @104 uPVC extruded range R4 casement door frame size (64 mm & above) @419 metre @495 440.00
+@104 x (55 mm & above)
+@67 8128 @104 uPVC extruded range R4 casement window sash/window mullion/door @419 metre @495 525.00
+@104 mullion size (64 mm & above) x (70 mm & above)
+@67 8129 @104 uPVC extruded range R4 casement door sash size (64 mm & above) @419 metre @495 630.00
+@104 x (100 mm & above)
+@67 8130 @104 uPVC extruded range R4 glazing bead of appropriate dimension for @419 metre @495 160.00
+@104 casement window/ door
+@67 8131 @104 uPVC extruded glazing bead of appropriate dimension for range R2 @419 metre @500 76.00
+@104 sliding window sash
+@67 8132 @104 uPVC extruded glazing bead of appropriate dimension for range R4 of @419 metre @500 98.00
+@104 sliding window/ door sash
+@67 8133 @104 uPVC extruded range R2 2 track sliding window frame size (40 mm & @419 metre @495 261.00
+@104 above) x (40 mm & above)
+@67 8134 @104 uPVC extruded range R4 2 track sliding window/ door frame size (64 @419 metre @495 424.00
+@104 mm & above) x (45 mm & above)
+@67 8135 @104 uPVC extruded range R2 3 track sliding window frame size (70 mm & @419 metre @495 430.00
+@104 above) x (40 mm & above)
+@67 8136 @104 uPVC extruded range R4 3 track sliding window/ door frame size (115 @419 metre @495 628.00
+@104 mm & above) x (45 mm & above)
+@67 8137 @104 uPVC extruded range R2 sliding window sash size (25 mm & above) x @419 metre @495 282.00
+@104 (50 mm & above)
+@67 8138 @104 uPVC extruded range R4 sliding window sash size (44 mm & above) x @419 metre @495 345.00
+@104 (55 mm & above)
+@67 8139 @104 uPVC extruded (big series) 3 track sliding window sash size 46x62 @419 metre @495 361.00
+@104 mm
+@67 8140 @104 uPVC extruded interlock of appropriate dimension for range R2 @419 metre @496 110.00
+@104 sliding sash
+@67 8141 @104 uPVC extruded range R4 interlock of appropriate dimension for @419 metre @495 120.00
+@104 sliding window/ door sash
+@67 8142 @104 uPVC extruded inline adaptor of appropriate dimension for big series @419 metre @496 110.00
+@104 sliding window/ door sash
+@67 8143 @104 uPVC extruded range R4 sliding door sash size (44 mm & above) x @419 metre @495 423.00
+@104 (85 mm & above)
+@67 8144 @104 Bamboo Mat corrugated sheets 3.5 to 4 mm thick conforming to IS @422 sqm @490 2891.00
+@104 15476:2004
+@67 8145 @104 Bamboo Mat Ridge cap 3.5 to 4 mm thick conforming to IS @419 metre @490 2810.00
+@104 15476:2004
+@395 BASIC RATES : 03 MATERIALS
+@51 58
+=== PAGE 10
+@518 `
+=== PAGE 11
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8146 @104 3 mm thick Bamboo Mat Board conforming to IS 13958:1994 @422 sqm @490 1713.00
+@67 8147 @104 4 mm thick Bamboo Mat Board conforming to IS 13958:1994 @422 sqm @490 1950.00
+@67 8148 @104 6 mm thick Bamboo Mat Board conforming to IS 13958:1994 @422 sqm @490 2322.00
+@67 8149 @104 9 mm thick Bamboo Mat Board conforming to IS 13958:1994 @422 sqm @490 2932.00
+@67 8150 @104 12 mm thick Bamboo Mat Board conforming to IS 13958:1994 @422 sqm @490 3373.00
+@67 8151 @104 uPVC extruded range R1 casement window frame size (33 mm & @419 metre @495 195.00
+@104 above) x (35 mm & above)
+@67 8152 @104 uPVC extruded range R1 casement window sash/ window mullion @419 metre @495 295.00
+@104 size (33 mm & above) x (50 mm & above)
+@67 8153 @104 uPVC extruded range R1 glazing bead of appropriate dimension @419 metre @500 90.00
+@67 8154 @104 uPVC extruded range R2 Sliding window 2.5 track frame size (65 mm @419 metre @495 338.00
+@104 & above) x (40 mm & above)
+@67 8155 @104 uPVC extruded range R2 Sliding fly screen window sash size (18 mm @419 metre @495 138.00
+@104 & above) x (40 mm & above) - for 2.5 Track frame only
+@67 8156 @104 uPVC extruded range R2 Casement french mullion size (39 mm & @419 metre @495 342.00
+@104 above) x (60 mm & above)
+@67 8157 @104 uPVC extruded range R3 2 track sliding window/door frame size (55 @419 metre @495 332.00
+@104 mm & above) x (40 mm & above)
+@67 8158 @104 uPVC extruded range R3 Sliding window 2.5 track frame size (85 mm @419 metre @495 365.00
+@104 & above) x (40 mm & above)
+@67 8159 @104 uPVC extruded range R3 3-track sliding window/door frame size (98 @419 metre @495 431.00
+@104 mm & above) x (40 mm & above)
+@67 8160 @104 uPVC extruded range R3 sliding window sash size (30 mm & above) @419 metre @495 282.00
+@104 x (55 mm & above)
+@67 8161 @104 uPVC extruded 2 track sliding door sash/ 3 track sliding door sash @419 metre @495 361.00
+@104 range R3 size (30 mm & above) x (74 mm & above)
+@67 8162 @104 uPVC extruded range R3 Sliding fly screen window sash size (20 mm @419 metre @495 153.00
+@104 & above) x (50 mm & above) - 2.5 Track frame only
+@67 8163 @104 uPVC extruded interlock/ inline adaptor of appropriate dimension for @419 metre @496 110.00
+@104 range R3 sliding window/ door sash
+@67 8164 @104 uPVC extruded glazing bead of appropriate dimension for range R3 of @419 metre @500 90.00
+@104 sliding window/ door sash
+@67 8165 @104 uPVC extruded range R3 casement window frame size (55 mm & @419 metre @495 276.00
+@104 above) x (45 mm & above)
+@67 8166 @104 uPVC extruded range R3 casement door frame size (55 mm & above) @419 metre @495 344.00
+@104 x (50 mm & above)
+@67 8167 @104 uPVC extruded range R3 Casement double rebate frame size (110 @419 metre @495 695.00
+@104 mm & above) x (45 mm & above)
+@67 8168 @104 uPVC extruded range R3 casement window sash/ door fly screen @419 metre @495 448.00
+@104 sash/window mullion/door mullion size (55 mm & above) x (65 mm &
+@104 above)
+@67 8169 @104 uPVC extruded range R3 casement door sash size (55 mm & above) @419 metre @495 543.00
+@104 x (85 mm & above)
+@67 8170 @104 uPVC extruded range R3 casement window fly screen sash size (30 @419 metre @495 236.00
+@104 mm & above) x (55 mm & above)
+@67 8171 @104 uPVC extruded range R3 Casement french mullion size (55 mm & @419 metre @495 460.00
+@104 above) x (60 mm & above)
+@395 BASIC RATES : 03 MATERIALS
+@51 59
+=== PAGE 12
+@518 `
+=== PAGE 13
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8172 @104 uPVC extruded glazing bead of appropriate dimension for range R3 @419 metre @495 124.00
+@104 casement window/ door
+@67 8173 @104 uPVC extruded range R4 Casement french mullion size (64 mm & @419 metre @495 495.00
+@104 above) x (60 mm & above)
+@67 8200 @104 A.P.P. modified polymeric felt (two layers) 1.5 mm thick @422 sqm @500 90.00
+@67 8201 @104 A.P.P. modified polymeric felt (two layers) 2 mm thick @422 sqm @495 130.00
+@67 8203 @104 A.P.P. modified 2 mm thick membrane reinforced with glass fibre matt @422 sqm @495 120.00
+@67 8204 @104 A.P.P. modified 3 mm thick membrane reinforced with glass fibre matt @422 sqm @495 145.00
+@67 8205 @104 A.P.P. modified 3 mm thick membrane reinforced with polyester matt @422 sqm @495 160.00
+@67 8206 @104 Bitumen primer for bitumen membrane @423 litre @500 95.00
+@67 8207 @104 Geotextile 120 grams per sqm membrane @422 sqm @500 27.00
+@67 8210 @104 Stainless steel screws 50 mm @413 100 Nos @495 320.00
+@67 8211 @104 Stainless steel screws 40 mm @413 100 Nos @495 270.00
+@67 8212 @104 Stainless steel screws 30 mm @413 100 Nos @495 255.00
+@67 8214 @104 Stainless steel screws 20 mm @413 100 Nos @495 175.00
+@67 8215 @104 Stainless steel butt hinges 125x64x1.9 mm IS : 12817 marked @416 10 Nos @495 388.00
+@67 8216 @104 Stainless steel butt hinges 100x58x1.9 mm IS : 12817 marked @416 10 Nos @495 350.00
+@67 8217 @104 Stainless steel butt hinges 75x47x1.8 mm IS : 12817 marked @416 10 Nos @495 225.00
+@67 8218 @104 Stainless steel butt hinges 50x37x1.5 mm IS : 12817 marked @416 10 Nos @495 170.00
+@67 8219 @104 Stainless steel butt hinges (heavy weight) 125x64x2.5 mm IS :12817 @416 10 Nos @495 470.00
+@104 marked
+@67 8220 @104 Stainless steel butt hinges (heavy weight) 100x60x2.5 mm IS :12817 @416 10 Nos @495 345.00
+@104 marked
+@67 8221 @104 Stainless steel butt hinges (heavy weight) 75x50x2.5 mm IS :12817 @416 10 Nos @495 290.00
+@104 marked
+@67 8222 @104 M.S. heavy weight butt hinges 125x90x4.0 mm IS: 1341 marked. @416 10 Nos @495 250.00
+@67 8223 @104 M.S. heavy weight butt hinges 100x75x3.5 mm IS: 1341 marked @416 10 Nos @495 200.00
+@67 8224 @104 M.S. heavy weight butt hinges 75x60x3.1 mm IS: 1341 marked @416 10 Nos @495 125.00
+@67 8225 @104 M.S. heavy weight butt hinges 50x40x2.5 mm IS : 1341 marked @416 10 Nos @496 110.00
+@67 8226 @104 Concealed zinc coated hinges 19-20 mm thick with mounting plate @416 10 Nos @495 570.00
+@67 8227 @104 Stainless steel fancy handle @416 10 Nos @491 1150.00
+@67 8228 @104 Soft closing stainless steel hinges @415 10 Sets @490 1750.00
+@67 8229 @104 Stainless steel telescopic drawer channels 500 mm long @425 set @495 595.00
+@67 8230 @104 Stainless steel (Grade-304) basket (readymade) @426 kg @495 310.00
+@67 8231 @104 SS sliding door bolt of size 200x16 mm @421 each @495 125.00
+@67 8232 @104 SS tower bolt (plate type) size 200x10 mm @421 each @501 93.00
+@67 8233 @104 SS handle 125 mm @421 each @501 70.00
+@67 8234 @104 SS 304 grade 8 mm dia CSK Phillips stainless steel self tapping @421 each @501 25.00
+@104 screws / fasteners with PA6 grade polyamide sleeves
+@67 8235 @104 Factory made foam PVC moulded/extruded profile architrave of size @419 metre @501 75.00
+@104 30 mm x 12 mm
+@67 8300 @104 1216 mm PE-AL-PE Composite pressure pipe @419 metre @501 53.00
+@67 8301 @104 1620 mm PE-AL-PE Composite pressure pipe @419 metre @501 67.00
+@67 8302 @104 2025 mm PE-AL-PE Composite pressure pipe @419 metre @501 95.00
+@67 8303 @104 2532 mm PE-AL-PE Composite pressure pipe @419 metre @495 146.00
+@67 8304 @104 3240 mm PE-AL-PE Composite pressure pipe @419 metre @495 190.00
+@395 BASIC RATES : 03 MATERIALS
+@51 60
+=== PAGE 14
+@518 `
+=== PAGE 15
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8305 @104 4050 mm PE-AL-PE Composite pressure pipe @419 metre @495 328.00
+@67 8306 @104 PPR Union 20 mm @421 each @501 38.00
+@67 8307 @104 PPR Union 25 mm @421 each @501 51.00
+@67 8308 @104 PPR Union 32 mm @421 each @495 100.00
+@67 8309 @104 PPR Union 40 mm @421 each @495 198.00
+@67 8310 @104 PPR Union 50 mm @421 each @495 366.00
+@67 8311 @104 PPR Union 63 mm @421 each @495 458.00
+@67 8312 @104 PPR Union 75 mm @421 each @490 1000.00
+@67 8500 @104 Water for jetting / blowback @411 1000 litre @490 1450.00
+@67 8501 @104 Polymer modified cementation coating @426 kg @495 170.00
+@67 8502 @104 Fibre glass cloth @422 sqm @501 35.00
+@67 8504 @104 Multi surface paint @423 litre @495 350.00
+@67 8505 @104 Acrylic exterior paint @423 litre @495 170.00
+@67 8506 @104 Premium Acrylic exterior paint @423 litre @495 250.00
+@67 8507 @104 Textured exterior paint @423 litre @495 185.00
+@67 8508 @104 Primer for cement paint @423 litre @495 100.00
+@67 8509 @104 Special Primer (C.W.) @423 litre @495 180.00
+@67 8510 @104 Metal Primer (U.G.) @423 litre @495 120.00
+@67 8511 @104 Fibre reinforced elastomeric liquid water proofing membrane @423 litre @495 255.00
+@67 8512 @104 Cementitious water proofing coating with elastic polymers @426 kg @495 170.00
+@67 8513 @104 Acrylic modified resin based texture @426 kg @500 50.00
+@67 8514 @104 40 mm long S.S screws with plastic rawl plugs @412 100 Nos. @501 50.00
+@67 8515 @104 Galavanised MS 8 mm outer diameter M-6 dash fastener 50 mm long @421 each @501 50.00
+@67 8516 @104 ZMB 60/equivalent @426 kg @495 130.00
+@67 8517 @104 ZMB thinner @423 litre @495 250.00
+@67 8518 @104 Zycoprime / equivalent @423 litre @495 170.00
+@67 8519 @104 Zycosil / equivalent @423 litre @490 1440.00
+@67 8520 @104 Elastobar / equivalent @426 kg @495 300.00
+@67 8552 @104 Mineral fibre beveled tegular edged ceiling tiles 595 x595 mm,16 mm @422 sqm @495 920.00
+@104 thick
+@67 8553 @104 Mineral fibre beveled tegular edged ceiling tiles 595 x595 mm,16 mm @422 sqm @490 1020.00
+@104 thick with bio-block conforming to ISO 5 (class 100) specifications.
+@67 8554 @104 Mineral fiber beveled tegular edged ceiling tiles 595 x595 mm,20 mm @422 sqm @491 1170.00
+@104 thick.
+@67 8555 @104 G.I main runner 15 x32 mm of 3000 mm length, 0.33 mm thick @421 each @495 142.00
+@67 8556 @104 G.I cross-T 15 x32 mm of 1200 mm length, 0.33 mm thick @421 each @501 57.00
+@67 8557 @104 G.I cross-T 15 x32 mm of 600 mm length, 0.33 mm thick @421 each @501 29.00
+@67 8558 @104 G.I hanger rod 6 mm dia fully threaded upto 1000 mm length @421 each @501 17.00
+@67 8559 @104 Stainless steel U Channel of size (50x25x2 mm) @419 metre @495 176.00
+@67 8560 @104 Non staining water resistant clear silicon @419 metre @501 80.00
+@67 8561 @104 Extruded polystyrene rigid insulation board 50 mm thick @422 sqm @495 610.00
+@67 8562 @104 Expanded Polystyrene insulation board 120 mm thick conforming to @422 sqm @495 880.00
+@104 IS 4671-1984, Fire retardant property self-extinguishing type as per
+@104 EN 13501-1
+@67 8563 @104 15 mm thick, light weight, integral densified micro look edged,false @422 sqm @495 925.00
+@104 ceiling tiles of size 595x595 mm.
+@67 8564 @104 15 mm thick, light weight,fully perforated square/butt edge integral @422 sqm @495 905.00
+@104 densified,false ceiling tiles of size 595x595 mm.
+@395 BASIC RATES : 03 MATERIALS
+@51 61
+=== PAGE 16
+@518 `
+=== PAGE 17
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8565 @104 Galavanised MS hanger rod 6 mm dia MS fully threaded up to 1000 @421 each @501 17.00
+@104 mm length
+@67 8566 @104 Powder coated steel section main-T ceiling sections 15x42x0.40 mm @421 each @495 296.00
+@104 (3000 mm long)
+@67 8567 @104 Galvanized mild steel perimeter wall angle 22x19x0.40 mm (3000 mm @421 each @495 131.00
+@104 long)
+@67 8568 @104 Powder coated Galvanised Iron intermediate cross-T section @421 each @495 120.00
+@104 15x42x0.40 mm (1200 mm long)
+@67 8569 @104 Powder coated Galvanized Iron intermediate cross-T section @421 each @501 60.00
+@104 15x42x0.40 mm (600 mm long )
+@67 8570 @104 GI Main T ceiling section 30x25x0.3 mm (3 metre long) @421 each @495 240.00
+@67 8571 @104 GI Perimeter wall angle 25x25x0.4 mm (3 metre long) @421 each @495 200.00
+@67 8572 @104 GI Intermediate cross T section 25x25x0.3 mm (1.2 metre long) @421 each @501 90.00
+@67 8573 @104 GI Intermediate cross T section 25x25x0.3 mm (0.6 metre long) @421 each @501 45.00
+@67 8576 @104 Powder coated Galvanized Iron intermediate cross-T section wire @422 sqm @495 230.00
+@104 diameter 3.00 mm).
+@67 8577 @104 Crates made of Mesh type 10x12 (D=100 mm) Zn+PVC coated. @422 sqm @495 280.00
+@104 Mesh wire diameter 2.70/3.70 mm (ID/OD).
+@67 8578 @104 Crates made of Mesh type 10x12 (D=100 mm) Zn+10% Al alloy +PVC @422 sqm @495 320.00
+@104 coated. Mesh wire diameter 2.70/3.70 mm (ID/OD).
+@67 8579 @104 Cold form light gauge Steel C-section of thickness 0.75 mm i/c zink @426 kg @495 160.00
+@104 coating/sliting etc.
+@67 8580 @104 Wastage of cold form light gauge steel @426 kg @501 22.00
+@67 8581 @104 12 mm thick micro tegular edged semi perforated GRG (Glass Fibre @422 sqm @495 605.00
+@104 Reinforced Gypsum) false celing tiles of size 595x595 mm
+@67 8582 @104 12 mm thick micro tegular edged fully perforated GRG (Glass Fibre @422 sqm @495 642.00
+@104 Reinforced Gypsum) false celing tiles of size 595x595 mm
+@67 8583 @104 10 mm thick square edge fully perforated GRG(Glass Fibre @422 sqm @495 764.00
+@104 Reinforced Gypsum) false celing tiles of size 595x595 mm
+@67 8588 @104 Galavanised MS hanger rod 6 mm dia MS fully threaded up to 1000 @421 each @501 17.00
+@104 mm length
+@67 8589 @104 Calcium Silicate tegular edged celling tiles 595x595 mm and 15 mm @422 sqm @495 822.00
+@104 thick on edges
+@67 8590 @104 Galvanised Steel main Tee ceiling section size 24x38x0.33 mm (3 @421 each @495 167.00
+@104 metre long)
+@67 8591 @104 Galvanised Steel perimeter wall Angle size 24 x 24 x 0.40 mm (3.00 @421 each @496 114.00
+@104 metre long)
+@67 8592 @104 Galvanised Steel intermediate cross T section size 24 x 25 x 0.33 mm @421 each @501 54.00
+@104 (1.2 metre long)
+@67 8593 @104 Galvanised Steel intermediate cross T section size 24 x 25 x 0.33 mm @421 each @501 27.00
+@104 (0.6 metre long)
+@67 8594 @104 Galvanised Steel soffit cleat size 25x35x1.60 mm @421 each @506 5.50
+@67 8595 @104 Wooden screws with plastic rawl plugs 35x8 mm @421 each @506 1.50
+@67 8596 @104 Galvanised MS 8 mm outer diameter M-6 dash fastener 25 mm long @421 each @501 15.00
+@67 8597 @104 GI Metal Tile Clip in Plain Beveled edge global white colour tiles of @422 sqm @495 793.00
+@104 size 600x600 mm and 0.5 mm thick
+@67 8598 @104 GI Metal Tile Clip in Perforated Beveled edge global white colour tiles @422 sqm @495 882.00
+@104 of size 600x600 mm and 0.5 mm thick
+@395 BASIC RATES : 03 MATERIALS
+@51 62
+=== PAGE 18
+@518 `
+=== PAGE 19
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8599 @104 GI Metal Tile Lay-in Plain Tegular edge global white color tiles of size @422 sqm @495 701.00
+@104 595x595 mm and 0.5 mm thick
+@67 8600 @104 GI Metal Tile Lay-in Perforated Tegular edge global white color tiles of @422 sqm @495 812.00
+@104 size 595x595 mm and 0.5 mm thick
+@67 8601 @104 PVC Laminated Gypsum Tiles (Square edge) of size 595x595 mm @422 sqm @495 910.00
+@104 and 12.5 mm thick
+@67 8602 @104 Gypsum Tiles Fully Perforated Square edge of size 595x595 mm and @422 sqm @495 450.00
+@104 12.5 mm thick
+@67 8604 @104 Spring T-section 24x34x0.45 mm (3.00 metre long) @419 metre @495 240.00
+@67 8605 @104 C Wall angle section 20x30x20x0.50 mm (3.00 metre long) @419 metre @496 115.00
+@67 8606 @104 Main C Carrier size 10x38x10x0.70 mm (3.00 metre long) @419 metre @495 135.00
+@67 8607 @104 Spring T-connector @421 each @506 6.00
+@67 8608 @104 C Carrier Connector @421 each @501 13.00
+@67 8609 @104 C Suspension Clip @421 each @501 11.00
+@67 8610 @104 Wire Coupling Clip @421 each @501 11.00
+@67 8611 @104 Main T ceiling sections 24x38x0.3 mm (3 metre long) @421 each @495 141.00
+@67 8612 @104 Perimeter wall angle 24 x 24 x 0.3 mm (3 metre long) @421 each @501 87.00
+@67 8613 @104 Intermediate cross T-Section 24x25x0.3 mm (1.2 m long) @421 each @501 44.00
+@67 8614 @104 Intermediate cross T-Section 24x25x0.3 mm (0.6 m long) @421 each @501 22.00
+@67 8615 @104 Hanger rod 4 mm thick @421 each @501 11.00
+@67 8616 @104 Adjustment clip 85x30x0.8 mm @421 each @506 7.00
+@67 8617 @104 Soffit cleat (Size 27x37x25x1.60 mm) @421 each @506 6.00
+@67 8618 @104 Dash fastener 6 mm dia 50 mm long @421 each @501 13.00
+@67 8619 @104 Galavanised MS L-shape level adjuster of size 85x25x2 mm @421 each @501 18.00
+@67 8620 @104 Vitrified floor tile 50x50 cm conforming to IS 15622:2006 group (B1a) @422 sqm @495 530.00
+@67 8621 @104 Vitrified floor tile 60x60 cm conforming to IS 15622:2006 group (B1a) @422 sqm @495 550.00
+@67 8622 @104 Vitrified floor tile 80x80 cm conforming to IS 15622:2006 group (B1a) @422 sqm @495 780.00
+@67 8623 @104 Vitrified floor tile 100x100 cm conforming to IS 15622:2006 group @422 sqm @495 920.00
+@104 (B1a)
+@67 8624 @104 Border tiles 200x75 mm size @421 each @501 20.00
+@67 8626 @104 Poly propylene- Random - Co - Polymer (PPR) pipes PN-16 (SDR @419 metre @501 35.00
+@104 7.4) - 20 mm Outer dia
+@67 8627 @104 Poly propylene- Random - Co - Polymer (PPR) pipes PN-16 (SDR @419 metre @501 50.00
+@104 7.4) - 25 mm Outer dia
+@67 8628 @104 Poly propylene- Random - Co - Polymer (PPR) pipes PN-16 (SDR @419 metre @501 80.00
+@104 7.4) - 32 mm Outer dia
+@67 8629 @104 Poly propylene- Random - Co - Polymer (PPR) pipes PN-16 (SDR @419 metre @495 130.00
+@104 7.4) - 40 mm Outer dia
+@67 8630 @104 Poly propylene- Random - Co - Polymer (PPR) pipes PN-10 (SDR 11) @419 metre @495 151.00
+@104 - 50 mm Outer dia
+@67 8631 @104 Poly propylene- Random - Co - Polymer (PPR) pipes PN-10 (SDR 11) @419 metre @495 210.00
+@104 - 63 mm Outer dia
+@67 8632 @104 Poly propylene- Random - Co - Polymer (PPR) pipes PN-10 (SDR 11) @419 metre @495 268.00
+@104 - 75 mm Outer dia
+@67 8633 @104 Poly propylene- Random - Co - Polymer (PPR) pipes PN-10 (SDR 11) @419 metre @495 386.00
+@104 - 90 mm Outer dia
+@395 BASIC RATES : 03 MATERIALS
+@51 63
+=== PAGE 20
+@518 `
+=== PAGE 21
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8634 @104 Poly propylene- Random - Co - Polymer (PPR) pipes PN-10 (SDR 11) @419 metre @495 577.00
+@104 - 110 mm Outer dia
+@67 8635 @104 Poly propylene- Random - Co - Polymer (PPR) pipes PN-10 (SDR 11) @419 metre @490 1324.00
+@104 - 160 mm Outer dia
+@67 8636 @104 Chlorinated Polyvinyl - chloride (CPVC) pipe 15 mm nominal dia @419 metre @500 43.00
+@67 8637 @104 Chlorinated Polyvinyl - chloride (CPVC) pipe 20 mm nominal dia @419 metre @500 59.00
+@67 8638 @104 Chlorinated Polyvinyl - chloride (CPVC) pipe 25 mm nominal dia @419 metre @500 95.00
+@67 8639 @104 Chlorinated Polyvinyl - chloride (CPVC) pipe 32 mm nominal dia @419 metre @495 140.00
+@67 8640 @104 Chlorinated Polyvinyl - chloride (CPVC) pipe 40 mm nominal dia @419 metre @495 200.00
+@67 8641 @104 Chlorinated Polyvinyl - chloride (CPVC) pipe 50 mm nominal dia @419 metre @495 325.00
+@67 8642 @104 Chlorinated Polyvinyl - chloride (CPVC) pipe 65 mm nominal dia @419 metre @495 776.00
+@67 8643 @104 Chlorinated Polyvinyl - chloride (CPVC) pipe 80 mm nominal dia @419 metre @490 1042.00
+@67 8644 @104 Chlorinated Polyvinyl - chloride (CPVC) pipe 100 mm nominal dia @419 metre @490 1598.00
+@67 8645 @104 Chlorinated Polyvinyl - chloride (CPVC) pipe 150 mm nominal dia @419 metre @490 3426.00
+@67 8646 @104 Weather Silicon sealant @412 cartridge @495 125.00
+@67 8647 @104 Stainless steel screws 30 mm x4 mm @413 100 Nos @501 42.00
+@67 8648 @104 Hermetically sealed double glazed unit made with 6 mm thick clear @422 sqm @490 2600.00
+@104 float glass both side having 12 mm air gap
+@67 8649 @104 Stainless steel (SS 304 grade) adjustable friction window stay 205 x @421 each @495 218.00
+@104 19 mm
+@67 8650 @104 Stainless steel (SS 304 grade) adjustable friction window stay 255 x @421 each @495 248.00
+@104 19 mm
+@67 8651 @104 Stainless steel (SS 304 grade) adjustable friction window stay 355 x @421 each @495 205.00
+@104 19 mm
+@67 8652 @104 Stainless steel (SS 304 grade) adjustable friction window stay 510 x @421 each @495 540.00
+@104 19 mm
+@67 8653 @104 Stainless steel (SS 304 grade) adjustable friction window stay 710 x @421 each @490 1015.00
+@104 19 mm
+@67 8654 @104 Masking tape @419 metre @506 2.00
+@67 8655 @104 Autoclaved aerated cement (AAC) blocks @422 cum @490 2915.00
+@67 8656 @104 Gypsum panel 666 X 500 X 100 mm size @422 sqm @495 528.00
+@67 8657 @104 Bonding plaster for Gypsum panel @426 kg @501 28.00
+@67 8658 @104 Precast C&D waste concrete block @411 1000 Nos @485 30100.00
+@67 8659 @104 Water proof ply 12 mm thick @422 sqm @495 578.00
+@67 8660 @104 Aluminium casement window fastener (Anodised AC 15) @421 each @501 55.00
+@67 8661 @104 Aluminium casement window fastener (powder coated ) @421 each @501 61.00
+@67 8662 @104 Aluminium casement window fastener (polyester powder coated) @421 each @501 59.00
+@67 8663 @104 Aluminium round shape handle (anodised AC 15) outer dia 100 mm @421 each @501 68.00
+@67 8664 @104 Aluminium round shape handle (powder coated) outer dia 100 mm @421 each @501 69.00
+@67 8665 @104 Aluminium round shape handle (polyester powder coated) outer dia @421 each @501 71.00
+@104 100 mm
+@67 8666 @104 Stainless steel screws 25 mm x4 mm @413 100 Nos @501 46.00
+@67 8667 @104 UV stabilised 2 mm thick plain FRP sheet @422 sqm @495 504.00
+@67 8668 @104 UV stabilised 2 mm thick corrugated FRP sheet @422 sqm @495 588.00
+@395 BASIC RATES : 03 MATERIALS
+@51 64
+=== PAGE 22
+@518 `
+=== PAGE 23
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8669 @104 Mangalore ridge tiles 20 mm thick @421 each @501 10.00
+@67 8670 @104 Mangalore tiles 20 mm thick @421 each @501 10.00
+@67 8671 @104 Precoated galvanised iron profile sheet 0.50 mm TCT @422 sqm @495 380.00
+@67 8672 @104 Precoated galvanised steel plain ridges 0.50 mm TCT and 500-600 @419 metre @495 248.00
+@104 mm wide
+@67 8673 @104 Precoated galvanised steel flashings/aprons 0.50 mm TCT and upto @419 metre @495 259.00
+@104 600 mm wide
+@67 8674 @104 Precoated galvanised steel gutter 600 mm overall girth @419 metre @495 484.00
+@67 8675 @104 Precoated galvanised steel north light curves @419 metre @495 264.00
+@67 8676 @104 Precoated galvanised steel barge board (upto 300 mm ) @419 metre @495 253.00
+@67 8677 @104 Precoated galvanised steel crimp curve @422 sqm @495 259.00
+@67 8678 @104 1 mm thick 35 mm wide bright finished stainless steel piano hinges @419 metre @501 52.00
+@67 8682 @104 Epoxy Grout @426 kg @495 418.00
+@67 8683 @104 Red sand stone gang saw cut 30 mm thick @422 sqm @495 524.00
+@67 8684 @104 White sand stone gang saw cut 30 mm thick @422 sqm @495 616.00
+@67 8685 @104 Delineator @421 each @495 370.00
+@67 8686 @104 Precast C.C. Kerb stone M - 25 (including carriage) @422 cum @490 6160.00
+@67 8687 @104 Thermoplastic paint @426 kg @501 73.00
+@67 8688 @104 Glass beads @426 kg @501 77.50
+@67 8689 @104 Interlocking C.C. paver block ( 60 mm thick, M-30) (including carriage) @422 sqm @495 400.00
+@67 8690 @104 High intensity retro - reflective sheet as per IRC 67-2001 @422 sqm @490 1345.00
+@67 8691 @104 Punched tape concertina coil 600 mm dia 10 m openable length (Total @417 bundle @495 720.00
+@104 length 90 m)
+@67 8692 @104 RBT reinforced barbed wire @419 metre @506 8.00
+@67 8693 @104 Turn buckle and strengthening bolt @413 each set @501 46.00
+@67 8694 @104 Precast pavement slab 450 x 450 x 50 mm (M - 30) @421 each @495 160.00
+@67 8695 @104 Chain link fabric fencing mesh of size 50x50 mm made of G.I. wire of @422 sqm @495 330.00
+@104 dia 4 mm
+@67 8696 @104 Chain link fabric fencing mesh of size 50x50 mm made of G.I. wire of @422 sqm @495 363.00
+@104 dia 4 mm, PVC coated to outer dia 5 mm
+@67 8697 @104 Chain link fabric fencing mesh of size 25x25 mm made of G.I. wire of @422 sqm @495 418.00
+@104 dia 3 mm
+@67 8698 @104 Stainless steel cramps(weight 260 grams) with nuts, bolts and washer @421 each @495 127.00
+@104 for dry stone cladding
+@67 8699 @104 8 mm thick tapered edge calcium silicate board @422 sqm @495 297.00
+@67 8700 @104 10 mm thick calcium silicate board @422 sqm @495 462.00
+@67 8701 @104 SS pipe 304 grades with press fit technology as per JIS 3448 @419 metre @495 678.00
+@104 standard 48.60 mm outer dia
+@67 8702 @104 Coupling/Socket fittings for 15.88 mm outer dia SS pipe @421 each @501 66.00
+@67 8703 @104 Telescopic drawer channels 300 mm long @425 set @495 264.00
+@67 8704 @104 Stainless steel roller for sliding arrangement in racks/ cupboards/ @421 each @501 12.00
+@104 cabinets shutter
+@67 8705 @104 50 mmX42 mmX2 mm thick Factory made door frame of PVC @419 metre @495 183.00
+@104 extruded sections in white, grey or wooden finish
+@395 BASIC RATES : 03 MATERIALS
+@51 65
+=== PAGE 24
+@518 `
+=== PAGE 25
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8706 @104 25 mm thick factory made PVC flush door shutter i/c carriage @422 sqm @490 1870.00
+@67 8707 @104 Factory made glass reinforced plastic door frame 90x45 mm i/c @419 metre @495 350.00
+@104 carriage
+@67 8708 @104 30 mm thick factory made glass fiber reinforced plastic panel door @422 sqm @490 2290.00
+@104 shutter i/c carriage
+@67 8709 @104 30 mm thick factory made solid PVC profile panelled door single piece @422 sqm @490 2150.00
+@104 extruded profile decorative finish (wood grain printed on both side)
+@67 8710 @104 Factory made solid PVC door frame 60 x 30 mm i/c carriage @419 metre @495 325.00
+@67 8711 @104 20 mm factory made solid PVC panel door shutter i/c carriage @422 sqm @490 2010.00
+@67 8712 @104 30 mm thick factory made solid PVC profile panelled door single piece @422 sqm @490 1880.00
+@104 extruded profile non decorative finish
+@67 8713 @104 Fiber glass reinforced plastic chajja @422 sqm @490 2950.00
+@67 8714 @104 Magnetic catcher triple strip vertical type @421 each @500 31.00
+@67 8715 @104 Magnetic catcher double strip horizontal type @421 each @501 22.00
+@67 8716 @104 100 mm mortice lock with 6 levers for aluminium door @421 each @495 475.00
+@67 8717 @104 Solid PVC foam door shutter with style and rails of minimum 70 @422 sqm @490 2530.00
+@104 mm x 28 mm and 3 mm thick high pressure laminate panel insert
+@104 of approved colour and shade (as per standard specification of
+@104 manufacturer)
+@67 8719 @104 2nd class teak wood moulded beading or Taj beading/ornamental @419 metre @501 33.00
+@104 beading of size 18X5 mm
+@67 8720 @104 Ceiling sections 0.55 mm thick having a knurled web of 51.55 mm and @419 metre @501 42.00
+@104 two flanges of 26 mm each with lips of 10.55 mm
+@67 8721 @104 Perimeter channel having one flange of 20 mm and another flange of @419 metre @501 25.00
+@104 30 mm with thickness of 0.55 mm and web of length 27 mm
+@67 8722 @104 Nylon sleeves & wooden screws (40 mm) @421 each @506 3.00
+@67 8723 @104 Counter sunk ribbed head screw 25 mm @413 100 Nos @501 84.00
+@67 8724 @104 12 mm thick marine plywood conforming to IS: 710 @422 sqm @495 785.00
+@67 8725 @104 12 mm thick fire retardant plywood conforming to IS: 5509 @422 sqm @495 954.00
+@67 8726 @104 1.5 mm thick decorative laminated sheet @422 sqm @495 418.00
+@67 8727 @104 1.0 mm thick decorative laminated sheet @422 sqm @495 323.00
+@67 8730 @104 30 mm thick factory made glass fiber reinforced plastic flush door @422 sqm @490 2830.00
+@104 shutter i/c carriage
+@67 8731 @104 High polymer modified quickset tile adhesive @426 kg @501 10.00
+@67 8732 @104 Synthetic ployster triangular fibre of length 12 mm, effective diameter @426 kg @495 395.50
+@104 10-40 microns and specific gravity of 1.34 to 1.40
+@67 8733 @104 Synthetic ployster triangular fibre of length 6 mm, effective diameter @426 kg @495 440.50
+@104 10-40 microns and specific gravity of 1.34 to 1.40
+@67 8734 @104 P.V.C. Single piece extruded door frame of profile size 50 mm x 47 @419 metre @495 292.00
+@104 mm with wall thickness of 5 mm
+@67 8735 @104 35 mm thick factory made solid panel PVC door shutter of single piece @422 sqm @490 2475.00
+@104 extruded profile non decorative finished (Matt finished)
+@67 8736 @104 35 mm thick factory made solid panel PVC door shutter of single piece @422 sqm @490 2978.00
+@104 extruded profile decorative finished (wood grain finished)
+@67 8737 @104 Stainless steel wire guage (Grade-304) aperture 1.4 mm and 0.50 mm @422 sqm @495 445.00
+@104 dia wire
+@395 BASIC RATES : 03 MATERIALS
+@51 66
+=== PAGE 26
+@518 `
+=== PAGE 27
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8738 @104 Factory made door frame fire rated (60 minutes) made with 16 SWG @419 metre @491 1168.00
+@104 G.I. Sheet of section 143 mm x 57 mm duly filled with vermuculite
+@104 based concrete mix
+@67 8739 @104 Fire rated door shutter made with 16 SWG G.I. sheet (60 minutes) @422 sqm @490 5172.00
+@104 without panel
+@67 8740 @104 Fire seal Putty @426 kg @495 334.00
+@67 8741 @104 Clear fire resistant glass panes 6 mm thick (60 minutes) @422 sqm @485 23650.00
+@67 8742 @104 G.I. U beading of 16 SWG G.I. sheet (zinc coating >120gm/ m²) with @419 metre @495 333.00
+@104 ceramic tape of suitable thickness and fire resistant primer coating
+@67 8743 @104 Matrix Mineral Board @419 metre @500 74.00
+@67 8744 @104 Panic Bar / latch (Double point) @421 each @490 5720.00
+@67 8745 @104 65 mm x 55 mm x 2 mm thick Factory made door frame of PVC @419 metre @495 388.00
+@104 extruded section in white, grey or wooden finish
+@67 8746 @104 37 mm thick Factory made shutter with style,rails and panels of PVC @422 sqm @490 2578.00
+@104 extruded section in white or grey finish i/c carriage
+@67 8747 @104 75 mm x 53 mm x 2.0 mm thick Factory made door frame of PVC @419 metre @495 487.00
+@104 extruded section in white, grey or wooden finish
+@67 8748 @104 37 mm thick Factory made fusion welded shutter with style, rails and @422 sqm @490 2779.00
+@104 panels of PVC extruded section in wooden finish
+@67 8749 @104 Zinc alloy (white powder coated) touch lock with hook for wire mesh @421 each @495 153.00
+@104 shutter
+@67 8750 @104 Zinc alloy (white powder coated) casement handle for uPVC window/ @421 each @495 150.00
+@104 door
+@67 8751 @104 Zinc alloy (white powder coated) touch lock with hook for uPVC @421 each @495 131.00
+@104 window/door
+@67 8752 @104 Zinc alloy/ SS 304 body with single nylon roller (weight bearing @421 each @501 69.00
+@104 capacity to be 40 Kg) for uPVC sliding window
+@67 8753 @104 Stainless Steel (SS - 304) with adjustable double nylon roller (weight @421 each @496 118.00
+@104 bearing capacity to be 120 Kg) for uPVC sliding door/window
+@67 8754 @104 Zinc alloy (white powder coated) cresent lock for uPVC sliding door/ @421 each @495 127.00
+@104 window
+@67 8755 @104 Stainless steel friction hinge of size 200 mm x 19 x 1.9 mm for uPVC @421 each @495 244.00
+@104 windows
+@67 8756 @104 Stainless steel friction hinge of size 250 mm x 19 x 1.9 mm for uPVC @421 each @495 273.00
+@104 windows
+@67 8757 @104 Stainless steel friction hinges (SS-304 grade) size 300 x 19 x 1.9 mm @421 each @495 299.00
+@104 for uPVC window
+@67 8758 @104 Stainless steel friction hinges (SS-304 grade) size 350 x 19 x 1.9 mm @421 each @495 415.00
+@104 for uPVC window
+@67 8759 @104 Stainless steel friction hinges (SS-304 grade) size 400 x 19 x 1.9 mm @421 each @495 405.00
+@104 for uPVC window
+@67 8760 @104 Glass panes of required thickness having 60 minutes of fire resistance @422 sqm @485 23900.00
+@104 both integrity and radiation control (EI 60) and minimum 20 minutes of
+@104 insulation (EI 20)
+@67 8761 @104 Scaffolding net made of high density polyethylene UV stabilized @422 sqm @501 24.00
+@104 having density 100 gm/sqm
+@67 8772 @104 Aluminium Track on bottom rail for uPVC window @419 metre @501 40.00
+@67 8773 @104 Wool pile/ weather pile strip for uPVC sliding window @419 metre @501 22.00
+@395 BASIC RATES : 03 MATERIALS
+@51 67
+=== PAGE 28
+@518 `
+=== PAGE 29
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8774 @104 Aluminium Grill as per IS 1868 @426 kg @495 294.00
+@67 8775 @104 Steel Galvanised tubular reinforcement for uPVC door/ window @419 metre @500 65.00
+@67 8776 @104 Stainless steel dash fastener of 8 mm dia and 75 mm long bolt @421 each @501 19.00
+@67 8777 @104 GI Fastener 100x8 mm @421 each @501 17.00
+@67 8778 @104 Toughened glass 12 mm thickness @422 sqm @490 1925.00
+@67 8779 @104 SS pipe 304 grades with press fit technology as per JIS 3448 @419 metre @495 155.00
+@104 standard 15.88 mm outer dia
+@67 8780 @104 SS pipe 304 grades with press fit technology as per JIS 3448 @419 metre @495 275.00
+@104 standard 22.22 mm outer dia
+@67 8781 @104 SS pipe 304 grades with press fit technology as per JIS 3448 @419 metre @495 345.00
+@104 standard 28.58 mm outer dia
+@67 8782 @104 SS pipe 304 grades with press fit technology as per JIS 3448 @419 metre @495 485.00
+@104 standard 34.00 mm outer dia
+@67 8783 @104 SS pipe 304 grades with press fit technology as per JIS 3448 @419 metre @495 505.00
+@104 standard 42.70 mm outer dia
+@67 8784 @104 8 mm thick Calcium silicate perforated tiles of size 595 x595 mm @422 sqm @495 625.00
+@67 8785 @104 Coloured C.C. inter locking paver Block (80 mm thick, M-35) @422 sqm @495 484.00
+@104 (including carriage)
+@67 8786 @104 Coupling/Socket fittings for 22.22 mm outer dia SS pipe @421 each @501 80.00
+@67 8787 @104 Coupling/Socket fittings for 28.58 mm outer dia SS pipe @421 each @496 110.00
+@67 8788 @104 Coupling/Socket fittings for 34.00 mm outer dia SS pipe @421 each @495 150.00
+@67 8789 @104 Coupling/Socket fittings for 42.70 mm outer dia SS pipe @421 each @495 180.00
+@67 8790 @104 Coupling/Socket fittings for 48.60 mm outer dia SS pipe @421 each @495 205.00
+@67 8791 @104 Reducer for 22.22 mm X 15.88 mm outer dia SS pipe @421 each @501 98.00
+@67 8792 @104 Reducer for 28.58 mm X 15.88 mm outer dia SS pipe @421 each @495 131.00
+@67 8793 @104 Reducer for 28.58 mm X 22.22 mm outer dia SS pipe @421 each @495 133.00
+@67 8794 @104 Reducer for 34.00 mm X 15.88 mm outer dia SS pipe @421 each @495 220.00
+@67 8795 @104 Reducer for 34.00 mm X 22.22 mm outer dia SS pipe @421 each @495 230.00
+@67 8796 @104 Reducer for 34.00 mm X 28.58 mm outer dia SS pipe @421 each @495 230.00
+@67 8797 @104 Reducer for 42.70 mm X 15.88 mm outer dia SS pipe @421 each @495 364.00
+@67 8798 @104 Reducer for 42.70 mm X 22.22 mm outer dia SS pipe @421 each @495 372.00
+@67 8799 @104 Reducer for 42.70 mm X 28.58 mm outer dia SS pipe @421 each @495 426.00
+@67 8800 @104 Reducer for 42.70 mm X 34.00 mm outer dia SS pipe @421 each @495 452.00
+@67 8801 @104 Reducer for 48.60 mm X 15.88 mm outer dia SS pipe @421 each @495 452.00
+@67 8802 @104 Reducer for 48.60 mm X 22.22 mm outer dia SS pipe @421 each @495 452.00
+@67 8803 @104 Reducer for 48.60 mm X 28.58 mm outer dia SS pipe @421 each @495 452.00
+@67 8804 @104 Reducer for 48.60 mm X 34.00 mm outer dia SS pipe @421 each @495 467.00
+@67 8805 @104 Reducer for48.60 mm X 42.70 mm outer dia SS pipe @421 each @495 469.00
+@67 8806 @104 Slip Coupling / Socket 15.88 mm outer dia SS pipe @421 each @501 65.00
+@395 BASIC RATES : 03 MATERIALS
+@51 68
+=== PAGE 30
+@518 `
+=== PAGE 31
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8807 @104 Slip Coupling / Socket 22.22 mm outer dia SS pipe @421 each @501 80.00
+@67 8808 @104 Slip Coupling / Socket 28.58 mm outer dia SS pipe @421 each @496 110.00
+@67 8809 @104 Slip Coupling / Socket 34.00 mm outer dia SS pipe @421 each @495 155.00
+@67 8810 @104 Slip Coupling / Socket 42.70 mm outer dia SS pipe @421 each @495 180.00
+@67 8811 @104 Slip Coupling / Socket 48.60 mm outer dia SS pipe @421 each @495 195.00
+@67 8812 @104 Elbow 90° for 15.88 mm outer dia SS pipe @421 each @501 70.00
+@67 8813 @104 Elbow 90° for 22.22 mm outer dia SS pipe @421 each @501 80.00
+@67 8814 @104 Elbow 90° for 28.58 mm outer dia SS pipe @421 each @496 115.00
+@67 8815 @104 Elbow 90° for 34.00 mm outer dia SS pipe @421 each @495 144.00
+@67 8816 @104 Elbow 90° for 42.70 mm outer dia SS pipe @421 each @495 156.00
+@67 8817 @104 Elbow 90° for 48.60 mm outer dia SS pipe @421 each @495 192.00
+@67 8818 @104 Reducing Elbow 90° for 22.22 mm X 15.88 mm outer dia SS pipe @421 each @495 157.00
+@67 8819 @104 Reducing Elbow 90° for 28.58 mm X 15.88 mm outer dia SS pipe @421 each @495 214.00
+@67 8820 @104 Reducing Elbow 90° for 28.58 mm X 22.22 mm outer dia SS pipe @421 each @495 224.00
+@67 8821 @104 Reducing Elbow 90° for 34.00 mm X 22.22 mm outer dia SS pipe @421 each @495 300.00
+@67 8822 @104 Reducing Elbow 90° for 34.00 mm X 28.58 mm outer dia SS pipe @421 each @495 360.00
+@67 8823 @104 Reducing Elbow 90° for 42.70 mm X 34.00 mm outer dia SS pipe @421 each @495 390.00
+@67 8824 @104 Equal Tee for 15.88 mm outer dia SS pipe @421 each @495 139.00
+@67 8825 @104 Equal Tee for 22.22 mm outer dia SS pipe @421 each @496 211.00
+@67 8826 @104 Equal Tee for 28.58 mm outer dia SS pipe @421 each @495 328.00
+@67 8827 @104 Equal Tee for 34.00 mm outer dia SS pipe @421 each @495 484.00
+@67 8828 @104 Equal Tee for 42.70 mm outer dia SS pipe @421 each @495 765.00
+@67 8829 @104 Equal Tee for 48.60 mm outer dia SS pipe @421 each @490 1005.00
+@67 8830 @104 Reducing Tee for 22.22 mm X 15.88 mm outer dia SS pipe @421 each @495 189.00
+@67 8831 @104 Reducing Tee for 28.58 mm X 15.88 mm outer dia SS pipe @421 each @495 251.00
+@67 8832 @104 Reducing Tee for 28.58 mm X 22.22 mm outer dia SS pipe @421 each @495 255.00
+@67 8833 @104 Reducing Tee for 34.00 mm X 15.88 mm outer dia SS pipe @421 each @495 445.00
+@67 8834 @104 Reducing Tee for 34.00 mm X 22.22 mm outer dia SS pipe @421 each @495 460.00
+@67 8835 @104 Reducing Tee for 34.00 mm X 28.58 mm outer dia SS pipe @421 each @495 475.00
+@67 8836 @104 Reducing Tee for 42.70 mm X 15.88 mm outer dia SS pipe @421 each @495 735.00
+@67 8837 @104 Reducing Tee for 42.70 mm X 22.22 mm outer dia SS pipe @421 each @495 750.00
+@67 8838 @104 Reducing Tee for 42.70 mm X 28.58 mm outer dia SS pipe @421 each @495 770.00
+@67 8839 @104 Reducing Tee for 42.70 mm X 34.00 mm outer dia SS pipe @421 each @495 790.00
+@67 8840 @104 Reducing Tee for 48.60 mm X 15.88 mm outer dia SS pipe @421 each @495 900.00
+@67 8841 @104 Reducing Tee for 48.60 mm X 22.22 mm outer dia SS pipe @421 each @496 911.00
+@67 8842 @104 Reducing Tee for 48.60 mm X 28.58 mm outer dia SS pipe @421 each @495 928.00
+@67 8843 @104 Reducing Tee for 48.60 mm X 34.00 mm outer dia SS pipe @421 each @495 965.00
+@67 8844 @104 Reducing Tee for 48.60 mm X 42.70 mm outer dia SS pipe @421 each @495 985.00
+@67 8845 @104 Stainless steel Male thread Tee for 15.88 mm outer dia X 15 mm @421 each @495 205.00
+@104 nominal dia threaded
+@67 8846 @104 Stainless steel Male thread Tee for 22.22 mm outer dia X 15 mm @421 each @495 235.00
+@104 nominal dia threaded
+@395 BASIC RATES : 03 MATERIALS
+@51 69
+=== PAGE 32
+@518 `
+=== PAGE 33
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8847 @104 Stainless steel Male thread Tee for 22.22 mm outer dia X 20 mm @421 each @495 250.00
+@104 nominal dia threaded
+@67 8848 @104 Stainless steel Male thread Tee for 28.58 mm outer dia X 15 mm @421 each @495 315.00
+@104 nominal dia threaded
+@67 8849 @104 Stainless steel Male thread Tee for 28.58 mm outer dia X 20 mm @421 each @495 325.00
+@104 nominal dia threaded
+@67 8850 @104 Stainless steel Male thread Tee for 28.58 mm outer dia X 25 mm @421 each @495 335.00
+@104 nominal dia threaded
+@67 8851 @104 Stainless steel Male thread Tee for 34.00 mm outer dia X 15 mm @421 each @495 465.00
+@104 nominal dia threaded
+@67 8852 @104 Stainless steel Male thread Tee for 34.00 mm outer dia X 20 mm @421 each @495 475.00
+@104 nominal dia threaded
+@67 8853 @104 Stainless steel Male thread Tee for 34.00 mm outer dia X 25 mm @421 each @495 495.00
+@104 nominal dia threaded
+@67 8854 @104 Stainless steel Male thread Tee for 34.00 mm outer dia X 32 mm @421 each @495 515.00
+@104 nominal dia threaded
+@67 8855 @104 Stainless steel Male thread Tee for 42.70 mm outer dia X 15 mm @421 each @495 710.00
+@104 nominal dia threaded
+@67 8856 @104 Stainless steel Male thread Tee for 42.70 mm outer dia X 20 mm @421 each @495 725.00
+@104 nominal dia threaded
+@67 8857 @104 Stainless steel Male thread Tee for 42.70 mm outer dia X 25 mm @421 each @495 765.00
+@104 nominal dia threaded
+@67 8858 @104 Stainless steel Male thread Tee for 42.70 mm outer dia X 32 mm @421 each @495 795.00
+@104 nominal dia threaded
+@67 8859 @104 Stainless steel Male thread Tee for 42.70 mm outer dia X 40 mm @421 each @495 825.00
+@104 nominal dia threaded
+@67 8860 @104 Stainless steel Male thread Tee for 48.60 mm outer dia X 15 mm @421 each @495 995.00
+@104 nominal dia threaded
+@67 8861 @104 Stainless steel Male thread Tee for 48.60 mm outer dia X 20 mm @421 each @490 1014.00
+@104 nominal dia threaded
+@67 8862 @104 Stainless steel Male thread Tee for 48.60 mm outer dia X 25 mm @421 each @490 1025.00
+@104 nominal dia threaded
+@67 8863 @104 Stainless steel Male thread Tee for 48.60 mm outer dia X 32 mm @421 each @490 1050.00
+@104 nominal dia threaded
+@67 8864 @104 Stainless steel Male thread Tee for 48.60 mm outer dia X 40 mm @421 each @490 1080.00
+@104 nominal dia threaded
+@67 8865 @104 Stainless steel Male thread Tee for 48.60 mm outer dia X 50 mm @421 each @491 1115.00
+@104 nominal dia threaded
+@67 8866 @104 Stainless steel Female thread Tee for 15.88 mm outer dia X 15 mm @421 each @495 195.00
+@104 nominal dia threaded
+@67 8867 @104 Stainless steel Female thread Tee for 22.22 mm outer dia X 15 mm @421 each @495 215.00
+@104 nominal dia threaded
+@67 8868 @104 Stainless steel Female thread Tee for 22.22 mm outer dia X 20 mm @421 each @495 225.00
+@104 nominal dia threaded
+@67 8869 @104 Stainless steel Female thread Tee for 28.58 mm outer dia X 15 mm @421 each @495 285.00
+@104 nominal dia threaded
+@395 BASIC RATES : 03 MATERIALS
+@51 70
+=== PAGE 34
+@518 `
+=== PAGE 35
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8870 @104 Stainless steel Female thread Tee for 28.58 mm outer dia X 20 mm @421 each @495 295.00
+@104 nominal dia threaded
+@67 8871 @104 Stainless steel Female thread Tee for 28.58 mm outer dia X 25 mm @421 each @495 305.00
+@104 nominal dia threaded
+@67 8872 @104 Stainless steel Female thread Tee for 34.00 mm outer dia X 15 mm @421 each @495 455.00
+@104 nominal dia threaded
+@67 8873 @104 Stainless steel Female thread Tee for 34.00 mm outer dia X 20 mm @421 each @495 485.00
+@104 nominal dia threaded
+@67 8874 @104 Stainless steel Female thread Tee for 34.00 mm outer dia X 25 mm @421 each @495 515.00
+@104 nominal dia threaded
+@67 8875 @104 Stainless steel Female thread Tee for 34.00 mm outer dia X 32 mm @421 each @495 545.00
+@104 nominal dia threaded
+@67 8876 @104 Stainless steel Female thread Tee for 42.70 mm outer dia X 15 mm @421 each @495 700.00
+@104 nominal dia threaded
+@67 8877 @104 Stainless steel Female thread Tee for 42.70 mm outer dia X 20 mm @421 each @495 710.00
+@104 nominal dia threaded
+@67 8878 @104 Stainless steel Female thread Tee for 42.70 mm outer dia X 25 mm @421 each @495 730.00
+@104 nominal dia threaded
+@67 8879 @104 Stainless steel Female thread Tee for 42.70 mm outer dia X 32 mm @421 each @495 750.00
+@104 nominal dia threaded
+@67 8880 @104 Stainless steel Female thread Tee for 42.70 mm outer dia X 40 mm @421 each @495 805.00
+@104 nominal dia threaded
+@67 8881 @104 Stainless steel Female thread Tee for 48.60 mm outer dia X 15 mm @421 each @495 905.00
+@104 nominal dia threaded
+@67 8882 @104 Stainless steel Female thread Tee for 48.60 mm outer dia X 20 mm @421 each @495 915.00
+@104 nominal dia threaded
+@67 8883 @104 Stainless steel Female thread Tee for 48.60 mm outer dia X 25 mm @421 each @495 930.00
+@104 nominal dia threaded
+@67 8884 @104 Stainless steel Female thread Tee for 48.60 mm outer dia X 32 mm @421 each @495 980.00
+@104 nominal dia threaded
+@67 8885 @104 Stainless steel Female thread Tee for 48.60 mm outer dia X 40 mm @421 each @490 1005.00
+@104 nominal dia threaded
+@67 8886 @104 Stainless steel Female thread Tee for 48.60 mm outer dia X 50 mm @421 each @490 1085.00
+@104 nominal dia threaded
+@67 8887 @104 Stainless steel Female threaded Connector/Adapter for 15.88 mm @421 each @495 186.00
+@104 outer dia X 15 mm nominal threaded
+@67 8888 @104 Stainless steel Female threaded Connector/Adapter for 22.22 mm @421 each @495 205.00
+@104 outer dia X 15 mm nominal threaded
+@67 8889 @104 Stainless steel Female threaded Connector/Adapter for 22.22 mm @421 each @495 237.00
+@104 outer dia X 20 mm nominal threaded
+@67 8890 @104 Stainless steel Female threaded Connector/Adapter for 28.58 mm @421 each @495 277.00
+@104 outer dia X 15 mm nominal threaded
+@67 8891 @104 Stainless steel Female threaded Connector/Adapter for 28.58 mm @421 each @495 290.00
+@104 outer dia X 20 mm nominal threaded
+@67 8892 @104 Stainless steel Female threaded Connector/Adapter for 28.58 mm @421 each @495 355.00
+@104 outer dia X 25 mm nominal threaded
+@395 BASIC RATES : 03 MATERIALS
+@51 71
+=== PAGE 36
+@518 `
+=== PAGE 37
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8893 @104 Stainless steel Female threaded Connector/Adapter for 34.00 mm @421 each @495 450.00
+@104 outer dia X 25 mm nominal threaded
+@67 8894 @104 Stainless steel Female threaded Connector/Adapter for 34.00 mm @421 each @495 540.00
+@104 outer dia X 32 mm nominal threaded
+@67 8895 @104 Stainless steel Female threaded Connector/Adapter for 42.70 mm @421 each @495 670.00
+@104 outer dia X 32 mm nominal threaded
+@67 8896 @104 Stainless steel Female threaded Connector/Adapter for 42.70 mm @421 each @495 705.00
+@104 outer dia X 40 mm nominal threaded
+@67 8897 @104 Stainless steel Female threaded Connector/Adapter for 48.60 mm @421 each @495 905.00
+@104 outer dia X 40 mm nominal threaded
+@67 8898 @104 Stainless steel Female threaded Connector/Adapter for 48.60 mm @421 each @495 975.00
+@104 outer dia X 50 mm nominal threaded
+@67 8899 @104 Stainless steel Male threaded Connector/Adapter for 15.88 mm outer @421 each @495 176.00
+@104 dia X 15 mm nominal threaded
+@67 8900 @104 Stainless steel Male threaded Connector/Adapter for 22.22 mm outer @421 each @495 189.00
+@104 dia X 15 mm nominal threaded
+@67 8901 @104 Stainless steel Male threaded Connector/Adapter for 22.22 mm outer @421 each @496 211.00
+@104 dia X 20 mm nominal threaded
+@67 8902 @104 Stainless steel Male threaded Connector/Adapter for 28.58 mm outer @421 each @495 322.00
+@104 dia X 20 mm nominal threaded
+@67 8903 @104 Stainless steel Male threaded Connector/Adapter for 28.58 mm outer @421 each @495 324.00
+@104 dia X 25 mm nominal threaded
+@67 8904 @104 Stainless steel Male threaded Connector/Adapter for 34.00 mm outer @421 each @495 475.00
+@104 dia X 25 mm nominal threaded
+@67 8905 @104 Stainless steel Male threaded Connector/Adapter for 34.00 mm outer @421 each @495 565.00
+@104 dia X 32 mm nominal threaded
+@67 8906 @104 Stainless steel Male threaded Connector/Adapter for 42.70 mm outer @421 each @495 715.00
+@104 dia X 32 mm nominal threaded
+@67 8907 @104 Stainless steel Male threaded Connector/Adapter for 42.70 mm outer @421 each @495 730.00
+@104 dia X 40 mm nominal threaded
+@67 8908 @104 Stainless steel Male threaded Connector/Adapter for 48.60 mm outer @421 each @495 935.00
+@104 dia X 40 mm nominal threaded
+@67 8909 @104 Stainless steel Male threaded Connector/Adapter for 48.60 mm outer @421 each @491 1140.00
+@104 dia X 50 mm nominal threaded
+@67 8910 @104 Stainless steel Valve Connector for 15.88 mm outer dia X 15 mm @421 each @495 223.00
+@104 nominal dia threaded
+@67 8911 @104 Stainless steel Valve Connector for 22.22 mm outer dia X 15 mm @421 each @495 256.00
+@104 nominal dia threaded
+@67 8912 @104 Stainless steel Valve Connector for 22.22 mm outer dia X 20 mm @421 each @495 278.00
+@104 nominal dia threaded
+@67 8913 @104 Stainless steel Valve Connector for 28.58 mm outer dia X 25 mm @421 each @495 425.00
+@104 nominal dia threaded
+@67 8914 @104 Stainless steel Valve Connector for 34.00 mm outer dia X 32 mm @421 each @495 645.00
+@104 nominal dia threaded
+@67 8915 @104 Stainless steel Valve Connector for 42.70 mm outer dia X 40 mm @421 each @495 913.00
+@104 nominal dia threaded
+@395 BASIC RATES : 03 MATERIALS
+@51 72
+=== PAGE 38
+@518 `
+=== PAGE 39
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8916 @104 Stainless steel Valve Connector for 48.60 mm outer dia X 50 mm @421 each @490 1235.00
+@104 nominal dia threaded
+@67 8917 @104 SS Female Threaded Elbow 90° for 15.88 mm outer dia X 15 mm @421 each @495 190.00
+@104 nominal dia threaded
+@67 8918 @104 Stainless steel Female Threaded Elbow 90° for 22.22 mm outer dia X @421 each @495 215.00
+@104 15 mm nominal dia threaded
+@67 8919 @104 Stainless steel Female Threaded Elbow 90° for 22.22 mm outer dia X @421 each @495 240.00
+@104 20 mm nominal dia threaded
+@67 8920 @104 Stainless steel Female Threaded Elbow 90° for 28.58 mm outer dia X @421 each @495 260.00
+@104 25 mm nominal dia threaded
+@67 8921 @104 Stainless steel Female Threaded Elbow 90° for 34.00 mm outer dia X @421 each @495 335.00
+@104 32 mm nominal dia threaded
+@67 8922 @104 Stainless steel Female Threaded Elbow 90° for 42.70 mm outer dia X @421 each @495 530.00
+@104 32 mm nominal dia threaded
+@67 8923 @104 Stainless steel Female Threaded Elbow 90° for 42.70 mm outer dia @421 each @495 530.00
+@104 X40 mm nominal dia threaded
+@67 8924 @104 Stainless steel Female Threaded Elbow 90° for 48.60 mm outer dia X @421 each @495 790.00
+@104 40 mm nominal dia threaded
+@67 8925 @104 Stainless steel Female Threaded Elbow 90° for 48.60 mm outer dia X @421 each @495 790.00
+@104 50 mm nominal dia threaded
+@67 8926 @104 Stainless steel Male Threaded Elbow 90° for 15.88 mm outer dia X15 @421 each @495 229.00
+@104 mm nominal dia threaded
+@67 8927 @104 Stainless steel Male Threaded Elbow 90° for 22.22 mm outer dia X15 @421 each @495 250.00
+@104 mm nominal dia threaded
+@67 8928 @104 Stainless steel Male Threaded Elbow 90° for 22.22 mm outer dia X20 @421 each @495 265.00
+@104 mm nominal dia threaded
+@67 8929 @104 Stainless steel Male Threaded Elbow 90° for 28.58 mm outer dia X25 @421 each @495 285.00
+@104 mm nominal dia threaded
+@67 8930 @104 Stainless steel MaleThreaded Elbow 90° for 34.00 mm outer dia X25 @421 each @495 315.00
+@104 mm nominal dia threaded
+@67 8931 @104 Stainless steel Male Threaded Elbow 90° for 34.00 mm outer dia X32 @421 each @495 315.00
+@104 mm nominal dia threaded
+@67 8932 @104 Stainless steel Male Threaded Elbow 90° for 42.70 mm outer dia X32 @421 each @495 480.00
+@104 mm nominal dia threaded
+@67 8933 @104 Stainless steel Male Threaded Elbow 90° for 42.70 mm outer dia X40 @421 each @495 530.00
+@104 mm nominal dia threaded
+@67 8934 @104 Stainless steel Male Threaded Elbow 90° for 48.60 mm outer dia X40 @421 each @495 765.00
+@104 mm nominal dia threaded
+@67 8935 @104 Stainless steel Male Threaded Elbow 90° for 48.60 mm outer dia X50 @421 each @495 835.00
+@104 mm nominal dia threaded
+@67 8936 @104 Stainless steel Cap for 15.88 mm outer dia pipe @421 each @501 41.00
+@67 8937 @104 Stainless steel Cap for 22.22 mm outer dia pipe @421 each @501 60.00
+@67 8938 @104 Stainless steel Cap for 28.58 mm outer dia pipe @421 each @501 86.00
+@67 8939 @104 Stainless steel Cap for 34.00 mm outer dia pipe @421 each @495 165.00
+@67 8940 @104 Stainless steel Cap for 42.70 mm outer dia pipe @421 each @495 241.00
+@395 BASIC RATES : 03 MATERIALS
+@51 73
+=== PAGE 40
+@518 `
+=== PAGE 41
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8941 @104 Stainless steel Cap for 48.60 mm outer dia pipe @421 each @495 300.00
+@67 8942 @104 Stainless steel Pipe Bridge for 15.88 mm outer dia pipe @421 each @501 96.00
+@67 8943 @104 Stainless steel Pipe Bridge for 22.22 mm outer dia pipe @421 each @495 169.00
+@67 8944 @104 Stainless steel Pipe Bridge for 28.58 mm outer dia pipe @421 each @495 272.00
+@67 8945 @104 4 Point facade glass bracket without flat head bolts @421 each @490 3650.00
+@67 8946 @104 2 Point facade glass bracket (wall mounted with out flat head bolt) @421 each @490 1825.00
+@67 8947 @104 1 Point facade glass bracket (wall mounted with out flat head bolt) @421 each @490 1430.00
+@67 8948 @104 Flat head bolt for brackets of spider glazing @421 each @495 716.00
+@67 8949 @104 400 mm long fin plate without fastners @423 pair @490 6524.00
+@67 8953 @104 Micro Silica @426 kg @501 25.00
+@67 8954 @104 Stop end tubes for diaphragm wall 600 mm dia. @422 sqm @506 5.00
+@67 8955 @104 Driving end tubes for diaphragm wall 600 mm dia. @422 sqm @501 79.00
+@67 8956 @104 Bi-Axial Extruded Geogrids of Minimum Tensile Strength 15 kN/m in @422 sqm @495 138.00
+@104 the longitudinal and transverse direction
+@67 8957 @104 Bi-Axial Extruded Geogrids of Minimum Tensile Strength 20kN/m in @422 sqm @495 155.00
+@104 the longitudinal and transverse direction
+@67 8958 @104 Bi-Axial Extruded Geogrids of Minimum Tensile Strength 30kN/m in @422 sqm @495 235.00
+@104 the longitudinal and transverse direction
+@67 8959 @104 Bi-Axial Extruded Geogrids of Minimum Tensile Strength 40kN/m in @422 sqm @495 333.00
+@104 the longitudinal and transverse direction
+@67 8960 @104 Geosynthetic Drainage with two filtering nonwoven geotextiles @422 sqm @495 609.00
+@104 having a “W” configuration as longitudinal parallel channels. Minimum
+@104 thickness to be 7.2 mm, with two filtering UV stabilized polypropylene
+@104 nonwoven geotextile of minimum thickness of 0.75 mm having pores
+@104 of 150 micron and tensile strength of 8.0 kN/m and having plane
+@104 flow capacity of 2.1 L / (m.s) at hydraulic gradient of 1.0 & 20 kPa
+@104 pressure,tensile strength of 18 kN/m , with mass per unit area of 740
+@104 gsm.
+@67 8961 @104 Geosynthetic Drainage Composite having thermobonding a draining @422 sqm @495 724.00
+@104 core - HDPE geonet comprises of two sets of parallel overlayed ribs
+@104 integrally connected to have a rhomboidal shape with a polyethylene
+@104 film and a nonwoven geotextile having mass per unit area 130 g/m2
+@104 and tensile strength of 8.0 kN/m having in plane flow capacity of 0.7
+@104 L / (m.s) at hydraulic gradient of 1.0 & 20 kPa pressure and tensile
+@104 strength of 13.5 kN/m , with mass per unit area of 830 gsm,
+@67 8962 @104 Synthetic Geogrid having Ultimate tensile strength- 100 kN/m @422 sqm @495 230.00
+@67 8963 @104 Synthetic Geogrid Ultimate tensile strength- 150 kN/m @422 sqm @495 241.00
+@67 8964 @104 Synthetic Geogrid Ultimate tensile strength- 200 kN/m @422 sqm @495 391.00
+@67 8965 @104 Synthetic Geogrid Ultimate tensile strength- 250 kN/m @422 sqm @495 402.00
+@67 8966 @104 Synthetic Geogrid Ultimate tensile strength- 300kN/m @422 sqm @495 414.00
+@395 BASIC RATES : 03 MATERIALS
+@51 74
+=== PAGE 42
+@518 `
+=== PAGE 43
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8967 @104 Synthetic Geogrid Ultimate tensile strength- 350kN/m @422 sqm @495 425.00
+@67 8968 @104 Synthetic Geogrid @188 Ultimate tensile strength- 400kN/m @422 sqm @495 517.00
+@67 8969 @104 Synthetic Geogrid Ultimate tensile strength- 500kN/m @422 sqm @495 575.00
+@67 8970 @104 Synthetic Geogrid Ultimate tensile strength- 600kN/m @422 sqm @495 632.00
+@67 8971 @104 Synthetic Geogrid Ultimate tensile strength- 700kN/m @422 sqm @495 747.00
+@67 8972 @104 Synthetic Geogrid Ultimate tensile strength- 800kN/m @422 sqm @495 833.00
+@67 8973 @104 Synthetic Geogrid Ultimate tensile strength- 900kN/m @422 sqm @495 977.00
+@67 8974 @104 Synthetic Geogrid Ultimate tensile strength- 1000kN/m @422 sqm @490 1092.00
+@67 8975 @104 Synthetic Geogrid @188 Ultimate tensile strength- 1100kN/m @422 sqm @491 1150.00
+@67 8976 @104 Synthetic Geogrid Ultimate tensile strength- 1200kN/m @422 sqm @490 1207.00
+@67 8977 @104 Aluminium profile industrial troughed sheet of Alloy @422 sqm @495 660.00
+@104 31500/31000/40800, conforming to IS 1254, IS 737, IS 2676, 0.71 mm
+@104 thick, the profile detail width 1044/920 mm, cover width 1000/875 mm.
+@67 8978 @104 Aluminium profile industrial troughed sheet of Alloy @422 sqm @495 864.00
+@104 31500/31000/40800, conforming to IS 1254, IS 737, IS 2676, 0.91 mm
+@104 thick, the profile detail width 1044/920 mm, cover width 1000/875 mm.
+@67 8979 @104 Uni Axial Woven polyster geogrid of minimum tensile strength 40KN/m @422 sqm @495 159.00
+@104 in the Longitudinal direction and 20 KN/m in the Transverse direction.
+@67 8980 @104 Uni Axial Woven polyster geogrid of minimum tensile strength 60KN/m @422 sqm @495 185.00
+@104 in the Longitudinal direction and 20 KN/m in the Transverse direction
+@67 8981 @104 Uni Axial Woven polyster geogrid of minimum tensile strength 80 @422 sqm @495 235.00
+@104 KN/m in the Longitudinal direction and 30 KN/m in the Transverse
+@104 direction.
+@67 8982 @104 Uni Axial Woven polyster geogrid of minimum tensile strength @422 sqm @495 272.00
+@104 100KN/m in the Longitudinal direction and 30KN/m in the Transverse
+@104 direction.
+@67 8983 @104 Uni Axial Woven polyster geogrid of minimum tensile strength @422 sqm @495 292.00
+@104 120KN/m in the Longitudinal direction and 30KN/m in the Transverse
+@104 direction.
+@67 8984 @104 Uni Axial Woven polyster geogrid of minimum tensile strength @422 sqm @495 366.00
+@104 150KN/m in the Longitudinal direction and 30 KN/m in the Transverse
+@104 direction.
+@67 8985 @104 Uni Axial Woven polyster geogrid of minimum tensile strength @422 sqm @495 431.00
+@104 200KN/m in the Longitudinal direction and 30 KN/m in the Transverse
+@104 direction.
+@67 8986 @104 Uni Axial Woven polyster geogrid of minimum tensile strength @422 sqm @495 526.00
+@104 250KN/m in the Longitudinal direction and 30KN/m in the Transverse
+@104 direction.
+@67 8987 @104 Uni Axial Woven polyster geogrid of minimum tensile strength @422 sqm @495 608.00
+@104 300KN/m in the Longitudinal direction and 30KN/m in the Transverse
+@104 direction.
+@67 8988 @104 Bi Axial Woven polyster geogrid of minimum tensile strength 20KN/m @422 sqm @495 131.00
+@104 in both Longitudinal and Transverse direction.
+@67 8989 @104 Bi Axial Woven polyster geogrid of minimume tensile strength 40KN/m @422 sqm @495 198.00
+@104 in both Longitudinal and Transverse direction.
+@395 BASIC RATES : 03 MATERIALS
+@51 75
+=== PAGE 44
+@518 `
+=== PAGE 45
+@66 Code @227 Description @422 Unit @481 Basic rate
+@70 No. @489 as on or
+@478 just before
+@478 01.04.2023
+@500 `
+@67 8990 @104 Bi Axial Woven polyster geogrid of minimum tensile strength 60KN/m @422 sqm @495 256.00
+@104 in both Longitudinal and Transverse direction.
+@67 8991 @104 Standard double panel of design width, height and thickness with @422 sqm @490 2071.00
+@104 minimum weight of panel as 11.05 kg per sqm
+@67 8992 @104 Corner pieces L-Shape @422 sqm @495 813.00
+@67 8993 @104 Flat strips for soffits @422 sqm @495 832.00
+@67 8994 @104 G.I binding wire @422 sqm @500 66.00
+@67 8995 @104 Single panel (Weight not less than 4.05 kg/sqm) @422 sqm @495 832.00
+@67 8996 @104 125 mm / 165 mm wide Stay in Place Wallform 2.50 mm thick of @426 kg @495 160.00
+@104 extruded Unplasticised Poly Vinyl Chloride (uPVC).
+@67 9001 @104 C.P. Brass Centre Hole Basin Mixer With Cast Spout @421 each @490 1760.00
+@67 9977 @104 Carriage @422 L.S. @506 2.27
+@67 9988 @104 Carriage and sundries @422 L.S. @506 2.27
+@67 9999 @104 Sundries @422 L.S. @506 2.27
+@67 *Note: Carriage codes rates are taken as 0.00 for the material having rates F.O.R. at site
+@395 BASIC RATES : 03 MATERIALS
+@51 76
+=== PAGE 46
+@518 `
+=== PAGE 47
+@183 SUB HEAD : 1.0
+@102 CARRIAGE OF MATERIALS
+=== PAGE 48
+
+=== PAGE 49
+@185 BASIC RATES OF CARRIAGE CODES
+@66 (Carriage for 5.0 km lead by Mechanical Transport including loading, Unloading and stacking).
+@58 Note: - @129 These rates are exclusive of GST, contractor’s profit and overhead charges.
+@58 Code @229 Description @427 Unit @474 Basic rate
+@58 No. @483 as on or
+@471 just before
+@474 01.04.2023
+@58 2200 @108 Steam coal @424 tonne @492 212.05
+@58 2201 @108 Bricks @415 1000 Nos @492 494.79
+@58 2202 @108 Stone aggregate below 40 mm nominal size @427 cum @492 185.55
+@58 2203 @108 Coarse sand @427 cum @492 185.55
+@58 2204 @108 Timber @427 cum @492 212.05
+@58 2205 @108 Steel @424 tonne @492 164.93
+@58 2206 @108 Stone aggregate 40 mm nominal size and above @427 cum @492 201.68
+@58 2207 @108 Brick tiles @415 1000 Nos @492 296.87
+@58 2208 @108 Lime @427 cum @492 185.55
+@58 2209 @108 Cement @424 tonne @492 164.93
+@58 2211 @108 Tar bitumen @424 tonne @492 185.55
+@58 2215 @108 Soling stone & masonry stone @427 cum @492 218.29
+@58 2216 @108 Stone blocks white & red sand stone & kota stone slab @424 tonne @492 164.93
+@58 2224 @108 S.W. pipes100 mm dia @414 100 metre @492 247.39
+@58 2225 @108 S.W. pipes150 mm dia @414 100 metre @492 494.79
+@58 2226 @108 S.W. pipes200 mm dia @414 100 metre @492 824.64
+@58 2228 @108 S.W. pipes250 mm dia @414 100 metre @487 1413.67
+@58 2229 @108 S.W. pipes300 mm dia @414 100 metre @487 1767.09
+@58 2241 @108 Good earth @427 cum @492 231.93
+@58 2242 @108 Dump manure @427 cum @492 201.68
+@58 2260 @108 Brick aggregate @427 cum @492 201.68
+@58 2261 @108 Sand @427 cum @492 185.55
+@58 2262 @108 Fly ash @427 cum @492 185.55
+@58 2264 @108 Rubbish @427 cum @492 185.55
+@58 2265 @108 Moorum @427 cum @492 185.55
+@58 2266 @108 Surkhi @427 cum @492 185.55
+@58 2267 @108 Stone dust @427 cum @492 185.55
+@58 2268 @108 Marble dust and marble chips @427 cum @492 185.55
+@58 2271 @108 G.I. pipes below 100 mm dia @424 tonne @492 164.93
+@58 2272 @108 Stainless Steel pipe below 100 mm dia @424 tonne @492 164.93
+@58 2273 @108 A.C.sheet and accessories @424 tonne @492 164.93
+@58 2275 @108 R.C.C. pipes 100 mm dia @414 100 metre @492 405.56
+@58 2281 @108 R.C.C. pipes 150 mm dia @414 100 metre @492 675.94
+@58 2287 @108 R.C.C. pipes 250 mm dia @414 100 metre @487 1562.47
+@58 2290 @108 R.C.C. pipes 300 mm dia @414 100 metre @487 1931.24
+@58 2299 @108 R.C.C. pipes 450 & 500 mm dia @414 100 metre @487 4506.23
+@58 2302 @108 G.I.sheet and accessories @424 tonne @492 164.93
+@58 2303 @108 R.C.C. pipes 600, 700, 750 & 800 mm dia @414 100 metre @487 6759.34
+@341 SUB HEAD : 1.0 CARRIAGE OF MATERIALS
+@51 78
+=== PAGE 50
+@517 `
+=== PAGE 51
+@61 Code @232 Description @430 Unit @477 Basic rate
+@61 No. @486 as on or
+@474 just before
+@476 01.04.2023
+@61 2308 @111 Plaster of paris @427 tonne @495 164.93
+@61 2309 @111 Cast iron fittings @427 tonne @495 164.93
+@61 2311 @111 Red bajri @430 cum @495 185.55
+@61 2314 @111 Barbed wire @427 tonne @495 164.93
+@61 2317 @111 Sludge @430 cum @495 201.68
+@61 2319 @111 Spun iron S & S pipes 100 mm dia @417 100 metre @495 405.56
+@61 2320 @111 Spun iron S & S pipes 125 mm dia @417 100 metre @495 541.73
+@61 2321 @111 Spun iron S & S pipes 150 mm dia @417 100 metre @495 675.94
+@61 2322 @111 Spun iron S & S pipes 200 mm dia @417 100 metre @490 1099.52
+@61 2323 @111 Spun iron S & S pipes 250 mm dia @417 100 metre @490 1562.47
+@61 2324 @111 Spun iron S & S pipes 300 mm dia @417 100 metre @490 1931.24
+@61 2325 @111 Spun iron S & S pipes 350 mm dia @417 100 metre @490 2703.74
+@61 2326 @111 Spun iron S & S pipes 400 mm dia @417 100 metre @490 3686.91
+@61 2327 @111 Spun iron S & S pipes 450 mm dia @417 100 metre @490 4506.23
+@61 2328 @111 Spun iron S & S pipes 500 mm dia @417 100 metre @490 4506.23
+@61 2329 @111 Spun iron S & S pipes 600mm dia @417 100 metre @490 6759.34
+@61 2330 @111 C.I. pipes 500 mm dia @417 100 metre @490 4506.23
+@61 2331 @111 R.C.C. pipes 900 mm dia @417 100 metre @485 10139 @511 .00
+@61 2332 @111 R.C.C. pipes 1000 mm dia @417 100 metre @485 13518.67
+@61 2333 @111 R.C.C. pipes 1100 mm dia @417 100 metre @485 13518.67
+@61 2334 @111 R.C.C. pipes 1200 mm dia @417 100 metre @485 13518.67
+@61 2335 @111 Jamuna sand @430 cum @495 185.55
+@61 2336 @111 RCC pipe above 1200 mm dia & up to 1800 mm dia @417 100 metre @485 13518.67
+@61 2341 @111 Pig lead @427 tonne @495 164.93
+@61 2342 @111 Solvent/ Diesel @425 quintal @500 18.55
+@61 2343 @111 Cast iron pipes 100 mm dia @417 100 metre @495 405.56
+@61 2344 @111 Cast iron pipes 150 mm dia @417 100 metre @495 675.94
+@61 2345 @111 Cast iron pipes 200 mm dia @417 100 metre @490 1099.52
+@61 2346 @111 Cast iron pipes 250 mm dia @417 100 metre @490 1562.47
+@61 2347 @111 Cast iron pipes 300 mm dia @417 100 metre @490 1931.24
+@61 2348 @111 Cast iron pipes 350 mm dia @417 100 metre @490 2703.74
+@61 2349 @111 Cast iron pipes 400 mm dia @417 100 metre @490 3686.91
+@61 2350 @111 Cast iron pipes 450 mm dia @417 100 metre @490 4506.23
+@61 2351 @111 Cast iron pipes 500 mm dia @417 100 metre @490 4506.23
+@61 2352 @111 Cast iron pipes 600 mm dia @417 100 metre @490 6759.34
+@61 2353 @111 Cast iron pipes 700 mm dia @417 100 metre @490 6759.34
+@61 2354 @111 Cast iron pipes 750 mm dia @417 100 metre @490 6759.34
+@61 2355 @111 Cast iron pipes 800 mm dia @417 100 metre @490 6759.34
+@61 2356 @111 Cast iron pipes 900 mm dia @417 100 metre @485 10139.00
+@61 2357 @111 Cast iron pipes 1000 mm dia @417 100 metre @485 13518.67
+@341 SUB HEAD : 1.0 CARRIAGE OF MATERIALS
+@51 79
+=== PAGE 52
+@517 `
+=== PAGE 53
+@304 in
+@240 be
+@253 net
+@266 after @278 pres- @316 under
+@253 to
+@240 will
+@278 of
+@304 mentioned
+@219 12
+@240 rates
+@133 Remarks
+@240 The @253 applicable @266 quantities @278 deduction @291 cribed percentage for @304 voids @316 the specification @329 subhead "Carriage of @341 Materials"
+@219 11
+@148 Beyond
+@161 20 km @174 per @186 addl. @199 km @239 12.14 @272 15.17 @292 13.19 @312 24.27 @332 12.14 @364 13.19 @397 14.28 @417 32.36 @437 19.42 @457 10.79
+@219 10
+@148 Beyond @161 10 km @174 upto 20 @186 km per @199 km
+@239 15.08 @272 18.85 @292 16.40 @312 30.17 @332 15.08 @364 16.40 @397 17.75 @417 40.22 @437 24.13 @457 13.41
+@219 9
+@148 Beyond @161 5 km @174 upto 10 @186 km per @199 km @239 18.53 @272 23.16 @292 20.14 @312 37.06 @332 18.53 @364 20.14 @397 21.80 @417 49.41 @437 29.65 @457 16.47
+@219 8
+@148 5 km @239 261.35 @272 326.68 @292 284.07 @312 522.70 @332 261.35 @364 284.07 @397 307.47 @417 696.93 @437 418.16 @457 232.31
+@219 7
+@148 4 km @239 240.51 @272 300.64 @292 261.42 @312 481.02 @332 240.51 @364 261.42 @397 282.95 @417 641.36 @437 384.81 @457 213.79
+@219 6
+@148 3 km
+@239 219.03 @272 273.79 @292 238.08 @312 438.07 @332 219.03 @364 238.08 @397 257.69 @417 584.09 @437 350.45 @457 194.70
+@219 5
+@148 2 km
+@239 196.66 @272 245.82 @292 213.76 @312 393.32 @332 196.66 @364 213.76 @397 231.36 @417 524.42 @437 314.65 @457 174.81
+@74 1.0 CARRIAGE OF MATERIALS
+@133 Rate i/c GST on Work Contract @ 18%, 15% CP & OH and 1% Cess
+@219 4
+@148 1 km
+@239 174.04 @272 217.55 @292 189.17 @312 348.08 @332 174.04 @364 189.17 @397 204.75 @417 464.11 @437 278.46 @457 154.70
+@219 3
+@239 cum @272 cum @292 cum @312 cum @332 cum @364 cum @397 cum
+@112 1.1 By Mechanical Transport including loading,unloading and stacking
+@133 Unit of @148 rates @457 tonne
+@417 1000 Nos @437 1000 Nos
+@93 These rates are inclusive of GST on work contract, Contractor's profit and over heads, Cess etc.
+@93 Note:-
+@219 2
+@133 Materials
+@239 Lime, moorum, building @252 rubbish @272 Earth @292 Manure or sludge @312 Excavated rock @332 Sand, stone aggregate @344 below 40 mm nominal size @364 Stone aggregate 40 mm @377 nominal size and above @397 Soling stone @417 Bricks @437 Brick Tiles @457 Cement, stone blocks, @470 G.I.. C.I., A.C., & C.C. @482 pipes below 100 mm dia @495 and other heavy materials
+@133 Item @148 Code
+@219 1 @239 1.1.1 @272 1.1.2 @292 1.1.3 @312 1.1.4 @332 1.1.5 @364 1.1.6 @397 1.1.7 @417 1.1.8 @437 1.1.9 @457 1.1.10
+@341 SUB HEAD : 1.0 CARRIAGE OF MATERIALS
+@51 80
+=== PAGE 54
+
+=== PAGE 55
+@159 12
+@75 Remarks
+@226 1.21
+@159 11
+@176 10.79 @193 13.87 @209 12.14 @242 13.87 @275 16.18 @292 32.36 @308 53.94 @325 92.47
+@89 Beyond @102 20 km @114 per @127 addl. @139 km @341 115.59 @358 161.82 @375 231.17 @391 294.22 @408 323.64 @424 404.55
+@226 1.51
+@176 13.41 @193 17.24 @209 15.08 @242 17.24 @275 20.11 @292 40.22 @308 67.04
+@159 10
+@325 114.92 @341 143.66 @358 201.12 @375 287.31 @391 365.67 @408 402.24 @424 502.79
+@89 Beyond @102 10 km @114 upto 20 @127 km per @139 km
+@226 1.85
+@176 16.47 @193 21.18 @209 18.53 @242 21.18 @275 24.71 @292 49.41 @308 82.35
+@159 9
+@325 141.18 @341 176.47 @358 247.06 @375 352.94 @391 449.20 @408 494.12 @424 617.65
+@89 Beyond @102 5 km @114 upto 10 @127 km per @139 km
+@159 8 @226 26.13
+@89 5 km @176 232.31 @193 298.68 @209 261.35 @242 298.68 @275 348.46 @292 696.93
+@308 1161.55 @325 1991.22 @341 2489.03 @358 3484.64 @391 6335.71 @408 6969.28 @424 8711.59
+@375 4978.05
+@226 24.05
+@159 7
+@176 213.79 @193 274.87 @209 240.51 @242 274.87 @275 320.68 @292 641.36
+@89 4 km @308 1068.93 @325 1832.44 @341 2290.56 @358 3206.78 @375 4581.11 @391 5830.50 @408 6413.56 @424 8016.94
+@159 6 @226 21.90
+@176 194.70 @193 250.32 @209 219.03 @242 250.32 @275 292.04 @292 584.09 @308 973.48
+@89 3 km @325 1668.82 @341 2086.03 @358 2920.44 @375 4172.06 @391 5309.90 @408 5840.89 @424 7301.11
+@159 5 @226 19.67
+@89 2 km
+@176 174.81 @193 224.75 @209 196.66 @242 224.75 @275 262.21 @292 524.42 @308 874.04
+@325 1498.35 @341 1872.94 @358 2622.11 @375 3745.87 @391 4767.48 @408 5244.22 @424 6555.28
+@75 Rate i/c GST on Work Contract @ 18%, 15% CP & OH and 1% Cess
+@159 4
+@89 1 km
+@226 17.40
+@176 154.70 @193 198.90 @209 174.04 @242 198.90 @275 232.05 @292 464.11 @308 773.51
+@325 1326.02 @341 1657.53 @358 2320.54 @375 3315.06 @391 4219.17 @408 4641.08 @424 5801.35
+@159 3
+@75 Unit of @89 rates @226 qtl
+@193 cum
+@176 tonne @209 tonne @242 tonne
+@275 100 m @292 100 m @308 100 m @325 100 m @341 100 m @358 100 m @375 100 m @391 100 m @408 100 m @424 100 m
+@159 2
+@176 Steel @193 Timber @209 Tar Bitumen @226 Solvent, diesel @242 Steam coal @259 S.W. pipe @275 100 mm dia @292 150 mm dia @308 200 mm dia @325 250 mm dia @341 300 mm dia @358 350 mm dia @375 400 mm dia @391 450 mm dia @408 500 mm dia @424 600 mm dia @441 R.C.C. pipe, @452 A.C. pipes, steel @464 cylinder, R.C. pipes, @476 S.C.I. pipes, C.I. pipes @487 and unreinforced @499 cement pipes
+@75 Materials
+@75 Item @89 Code
+@159 1 @176 1.1.11 @193 1.1.12 @209 1.1.13 @226 1.1.14 @242 1.1.15 @259 1.1.16 @275 1.1.16.1 @292 1.1.16.2 @308 1.1.16.3 @325 1.1.16.5 @341 1.1.16.6 @358 1.1.16.7 @375 1.1.16.8 @391 1.1.16.9 @408 1.1.16.10 @424 1.1.16.11 @441 1.1.17
+@341 SUB HEAD : 1.0 CARRIAGE OF MATERIALS
+@51 81
+=== PAGE 56
+
+=== PAGE 57
+@429 Rate
+@483 494.10
+@166 12
+@82 Remarks
+@429 Unit
+@482 cum
+@166 11
+@186 26.53 @201 35.43 @217 44.21 @232 71.92
+@96 Beyond @109 20 km @121 per @134 addl. @146 km @248 102.20 @264 126.32 @279 176.85 @295 241.16 @310 294.75 @338 442.13 @366 663.19 @381 884.26
+@186 32.97 @201 44.04 @217 54.95 @232 89.39
+@166 10
+@96 Beyond @109 10 km @121 upto 20 @134 km per @146 km @248 127.02 @264 157.00 @279 219.80 @295 299.73 @310 366.33 @338 549.50 @366 824.25
+@381 1099.00
+@166 9 @186 40.50 @201 54.10 @217 67.50
+@232 109.80 @248 156.04 @264 192.86 @279 270.01 @295 368.20 @310 450.02 @338 675.03
+@96 Beyond @109 5 km @121 upto 10 @134 km per @146 km
+@366 1012.54 @381 1350.05
+@166 8
+@186 571.25 @201 763.06 @217 952.09
+@96 5 km
+@232 1548.73 @248 2200.82 @264 2720.25 @279 3808.35 @295 5193.20 @310 6347.25 @338 9520.87
+@366 14281.30 @381 19041.74
+@166 7
+@186 525.70 @201 702.21 @217 876.17
+@96 4 km
+@232 1425.23 @248 2025.33 @264 2503.34 @279 3504.68 @295 4779.10 @310 5841.13 @338 8761.69
+@366 13142.53 @381 17523.38
+@166 6
+@186 478.76 @201 639.51 @217 797.94
+@96 3 km @232 1297.97 @248 1844.49 @264 2279.81 @279 3191.74 @295 4352.37 @310 5319.57 @338 7979.35
+@366 11969.03 @381 15958.70
+@409 .
+@429 Description
+@166 5
+@96 2 km
+@186 429.85 @201 574.19 @217 716.42
+@232 1165.38 @248 1656.07 @264 2046.93 @279 2865.70 @295 3907.77 @310 4776.16 @338 7164.24
+@366 10746.36 @381 14328.48
+@82 Rate i/c GST on Work Contract @ 18%, 15% CP & OH and 1% Cess
+@166 4
+@96 1 km
+@186 380.42 @201 508.15 @217 634.03
+@232 1031.35 @248 1465.60 @264 1811.51 @279 2536.11 @295 3458.33 @310 4226.85 @338 6340.28 @366 9510.41
+@381 12680.55
+@166 3
+@82 Unit of @96 rates
+@186 100 m @201 100 m @217 100 m @232 100 m @248 100 m @264 100 m @279 100 m @295 100 m @310 100 m @338 100 m @366 100 m @381 100 m
+@498 item to be applicable in urban areas having directions for restricted hours for movement/ plying of load carrying
+@166 2
+@186 100 mm dia @201 125 mm dia @217 150 mm dia @232 200 mm dia @248 250 mm dia @264 300 mm dia @279 350 mm dia @295 400 mm dia @310 450 mm & @322 500 mm dia @338 600, 700, 750 & @350 800 mm dia @366 900 mm dia @381 1000, 1100 & @393 1200 mm dia
+@458 Disposal of moorum/building rubbish/ malba/ similar unserviceable, dismantled or waste material by mechanical transport @470 including loading, transporting, unloading to approved municipal dumping ground for lead upto 10 km for all lifts, complete @482 as per directions of Engineer-in-charge. @498 Note - @510 motor vehicle of 3.5 cum or more.
+@82 Materials
+@82 Item @96 Code
+@166 1 @186 1.1.17.1 @201 1.1.17.2 @217 1.1.17.3 @232 1.1.17.4 @248 1.1.17.5 @264 1.1.17.6 @279 1.1.17.7 @295 1.1.17.8 @310 1.1.17.9 @338 1.1.17.10 @366 1.1.17.11 @381 1.1.17.12 @409 Road sweeper Hire & running charge for crane upto 40 tonne capacity @429 Code @441 No. @458 1.1.18
+@341 SUB HEAD : 1.0 CARRIAGE OF MATERIALS
+@51 82
+=== PAGE 58
+
+=== PAGE 59
+@200 1.0 CARRIAGE OF MATERIALS
+@55 Note:- @86 These rates are inclusive of GST on work contract, Contractor's profit and over heads, Cess etc.
+@55 1.2 By Manual Labour including loading, unloading and stacking for lead less than 0.50 KM
+@55 Code @114 Material @207 Unit @244 Cost of carriage @343 Every additional @446 Remarks
+@55 No. @244 inclusing loading, @343 lead of 50 metre
+@244 unloading & @343 or part thereof
+@387 st
+@244 stacking for first @343 beyond 1 @397 50
+@244 50 metres @343 metre upto 9
+@244 ( @258 ) @343 such additional
+@343 lead ( @379 )
+@55 1 @129 2 @217 3 @273 4 @359 5 @469 6
+@55 1.2.1 @96 Lime, moorum, @221 cum @264 227.18 @355 49.47 @414 The rates will be applicable
+@96 building rubbish @414 to net quantities after
+@414 deduction of prescribed
+@55 1.2.2 @96 Earth @221 cum @264 283.98 @355 61.83
+@414 percentage @476 for @496 voids
+@414 mentioned @482 in @507 the
+@55 1.2.3 @96 Manure or sludge @221 cum @264 246.94 @355 53.77
+@414 specification @494 under
+@55 1.2.4 @96 Excavated rock @221 cum @264 454.37 @355 98.93
+@414 subhead "Carriage of
+@414 Materials"
+@55 1.2.5 @96 Sand, stone aggregate @221 cum @264 283.98 @355 61.83
+@96 below 40 mm nominal
+@96 size
+@55 1.2.6 @96 Stone aggregate 40 mm @221 cum @264 307.01 @355 66.84
+@96 nominal size and above
+@55 1.2.7 @96 Soling stone @221 cum @264 334.09 @355 72.74
+@55 1.2.8 @96 Bricks @198 1000 Nos @264 530.10 @350 115.42
+@55 1.2.9 @96 Brick Tiles @198 1000 Nos @264 331.31 @355 72.14
+@55 1.2.10 @96 Steam Coal @216 tonne @264 265.05 @355 57.71
+@55 1.2.11 @96 Stone blocks,G.I., @216 tonne @264 207.34 @355 30.42
+@96 C.I. Stainless Steel
+@96 pipes below 100 mm dia
+@96 and other heavy material
+@55 1.2.12 @96 Cement @216 tonne @264 164.47 @355 24.13
+@55 1.2.13 @96 Steel @216 tonne @264 353.24 @355 51.83
+@55 1.2.14 @96 Timber @221 cum @264 227.09 @355 33.32
+@55 1.2.15 @96 Tar, bitumen etc. @216 tonne @264 207.34 @355 30.42
+@55 1.2.16 @96 S.W. pipe @414 The length of S.W. pipes
+@414 will @445 be @472 measured
+@55 1.2.16.1 100 mm dia @213 100 m @264 415.04 @355 60.90
+@414 exclusive of the internal
+@414 depth of sockets.
+@55 1.2.16.2 150 mm dia @213 100 m @264 682.23 @350 100.11
+@55 1.2.16.3 200 mm dia @213 100 m @264 954.71 @350 140.09
+@55 2.16.5 @96 250 mm dia @213 100 m @259 1589.60 @350 233.26
+@341 SUB HEAD : 1.0 CARRIAGE OF MATERIALS
+@51 83
+=== PAGE 60
+
+=== PAGE 61
+@56 Code @227 Description @425 Unit @498 Rate
+@67 1 @130 2 @216 3 @274 4 @360 5 @470 6
+@56 No.
+@56 1.2.16.6 @110 300 mm dia @214 100 m @260 2270.85 @351 333.22
+@56 1.2.16.7 @110 350 mm dia @214 100 m @260 3179.19 @351 466.51
+@56 1.2.16.8 @110 400 mm dia @214 100 m @260 3973.99 @351 583.14
+@56 1.2.16.9 @110 450 mm dia @214 100 m @260 4816.96 @351 706.84
+@56 1.2.16.10 @110 500 mm dia @214 100 m @260 5887.40 @351 863.91
+@56 1.2.16.11 @110 600 mm dia @214 100 m @260 7225.44 @346 1060.25
+@56 1.2.17 @110 R.C.C. pipes, Steel
+@110 cylinder, R.C. pipes,
+@110 C.I. pipes and
+@110 unreinforced
+@110 cement pipes
+@56 1.2.17.1 @110 100 mm dia @214 100 m @265 560.37 @356 82.23 @404 The length of the flanged or
+@404 plain ended concrete, R.C.C.
+@56 1.2.17.2 @110 125 mm dia @214 100 m @265 685.66 @351 100.61
+@404 pipes, Steel cylinders, R.C.
+@404 pipes and C.I. pipes shall be
+@56 1.2.17.3 @110 150 mm dia @214 100 m @265 789.53 @352 115.86
+@404 measured overall. The length
+@56 1.2.17.4 @110 200 mm dia @214 100 m @261 1184.79 @351 173.86
+@404 of socketed pipes shall be
+@404 measured exclusive of inter-
+@56 1.2.17.5 @110 250 mm dia @214 100 m @260 2082.44 @351 305.58
+@404 nal depth of sockets.
+@56 1.2.17.6 @110 300 mm dia @214 100 m @260 2605.90 @351 382.39
+@56 1.2.17.7 @110 350 mm dia @214 100 m @260 3725.62 @351 546.69
+@56 1.2.17.8 @110 400 mm dia @214 100 m @260 4335.26 @351 636.15
+@56 1.2.17.9 @110 450 mm & @214 100 m @260 5780.35 @351 848.20
+@110 500 mm dia
+@56 1.2.17.10 @110 600, 700, 750 & @214 100 m @260 6358.39 @351 933.02
+@110 800 mm dia
+@341 SUB HEAD : 1.0 CARRIAGE OF MATERIALS
+@51 84
+=== PAGE 62
+
+=== PAGE 63
+@57 Code @228 Description @426 Unit @499 Rate
+@57 Code @143 Description @291 Unit @346 Rate @429 Remarks
+@57 No.
+@57 No.
+@57 1 @174 2 @299 3 @357 4 @450 5
+@57 1.3 @112 Loading in or unloading cement from @290 tonne @345 169.40
+@112 the railway wagons at siding and
+@111 carrying the same from or into
+@111 godowns adjacent to the siding, in-
+@111 cluding stacking the same properly
+@111 in rows upto any height as per di-
+@111 rection of Engineer-in-charge,
+@111 sweeping the wagons and screen-
+@111 ing the swept cement and filling in
+@111 bags complete.
+@57 1.4 @112 Loading in or unloading from the
+@111 railway wagons as per direction of
+@112 Engineer-in-charge :
+@57 1.4.1 @112 Steel @290 tonne @342 251.15 @392 The rates will be applicable in
+@392 all cases whether materials are
+@392 unloaded or loaded from Railway
+@392 siding or directly unloaded on
+@392 or loaded from transport.
+@57 1.4.2 @112 G.I., C.I., R.C.C. or C.C. pipes upto @290 tonne @342 148.80
+@112 500 mm dia and similar heavy
+@112 materials
+@57 1.4.3 @112 Heavy materials where each piece @290 tonne @342 263.15 @393 No deduction shall be @488 made @515 from
+@112 or bundle, crate or case weighs more @393 carriage rates for direct unloading @527 or
+@112 than one tonne and R.C.C., C.I. and @393 loading.
+@112 concrete pipes above 500 mm dia.
+@341 SUB HEAD : 1.0 CARRIAGE OF MATERIALS
+@51 85
+=== PAGE 64
+
+=== PAGE 65
+@183 SUB HEAD : 2.0
+@192 EARTH WORK
+=== PAGE 66
+
+=== PAGE 67
+@235 2.0 EARTH WORK
+@58 Code No @239 Description @437 Unit @489 Rate
+@58 2.1 @113 Earth work in surface excavation not exceeding 30 cm in depth but
+@113 exceeding 1.5 m in width as well as 10 sqm on plan including getting out
+@113 and disposal of excavated earth upto 50 m and lift upto 1.5 m, as directed
+@113 by Engineer-in- Charge:
+@113 2.1.1 @165 All kinds of soil @437 sqm @485 129.85
+@58 2.2 @113 Earth work by mechinical / manual means in rough excavation, banking
+@113 excavated earth in layers not exceeding 20cm in depth, breaking clods,
+@113 watering, rolling each layer with ½ tonne roller or wooden or steel
+@113 rammers, and rolling every 3rd and top-most layer with power roller of
+@113 minimum 8 tonnes and dressing up in embankments for roads, flood
+@113 banks, marginal banks and guide banks or filling up ground depressions,
+@113 lead upto 50 m and for all lift :
+@113 2.2.1 @165 All kinds of soil @437 cum @485 395.30
+@58 2.3 @113 Banking excavated earth by mechanical / manual means in layers not
+@113 exceeding 20 cm in depth, breaking clods, watering, rolling each layer
+@113 with ½ tonne roller, or wooden or steel rammers, and rolling every 3rd
+@113 and top-most layer with power roller of minimum 8 tonnes and dressing
+@113 up, in embankments for roads, flood banks, marginal banks, and guide
+@113 banks etc., lead upto 50 m and for all lift :
+@113 2.3.1 @165 All kinds of soil @437 cum @485 197.90
+@58 2.4 @113 Deduct for not rolling with power roller of minimum 8 tonnes for banking
+@113 excavated earth in layers not exceeding 20 cm in depth. @437 cum @490 5.25
+@58 2.5 @113 Deduct for not watering the excavated earth for banking @437 cum @487 14.25
+@58 2.6 @113 Earth work in excavation by mechanical means (Hydraulic excavator)/
+@113 manual means over areas (exceeding 30 cm in depth, 1.5 m in width as
+@113 well as 10 sqm on plan) including getting out and disposal of excavated
+@113 earth lead upto 50 m and for all lift, as directed by Engineer-in-charge.
+@113 2.6.1 @165 All kinds of soil @437 cum @485 177.50
+@58 2.7 @113 Earth work in excavation by mechanical means (Hydraulic excavator)/
+@113 manual means over areas (exceeding 30 cm in depth, 1.5 m in width as
+@113 well as 10 sqm on plan) including getting out and disposal of excavated
+@113 earth lead upto 50 m and lift upto 1.5 m, as directed by Engineer-in-charge.
+@113 2.7.1 @165 Ordinary rock @437 cum @485 498.90
+@113 2.7.2 @165 Hard rock (requiring blasting) @437 cum @485 874.40
+@113 2.7.3 @165 Hard rock (blasting prohibited) @437 cum @482 1432.95
+@58 2.8 @113 Earth work in excavation by mechanical means (Hydraulic excavator)
+@113 / manual means in foundation trenches or drains (not exceeding 1.5 m
+@113 in width or 10 sqm on plan), including dressing of sides and ramming of
+@113 bottoms, for all lift, including getting out the excavated soil and disposal
+@113 of surplus excavated soil as directed, within a lead of 50 m.
+@113 2.8.1 @165 All kinds of soil. @437 cum @485 260.30
+@58 2.9 @113 Excavation work by mechanical means (Hydraulic excavator)/ manual
+@113 means in foundation trenches or drains (not exceeding 1.5m in width or
+@113 10 sqm on plan), including dressing of sides and ramming of bottoms,
+@113 lift upto 1.5 m, including getting out the excavated soil and disposal of
+@113 surplus excavated soils as directed, within a lead of 50 m.
+@113 2.9.1 @165 Ordinary rock @437 cum @485 632.95
+@113 2.9.2 @165 Hard rock (requiring blasting) @437 cum @482 1049.80
+@396 SUB HEAD : 2.0 EARTH WORK
+@51 87
+=== PAGE 68
+
+=== PAGE 69
+@58 Code No @239 Description @437 Unit @489 Rate
+@113 2.9.3 @165 Hard rock (blasting prohibited) @437 cum @482 1523.05
+@58 2.10 @113 Excavating trenches by mechinical / manual means of required width for
+@113 pipes, cables, etc including excavation for sockets, and dressing of sides,
+@113 ramming of bottoms, for all depth, including getting out the excavated
+@113 soil, and then returning the soil as required, in layers not exceeding 20
+@113 cm in depth, including consolidating each deposited layer by ramming,
+@113 watering, etc. and disposing of surplus excavated soil as directed, within
+@113 a lead of 50 m :
+@113 2.10.1 @165 All kinds of soil
+@165 2.10.1.1 @220 Pipes, cables etc, not exceeding 80 mm dia. @433 metre @485 215.60
+@165 2.10.1.2 @220 Pipes, cables etc. exceeding 80 mm dia. but
+@220 not exceeding 300 mm dia @433 metre @485 352.15
+@165 2.10.1.3 @220 Pipes, cables etc. exceeding 300 mm dia but
+@220 not exceeding 600 mm @433 metre @485 549.75
+@58 2.13 @113 Excavating trenches of required width for pipes, cables, etc, including
+@113 excavation for sockets, depth upto 1.5 m, including getting out the
+@113 excavated materials, returning the soil as required in layers not exceeding
+@113 20 @130 cm @148 in @162 depth, @195 including @238 consolidating @300 each @327 deposited @374 layers @405 by
+@113 ramming, watering etc., stacking serviceable material for measurements
+@113 and disposal of unserviceable material as directed, within a lead of 50 m :
+@113 2.13.1 @165 Ordinary rock :
+@165 2.13.1.1 @220 Pipes, cables etc. not exceeding 80 mm dia @433 metre @485 403.30
+@165 2.13.1.2 @220 Pipes, cables etc. exceeding 80 mm dia but not
+@220 exceeding 300 mm dia @433 metre @485 998.65
+@165 2.13.1.3 @220 Pipes, cables exceeding 300 mm dia but not
+@220 exceeding 600 mm dia @433 metre @483 1149.10
+@113 2.13.2 @165 Hard rock (requiring blasting)
+@165 2.13.2.1 @220 Pipes, cables etc. not exceeding 80 mm dia @434 metre @485 603.20
+@165 2.13.2.2 @220 Pipes, cables etc. exceeding 80 mm dia but not
+@220 exceeding 300 mm dia @434 metre @482 1493.60
+@165 2.13.2.3 @220 Pipes, cables etc. exceeding 300 mm dia but
+@220 not exceeding 600 mm dia @434 metre @482 1718.45
+@113 2.13.3 @165 Hard rock (blasting prohibited)
+@165 2.13.3.1 @220 Pipes, cables etc. not exceeding 80 mm dia @434 metre @485 826.80
+@165 2.13.3.2 @220 Pipes, cables etc. exceeding 80 mm dia but not
+@220 exceeding 300 mm dia @434 metre @482 2047.30
+@165 2.13.3.3 @220 Pipes, cables etc. exceeding 300 mm dia but
+@220 not exceeding 600 mm dia @434 metre @482 2355.75
+@58 2.14 @113 Extra for excavating trenches for pipes, cables, etc. in ordinary/hard
+@113 rock exceeding 1.5 m in depth but not exceeding 3 m. (Rate is over
+@113 corresponding basic item for depth upto 1.5 metre)
+@113 2.14.1 @165 Ordinary rock :
+@165 2.14.1.1 @220 Pipes, cables etc. exceeding 80 mm dia but not
+@220 exceeding 300 mm dia @434 metre @485 729.80
+@165 2.14.1.2 @220 Pipes, cables exceeding 300 mm dia but not
+@220 exceeding 600 mm dia @434 metre @485 867.45
+@113 2.14.2 @165 Hard rock (requiring blasting)
+@165 2.14.2.1 @220 Pipes, cables etc. exceeding 80 mm dia but not
+@220 exceeding 300 mm dia @434 metre @482 1091.45
+@396 SUB HEAD : 2.0 EARTH WORK
+@51 88
+=== PAGE 70
+
+=== PAGE 71
+@58 Code No @239 Description @437 Unit @489 Rate
+@165 2.14.2.2 @220 Pipes, cables exceeding 300 mm dia but not
+@220 exceeding 600 mm dia @434 metre @482 1297.40
+@113 2.14.3 @165 Hard rock (blasting prohibited)
+@165 2.14.3.1 @220 Pipes, cables etc. exceeding 80 mm dia but not
+@220 exceeding 300 mm dia @434 metre @482 1496.10
+@165 2.14.3.2 @220 Pipes, cables exceeding 300 mm dia but not
+@220 exceeding 600 mm dia @434 metre @482 1778.15
+@58 2.15 @113 Extra for excavating trenches for pipes, cables, etc. in ordinary/hard
+@113 rock exceeding 3m in depth but not exceeding 4.5 m. (Rate is over
+@113 corresponding basic item for depth upto 1.5 metre)
+@113 2.15.1 @165 Ordinary rock :
+@165 2.15.1.1 @220 Pipes, cables exceeding 300 mm dia but not
+@220 exceeding 600 mm dia @434 metre @482 2352.25
+@58 2.16 @113 Close timbering in trenches including strutting, shoring and packing
+@113 cavities (wherever required) complete. (Measurements to be taken of the
+@113 face area timbered).
+@113 2.16.1 @165 Depth not exceeding 1.5 m @437 sqm @485 139.95
+@113 2.16.2 @165 Depth exceeding 1.5 m but not exceeding 3 m @437 sqm @485 155.30
+@113 2.16.3 @165 Depth exceeding 3 m but not exceeding 4.5 m @437 sqm @485 189.65
+@58 2.17 @113 Close timbering in case of shafts, wells, cesspits, manholes and the like
+@113 including strutting, shoring and packing cavities (wherever required) etc.
+@113 complete. (Measurements to be taken of the face area timbered).
+@113 2.17.1 @165 Depth not exceeding 1.5 m @437 sqm @485 151.50
+@113 2.17.2 @165 Depth exceeding 1.5 m but not exceeding 3 m @437 sqm @485 184.00
+@113 2.17.3 @165 Depth exceeding 3 m but not exceeding 4.5 m @437 sqm @485 218.20
+@58 2.18 @113 Close timbering over areas including strutting, shoring and packing
+@113 cavities (wherever required) etc. complete. (Measurements to be taken
+@113 of the face area timbered):
+@113 2.18.1 @165 Depth not exceeding 1.5 m @437 sqm @485 125.80
+@113 2.18.2 @165 Depth exceeding 1.5 m but not exceeding 3 m @437 sqm @485 144.10
+@113 2.18.3 @165 Depth exceeding 3 m but not exceeding 4.5 m @437 sqm @485 163.15
+@58 2.19 @113 Extra for planking, strutting and packing materials for cavities (in close
+@113 timbering) if required to be left permanently in position. (Face area of
+@113 timber permanently left to be measured). @437 sqm @482 1692.45
+@58 2.20 @113 Open timbering in trenches including strutting and shoring complete
+@113 (measurements to be taken of the face area timbered):
+@113 2.20.1 @165 Depth not exceeding 1.5 m @437 sqm @487 72.05
+@113 2.20.2 @165 Depth exceeding 1.5 m but not exceeding 3 m @437 sqm @487 81.60
+@113 2.20.3 @165 Depth exceeding 3 m but not exceeding 4.5 m @437 sqm @487 97.25
+@58 2.21 @113 Open timbering in case of shafts, wells, cesspits, manholes and the like
+@113 including strutting and shoring complete (Measurements to be taken of
+@113 the face area timbered):
+@113 2.21.1 @165 Depth not exceeding 1.5 m @437 sqm @487 66.40
+@113 2.21.2 @165 Depth exceeding 1.5 m but not exceeding 3 m @437 sqm @487 81.65
+@113 2.21.3 @165 Depth exceeding 3 m but not exceeding 4.5 m @437 sqm @485 101.85
+@58 2.22 @113 Open timbering over areas including strutting, shoring etc. complete.
+@113 (Measurements to be taken of the face area timbered):
+@113 2.22.1 @165 Depth not exceeding 1.5 m @437 sqm @487 44.85
+@396 SUB HEAD : 2.0 EARTH WORK
+@51 89
+=== PAGE 72
+
+=== PAGE 73
+@58 Code No @239 Description @437 Unit @489 Rate
+@113 2.22.2 @165 Depth exceeding 1.5 m but not exceeding 3 m @437 sqm @487 54.95
+@113 2.22.3 @165 Depth exceeding 3 m but not exceeding 4.5 m @437 sqm @487 71.30
+@58 2.23 @113 Extra for planking and strutting in open timbering if required to be left
+@113 permanently in position. (Face area of the timber permanently left to be
+@113 measured). @437 sqm @485 872.55
+@58 2.24 @113 Extra rates for quantities of works, executed:
+@113 2.24.1 @165 In or under water and/or liquid mud, including pumping out @433 metre
+@165 water as required @434 depth @490 20%
+@113 2.24.2 @165 In or under foul position, including pumping out water as @433 metre
+@165 required @434 depth @490 25%
+@113 Note for item no. 2.24:- The extra percentage rate is applicable in respect
+@113 of each item but limited to quantities of work executed in these difficult
+@113 conditions. The unit, namely, metre depth, to be considered for payment,
+@113 shall be the depth measured from the sub soil water level up to the centre
+@113 of gravity of the qty executed in difficult conditions. The depth shall be
+@113 reckoned correct to 0.10 m, 0.05 m or more shall be taken as 0.10 m and
+@113 less than 0.05 m ignored.
+@58 2.25 @113 Filling available excavated earth (excluding rock) in trenches, plinth, sides
+@113 of foundations etc. in layers not exceeding 20cm in depth, consolidating
+@113 each deposited layer by ramming and watering, lead up to 50 and for all lift. @437 cum @485 196.00
+@58 2.25(a) @113 Excavating, supplying, stacking and filling of local earth (including royalty)
+@113 by mechanical transport upto a lead of 5km also including ramming
+@113 and watering of the earth in layers not exceeding 20 cm in foundation
+@113 trenches, plinth, sides of foundation etc. complete for all lift. @437 cum @485 700.50
+@58 2.26 @113 Extra for every additional lift of 1.5 m or part thereof in excavation /
+@113 banking excavated or stacked materials.
+@113 2.26.1 @165 All kinds of soil @437 cum @485 126.80
+@113 2.26.2 @165 Ordinary or hard rock @437 cum @485 227.40
+@58 2.27 @113 Supplying and filling in plinth with sand under floors, including watering,
+@113 ramming, consolidating and dressing complete. @437 cum @482 2123.75
+@58 2.28 @113 Surface dressing of the ground including removing vegetation and in-
+@113 equalities not exceeding 15 cm deep and disposal of rubbish, lead up to
+@113 50 m and lift up to 1.5 m.
+@113 2.28.1 @165 All kinds of soil @437 sqm @487 34.15
+@58 2.29 @113 Ploughing the existing ground to a depth of 15 cm to 25 cm and watering
+@113 the same.
+@113 2.29.1 @165 All kinds of soil @437 sqm @487 34.60
+@58 2.30 @113 Excavating holes more than 0.10 cum & upto 0.5 cum including getting
+@113 out the excavated soil, then returning the soil as required in layers not
+@113 exceeding 20cm in depth, including consolidating each deposited layer
+@113 by ramming, watering etc, disposing of surplus excavated soil, as directed
+@113 within a lead of 50 m and lift upto 1.5 m.
+@113 2.30.1 @165 All kinds of soil @435 each @487 82.45
+@113 2.30.2 @165 Ordinary rock @435 each @485 194.25
+@113 2.30.3 @165 Hard rock (requiring blasting) @435 each @485 319.30
+@113 2.30.4 @165 Hard rock (blasting prohibited) @435 each @485 461.30
+@396 SUB HEAD : 2.0 EARTH WORK
+@51 90
+=== PAGE 74
+
+=== PAGE 75
+@58 Code No @239 Description @437 Unit @489 Rate
+@58 2.31 @113 Clearing jungle including uprooting of rank vegetation, grass, brush
+@113 wood, trees and saplings of girth up to 30 cm measured at a height of 1
+@113 m above ground level and removal of rubbish up to a distance of 50 m
+@113 outside the periphery of the area cleared. @437 sqm @487 17.60
+@58 2.32 @113 Clearing grass and removal of the rubbish up to a distance of 50 m
+@113 outside the periphery of the area cleared. @437 sqm @490 8.95
+@58 2.33 @113 Felling trees of the girth (measured at a height of 1 m above ground
+@113 level), including cutting of trunks and branches, removing the roots and
+@113 stacking of serviceable material and disposal of unserviceable material.
+@113 2.33.1 @165 Beyond 30 cm girth upto and including 60 cm girth @435 each @485 532.35
+@113 2.33.2 @165 Beyond 60 cm girth upto and including 120 cm girth @435 each @482 2373.50
+@113 2.33.3 @165 Beyond 120 cm girth upto and including 240 cm girth @435 each @480 11020.15
+@113 2.33.4 @165 Above 240 cm girth @435 each @480 22075.20
+@58 2.34 @113 Supplying chemical emulsion in sealed containers including delivery as
+@113 specified.
+@113 2.34.1 @165 Chlorpyriphos/ Lindane emulsifiable concentrate of 20% @438 litre @485 234.75
+@58 2.35 @113 Diluting and injecting chemical emulsion for POST-CONSTRUCTIONAL
+@113 anti-termite treatment (excluding the cost of chemical emulsion) :
+@113 2.35.1 @165 Along external wall where the apron is not provided using
+@165 chemical emulsion @ 7.5 litres / sqm of the vertical surface of
+@165 the substructure to a depth of 300 mm including excavation
+@165 channel along the wall & rodding etc. complete:
+@165 2.35.1.1 @220 With Chlorpyriphos/ Lindane E.C. 20% with 1%
+@220 concentration @434 metre @487 38.90
+@113 2.35.2 @165 Along the external wall below concrete or masonry apron
+@165 using chemical emulsion @ 2.25 litres per linear metre
+@165 including drilling and plugging holes etc.:
+@165 2.35.2.1 @220 With Chlorpyriphos/ Lindane E.C. 20% with 1%
+@220 concentration @434 metre @487 53.45
+@113 2.35.3 @165 Treatment @215 of @229 soil @250 under @280 existing @319 floors @349 using @378 chemical
+@165 emulsion @ one litre per hole, 300 mm apart including drilling
+@165 12 mm diameter holes and plugging with cement mortar 1 :2
+@165 (1 cement : 2 Coarse sand) to match the existing floor:
+@165 2.35.3.1 @220 With Chlorpyriphos/Lindane E.C. 20% with 1%
+@220 concentration @437 sqm @485 310.05
+@113 2.35.4 @165 Treatment of existing masonry using chemical emulsion @
+@165 one litre per hole at 300 mm interval including drilling holes
+@165 at 45 degree and plugging them with cement mortar 1:2 (1
+@165 cement : 2 coarse sand) to the full depth of the hole :
+@165 2.35.4.1 @220 With Chlorpyriphos/Lindane E.C. 20% with 1%
+@220 concentration @434 metre @487 43.00
+@113 2.35.5 @165 Treatment at points of contact of wood work by chemical
+@165 emulsion Chlorpyriphos/ Lindane (in oil or kerosene based
+@165 solution) @ 0.5 litres per hole by drilling 6 mm dia holes at
+@165 downward angle of 45 degree at 150 mm centre to centre
+@165 and sealing the same. @433 metre @485 279.70
+@58 2.36 @113 Extra for levelling & neatly dressing of disposed soil completely as
+@113 directed by Engineer-in-charge. @437 cum @487 93.05
+@396 SUB HEAD : 2.0 EARTH WORK
+@51 91
+=== PAGE 76
+
+=== PAGE 77
+@58 Code No @239 Description @437 Unit @489 Rate
+@58 2.37 @113 Supply and stacking of Fly ash conforming to IRC- 58 at site, including
+@113 carriage, loading , unloading & stacking up to any lead (measured stacks
+@113 will be reduced by 20% for payment). @437 cum @485 281.05
+@58 2.38 @113 Filling with available fly ash and earth (excluding rock) in trenches or
+@113 embankment in layers (each layer should not exceed 15 cm), with
+@113 intermediate layer of compacted earth (Soil density of 98%) after every
+@113 four layers of compacted depth of fly ash, sides & top layer of filling shall
+@113 be done with earth having total minimum compacted thickness 30 cm or
+@113 as decided by Engineer -in-charge, including compacting each layer by
+@113 rolling/ ramming and watering, all complete as per drawing and direction
+@113 of Engineer -in - charge. @437 cum @485 308.20
+@396 SUB HEAD : 2.0 EARTH WORK
+@51 92
+=== PAGE 78
+
+=== PAGE 79
+@183 SUB HEAD : 3.0
+@229 MORTAR
+=== PAGE 80
+
+=== PAGE 81
+@251 3.0 MORTAR
+@57 Note: These rates are exclusive of GST, water charges, overheads and contractor’s profit.
+@58 Code No @239 Description @436 Unit @489 Rate
+@58 3.1 @113 Cement mortar 1:1 (1 cement : 1 fine sand) @436 cum @482 6658.25
+@58 3.2 @113 Cement mortar 1:2 (1 cement : 2 fine sand). @436 cum @482 5138.00
+@58 3.3 @115 Cement mortar 1:3 (1 cement : 3 fine sand). @436 cum @482 4379.05
+@58 3.4 @113 Cement mortar 1:4 (1 cement : 4 fine sand). @436 cum @482 3708.80
+@58 3.5 @113 Cement mortar 1:5 (1 cement : 5 fine sand). @436 cum @482 3347.85
+@58 3.6 @113 Cement mortar 1:6 (1 cement : 6 fine sand). @436 cum @482 3038.50
+@58 3.7 @113 Cement mortar 1:2 (1 cement : 2 coarse sand). @436 cum @482 5584.50
+@58 3.8 @113 Cement mortar 1:3 (1 cement : 3 coarse sand). @436 cum @482 4881.95
+@58 3.9 @113 Cement mortar 1:4 (1 cement : 4 coarse sand). @436 cum @482 4211.70
+@58 3.10 @113 Cement mortar 1:5 (1 cement : 5 coarse sand). @436 cum @482 3850.75
+@58 3.11 @113 Cement mortar 1:6 (1 cement : 6 coarse sand). @436 cum @482 3541.40
+@58 3.12 @113 Cement mortar 1:2 (1 cement : 2 stone dust). @436 cum @482 5252.00
+@58 3.13 @113 Cement mortar 1:2 (1 cement : 2 marble dust). @436 cum @482 5328.00
+@58 3.14 @113 Cement mortar 1:5 (1 cement : 5 marble dust). @436 cum @482 3561.85
+@58 3.15 @113 White cement mortar 1:2 (1 white cement : 2 marble dust). @436 cum @482 8961.90
+@58 3.16 @113 White cement mortar 1:3 (1 white cement : 3 marble dust). @436 cum @482 7318.50
+@58 3.17 @113 White cement mortar 1:5 (1 white cement : 5 marble dust). @436 cum @482 5218.50
+@58 3.18 @113 Mud mortar @436 cum @485 940.55
+@58 3.19 @113 Mortar in lime, surkhi (50% red and 50% light yellow) and marble @436 cum @482 2880.65
+@113 dust 1:1.5:0.5
+@419 SUB HEAD : 3.0 MORTAR
+@51 94
+=== PAGE 82
+
+=== PAGE 83
+@183 SUB HEAD : 4.0
+@160 CONCRETE WORK
+=== PAGE 84
+
+=== PAGE 85
+@221 4.0 CONCRETE WORK
+@58 Code No @234 Description @433 Unit @490 Rate
+@113 CEMENT CONCRETE (CAST IN SITU)
+@58 4.1 @113 Providing and laying in position cement concrete of specified grade
+@113 excluding the cost of centering and shuttering - All work up to plinth
+@113 level :
+@113 4.1.2 @165 1:1½:3 (1 Cement: 1½ coarse sand (zone-III) derived
+@165 from natural sources : 3 graded stone aggregate 20 mm
+@165 nominal size derived from natural sources) @434 cum @483 8340.85
+@113 4.1.2A @165 1:1.5:3 (1 Cement: 1.5 coarse sand (zone-III) including
+@165 manufactured @231 sand @258 derived @297 from @323 Recycled @369 Concrete
+@165 Aggregate (RCA) upto 25% : 3 graded stone aggregate 20
+@165 mm nominal size including Recycled Concrete Aggregate
+@165 (RCA) upto 25%). @434 cum @483 8127.80
+@113 4.1.3 @165 1:2:4 (1 cement : 2 coarse sand (zone-III) derived from
+@165 natural sources : 4 graded stone aggregate 20 mm nominal
+@165 size derived from natural sources) @434 cum @483 7878.50
+@113 4.1.3A @165 1:2:4 @193 (1 @207 cement @245 : @253 2 @265 coarse @299 sand @326 (zone-III) @370 including
+@165 manufactured @231 sand @258 derived @297 from @323 Recycled @369 Concrete
+@165 Aggregate (RCA) upto 25% : 4 graded stone aggregate 20
+@165 mm nominal size including Recycled Concrete Aggregate
+@165 (RCA) upto 25%) @434 cum @483 7654.85
+@113 4.1.4 @165 1:2:4 (1 Cement : 2 coarse sand (zone-III) derived from
+@165 natural sources : 4 graded stone aggregate 40 mm nominal
+@165 size derived from natural sources) @434 cum @483 7780.30
+@113 4.1.5 @165 1:3:6 (1 Cement : 3 coarse sand (zone-III) derived from
+@165 natural sources : 6 graded stone aggregate 20 mm nominal
+@165 size derived from natural sources) @434 cum @483 7294.70
+@113 4.1.5A @165 1:3:6 (1 Cement : 3 manufactured sand derived from
+@165 Recycled Concrete Aggregate (RCA) : 6 graded stone
+@165 aggregate @216 20 @234 mm @257 nominal @298 size @323 Recycled @369 Concrete
+@165 Aggregate (RCA) ) @434 cum @483 6347.75
+@113 4.1.5B @165 1:3:6 (1 cement : 3 manufactured sand derived from
+@165 Recycled concrete Aggregate (RCA) : 6 graded stone
+@165 aggregate 20 mm nominal size Recycled Aggregate (RA) ) @434 cum @483 5639.85
+@113 4.1.6 @165 1:3:6 (1 Cement : 3 coarse sand (zone-III) derived from
+@165 natural sources : 6 graded stone aggregate 40 mm nominal
+@165 size derived from natural sources) @434 cum @483 7178.75
+@113 4.1.6A @165 1:3:6 (1 Cement : 3 manufactured sand derived from
+@165 Recycled Concrete Aggregate (RCA) : 6 graded stone
+@165 aggregate 40 mm nominal size Recycled Aggregate (RA) ) @434 cum @483 5572.00
+@113 4.1.8 @165 1:4:8 (1 Cement : 4 coarse sand (zone-III) derived from
+@165 natural sources : 8 graded stone aggregate 40 mm nominal
+@165 size derived from natural sources) @434 cum @483 6812.00
+@113 4.1.8A @165 1:4:8 (1 cement : 4 manufactured sand derived from
+@165 Recycled Concrete Aggregate (RCA) : 8 graded stone
+@165 aggregate 40 mm nominal size Recycled Aggregate (RA)) @434 cum @483 5205.25
+@113 4.1.10 @165 1:5:10 (1 cement : 5 coarse sand (zone-III) derived from
+@165 natural sources : 10 graded stone aggregate 40 mm
+@165 nominal size derived from natural sources) @434 cum @483 6518.60
+@377 SUB HEAD : 4.0 CONCRETE WORK
+@51 96
+=== PAGE 86
+
+=== PAGE 87
+@58 Code No @234 Description @433 Unit @490 Rate
+@113 4.1.10A @165 1:5:10 (1 cement : 5 manufactured sand derived from
+@165 Recycled Concrete Aggregate (RCA) : 10 graded stone
+@165 aggregate 40 mm nominal size Recycled Aggregate (RA) ) @434 cum @483 4911.85
+@113 4.1.11 @165 1:5:10 (1 cement : 5 fine sand derived from natural sources
+@165 : 10 graded stone aggregate 40 mm nominal size derived
+@165 from natural sources) @434 cum @483 6189.65
+@113 4.1.12 @165 1:2:3½:9 (1 ordinary portland cement : 2 Fly ash : 3½
+@165 coarse sand (zone-III) derived from natural sources : 9
+@165 graded stone aggregate 40 mm nominal size derived from
+@165 natural sources) @434 cum @483 6667.25
+@113 4.1.12A @165 1:2:3½:9 (1 ordinary portland cement : 2 Fly ash : 3½
+@165 manufactured @231 sand @258 derived @297 from @323 Recycled @369 Concrete
+@165 Aggregate (RCA) : 9 graded stone aggregate 40 mm
+@165 nominal size Recycled Aggregate (RA) ) @434 cum @483 5130.65
+@113 4.1.13 @165 1:2½:4:11 (1 ordinary portland cement : 2½ fly ash : 4
+@165 coarse sand(zone-III) derived from natural sources : 11
+@165 graded stone aggregate 40 mm nominal size derived from
+@165 natural sources) @434 cum @483 6311.95
+@113 4.1.13A @165 1:2½:4:11 (1 ordinary portland cement : 2½ fly ash : 4
+@165 manufactured @231 sand @258 derived @297 from @323 Recycled @369 Concrete
+@165 Aggregate (RCA) :11 graded stone aggregate 40 mm
+@165 nominal size Recycled Aggregate (RA)) @434 cum @483 4796.40
+@58 4.2 @113 Providing and laying cement concrete in retaining walls, return walls,
+@113 walls (any thickness) including attached pilasters, columns, piers,
+@113 abutments, pillars, posts, struts, buttresses, string or lacing courses,
+@113 parapets, coping, bed blocks, anchor blocks, plain window sills, fillets,
+@113 sunken floor etc., up to floor five level, excluding the cost of centering,
+@113 shuttering and finishing:
+@113 4.2.2 @165 1:1½:3 (1 cement : 1½ coarse sand (zone-III) derived
+@165 from natural sources : 3 graded stone aggregate 20 mm
+@165 nominal size derived from natural sources). @434 cum @480 10357.55
+@113 4.2.2A @165 1:1½:3 (1 cement : 1½ coarse sand (zone-III) including
+@165 manufactured @231 sand @258 derived @297 from @323 Recycled @369 Concrete
+@165 Aggregate (RCA) upto 25% : 3 graded stone aggregate 20
+@165 mm nominal size including Recycled Concrete Aggregate
+@165 (RCA) upto 25%). @434 cum @480 10144.50
+@113 4.2.3 @165 1:2:4 (1 Cement : 2 coarse sand (zone-III) derived from
+@165 natural sources : 4 graded stone aggregate 20 mm nominal
+@165 size derived from natural sources) @434 cum @483 9895.20
+@113 4.2.3A @165 1:2:4 @192 (1 @207 Cement @246 : @254 2 @266 coarse @300 sand @326 (zone-III) @370 including
+@165 manufactured @231 sand @258 derived @297 from @323 Recycled @369 Concrete
+@165 Aggregate (RCA) upto 25% : 4 graded stone aggregate 20
+@165 mm nominal size including Recycled Concrete Aggregate
+@165 (RCA) upto 25%). @434 cum @483 9671.50
+@113 4.2.5 @165 1:3:6 (1 cement : 3 coarse sand (zone-III) derived from
+@165 natural sources : 6 graded stone aggregate 20 mm nominal
+@165 size derived from natural sources) @434 cum @483 9311.40
+@113 4.2.5A @165 1:3:6 (1 cement : 3 manufactured sand derived from
+@165 Recycled Concrete Aggregate (RCA) : 6 graded stone
+@165 aggregate @216 20 @234 mm @257 nominal @298 size @323 Recycled @369 Concrete
+@165 Aggregate (RCA)) @434 cum @483 8364.45
+@377 SUB HEAD : 4.0 CONCRETE WORK
+@51 97
+=== PAGE 88
+
+=== PAGE 89
+@58 Code No @234 Description @433 Unit @490 Rate
+@113 4.2.5B @165 1:3:6 (1 cement : 3 manufactured sand derived from
+@165 Recycled Concrete Aggregate (RCA) : 6 graded stone
+@165 aggregate @215 20 @232 mm @254 nominal @294 size @317 Recycled Aggregate
+@165 (RA)) @434 cum @483 7656.55
+@113 4.2.8 @165 1:5:10 (1 cement : 5 coarse sand (zone-III) derived from
+@165 natural sources : 10 graded stone aggregate 40 mm
+@165 nominal size derived from natural sources). @434 cum @483 8519.20
+@113 4.2.8A @165 1:5:10 (1 cement : 5 manufactured sand derived from
+@165 Recycled Concrete Aggregate (RCA) : 10 graded stone
+@165 aggregate @215 40 @232 mm @254 nominal @294 size @317 Recycled Aggregate
+@165 (RA)) @434 cum @483 6912.45
+@58 4.3 @113 Centering and shuttering including strutting, propping etc. and removal
+@113 of form work for :
+@113 4.3.1 @165 Foundations, footings, bases for columns @434 sqm @485 392.15
+@113 4.3.2 @165 Retaining @213 walls, @245 return @278 walls, @310 walls @339 (any @365 thickness)
+@165 including attached pilasters, buttresses, plinth and string
+@165 courses fillets, kerbs and steps etc. @434 sqm @485 842.50
+@113 4.3.3 @165 Columns, piers, abutments, pillars, posts and struts @434 sqm @485 961.30
+@58 4.4 @113 Providing and laying cement concrete in kerbs, steps and the like at
+@113 or near ground level excluding the cost of centering, shuttering and
+@113 finishing.
+@113 4.4.1 @165 1:1½:3 @201 (1 @215 Cement: @258 1½ @277 coarse @312 sand(zone-III) @377 derived
+@165 from natural sources : 3 graded stone aggregate 20 mm
+@165 nominal size derived from natural sources) @434 cum @483 8340.85
+@113 4.4.1A @165 1:1.5:3 (1 cement: 1.5 coarse sand (zone-III) including
+@165 manufactured @231 sand @258 derived @297 from @323 Recycled @369 Concrete
+@165 Aggregate (RCA) upto 25% : 3 graded stone aggregate 20
+@165 mm nominal size including Recycled Concrete Aggregate
+@165 (RCA) upto 25%)). @434 cum @483 8127.80
+@113 CEMENT CONCRETE PRECAST
+@58 4.5 @113 Providing and fixing up to floor five level precast cement concrete string
+@113 or lacing courses, copings, bed plates, anchor blocks, plain window
+@113 sills, shelves, louvers, steps, stair cases, etc., including hoisting and
+@113 setting in position with cement mortar 1:3 (1 Cement : 3 coarse sand),
+@113 cost of required Centering complete.
+@113 4.5.1 @165 1:1.5:3 (1 cement : 1.5 coarse sand(zone-III) derived
+@165 from natural sources : 3 graded stone aggregate 20 mm
+@165 nominal size derived from natural sources) @434 cum @480 10105.10
+@113 4.5.1A @165 1:1.5:3 (1 cement : 1.5 coarse sand (zone-III) including
+@165 manufactured @231 sand @258 derived @297 from @323 Recycled @369 Concrete
+@165 Aggregate (RCA) upto 25% : 3 graded stone aggregate 20
+@165 mm nominal size including Recycled Concrete Aggregate
+@165 (RCA) upto 25%) @434 cum @483 9893.45
+@58 4.6 @113 Providing and fixing at or near ground level precast cement concrete
+@113 in kerbs, edgings etc. as per approved pattern and setting in position
+@113 with cement mortar 1:3 (1 Cement : 3 coarse sand), including the cost
+@113 of required centering, shuttering complete.
+@113 4.6.1 @165 1:1½:3 (1 Cement: 1½ coarse sand (zone-III) derived from
+@165 natural sources: 3 graded stone aggregate 20 mm nominal
+@165 size derived from natural sources). @434 cum @483 8726.85
+@377 SUB HEAD : 4.0 CONCRETE WORK
+@51 98
+=== PAGE 90
+
+=== PAGE 91
+@58 Code No @234 Description @433 Unit @490 Rate
+@113 4.6.1A @165 1:1.5:3 (1 Cement: 1.5 coarse sand (zone-III) including
+@165 manufactured @231 sand @258 derived @297 from @323 Recycled @369 Concrete
+@165 Aggregate (RCA) upto 25% : 3 graded stone aggregate 20
+@165 mm nominal size including Recycled Concrete Aggregate
+@165 (RCA) upto 25%) @434 cum @483 8514.85
+@58 4.7 @113 Providing and fixing up to floor five level precast cement concrete solid
+@113 block, including hoisting and setting in position with cement mortar
+@113 1:3 (1 cement : 3 coarse sand), cost of required centering, shuttering
+@113 complete :
+@113 4.7.1 @165 1:1½:3 (1 Cement: 1½ coarse sand (zone-III) derived
+@165 from natural sources : 3 graded stone aggregate 20 mm
+@165 nominal size derived from natural sources). @434 cum @480 17889.25
+@113 4.7.1A @165 1:1.5:3 (1 Cement: 1.5 coarse sand (zone-III) including
+@165 manufactured @231 sand @258 derived @297 from @323 Recycled @369 Concrete
+@165 Aggregate (RCA) upto 25% : 3 graded stone aggregate 20
+@165 mm nominal size including (Recycled Concrete Aggregate
+@165 (RCA) upto 25%). @434 cum @480 17677.25
+@58 4.8 @113 Providing and fixing up to floor five level precast cement concrete
+@113 hollow block, including hoisting and setting in position with cement
+@113 mortar 1:3 (1 cement : 3 coarse sand), cost of required centering,
+@113 shuttering complete.
+@113 4.8.1 @165 1:1½:3 (1 Cement: 1½ coarse sand (zone-III) derived
+@165 from natural sources : 3 graded stone aggregate 20 mm
+@165 nominal size derived from natural sources) . @434 cum @480 14624.20
+@113 4.8.1A @165 1:1.5:3 (1 Cement: 1.5 coarse sand (zone-III) including
+@165 manufactured @231 sand @258 derived @297 from @323 Recycled @369 Concrete
+@165 Aggregate (RCA) upto 25% : 3 graded stone aggregate 20
+@165 mm nominal size including (Recycled Concrete Aggregate
+@165 (RCA) upto 25%). @434 cum @480 14526.20
+@58 4.9 @113 Precasting and placing in position 125 mm dia Bollards 600 mm high
+@113 of required shape including providing M.S. Pipe Sleeve 50 mm dia 300
+@113 mm long in the Bollard and M.S. Pipes 40 mm dia and 450 mm long with
+@113 150x150x6 mm M.S. plate welded at bottom and embedded 150 mm
+@113 in cement concrete 1:3:6 (1 Cement : 3 coarse sand (zone-III) derived
+@113 from natural sources : 6 graded stone aggregate 20 mm nominal size
+@113 derived from natural sources), including necessary excavation of size
+@113 250x250x450 mm deep for the same in bitumen/concrete pavement at
+@113 specified spacing. @432 each @485 929.80
+@58 4.9 A @113 Precasting and placing in position 125 mm dia Bollards 600 mm high
+@113 of required shape including providing M.S. Pipe Sleeve 50 mm dia 300
+@113 mm long in the Bollard and M.S. Pipes 40 mm dia and 450 mm long
+@113 with 150x150x6 mm M.S. plate welded at bottom and embedded 150
+@113 mm in cement concrete 1:3:6 (1 Cement : 3 manufactured sand derived
+@113 from Recycled Concrete Aggregate (RCA) : 6 graded stone aggregate
+@113 20 mm nominal size (Recycled Concrete Aggregate (RCA)), including
+@113 necessary excavation of size 250x250x450 mm deep for the same in
+@113 bitumen/ concrete pavement at specified spacing @432 each @485 900.15
+@377 SUB HEAD : 4.0 CONCRETE WORK
+@51 99
+=== PAGE 92
+
+=== PAGE 93
+@58 Code No @234 Description @433 Unit @490 Rate
+@58 4.9 B @113 Precasting and placing in position 125 mm dia Bollards 600 mm high
+@113 of required shape including providing M.S. Pipe Sleeve 50 mm dia 300
+@113 mm long in the Bollard and M.S. Pipes 40 mm dia and 450 mm long
+@113 with 150x150x6 mm M.S. plate welded at bottom and embedded 150
+@113 mm in cement concrete 1:3:6 (1 Cement : 3 manufactured sand derived
+@113 from Recycled Concrete Aggregate (RCA) : 6 graded stone aggregate
+@113 20 mm nominal size (Recycled Aggregate (RA), including necessary
+@113 excavation of size 250x250x450 mm deep for the same in bitumen/
+@113 concrete pavement at specified spacing @432 each @485 878.90
+@113 DAMP-PROOF COURSE
+@58 4.10 @113 Providing and laying damp-proof course 40 mm thick with cement
+@113 concrete 1:2:4 (1 cement : 2 coarse sand (zone-III) derived from natural
+@113 sources : 4 graded stone aggregate 12.5 mm nominal size derived from
+@113 natural sources) @434 sqm @485 410.85
+@58 4.10A @113 Providing and laying damp-proof course 40 mm thick with cement
+@113 concrete @157 1:2:4 @185 (1 @201 cement @239 : @249 2 @262 coarse @297 sand @325 (zone-III) @370 including
+@113 manufactured sand derived from Recycled Concrete Aggregate (RCA)
+@113 upto 25% : 4 graded stone aggregate 12.5 mm nominal size including
+@113 (Recycled Concrete Aggregate (RCA) upto 25%)) @434 sqm @485 402.50
+@58 4.11 @113 Providing and laying damp-proof course 50 mm thick with cement
+@113 concrete 1:2:4 (1 cement : 2 coarse sand (zone-III) derived from natural
+@113 sources : 4 graded stone aggregate 20 mm nominal size derived from
+@113 natural sources). @434 sqm @485 495.75
+@58 4.11A @113 Providing and laying damp-proof course 50 mm thick with cement
+@113 concrete @157 1:2:4 @185 (1 @201 cement @239 : @249 2 @262 coarse @297 sand @325 (zone-III) @370 including
+@113 manufactured sand derived from Recycled Concrete Aggregate (RCA)
+@113 upto 25% : 4 graded stone aggregate 20 mm nominal size (Recycled
+@113 Concrete Aggregate (RCA) upto 25%)) @434 sqm @485 484.60
+@58 4.12 @113 Extra for providing and mixing water proofing material in cement @422 per bag of
+@113 concrete work in doses by weight of cement as per manufacturer’s @416 50kg cement
+@113 specification. @432 used @488 18.15
+@58 4.13 @113 Providing & applying a coat of residual petroleum bitumen of grade
+@113 of VG-10 of approved quality using 1.7 kg per square metre on damp
+@113 proof course after cleaning the surface with brushes and finally with a
+@113 piece of cloth lightly soaked in kerosene oil. @434 sqm @485 146.15
+@113 MISCELLANEOUS
+@58 4.14 @113 Extra for concrete work in superstructure above floor V level for each
+@113 four floors or part thereof by mechnical means. @434 cum @485 169.45
+@58 4.15 @113 Extra for laying concrete in or under water and/or liquid mud including @425 cum per
+@113 cost of pumping or bailing out water and removing slush etc. complete. @417 metre depth @483 1098.80
+@113 Note for item No. 4.15 :- The quantity will be calculated by multiplying
+@113 the depth measured from the sub-soil water level up to centre of gravity
+@113 of concrete under sub-soil water level with quantity of concrete in cum
+@113 executed under sub-soil water. The depth of centre of gravity shall be
+@113 reckoned correct to 0.1m. (0.05m or more shall be taken as 0.1m and
+@113 less than 0.05m ignored).
+@58 4.16 @113 Extra for laying concrete in or under foul positions. @434 cum @485 467.55
+@377 SUB HEAD : 4.0 CONCRETE WORK
+@51 100
+=== PAGE 94
+
+=== PAGE 95
+@58 Code No @234 Description @433 Unit @490 Rate
+@58 4.17 @113 Making @150 plinth @179 protection @227 50 @244 mm @266 thick @292 of @306 cement @344 concrete @387 1:3:6
+@113 (1 cement : 3 coarse sand (zone-III) derived from natural sources :
+@113 6 graded stone aggregate 20 mm nominal size derived from natural
+@113 sources) over 75 mm thick bed of dry brick ballast 40 mm nominal size,
+@113 well rammed and consolidated and grouted with fine sand, including
+@113 necessary excavation, levelling & dressing & finishing the top smooth. @434 sqm @485 749.30
+@58 4.17A @113 Making @150 plinth @179 protection @227 50 @244 mm @266 thick @292 of @306 cement @344 concrete @387 1:3:6
+@113 (1 cement : 3 manufactured sand derived from Recycled Concrete
+@113 Aggregate (RCA) : 6 graded stone aggregate 20 mm nominal size
+@113 Recycled Concrete Aggregate (RCA) over 75 mm thick bed of dry brick
+@113 ballast 40 mm nominal size, well rammed and consolidated and grouted
+@113 with fine sand, including necessary excavation, levelling & dressing &
+@113 finishing the top smooth. @434 sqm @485 702.30
+@58 4.17B @113 Making plinth protection 50 mm thick of cement concrete 1:3:6 (1 cement
+@113 : 3 manufactured sand derived from Recycled Concrete Aggregate (RCA)
+@113 : 6 graded stone aggregate 20 mm nominal size Recycled Aggregate
+@113 (RA) over 75 mm thick bed of dry brick ballast 40 mm nominal size,
+@113 well rammed and consolidated and grouted with fine sand, including
+@113 necessary excavation, levelling & dressing & finishing the top smooth. @434 sqm @485 666.90
+@58 4.18 @113 Extra for addition of synthetic Polyester triangular fibre of length 12mm,
+@113 effective diameter 10-40 microns and specific gravity of 1.34 to 1.40 in
+@113 cement concrete/RCC/Flooring/water retaining structures by using 125 @421 per bag of
+@113 gram of synthetic Polyester triangular fibre for 50 kg cement used as @426 50 kg of
+@113 per direction of Engineer-in-Charge. @427 cement @488 70.35
+@58 4.20 @113 Providing and laying in position ready mixed or site batched design mix
+@113 cement concrete for plain cement concrete work; using coarse aggregate
+@113 and fine aggregate derived from natural sources, Portland Pozzolana/
+@113 Ordinary Portland /Portland Slag cement, admixtures in recommended
+@113 proportions as per IS: 9103 to accelerate / retard setting of concrete, to
+@113 improve durability and workability without impairing strength; including
+@113 pumping of concrete to site of laying, curing, carriage for all leads; but
+@113 excluding the cost of centering, shuttering and finishing as per direction
+@113 of the engineer-in-charge; for the following grades of concrete.
+@113 Note: Extra cement up to 10% of the minimum specified cement content
+@113 in design mix shall be payable separately. In case the cement content
+@113 in design mix is more than 110% of the minimum specified cement
+@113 content, the contractor shall have discretion to either re-design the mix
+@113 or bear the cost of extra cement.
+@113 4.20.1 @165 All works upto plinth level :
+@165 4.20.1.1 @220 Concrete of M10 grade with minimum cement
+@220 content of 220 kg /cum @434 cum @483 8835.15
+@165 4.20.1.2 @220 Concrete of M15 grade with minimum cement
+@220 content of 240 kg /cum @434 cum @483 8986.15
+@165 4.20.1.3 @220 Concrete of M20 grade with minimum cement
+@220 content of 270 kg /cum @434 cum @483 9212.60
+@165 4.20.1.4 @220 Concrete of M25 grade with minimum cement
+@220 content of 300 kg /cum @434 cum @483 9439.05
+@113 4.20.2 @165 All works above plinth and upto floor V level
+@165 4.20.2.1 @220 Concrete of M10 grade with minimum cement
+@220 content of 220 kg /cum @434 cum @483 9190.80
+@165 4.20.2.2 @220 Concrete of M15 grade with minimum cement
+@220 content of 240 kg /cum @434 cum @483 9341.80
+@377 SUB HEAD : 4.0 CONCRETE WORK
+@51 101
+=== PAGE 96
+
+=== PAGE 97
+@58 Code No @234 Description @433 Unit @490 Rate
+@165 4.20.2.3 @220 Concrete of M20 grade with minimum cement
+@220 content of 270 kg /cum @434 cum @483 9568.25
+@165 4.20.2.4 @220 Concrete of M25 grade with minimum cement
+@220 content of 300 kg /cum @434 cum @483 9794.70
+@58 4.20A @113 Providing and laying in position ready mixed or site batched design
+@113 mix cement concrete for plain cement concrete work; using coarse
+@113 aggregate and fine aggregate derived from natural sources and using
+@113 recycled concrete aggregate (RCA) as coarse aggregate and fine
+@113 aggregate @162 within @192 the @211 permissible @265 utilization, @314 Portland @355 Pozzolana @405 /
+@113 Ordinary Portland/Portland Slag cement, admixtures in recommended
+@113 proportions as per IS: 9103 to accelerate / retard setting of concrete to
+@113 improve durability and workability without impairing strength; including
+@113 pumping of concrete to site of laying, curing, carriage for all leads; but
+@113 excluding the cost of centering, shuttering and finishing as per direction
+@113 of the engineer-in-charge; for the following grades of concrete.
+@113 Note: Extra cement up to 10% of the minimum specified cement content
+@113 in design mix shall be payable separately. In case the cement content
+@113 in design mix is more than 110% of the minimum specified cement
+@113 content, the contractor shall have discretion to either re-design the mix
+@113 or bear the cost of extra cement.
+@113 4.20A.1 @165 All works upto plinth level
+@165 4.20A.1.1 @220 Concrete of M10 grade with minimum cement
+@220 content of 220 kg /cum.
+@220 (Note: The permissible utilization of Recycled
+@220 Concrete @269 Aggregate @323 (RCA) @359 as @379 coarse
+@220 aggregate and fine aggregate is 100% each). @434 cum @483 7936.10
+@165 4.20A.1.2 @220 Concrete of M15 grade with minimum cement
+@220 content of 240 kg /cum.
+@220 (Note: The permissible utilization of Recycled
+@220 Concrete @269 Aggregate @323 (RCA) @359 as @379 coarse
+@220 aggregate and fine aggregate is 25% each). @434 cum @483 8779.40
+@165 4.20A.1.3 @220 Concrete of M20 grade with minimum cement
+@220 content of 270 kg /cum.
+@220 (Note: The permissible utilization of Recycled
+@220 Concrete @269 Aggregate @323 (RCA) @359 as @379 coarse
+@220 aggregate and fine aggregate is 25% each). @434 cum @483 9005.85
+@165 4.20A.1.4 @220 Concrete of M25 grade with minimum cement
+@220 content of 300 kg /cum.
+@220 (Note: The permissible utilization of Recycled
+@220 Concrete @269 Aggregate @323 (RCA) @359 as @379 coarse
+@220 aggregate and fine aggregate is 25% each). @434 cum @483 9232.30
+@113 4.20A.2 @165 All works above plinth and upto floor V level
+@165 4.20A.2.1 @220 Concrete of M10 grade with minimum cement
+@220 content of 220 kg /cum.
+@220 (Note: The permissible utilization of Recycled
+@220 Concrete @269 Aggregate @323 (RCA) @359 as @379 coarse
+@220 aggregate and fine aggregate is 100% each). @434 cum @483 8291.75
+@165 4.20A.2.2 @220 Concrete of M15 grade with minimum cement
+@220 content of 240 kg /cum.
+@220 (Note: The permissible utilization of Recycled
+@220 Concrete @269 Aggregate @323 (RCA) @359 as @379 coarse
+@220 aggregate and fine aggregate is 25% each).
+@434 cum @483 9135.05
+@377 SUB HEAD : 4.0 CONCRETE WORK
+@51 102
+=== PAGE 98
+
+=== PAGE 99
+@58 Code No @234 Description @433 Unit @490 Rate
+@165 4.20A.2.3 @220 Concrete of M20 grade with minimum cement
+@220 content of 270 kg /cum.
+@222 (Note: The permissible utilization of Recycled
+@220 Concrete @269 Aggregate @323 (RCA) @359 as @379 coarse
+@220 aggregate and fine aggregate is 25% each). @434 cum @483 9361.50
+@165 4.20A.2.4 @220 Concrete of M25 grade with minimum cement
+@220 content of 300 kg /cum.
+@220 (Note: The permissible utilization of Recycled
+@220 Concrete @269 Aggregate @323 (RCA) @359 as @379 coarse
+@220 aggregate and fine aggregate is 25% each). @434 cum @483 9587.95
+@377 SUB HEAD : 4.0 CONCRETE WORK
+@51 103
+=== PAGE 100
+
+=== PAGE 101
+@183 SUB HEAD : 5.0
+@130 REINFORCED CEMENT
+@210 CONCRETE
+=== PAGE 102
+
+=== PAGE 103
+@169 5.0 REINFORCED CEMENT CONCRETE
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 CAST IN SITU
+@58 5.1 @113 Providing and laying in position specified grade of reinforced cement
+@113 concrete, @158 excluding @204 the @223 cost @247 of @261 centering, @308 shuttering, @359 finishing @400 and
+@113 reinforcement - All work up to plinth level :
+@113 5.1.2 @165 1:1.5:3 (1 cement : 1.5 coarse sand (zone-III) derived from
+@165 natural sources : 3 graded stone aggregate 20 mm nominal
+@165 size derived from natural sources) @437 cum @482 9045.75
+@113 5.1.2A @165 1:1.5:3 @200 (1 @215 cement @252 : @260 1.5 @279 coarse @313 sand(zone-III) @378 including
+@165 manufactured @232 sand @261 derived @301 from @329 Recycled @377 Concrete
+@165 Aggregate (RCA) upto 20% : 3 graded stone aggregate 20
+@165 mm nominal size of Recycled Concrete Aggregate (RCA)
+@165 upto 20%. @437 cum @482 8874.95
+@113 5.1.3 @165 1:2:4 (1 cement : 2 coarse sand (zone-III) derived from
+@165 natural sources : 4 graded stone aggregate 20 mm nominal
+@165 size derived from natural sources) @437 cum @482 8583.40
+@113 5.1.3A @165 1:2:4 (1 cement : 2 coarse sand incuding manufactured sand
+@165 derived from Recycled Concrete Aggregate (RCA) upto 20%
+@165 : 4 graded stone aggregate 20 mm nominal size of Recycled
+@165 Concrete Aggregate (RCA) upto 20%). @437 cum @482 8404.05
+@58 5.2 @113 Reinforced cement concrete work in walls (any thickness), including
+@113 attached pilasters, buttresses, plinth and string courses, fillets, columns,
+@113 pillars, piers, abutments, posts and struts etc. above plinth level up to
+@113 floor five level, excluding cost of centering, shuttering, finishing and
+@113 reinforcement :
+@113 5.2.2 @165 1:1.5:3 (1 cement : 1.5 coarse sand(zone-III) derived from
+@165 natural sources : 3 graded stone aggregate 20 mm nominal
+@165 size derived from natural sources) @437 cum @480 10852.95
+@113 5.2.2A @165 1:1.5:3 (1 cement : 1.5 coarse sand incuding manufactured
+@165 sand derived from Recycled Concrete Aggregate (RCA)
+@165 upto 20% : 3 graded stone aggregate 20 mm nominal size
+@165 including Recycled Concrete Aggregate (RCA) upto 20% @437 cum @480 10682.15
+@58 5.3 @113 Reinforced cement concrete work in beams, suspended floors, roofs
+@113 having slope up to 15° landings, balconies, shelves, chajjas, lintels, bands,
+@113 plain window sills, staircases and spiral stair cases above plinth level up
+@113 to floor five level, excluding the cost of centering, shuttering, finishing and
+@113 reinforcement with 1:1.5:3 (1 cement : 1.5 coarse sand(zone-III) derived
+@113 from natural sources : 3 graded stone aggregate 20 mm nominal size
+@113 derived from natural sources). @437 cum @480 11505.50
+@58 5.3A @113 Reinforced cement concrete work in beams, suspended floors, roofs
+@113 having slope up to 15° landings, balconies, shelves, chajjas, lintels,
+@113 bands, plain window sills, staircases and spiral staircases above plinth
+@113 level up to floor five level excluding the cost of centering, shuttering,
+@113 finishing and reinforcement, with 1:1.5:3 (1 cement : 1.5 coarse sand
+@113 incuding manufactured sand derived from Recycled Concrete Aggregate
+@113 (RCA) upto 20%: 3 graded stone aggregate 20 mm nominal size including
+@113 Recycled Concrete Aggregate (RCA) upto 20%) @437 cum @480 11334.70
+@58 5.4 @113 Providing and laying reinforced cement concrete in kerbs, steps and the
+@113 like at or near ground level excluding the cost of centering, shuttering,
+@113 finishing and reinforcement with 1:1.5:3 (1 cement : 1.5 coarse sand
+@113 (zone-III) derived from natural sources : 3 graded stone aggregate 20
+@113 mm nominal size derived from natural sources). @437 cum @482 8821.65
+@305 SUB HEAD : 5.0 REINFORCED CEMENT CONCRETE
+@51 105
+=== PAGE 104
+
+=== PAGE 105
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 5.4A @113 Providing and laying reinforced cement concrete in kerbs, steps and the
+@113 like at or near ground level excluding the cost of centering, shuttering,
+@113 finishing and reinforcement with 1:1.5:3 (1 cement : 1.5 coarse sand
+@113 incuding manufactured sand derived from Recycled Concrete Aggregate
+@113 (RCA) upto 20% : 3 graded stone aggregate 20 mm nominal size
+@113 including Recycled Concrete Aggregate (RCA) upto 20%). @437 cum @482 8650.85
+@58 5.5 @113 Reinforced cement concrete work in arches, archribs, domes, vaults,
+@113 shells, folded plate and roofs having slope more than 15° up to floor
+@113 five level, excluding the cost of centering, shuttering, finishing and
+@113 reinforcement with 1:1.5:3 (1 cement : 1.5 coarse sand (zone-III) derived
+@113 from natural sources : 3 graded stone aggregate 20 mm nominal size
+@113 derived from natural sources). @437 cum @480 12205.85
+@58 5.5A @113 Reinforced cement concrete work in arches, archribs, domes, vaults,
+@113 shells, folded plate and roofs having slope more than 15° up to floor
+@113 five @134 level @159 excluding @205 the @224 cost @247 of @261 centering, @309 shuttering, @359 finishing @400 and
+@113 reinforcement @177 with @201 1:1.5:3 @236 (1 @251 cement @289 : @298 1.5 @318 coarse @353 sand @380 incuding
+@113 manufactured sand derived from Recycled Concrete Aggregate (RCA)
+@113 upto 20% : 3 graded stone aggregate 20 mm nominal size including
+@113 Recycled Concrete Aggregate (RCA) upto 20%). @437 cum @480 12035.00
+@58 5.6 @113 Reinforced @165 cement @202 concrete @244 work @270 in @284 chimneys, @332 shafts, @366 up @383 to @397 floor
+@113 five level, excluding the cost of centering, shuttering, finishing and
+@113 reinforcement with 1:1.5:3 (1 cement : 1.5 coarse sand(zone-III) derived
+@113 from natural sources : 3 graded stone aggregate 20 mm nominal size
+@113 derived from natural sources). @437 cum @480 11125.20
+@58 5.6A @113 Reinforced cement concrete work in chimneys, shafts, up to floor five level
+@113 excluding the cost of centering, shuttering, finishing and reinforcement
+@113 with 1:1.5:3 (1 cement : 1.5 coarse sand incuding manufactured sand
+@113 derived from Recycled Concrete Aggregate (RCA) upto 20% : 3 graded
+@113 stone aggregate 20 mm nominal size including Recycled Concrete
+@113 Aggregate (RCA) upto 20%). @437 cum @480 10954.40
+@58 5.7 @113 Reinforced cement concrete work in well-steining, excluding the cost of
+@113 centering, shuttering, finishing and reinforcement with 1:1.5:3 (1 cement
+@113 : 1.5 coarse sand(zone-III) derived from natural sources : 3 graded stone
+@113 aggregate 20 mm nominal size derived from natural sources). @437 cum @482 8424.60
+@58 5.7A @113 Reinforced cement concrete work in well-steining excluding the cost of
+@113 centering, shuttering, finishing and reinforcement, with 1:1.5:3 (1 cement
+@113 : 1.5 coarse sand incuding manufactured sand derived from Recycled
+@113 Concrete Aggregate (RCA) upto 20% : 3 graded stone aggregate 20 mm
+@113 nominal size including Recycled Concrete Aggregate (RCA) upto 20%). @437 cum @482 8253.80
+@58 5.8 @113 Reinforced cement concrete work in vertical and horizontal fins individually
+@113 or forming box louvers, facias and eaves boards above plinth level up to
+@113 floor five level, excluding the cost of centering, shuttering, finishing and
+@113 reinforcement with 1:1.5:3 (1 cement : 1.5 coarse sand(zone-III) derived
+@113 from natural sources : 3 graded stone aggregate 20 mm nominal size
+@113 derived from natural sources). @437 cum @480 11454.35
+@58 5.8A @113 Reinforced cement concrete work in vertical and horizontal fins individually
+@113 or forming box louvers, facias and eaves boards above plinth level up
+@113 to floor five level excluding the cost of centering, shuttering, finishing
+@113 and reinforcement, with 1:1.5:3 (1 cement : 1.5 coarse sand incuding
+@113 manufactured sand derived from Recycled Concrete Aggregate (RCA)
+@113 upto 20% : 3 graded stone aggregate 20 mm nominal size including
+@113 Recycled Concrete Aggregate (RCA) upto 20%). @437 cum @480 11283.55
+@305 SUB HEAD : 5.0 REINFORCED CEMENT CONCRETE
+@51 106
+=== PAGE 106
+
+=== PAGE 107
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 FORM WORK
+@58 5.9 @113 Centering and shuttering including strutting, propping etc. and removal
+@113 of form for
+@113 5.9.1 @165 Foundations, footings, bases of columns, etc. for mass
+@165 concrete @437 sqm @485 392.15
+@113 5.9.2 @165 Walls @199 (any @228 thickness) @282 including @330 attached @377 pilasters,
+@165 butteresses, plinth and string courses etc. @437 sqm @485 842.50
+@113 5.9.3 @165 Suspended floors, roofs, landings, balconies and access
+@165 platform @437 sqm @485 927.25
+@113 5.9.4 @165 Shelves (Cast in situ) @437 sqm @485 927.25
+@113 5.9.5 @165 Lintels, @202 beams, @239 plinth @268 beams, @306 girders, @344 bressumers @400 and
+@165 cantilevers @437 sqm @485 736.40
+@113 5.9.6 @165 Columns, Pillars, Piers, Abutments, Posts and Struts @437 sqm @485 961.30
+@113 5.9.7 @165 Stairs, (excluding landings) except spiral-staircases @437 sqm @485 764.95
+@113 5.9.8 @165 Spiral staircases (including landing) @437 sqm @485 798.35
+@113 5.9.9 @165 Arches, domes, vaults up to 6 m span @437 sqm @482 2154.35
+@113 5.9.10 @165 Extra for arches, domes, vaults exceeding 6 m span @437 sqm @485 608.15
+@113 5.9.11 @165 Chimneys and shafts @437 sqm @485 803.25
+@113 5.9.12 @165 Well steining @437 sqm @485 263.65
+@113 5.9.13 @165 Vertical @203 and @225 horizontal @273 fins @294 individually @347 or @362 forming @400 box
+@165 louvers band, facias and eaves boards @437 sqm @482 1296.70
+@113 5.9.14 @165 Extra for shuttering in circular work (20% of respective
+@165 centering and shuttering items) @437 sqm @490 20%
+@113 5.9.15 @165 Small lintels not exceeding 1.5 m clear span, moulding as in
+@165 cornices, window sills, string courses, bands, copings, bed
+@165 plates, anchor blocks and the like @437 sqm @485 392.15
+@113 5.9.16 @165 Edges of slabs and breaks in floors and walls
+@165 5.9.16.1 @220 Under 20 cm wide @434 metre @485 208.55
+@165 5.9.16.2 @220 Above 20 cm wide @437 sqm @485 879.05
+@113 5.9.17 @165 Cornices and mouldings @437 sqm @485 856.80
+@113 5.9.18 @165 Small surfaces such as cantilever ends, brackets and ends of
+@165 steps, caps and bases to pilasters and columns and the like @437 sqm @485 964.85
+@113 5.9.19 @165 Weather shed, Chajjas, corbels etc., including edges @437 sqm @485 951.10
+@113 5.9.20 @165 Suspended floors, roofs, landings, balconies and access
+@165 platform with water proof ply 12 mm thick @437 sqm @482 1028.40
+@113 5.9.21 @165 Lintels, @202 beams, @239 plinth @268 beams, @306 girders, @344 bressumers @400 and
+@165 cantilevers with water proof ply 12 mm thick @437 sqm @485 841.95
+@58 5.10 @113 Providing and fixing tie bolt, spring coil and plastic cone in wall shuttering
+@113 complete as per the direction of Engineer-in-charge.
+@113 5.10.1 @165 12 mm dia. & 100 mm length @428 each set @485 156.05
+@113 5.10.2 @165 12 mm dia. & 150 mm length @428 each set @485 170.25
+@113 5.10.3 @165 20 mm dia. & 150 mm length @428 each set @485 184.50
+@113 5.10.4 @165 20 mm dia.& 225 mm length @428 each set @485 201.55
+@58 5.11 @113 Extra for additional height in centering, shuttering where ever required
+@113 with adequate bracing, propping etc., including cost of de-shuttering
+@113 and decentering at all levels, over a height of 3.5 m, for every additional
+@113 height of 1 metre or part thereof (Plan area to be measured).
+@305 SUB HEAD : 5.0 REINFORCED CEMENT CONCRETE
+@51 107
+=== PAGE 108
+
+=== PAGE 109
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 5.11.1 @165 Suspended floors, roofs, landings, beams and balconies
+@165 (Plan area to be measured) @437 sqm @485 384.30
+@113 PRE-CAST RCC
+@58 5.12 @113 Providing, hoisting and fixing above plinth level up to floor five level
+@113 precast @150 reinforced @198 cement @235 concrete @277 work @303 in @316 string @345 courses, @387 bands,
+@113 copings, bed plates, anchor blocks, plain window sills and the like,
+@113 including the cost of required centering, shuttering but excluding cost of
+@113 reinforcement with 1:1.5:3 (1 cement : 1.5 coarse sand(zone-III) derived
+@113 from natural sources : 3 graded stone aggregate 20 mm nominal size
+@113 derived from natural sources). @437 cum @480 10585.90
+@58 5.12A @113 Providing, hoisting and fixing above plinth level up to floor five level precast
+@113 reinforced cement concrete work in string courses, bands, copings, bed
+@113 plates, anchor blocks, plain window sills and the like, including the cost
+@113 of required centering, shuttering but excluding cost of reinforcement, with
+@113 1:1.5:3 (1 cement : 1.5 coarse sand incuding manufactured sand derived
+@113 from Recycled Concrete Aggregate (RCA) upto 20% : 3 graded stone
+@113 aggregate 20 mm nominal size Recycled Concrete Aggregate (RCA)
+@113 upto 20%). @437 cum @480 10416.75
+@58 5.13 @113 Providing, hoisting and fixing up to floor five level precast reinforced
+@113 cement concrete in small lintels not exceeding 1.5m clear span up to
+@113 floor five level, including the cost of required centering, shuttering but ,
+@113 excluding the cost of reinforcement with 1:1.5:3 (1 cement : 1.5 coarse
+@113 sand (zone-III) derived from natural sources : 3 graded stone aggregate
+@113 20 mm nominal size derived from natural sources). @437 cum @480 14325.95
+@58 5.13A @113 Providing, hoisting and fixing up to floor five level precast reinforced
+@113 cement concrete in small lintels not exceeding 1.5 m clear span up to
+@113 floor five level, including the cost of required centering, shuttering but
+@113 excluding the cost of reinforcement, with 1:1.5:3 (1 cement : 1.5 coarse
+@113 sand @139 incuding @180 manufactured @244 sand @270 derived @307 from @332 Recycled @377 Concrete
+@113 Aggregate (RCA) upto 20% : 3 graded stone aggregate 20 mm nominal
+@113 size including Recycled Concrete Aggregate (RCA) upto 20%). @437 cum @480 14155.35
+@58 5.14 @113 Providing, hoisting and fixing above plinth level up to floor five level
+@113 precast reinforced cement concrete in mouldings as in cornices, windows
+@113 sills etc, including setting in cement mortar 1:3 (1 cement : 3 coarse
+@113 sand) cost of required centering, shuttering but, excluding the cost of
+@113 reinforcement, with 1:1.5:3 (1 cement : 1.5 coarse sand (zone-III) derived
+@113 from natural sources : 3 graded stone aggregate 20 mm nominal size
+@113 derived from natural sources). @437 cum @480 18234.95
+@58 5.14A @113 Providing, hoisting and fixing above plinth level up to floor five level
+@113 precast @151 reinforced @200 cement @238 concrete @282 in @296 mouldings @346 as @363 in @377 cornices,
+@113 windows sills etc. including setting in cement mortar 1:3 (1 cement : 3
+@113 coarse sand) cost of required centering, shuttering but excluding the
+@113 cost of reinforcement, with 1:1.5:3 (1 cement : 1.5 coarse sand incuding
+@113 manufactured sand derived from Recycled Concrete Aggregate (RCA)
+@113 upto 20% : 3 graded stone aggregate 20 mm nominal size including
+@113 Recycled Concrete Aggregate (RCA) upto 20%). @437 cum @480 18064.15
+@58 5.15 @113 Providing, transporting, hoisting and fixing above plinth level up to floor
+@113 five level precast reinforced cement concrete in lintels, beams and
+@113 bressumers, including setting in cement mortar 1:3 (1 cement : 3 coarse
+@113 sand), cost of required centering and shuttering but , excluding the cost
+@113 of reinforcement, with 1:1.5:3 (1 cement : 1.5 coarse sand (zone-III)
+@113 derived from natural sources : 3 graded stone aggregate 20 mm nominal
+@113 size derived from natural sources) @437 cum @479 13899.20
+@305 SUB HEAD : 5.0 REINFORCED CEMENT CONCRETE
+@51 108
+=== PAGE 110
+
+=== PAGE 111
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 5.15A @113 Providing, transporting, hoisting and fixing above plinth level up to floor
+@113 five level precast reinforced cement concrete in lintels, beams and
+@113 bressumers including setting in cement mortar 1:3 (1 cement : 3 coarse
+@113 sand), cost of required centering and shuttering but excluding the cost
+@113 of reinforcement with, 1:1.5:3 (1 cement : 1.5 coarse sand incuding
+@113 manufactured sand derived from Recycled Concrete Aggregate (RCA)
+@113 upto 20% : 3 graded stone aggregate 20 mm nominal size including
+@113 Recycled Concrete Aggregate (RCA) upto 20%). @437 cum @480 13728.40
+@58 5.16 @113 Providing, transporting, hoisting and fixing above plinth level up to
+@113 floor five level precast reinforced cement concrete in shelves, including
+@113 setting in cement mortar 1:3 (1cement : 3 coarse sand), cost of required
+@113 centering, shuttering and finishing with neat cement punning on exposed
+@113 surfaces but , excluding the cost of reinforcement, with 1:1.5:3 (1 cement
+@113 : 1.5 coarse sand(zone-III) derived from natural sources : 3 graded stone
+@113 aggregate 20 mm nominal size derived from natural sources). @437 cum @480 20355.80
+@58 5.16A @113 Providing, transporting, hoisting and fixing above plinth level up to
+@113 floor five level precast reinforced cement concrete in shelves including
+@113 setting in cement mortar 1:3 (1 cement : 3 coarse sand), cost of required
+@113 centering, shuttering and finishing with neat cement punning on exposed
+@113 surfaces but excluding the cost of reinforcement, with 1:1.5:3 (1 cement
+@113 : 1.5 coarse sand incuding manufactured sand derived from Recycled
+@113 Concrete Aggregate (RCA) upto 20% : 3 graded stone aggregate 20 mm
+@113 nominal size including Recycled Concrete Aggregate (RCA) upto 20%). @437 cum @480 20185.00
+@58 5.17 @113 Providing, transporting, hoisting and fixing above plinth level up to floor
+@113 five level precast reinforced cement concrete in vertical & horizontal fins,
+@113 individually or forming box louvers, setting in cement mortar 1:2 (1 cement
+@113 : 2 coarse sand), including the cost of required centering, shuttering but
+@113 , excluding the cost of reinforcement, with 1:1.5:3 (1 cement : 1.5 coarse
+@113 sand(zone-III) derived from natural sources : 3 graded stone aggregate
+@113 20 mm nominal size derived from natural sources). @437 cum @480 12043.35
+@58 5.17A @113 Providing, transporting, hoisting and fixing above plinth level up to floor
+@113 five level precast reinforced cement concrete in vertical & horizontal fins
+@113 individually or forming box louvers setting in cement mortar 1:2 (1 cement
+@113 : 2 coarse sand), including the cost of required centering, shuttering but
+@113 excluding the cost of reinforcement, with 1:1.5:3 (1 cement : 1.5 coarse
+@113 sand @139 incuding @180 manufactured @244 sand @270 derived @307 from @332 Recycled @377 Concrete
+@113 Aggregate (RCA) upto 20% : 3 graded stone aggregate 20 mm nominal
+@113 size including Recycled Concrete Aggregate (RCA) upto 20%). @437 cum @480 11872.55
+@58 5.18 @113 Providing precast cement concrete Jali 1:2:4 (1 cement : 2 coarse sand
+@113 (zone-III) : 4 graded stone aggregate 6 mm nominal size ), reinforced with
+@113 1.6 mm dia mild steel wire, including centering and shuttering, roughening
+@113 cleaning, fixing and finishing in cement mortar 1:3 (1 cement: 3 fine sand)
+@113 etc. complete, excluding plastering of the jambs, sills and soffits.
+@113 5.18.1 @165 50 mm thick @437 sqm @482 1886.90
+@113 5.18.2 @165 40 mm thick @437 sqm @482 1706.55
+@113 5.18.3 @165 25 mm thick @437 sqm @482 1539.00
+@113 ENCASING ROLLED STEEL SECTION
+@58 5.19 @113 Encasing rolled steel sections, in beams and columns, with cement
+@113 concrete 1:1.5:3 (1 cement : 1.5 coarse sand (zone-III) derived from
+@113 natural sources : 3 graded stone aggregate 20 mm nominal size derived
+@113 from natural sources) including centering and shuttering complete but ,
+@113 excluding cost of reinforcement. @437 cum @480 16089.40
+@305 SUB HEAD : 5.0 REINFORCED CEMENT CONCRETE
+@51 109
+=== PAGE 112
+
+=== PAGE 113
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 5.19A @113 Encasing rolled steel sections, in beams and columns, with cement
+@113 concrete 1:1.5:3 (1 cement : 1.5 coarse sand incuding manufactured
+@113 sand derived from Recycled Concrete Aggregate (RCA) upto 20%:
+@113 3 graded stone aggregate 20 mm nominal size Recycled Concrete
+@113 Aggregate (RCA) upto 20%) including centering and shuttering complete
+@113 but excluding cost of reinforcement. @437 cum @480 15918.60
+@58 5.20 @113 Encasing rolled steel section in grillages with cement concrete 1:1.5:3
+@113 (1 cement : 1.5 coarse sand (zone-III) derived from natural sources :
+@113 3 graded stone aggregate 20 mm nominal size derived from natural
+@113 sources) @156 including @199 centering @245 and @267 shuttering @315 but, @337 excluding @384 cost @407 of
+@113 expanded metal and hangers. @437 cum @482 9663.25
+@58 5.20A @113 Encasing rolled steel section in grillages with cement concrete 1:1.5:3
+@113 (1 @127 cement @164 : @173 1.5 @192 coarse @226 sand @253 incuding @294 manufactured @358 sand @384 derived
+@113 from Recycled Concrete Aggregate (RCA) upto 20% : 3 graded stone
+@113 aggregate 20 mm nominal size Recycled Concrete Aggregate (RCA)
+@113 upto 20%), including centering and shuttering but excluding cost of
+@113 expanded metal and hangers. @437 cum @482 9492.45
+@58 5.21 @113 Extra for providing and fixing expanded metal mesh of size 20x60 mm
+@113 and strands 3.25 mm wide 1.6 mm thick weighing 3.64 kg per sqm
+@113 for encasing of rolled steel sections in beams, columns and grillages,
+@113 excluding cost of hangers. @437 sqm @485 485.05
+@113 STEEL REINFORCEMENT
+@58 5.22 @113 Steel reinforcement for R.C.C. work including straightening, cutting,
+@113 bending, placing in position and binding all complete upto plinth level.
+@113 5.22.1 @165 Mild steel and Medium Tensile steel bars @441 kg @485 107.10
+@113 5.22.2 @165 Hard drawn steel wire @441 kg @487 95.80
+@113 5.22.3 @165 Cold twisted bars @441 kg @485 107.85
+@113 5.22.4 @165 Hot rolled deformed bars @441 kg @485 107.85
+@113 5.22.5 @165 Hard drawn steel wire fabric @441 kg @485 102.20
+@113 5.22.6 @165 Thermo-Mechanically Treated bars of grade Fe-500D or
+@165 more. @441 kg @485 107.85
+@58 5.22A @113 Steel reinforcement for R.C.C. work including straightening, cutting,
+@113 bending, placing in position and binding all complete above plinth level.
+@113 5.22A.1 @165 Mild steel and Medium Tensile steel bars @441 kg @485 107.10
+@113 5.22A.2 @165 Hard drawn steel wire @441 kg @487 95.80
+@113 5.22A.3 @165 Cold twisted bars @441 kg @485 107.85
+@113 5.22A.4 @165 Hot rolled deformed bars @441 kg @485 107.85
+@113 5.22A.5 @165 Hard drawn steel wire fabric @441 kg @485 102.20
+@113 5.22A.6 @165 Thermo-Mechanically Treated bars of grade Fe-500D or
+@165 more. @441 kg @485 107.85
+@58 5.22B @113 Steel reinforcement for R.C.C. work ready to use “cut and bend” rebars
+@113 of approved make from factory/workshop to construction site including
+@113 placing in position and binding all complete upto plinth level.
+@113 5.22B.1 @165 Thermo-Mechanically Treated bars of grade Fe-500D or
+@165 more. @441 kg @487 99.65
+@305 SUB HEAD : 5.0 REINFORCED CEMENT CONCRETE
+@51 110
+=== PAGE 114
+
+=== PAGE 115
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 5.22C @113 Steel reinforcement for R.C.C. work ready to use “cut and bend” rebars
+@113 of approved make from factory/workshop to construction site including
+@113 placing in position and binding all complete above plinth level.
+@113 5.22C.1 @165 Thermo-Mechanically Treated bars of grade Fe-500D or more. @441 kg @487 99.65
+@113 MISCELLANEOUS
+@58 5.23 @113 Smooth finishing of the exposed surface of R.C.C. work with 6 mm thick
+@113 cement mortar 1:3 (1 Cement : 3 fine sand). @437 sqm @485 300.45
+@58 5.24 @113 Extra for rendering smooth the top of suspended floors, landings and
+@113 staircases (treads and risers) with cement mortar 1:2 (1 cement : 2
+@113 coarse sand), including a floating coat of neat cement and protecting the
+@113 surface with a layer of 7.5 cm of earth laid over 15 mm of fine sand in
+@113 case of suspended floor and bricks laid in mud mortar in case of landings
+@113 and steps, including subsequent removal and cleaning of the same. @437 sqm @485 150.50
+@58 5.25 @113 Providing and fixing in position copper plate as per design for expansion
+@113 joints. @441 kg @485 811.85
+@58 5.26 @113 Providing and filling in position, blown bitumen in expansion joints. @437 cum @480 74854.65
+@58 5.27 @113 Providing and filling in position bitumen mix filler of proportion 80 kg. of
+@113 hot bitumen, 1 kg. of cement and 0.25 cubic metre of coarse sand for
+@113 expansion joints. @437 cum @480 28212.60
+@58 5.28 @113 Providing and fixing in position 12 mm thick bitumen impregnated fiber @431 per cm
+@113 board conforming to IS: 1838, including cost of primer, sealing compound @426 depth per
+@113 Grade-A in expansion joints. @434 100m @485 655.75
+@58 5.29 @113 Providing and fixing sheet covering over expansion joints with iron screws
+@113 as per design.
+@113 5.29.1 @165 Non-asbestos @230 6 @241 mm @263 thick @288 fibre @313 cement @350 board, @383 Type-A,
+@165 Category-III as per IS: 14862:2000
+@165 5.29.1.1 @220 150 mm wide @434 metre @485 245.45
+@165 5.29.1.2 @220 200 mm wide @434 metre @485 330.20
+@113 5.29.2 @165 Aluminium fluted strips 3.15 mm thick.
+@165 5.29.2.1 @220 150 mm wide @434 metre @485 567.60
+@165 5.29.2.2 @220 200 mm wide @434 metre @485 753.85
+@113 5.29.3 @165 Cement bonded wood particle board 6 mm thick as per IS
+@165 : 14276
+@165 5.29.3.1 @220 150 mm wide @434 metre @485 237.40
+@165 5.29.3.2 @220 200 mm wide @434 metre @485 319.40
+@58 5.30 @113 Add for plaster drip course/ groove in plastered surface or moulding to
+@113 R.C.C. projections. @434 metre @487 78.40
+@58 5.31 @113 Extra for laying reinforced cement concrete in or under water and/ or
+@113 liquid mud, including cost of pumping or bailing out water and removing
+@113 slush etc., complete. @437 cum @482 1098.80
+@113 Note For Item No. 5.31:- The quantity will be calculated by multiplying the
+@113 depth measured from the subsoil water level up to the centre of gravity of
+@113 the R.C.C. under subsoil water with the quantity of R.C.C. in cubic metre
+@113 executed under subsoil water. The depth of centre of gravity shall be
+@113 reckoned correct to 0.1 m (0.05 m or more shall be taken as 0.1 m and
+@113 less than 0.05 m ignored). No extra payment shall be made for placing
+@113 reinforcement or centering & shuttering under sub - soil water conditions.
+@58 5.32 @113 Extra for laying reinforced cement concrete in or under foul positions. @437 cum @485 467.55
+@305 SUB HEAD : 5.0 REINFORCED CEMENT CONCRETE
+@51 111
+=== PAGE 116
+
+=== PAGE 117
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 DESIGN MIX CONCRETE
+@58 5.33 @113 Providing and laying in position ready mixed or site batched design mix
+@113 cement concrete for reinforced cement concrete work; using coarse
+@113 aggregate and fine aggregate derived from natural sources, Portland
+@113 Pozzolana / Ordinary Portland /Portland Slag cement, admixtures in
+@113 recommended proportions as per IS: 9103 to accelerate / retard setting
+@113 of @127 concrete, @172 to @185 improve @225 durability @269 and @291 workability @341 without @377 impairing
+@113 strength; including pumping of concrete to site of laying, curing, carriage
+@113 for all leads; but excluding the cost of centering, shuttering, finishing and
+@113 reinforcement as per direction of the engineer-in-charge, for the following
+@113 grades of concrete.:
+@113 Note: Extra cement up to 10% of the minimum specified cement content
+@113 in design mix shall be payable separately. In case the cement content in
+@113 design mix is more than 110% of the specified minimum cement content,
+@113 the contractor shall have discretion to either re-design the mix or bear the
+@113 cost of extra cement.
+@113 5.33.1 @165 All works upto plinth level
+@165 5.33.1.1 @220 Concrete of M25 grade with minimum cement
+@220 content of 330 kg /cum @437 cum @482 9504.75
+@165 5.33.1.2 @220 Concrete of M30 grade with minimum cement
+@220 content of 350 kg /cum @437 cum @482 9655.70
+@165 5.33.1.3 @220 Concrete of M35 grade with minimum cement
+@220 content of 370 kg /cum @437 cum @482 9806.70
+@165 5.33.1.4 @220 Concrete of M40 grade with minimum cement
+@220 content of 390 kg/cum @437 cum @482 9957.65
+@165 5.33.1.5 @220 Concrete of M50 grade with minimum cement
+@220 content of 410 kg/cum @437 cum @480 10108.65
+@113 5.33.2 @165 All works above plinth level upto floor V level
+@165 5.33.2.1 @220 Concrete of M25 grade with minimum cement
+@220 content of 330 kg /cum @437 cum @482 9860.40
+@165 5.33.2.2 @220 Concrete of M30 grade with minimum cement
+@220 content of 350 kg /cum @437 cum @480 10011.35
+@165 5.33.2.3 @220 Concrete of M35 grade with minimum cement
+@220 content of 370 kg /cum @437 cum @480 10162.35
+@165 5.33.2.4 @220 Concrete of M40 grade with minimum cement
+@220 content of 390 kg /cum @437 cum @480 10313.30
+@165 5.33.2.5 @220 Concrete of M50 grade with minimum cement
+@220 content of 410 kg /cum @437 cum @480 10464.30
+@58 5.33A @113 Providing and laying in position ready mixed or site batched design mix
+@113 cement concrete for reinforced cement concrete work; using coarse
+@113 aggregate and fine aggregate derived from natural sources and using
+@113 recycled @154 concrete @197 aggregate @246 (RCA) @278 as @295 coarse @330 aggregate @379 and @401 fine
+@113 aggregate within permissible utilization of 20% each, Portland Pozzolana
+@113 /Ordinary Portland/Portland Slag cement, admixtures in recommended
+@113 proportions as per IS: 9103 to accelerate / retard setting of concrete, to
+@113 improve durability and workability without impairing strength; including
+@113 pumping of concrete to site of laying, curing, carriage for all leads; but
+@113 excluding the cost of centering, shuttering, finishing and reinforcement as
+@113 per direction of the engineer-in-charge; for the following grades of concrete.
+@113 Note: Extra cement up to 10% of the minimum specified cement content
+@113 in design mix shall be payable separately. In case the cement content in
+@113 design mix is more than 110% of the specified minimum cement content,
+@113 the contractor shall have discretion to either re-design the mix or bear the
+@113 cost of extra cement.
+@305 SUB HEAD : 5.0 REINFORCED CEMENT CONCRETE
+@51 112
+=== PAGE 118

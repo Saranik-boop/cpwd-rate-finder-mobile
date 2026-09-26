@@ -1,0 +1,3082 @@
+=== PAGE 1
+@210 GOVERNMENT OF WEST BENGAL
+@189 PUBLIC WORKS (ROADS) DIRECTORATE
+@228 NATIONAL HIGHWAY WING
+@274 BREAST WALLS WITH GEO-SYNTHETICS
+@102 Road @132 Studs @165 for @186 better
+@102 road safety
+@385 Wire rope crash Barrier
+@385 For less fatalities/ Greater
+@283 White topping
+@417 Road safety
+@99 Tri-axial Geo-grid Reinforcement
+@211 ADDENDA OF NEW ITEMS
+@302 TO
+@227 SCHEDULE OF RATES
+@283 2019-20
+@238 ROAD & BRIDGE WORKS
+@271 1 February 2020
+=== PAGE 2
+@272 Foreword
+@413 st
+@72 NH schedule of rates 2019 -2020 was published @321 with effect from @407 1 @423 June 2019 @481 based on the
+@72 input @106 received @157 from @190 different @242 Manufacturing @321 houses/Organisations/ @440 Related @487 authorities.
+@72 Ministry’s @125 Standard Data Book @238 for analysing of rates ( @360 1st revision, 2003 @459 ) as well as the
+@259 th
+@72 guideline of @134 MoRTH @169 ’s @181 Specification ( @253 5 @269 revision, August 2013 @381 ) were followed.
+@72 As @87 mentioned in the prefacing report to the NH SOR 2019-20 some new items have been
+@72 framed by the NH Planning & Design Circle as an addenda to the NH SOR, 2019-20.
+@72 It is the Ministry’s strong endeavour to introduce new technologies in the construction and
+@72 maintenance of National Highways @263 throughout for quite some time past. For this a good
+@72 number circulars have also been published by the Ministry time to time. But it is to be
+@72 appreciated that for not having any standardise norm for compilation of the rates for the new
+@72 items by framing of its narration and consumption of materials, Labour as well as T& P
+@72 involvement is highly complex and requires a lot of research works.
+@72 State PWD maintains a good number of steel bridges on different NHs. Since a long time back
+@72 it has been felt by the Engineer officers who are to maintain steel bridges that there are no
+@72 suitable item works in the NH SOR to help them. Due to want of standard data book support in
+@72 this @98 specific @145 sector @184 state @217 Engineers @273 are @297 of @316 the @341 practice @390 of @408 framing @454 items @490 related @534 to
+@72 maintenance of structural steel bridges in a highly de-centralised manner and to get the item
+@72 rate approved by the concerned Superintending Engineer. @368 This is for the first time @500 provision
+@72 of items of works related to @217 construction as well as maintenance of structural steel bridges
+@72 have been made in the NH SOR, which would be of great help to those engineers.
+@72 Apart @106 from @136 adoption @186 of @203 new @230 technology, @295 items @329 with @357 environment @426 friendly @472 mode @506 of @522 road
+@72 construction @141 work @172 have @202 also @229 been @260 incorporated @330 to @348 protect @392 our @415 nature @454 against @497 pollution.
+@72 The new items are cost effective as well as economical. As an efficient mode of waste
+@72 management, new items like @222 Waste Plastic Modified Dense Graded Hot Bituminous mix @528 has
+@72 been framed. In order to avoid environment pollution item like @393 Mechanised Mastic Asphalt @534 as
+@72 been included.
+@72 To enhance the better safety to the NH users, several new items for road signage, markings
+@72 have been added in the SOR. @231 For cost optimization in road construction and to achieve
+@72 greater load bearing capacities @235 of the base and sub base layers as well as bituminous surfaces
+@72 different items with geo-grid and geo-textile materials have been formulated.
+@72 The finalisation of items of work was not possible without active co-operation of Engineers
+@72 working in NH Planning & Design Circle as well as Engineer Officers attached with this office.
+@72 Hope this new corrigendum items will major help all the construction wing working under
+@72 National Highway in West Bengal
+@72 All users of this Addenda are requested to feel free in suggesting anything for up gradation of
+@72 the documents in future.
+@109 th
+@72 Date-28 @118 January’2020
+@422 (Saumitra Kumar Maiti)
+@449 Chief Engineer
+@71 KHADYA BHABAN
+@437 (National Highways)
+@76 ST
+@71 1 @83 Floor,Block-A, Room No.-103 @478 &
+@71 11A,Mirza Ghalib Street
+@458 Chairman,
+@71 Kolkata-700 087
+@410 NH Schedule Review Committee
+@71 Phone: (033) 2252 0516
+@425 P.W. (Roads) Directorate
+@71 Fax: @105 (033) 2252 0553
+@419 Government of West Bengal
+@71 E-mail: cenhwb@gmail.com
+@77 nd
+@72 2 @86 Addenda to NH Schedule Of Rates_2019-20 @440 Roads and Bridge Works
+=== PAGE 3
+@272 Report
+@412 st
+@72 NH schedule of rates2019 -2020 was published @319 with effect from @405 1 @421 June 2019 @480 based on
+@72 the @100 input @137 received @191 from @226 different @282 Manufacturing @363 houses/Organisations/ @485 Related
+@72 authorities. @134 Ministry’s @186 Standard Data Book @295 for analysing of rates( @408 1st revision, 2003 @504 ) as
+@309 th
+@72 well as the guideline of @191 MORTH @231 Specification ( @303 5 @319 revision, August 2013 @431 ) were followed.
+@72 In the prefacing report of the @230 NH schedule of rates2019-2020, it was mentioned that
+@72 some @106 new @135 items @170 are @194 in @211 the @236 pipeline @285 and @310 would @349 be @369 introduced @432 very @462 soon @493 as @511 an
+@72 addendum to the NH SOR, 2019-20.
+@72 It is the Ministry’s strong endeavour to introduce new technologies in the construction
+@72 and maintenance of National Highways @281 throughout for quite some time past. For this a
+@72 good number circulars have also been published by the Ministry time to time. But it is to
+@72 be appreciated that for not having any standardise norm for compilation of the rates for
+@72 the new items by framing of its narration and consumption of materials, Labour as well as
+@72 T& P involvement is highly complex and requires a lot of research works.
+@72 State PWD maintains a good number of steel bridges on different NHs. Since a long time
+@72 back it has been felt by the Engineer officers who are to maintain steel bridges that there
+@72 are no suitable item works in the NH SOR to help them. Due to want of standard data book
+@72 support in this specific sector state PWD also remained silent. As such state Engineers are
+@72 of the practice of framing items related to maintenance of structural steel bridges in a
+@72 highly @108 de-centralised @187 manner @231 and @256 to @273 get @296 the @320 item @349 rate @377 approved @430 by @448 the @472 concerned
+@72 Superintending Engineer. @198 This is for the first time @331 provision of items of works related to
+@72 construction as well as maintenance of structural steel bridges @407 have been made in the
+@72 NH SOR. @118 In this context, Indian Railways’ unified schedule of Rates available on portal
+@72 have been of much help.
+@72 Apart from adoption of new technology, items with environment friendly mode of road
+@72 construction work have also been incorporated to protect our nature against pollution.
+@72 The new items are cost effective as well as economical.
+@72 Following new items of works have been included in the chapter 17 as miscellaneous
+@72 items: -
+@90 A. Related to Bituminous Base and Surface Courses works (Chapter-5 of NHSOR 19-20)
+@108 A-1. Mechanised Mastic Asphalt
+@108 A-2. Waste Plastic Modified Dense Graded Hot Bituminous mix
+@108 A-3. Water proofing work with the provision of Asphalt Seal pad on concrete
+@108 surface.
+@90 B. Related to Cement Concrete Pavement works(Chapter-6 of NHSOR 19-20)
+@108 B-1. White Topping& Short Panel Concrete Pavement.
+@108 B-2. Concrete Sawing.
+@108 B-3. Concrete Paver Block.
+@77 nd
+@72 2 @86 Addenda to NH Schedule Of Rates_2019-20 @429 Roads and Bridge Works
+=== PAGE 4
+@90 C. Related to Geo-synthetics and Reinforced Earthworks (Chapter-7 of NHSOR 19-20)
+@105 C-1. Ground improvement with Prefabricated Vertical Drain.
+@105 C-2 & 3. Glass fibre reinforced Geo-grid.
+@105 C-4, 5 & 6. High Modulus Bi-axial Geo-grid.
+@105 C-7.High Modulus Tri-axial Geo-grid.
+@105 C-8. High Strength flexible Geo-grid.
+@105 C-9 & 10. Reinforced Geo-composite 3-dimensional Matrix(Woven).
+@105 C-11. WovenGeo-Textile.
+@105 C-12. Fiber glass geogrid from high quality glass fiber strands and coated with a
+@136 polymer modified bitumen.
+@105 C-13. Non-Woven Geotextile.
+@105 C-14 & 15. Non-Woven Drainage Composite.
+@105 C-16 to 42. Gabion Structure with Mechanically Woven Double Twisted Hexagonal
+@136 Shaped Wire Mesh Gabion Box.
+@105 C-43 to 45. Cylindrical/Sack Gabion.
+@89 D. Related to Traffic Signs, Markings and Other Road Appurtenances (Chapter-8 of SOR)
+@105 D-1. Raised Profile Edge Marking with @313 Reflectorized Hot Applied Thermoplastic
+@129 Compound on Bituminous Road Surface.
+@105 D-2. Hybrid Solar-Retro Reflective Sign.
+@105 D-3. Solar Powered Road Studs.
+@105 D-4. Wire Rope Safety Cash Barrier.
+@105 D-5. RPM with Shank.
+@105 D-6. Median Marker.
+@105 D-7. Retro-Reflective Studs.
+@105 D-8. Rumble Marking.
+@105 D-9. Audible Vibratory Profile Marking.
+@90 E. Related to Bridge structure
+@103 E-1&2. Bridge Work Super Structure Steel.
+@77 nd
+@72 2 @86 Addenda to NH Schedule Of Rates_2019-20 @429 Roads and Bridge Works
+=== PAGE 5
+@99 E-3. Metalizing of Steel work.
+@99 E-4. Cleaning of Steelwork of Bridge.
+@99 E-5, 6, 7 &8. Painting on Bridge Structure.
+@224 nd
+@72 The compilation/framing of @218 2 @238 Addenda @287 was a robust task involving collection of data
+@72 from different Manufacturing Houses, Construction Agencies, and Specialised Firms to
+@72 fabricate the new items of work with consultation with Government officers working in NH
+@72 construction wing. Also verification of item of works &rates in consultation with different
+@72 expert Engineers and specialised agencies for finalising schedule items of work with @503 cost
+@72 of works was not possible without active co-operation of Engineers working in @470 Planning &
+@72 Design Circle(NH) as well as Engineer Officers attached with o/o the Chief Engineer (NH).
+@72 Hope this new corrigendum items will major help all the construction wing working under
+@72 National Highway in West Bengal. The contribution made by Sri Rajib Chattoraj,the then
+@72 Assistant Chief Engineer-I (NH), in framing the narrative of each and every new items is
+@72 praiseworthy. His subsequent contribution even after demitting that chair is being highly
+@72 acclaimed by NH Wing.
+@115 th
+@72 Date: @103 28 @124 January 2020
+@70 KHADYA BHABAN
+@75 nd
+@70 2 @85 Floor, Block-A, Room No.-207
+@70 11A, MirzaGhalib Street
+@70 Kolkata-700 087
+@70 Phone & Fax: (033) 2252 1524
+@70 E-mail: sepwrdnh@gmail.com
+@411 (Sovan Kumar Mukhopadhyay)
+@89 (Parthasarathi @154 De) @238 ( @242 Samaresh Bhattacharyya)
+@424 Superintending Engineer,
+@91 Executive Engineer @243 Superintending @309 Engineer
+@416 NH Planning & Design Circle,
+@65 NH Planning & Design Division-II @271 NH Circle-I
+@467 And
+@81 P.W(Roads).Directorate @246 P.W(Roads).Directorate
+@411 Member Secretary & Convener,
+@73 Government of West Bengal @237 Government of West Bengal
+@410 NH Schedule Review Committee
+@424 P.W. (Roads) Directorate
+@418 Government of West Bengal
+@104 (Prabir Kr. Sahu)
+@425 (Saumitra Kumar Maiti)
+@86 Assistant Chief Engineer-I
+@432 Chief Engineer (NH)
+@100 National Highways
+@425 P.W(Roads).Directorate
+@90 P.W(Roads).Directorate
+@416 Government of West Bengal
+@80 Government of West Bengal
+@77 nd
+@72 2 @86 Addenda to NH Schedule Of Rates_2019-20 @429 Roads and Bridge Works
+=== PAGE 6
+@263 CONTENTS
+@485 Page No.
+@54 GENERAL @164 Chapter -A
+@164 Approximate material requirements for different Items of
+@54 Chapter - A @149 - @495 1-47
+@164 work
+@54 Chapter -17 @149 - @164 Miscellaneous
+@54 A. @164 New Items related to @272 base and surface courses ( Bituminous) @499 48
+@54 B. @164 New Items related to @272 Cement concrete Pavement
+@492 49-50
+@54 C. @164 New Items related to @272 Geo Synthetics and Reinforced Earth @492 51-63
+@54 D. @164 New Items related to @272 Traffic Signs, Markimg, and other Road
+@492 64-66
+@164 appurtenances
+@164 Steel Structure of @257 Bridge
+@54 E. @492 67-68
+@54 TABLES
+@499 69
+@54 Table - I (Part-C) @149 - @164 Rate of Paver Block in Different District
+@54 ANNEXURE
+@54 Annexure - III @164 Illustrative Examples @492 70-77
+@51 2nd Addenda to N H Schedule of Rates _2019-20 @432 Roads and Bridge Works
+=== PAGE 7
+@219 Chapter @340 - @354 a
+@115 APPR @159 O @175 XIMAT @235 E MATER @314 I @320 AL @350 RE @371 Q @387 UIR @418 EME @455 N @469 T
+@279 FOR
+@170 DIFFE @217 T @229 ENT @270 I @276 T @287 EMS OF WO @392 R @403 KS
+=== PAGE 8
+@264 CHAPTER -A
+@77 Items & materials
+@95 A. @113 Consumption of Materials For New Items Related to Bases and Surface
+@113 courses ( Bituminous ) Chapter 5 of NH SOR 2019-20
+@77 Item No. A-1. Mechanized Mastic Asphalt (25mm thick)
+@77 Unit- cum
+@77 Materials Requirement
+@81 Follow as per Chapter ‘A’ Item No. 5.14.of NH SOR 2019 @358 -20.
+@77 Item No. A-2. @162 Waste Plastic Modified Dense Graded Hot Bituminous Mix For Wearing
+@77 Course.
+@77 Unit- cum
+@77 Materials Requirement
+@77 Per cum of Waste Plastic Modified Dense Graded Hot Bituminous Mix For Wearing Course.
+@514 m
+@322 Grading @368 – @376 II, @391 13.2 mm @445 nominal max
+@149 Size of crushed
+@310 aggregate size (layer thickness 30-40mm)
+@145 stone aggregates
+@409 Cum
+@83 20mm @308 -
+@83 13.2mm @410 0.07
+@83 10mm @410 0.24
+@83 5.6mm @410 0.25
+@83 2.36mm @410 0.18
+@83 1.18mm @410 0.13
+@83 600 micron @410 0.13
+@83 300 micron @410 0.13
+@83 150 micron @410 0.10
+@83 75 micron @410 0.23
+@83 Bitumen content (%) by mass of total mix.
+@83 Bitumen may be VG 30 or VG 40 as per
+@392 5.4 % (min.)
+@83 design mix depending on location of site
+@83 and volume of traffic.
+@391 127 Kg (Min)
+@83 Bitumen content @172 by mass
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@492 Page 1
+=== PAGE 9
+@77 Items & materials
+@83 Waste Plastic content by mass @ 8% by wt of bitumen @426 10.16 kg
+@83 Filler(@ 2 % by total weight of aggregate)(Cement
+@83 /lime* / Rock dust ) @426 44.57 kg
+@77 Notes: -- Quantities are only for estimation. For execution, grading shall conform to table
+@378 th
+@77 500-17 of MoRT&H specification for road and bridge works (5 @388 Revision ,2013)
+@77 * Lime as a filler material should be Hydrated Lime [ i.e. chemically known as @469 Ca(OH)2 ]
+@77 Item No. A-3.Water proofing work with the provision of Asphalt Seal Pad for bridge deck,
+@77 Road @111 Over @144 Bridges, @194 Parking @241 Decks, @283 Bridge @324 Ramps, @370 Elevated @423 Roadways, @485 Pedestrian
+@77 Subways @131 (Concrete @192 Surface)with @268 5mm @303 thick @339 Asphalt @387 seal @418 pad @446 made @484 of @505 atactic
+@77 polypropylene @160 polymer @210 (APP) @247 modified @301 bituminous @366 pad @394 reinforced @456 with @487 nonwoven
+@77 polymer mat.
+@77 Unit- sqm
+@77 Materials Requirement
+@77 Heavy duty polymer modified bituminous Mastic Pad (APP) 5mm thick specially designed for
+@77 bridge deck Road Over Bridges, Parking Decks, Bridge Ramps, Elevated Roadways, Pedestrian
+@77 Subways,configured with high strength dimensionally stable heavy weight hybrid reinforcing
+@77 media at core and finished suitably on top with calibrated minerals for protecting and
+@77 enhancing durability. = 1.1 sqm per sqm
+@77 Single component modified bituminous primer with mixing 1:1 ratio = 0.25 kg per sqm
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@492 Page 2
+=== PAGE 10
+@77 Items & materials
+@95 B. @113 Consumption @194 of @213 Materials @274 For @301 New @332 Items @370 Related @421 to @441 Cement @491 concrete
+@113 pavement chapter 6 of NH SOR 2019-20
+@77 Item No. B-1 White Topping
+@77 Unit- cum
+@77 Materials Requirement
+@77 Coarse Aggregate: The maximum size of coarse aggregate shall not exceed 31.5mm, 26.5 mm
+@492 th
+@77 & 11.2 mm nominal size(conforming to clause 602.2.6.2 & 602.2.6.4 of MoRT&H's 5 @502 revision
+@77 2013) graded stone chips @ 0.9 cum / cum. of Compacted vol.
+@534 th
+@77 Fine Aggregate : Coarse Sand (conforming to clause 602.2.6.3 & 602.2.6.4 of MoRT&H's 5
+@77 revision 2013): @ 0.45 cum / cum of Compacted vol.
+@77 Cement: As per mix design Ref : IRC : 44
+@77 Steel: 25 mm dia MS Dowel bars of Grade I conforming to IS: 432 @ 1.005 kg/cum. of
+@77 Compacted vol.
+@77 Steel: 10 mm dia Deformed steel Tie bars of Grade Fe 500 conforming to IS: 1786 @0.990 kg
+@77 / cum. of Compacted vol.
+@77 Joint Sealant @152 = 0.74 Kg / cum. For construction joint only.
+@77 Sealant Primer =0.10 Kg / cum. of Compacted vol.
+@77 Plastic sheath 0.5mm thick for Dowel bars =0.044 sqm. / cum. of Compacted vol.
+@77 Curing Compound: 1.76 lit. / cum. of Compacted vol.
+@77 Super Plasticizer Admixture IS Marked as per 9103 - 1999 @ 0.5 % by wt. of Cement = 1.97 kg
+@77 / cum of Compacted vol.
+@77 Fibres if incorporated in Mixed design to be considered in estimate separately.
+@77 Water: @ 205.71 lit. / cum. of Compacted vol.
+@77 Note @114 : @128 1) Add 1% of material for cost of miscellaneous materials.
+@77 2) Quantities are only for estimation. For execution, grading shall conforming totable 600-3
+@148 th
+@77 of MoRT&H's 5 @157 revision 2013.
+@77 3) Fly-ash upto 20% by wt. of cementenious material to be used in replace of OPC,such that
+@534 th
+@77 OPC content shall not be less than 310 kg /cum. as per clause 602.3.2 of MoRT&H's 5
+@77 revision 2013.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@492 Page 3
+=== PAGE 11
+@72 Items & materials
+@72 Item No. B-3 @147 Concrete Block Pavement.
+@72 Unit-sqm
+@72 Materials Requirement
+@72 Consumption of materials per sq.m.
+@110 Materials @259 Type-I @335 Type-II @408 Type-III @485 Type-IV
+@101 Requirement @204 Unit @255 120 mm @334 100mm @412 80mm @489 60mm
+@251 thickness @329 thickness @404 thickness @481 thickness
+@87 (i)Paver Block (BIS @204 sqm
+@263 1.05 @341 1.05 @416 1.05 @493 1.05
+@112 marked)
+@86 (ii) Bedding Sand + @204 cum @263 0.06 @341 0.06 @416 0.06 @493 0.06
+@91 Joint filling sand
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@492 Page 4
+=== PAGE 12
+@77 Items & materials
+@95 C. @113 Consumption of Materials For New Items Related to Geosynthetics and
+@113 reinforced earth Chapter 7 of NH SOR 2019-20
+@77 Item No. C-2 Geogrid for pavement reinforcement consisting of glass fiber strands
+@77 arranged in a grid shape with squared polymeric coated mesh having 50KN/sqm minimum
+@77 tensile strength.
+@77 Unit-sqm
+@77 Geogrid for pavement reinforcement consisting of glass fiber strands arranged in a grid shape
+@77 with squared polymeric coated mesh. The geogrid should have minimum tensile strength
+@77 upto 50KN/sqm in longitudinal and transverse direction having 25 x25 mm mesh opening. The
+@457 th
+@77 material should comply with the specifications of @325 clause 708 of MoRT&H's 5 @467 revision 2013.
+@77 Materials Requirement
+@77 Glass fiber reinforced geogrid = 1.0 sqm per sqm.
+@77 Add 10 per cent of the cost of reinforcing elements (Glass fiber geogrid) for accessories like
+@77 tie-strips, nuts and bolts and loops/lugs etc. for joining, lap length if required and
+@77 transportation.
+@167 Fiber Glass Geogrid (25 mm x 25 mm) @351 mesh (FOR EXAMPLE)
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@492 Page 5
+=== PAGE 13
+@77 Items & materials
+@77 Item @108 No. @133 C-3 @157 Geogrid @204 for @226 pavement @284 reinforcement @366 consisting @424 of @441 glass @472 fiber @504 strands
+@77 arranged @131 in @148 a @162 grid @189 shape @227 with @257 squared @306 polymeric @365 coated @407 mesh @442 having @483 100KN/sqm
+@77 minimum tensile strength.
+@77 Unit-sqm
+@77 Geogrid for pavement reinforcement application consisting of glass fiber strands arranged in
+@77 a grid shape with squared polymeric coated mesh having upto 200kN/m minimum tensile
+@77 strength in longitudinal and transverse direction, and having 12.5 x 12.5 mm mesh opening.
+@488 th
+@77 The material should comply with specifications of @345 clause 708 of MoRT&H's 5 @501 revision
+@77 2013.
+@77 Materials Requirement
+@77 Glass Fiber reinforced Geogrid = 1.0 sqm per sqm.
+@77 Add 10 per cent of the cost of reinforcing elements (Glass Fiber Geogrid) for accessories like
+@77 tie-strips, @133 nuts @162 and @187 bolts @219 and @245 loops/lugs @303 etc. @330 for @352 joining, @398 lap @421 length @459 if @474 required @524 and
+@77 transportation.
+@162 Fiber Glass Geogrid (12.5mm x 12.5mm) mesh (FOR EXAMPLE)
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@492 Page 6
+=== PAGE 14
+@77 Items & materials
+@77 Item No. C-4 High modulus polypropylene bi-axial extruded geogrid for base/sub-base
+@77 reinforcement in pavements of Minimum ultimate tensile strength of 15 KN/m (Ref to
+@146 th
+@77 MoRT&H’s @139 5 @156 Revision 2013 Specification 708).
+@77 Unit-sqm
+@97 High modulus polypropylene bi-axial extruded geogrid for Item No. C-4, C-5 and C-6 (FOR
+@286 EXAMPLE)
+@77 High @108 modulus @157 polypropylene @235 bi-axial @280 extruded @332 geogrid @377 conforming @441 to @459 Section @504 700 @531 of
+@140 th
+@77 MoRT&H's 5 @152 revision 2013 @229 specifications for base/sub-base reinforcement in pavements
+@77 having
+@81 Minimum LCR/MIF value of 1.2 for subgrade CBR≤3 @331 %,
+@77 Minimum ultimate tensile strength of 15 KN/m in both cross machine and machine direction,
+@77 with Minimum 5KN/m & 7KN/m tensile strength at 2% and 5% strain respectively in both
+@77 machine and cross-machine direction,
+@77 Junction efficiency not less than 90% of rib ultimate tensile strength and with 38mm X 38mm
+@77 mesh opening.
+@77 Materials Requirement
+@77 High modulus polypropylene bi-axial Geogrids = 1.0 sqm per sqm.
+@77 Add 10 per cent of the cost of reinforcing elements (High modulus polypropylene bi-axial
+@77 Geogrid) for accessories like tie-strips, nuts and bolts and loops/lugs etc. for joining, lap
+@77 length if required and transportation.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@492 Page 7
+=== PAGE 15
+@77 Items & materials
+@77 Item No. C-5 @156 High modulus polypropylene bi-axial extruded geogrid for base/sub-base
+@77 reinforcement in pavements of Minimum ultimate tensile strength of 20 KN/m. (Ref to
+@139 th
+@77 MoRT&H’s 5 @149 Revision 2013, Spec 708).
+@77 Unit-sqm
+@77 High @108 modulus @157 polypropylene @235 bi-axial @281 extruded @334 geogrid @379 confirming @440 to @459 Section @503 700 @531 of
+@140 th
+@77 MoRT&H's 5 @152 revision 2013 @229 specifications for base/sub-base reinforcement in pavements
+@77 having
+@81 Minimum LCR/MIF value of 1.2 for subgrade CBR≤3 @331 %,
+@81 Minimum ultimate tensile strength of 20 KN/m in both cross machine and machine direction,
+@77 with minimum 7kN/m & 14kN/m tensile strength at 2% and 5% strain respectively in both
+@77 machine and cross-machine direction,
+@77 Junction efficiency not less than 90% of rib ultimate tensile strength and with 38mm X 38mm
+@77 mesh opening.
+@77 Materials Requirement
+@77 High modulus polypropylene bi-axial Geogrids = 1.0 sqm per sqm.
+@77 Add 10 per cent of the cost of reinforcing elements (High modulus polypropylene bi-axial
+@77 Geogrid) for accessories like tie-strips, nuts and bolts and loops/lugs etc. for joining, lap
+@77 length if required and transportation.
+@77 Item No. C-6 High modulus polypropylene bi-axial extruded geogrid for base/sub-base
+@77 reinforcement in pavements of Minimum ultimate tensile strength of 30 KN/m, (Ref to
+@136 th
+@77 MoRT&H’s @130 5 @143 Revision2013, Spec 708).
+@77 Unit-sqm
+@77 High @108 modulus @157 polypropylene @235 bi-axial @281 extruded @334 geogrid @379 confirming @440 to @459 Section @503 700 @531 of
+@140 th
+@77 MoRT&H's 5 @152 revision 2013 @229 specifications for base/sub-base reinforcement in pavements
+@77 having minimum LCR/MIF value of 1.2 for @286 subgrade CBR≤3 @364 %,
+@77 Minimum ultimate tensile strength of 30 kN/m in both cross machine and machine direction,
+@77 with minimum 10kN/m & 21kN/m tensile strength at 2% and 5% strain respectively in both
+@77 machine and cross-machine direction, Junction efficiency not less than 90% of rib ultimate
+@77 tensile strength and with 38mm X 38mm mesh opening.
+@77 Materials Requirement
+@77 High modulus polypropylene bi-axial Geogrids = 1.0 sqm per sqm.
+@77 Add 10 per cent of the cost of reinforcing elements (High modulus polypropylene bi-axial
+@77 Geogrid) for accessories like tie-strips, nuts and bolts and loops/lugs etc. for joining, lap
+@77 length if required and transportation.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@492 Page 8
+=== PAGE 16
+@77 Items & materials
+@77 Item @108 No. @132 C-7. @161 High @191 radial @227 stiffness @277 and @302 radial @339 stiffness @389 ratio @420 polypropylene @501 tri-axial
+@77 punched @130 and @157 stretched @215 geogrid @261 with @292 triangular @351 aperture @405 and @432 hexagonal @493 geometry
+@77 confirming @140 to @158 ISO @182 10319/EOTA @253 TR41 @287 and @313 with @343 IRC @367 accreditation @443 for @465 base/sub @518 base
+@77 stabilization in pavements with MIF value greater than 1.8 (IRC SP 59-2019-3.1.3 along
+@77 with IRC : 37, 2018, clause no 7.2) @267 for sub grade CBR≤3% with radial secant stiffness of
+@393 th
+@77 390 KN/m (tolerance 75 KN/m) at 5% strength , ( MoRT&H's 5 @400 Revision 2013,Table 700-7)
+@77 and radial secant stiffness ratio of 0.7 to 0.8, junction efficiency greater than 90% with
+@77 distance between alternate parallel ribs as 80mm.
+@77 Unit-sqm
+@77 Materials Requirement
+@77 Tri axial polypropylene geogrids as per approved design and specifications. = 1 sqm per sqm.
+@77 Add 10 per cent of the cost of reinforcing elements (High modulus polypropylene Tri-axial
+@77 geogrids) for accessories like tie-strips, nuts and bolts and loops/lugs for joining reinforcing
+@77 elements @130 with @158 the @182 facia @213 pannels, @262 overlaps @310 and @335 other @369 protective @427 elements @479 for @500 Tri-axial
+@77 polypropylene geogrid and all other activities required to complete the item in all respect
+@77 including taxes and transportation.
+@120 High modulus polypropylene Tri-axial geogrids(From Item No.7) (FOR EXAMPLE)
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@492 Page 9
+=== PAGE 17
+@77 Items & materials
+@77 Item No. C-8 High strength flexible geogrids (HSFG) as soil reinforcement of different
+@310 th
+@77 ultimate tensile strength.(Ref to MoRT&H’s 5 @320 Revision 2013, Spec 3100 & 703).
+@77 Unit-sqm
+@81 High strength Flexible geogrid of various Ultimate Tensile strength @409 (From It. No. 8( i ) to 8 (iii)
+@273 (FOR EXAMPLE)
+@77 Supplying and laying of @196 High Strength Flexible geogrids @361 (HSFG) as soil reinforcement / basal
+@250 th
+@77 reinforcement as per @187 Mo @202 RT&H’s @244 5 @261 Revision,2013,clause 3100 and IRC 113, @476 made of high
+@77 tenacity polyester core with polyethylene coating with Minimum Long Term Design Strength
+@77 (LTDS) of more than 50% of ultimate tensile strength at 30 degree Celsius corresponding to 12
+@77 % strain.
+@77 i). High strength flexible geogrid of Ultimate Tensile strength of 500 kN/m
+@77 Materials Requirement
+@77 High strength flexible Geogrids = 1.0 sqm per sqm.
+@77 Add 10 per cent of the cost of reinforcing elements (High strength flexible Geogrid) for
+@77 accessories like tie-strips, nuts @246 and bolts and @326 loops/lugs etc. for joining, lap length if
+@77 required and transportation.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 10
+=== PAGE 18
+@77 Items & materials
+@77 ii). High strength flexible geogrid of Ultimate Tensile strength of 900 kN/m
+@77 Materials Requirement
+@77 High strength flexible Geogrids = 1.0 sqm/sqm.
+@77 Add 10 per cent of the cost of reinforcing elements (High strength flexible Geogrid) for
+@77 accessories like tie-strips, nuts and bolts and @326 loops/lugs etc. for joining, lap length if
+@77 required and transportation.
+@77 iii). High strength geogrid of Ultimate Tensile strength of 1200 kN/m
+@77 Materials Requirement
+@77 High strength flexible Geogrids = 1.0 sqm per sqm.
+@77 Add 10 per cent of the cost of reinforcing elements (High strength flexible Geogrid) for
+@77 accessories like tie-strips, nuts and bolts and @326 loops/lugs etc. for joining, lap length if
+@77 required and transportation.
+@77 Item No. C- 9 Reinforced Geo composite made of Polypropylene Polymer made three
+@277 th
+@77 dimensional matrix @180 (Ref to MoRT&H’s @270 5 @287 Revision Specification 706, 2013).
+@77 Unit-sqm
+@90 Reinforced Geocomposite made of Polypropylene Polymer made three dimensional matrix of
+@145 different mass per unit area. (From Item No.9 and 10 (FOR EXAMPLE)
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 11
+=== PAGE 19
+@77 Items & materials
+@77 Reinforced Geo composite made of Polypropylene Polymer made three dimensional matrix of
+@77 minimum mass per unit area 450 grams/sq.m. extruded onto a mechanically woven double
+@77 twisted hexagonal shaped steel wire Mesh and Mesh Type 6X8 having Zn coating.
+@77 The composite have a combined @247 mass per unit @326 and nominal thickness of 12mm; including
+@77 fixing of U pins of 8mm diameter of depth 500mm at 1m c/c spacing.
+@95 i) @131 Double twisted hexagonal shaped steel wire Mesh having dia 2.2mm and the
+@131 composite shall have a combined mass per unit area more than 1630 Grams /
+@131 Sq.m.
+@77 Materials Requirement
+@77 3D geo mat including wastages due to overlaps = 1 sqm per sqm.
+@77 Steel for U pins - 8mm dia. And 500mm depth and spaced at 1m x 1m including wastage of 3%
+@77 = 1 no per sq m.
+@95 ii) @131 Double twisted hexagonal shaped steel wire Mesh having dia 2.2/3.2mm and
+@131 the composite shall have a combined mass per unit area more than 1920
+@131 Grams / Sq.m.
+@77 Materials Requirement
+@77 3D geomat including wastages due to overlaps = 1 sqm per sqm.
+@77 Steel for U pins - 8mm dia. And 500mm depth and spaced at 1m x 1m including wastage of 3%
+@77 = 1 no per sq m.
+@77 Item No. C-10 Reinforced Geo composite made of Polypropylene Polymer made three
+@277 th
+@77 dimensional matrix @180 (Ref to MoRT&H’s @270 5 @287 Revision Spec 706, 2013).
+@77 Unit-sqm
+@77 Supplying and laying of Reinforced Geo composite made of Polypropylene Polymer made
+@77 three dimensional matrix of minimum mass per unit area 450 grams/sqm extruded onto a
+@77 mechanically woven double twisted hexagonal shaped steel wire Mesh and Mesh Type 8X10
+@77 having Zn coating .
+@81 The composite shall have a combined mass per unit area and nominal thickness of 12mm;
+@77 including fixing of U pins of 8mm diameter of depth 500mm at 1m c/c spacing, at easily
+@77 accessible location including top and bottom, with all leads and lifts,
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 12
+=== PAGE 20
+@77 Items & materials
+@95 i) @131 Double twisted hexagonal shaped steel wire Mesh having dia 2.7mm and the
+@131 composite shall have a combined mass per unit area more than 1850 Grams /
+@131 Sq.m.
+@77 Materials Requirement
+@77 3D geomat including wastages due to overlaps = 1 sqm per sqm.
+@77 Steel for U pins - 8mm dia. And 500mm depth and spaced at 1m x 1m including wastage of 3%
+@77 = 1 no per sq.m.
+@95 ii) @131 Double twisted hexagonal shaped steel wire Mesh having dia 2.7/3.7mm and
+@131 the composite shall have a combined mass per unit area more than 2130
+@131 Grams / Sqm.
+@95 Materials Requirement
+@95 3D geomat including wastages due to overlaps = 1 sqm. per sqm.
+@77 Steel for U pins - 8mm dia. And 500mm depth and spaced at 1m x 1m including wastage of 3%
+@77 = 1 no per sq m.
+@77 Item No.C-11. Woven Geotextile as per Clause No. 702 on the prepared subgrade as the
+@77 separator cum reinforcement with necessary overlap as per drawing. ( @453 Ref to MoRT&H’s
+@84 th
+@77 5 @94 Revision Spec 700, 2500, 2013).
+@77 Unit-sqm
+@192 Woven Geotextile of Item No C-11(FOR EXAMPLE)
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 13
+=== PAGE 21
+@77 Items & materials
+@77 Materials Requirement
+@95 i) @131 For Type-I (160gsm) woven Geotextile
+@77 Woven Geotextile as per approved design and specifications. = 1 sq.m. per sq.m.
+@95 ii) @131 For Type-II (240gsm) woven Geotextile
+@77 Woven Geotextile as per approved design and specifications. = 1 sq.m. per sq.m.
+@95 iii) @131 For Type-III (450gsm) woven Geotextile
+@77 Woven Geotextile as per approved design and specifications. = 1 sq.m. per sq.m.
+@77 Item No. C-12 Providing and laying a fibre glass geogrid manufactured from high quality
+@77 glass fibre strands and coated with a polymer modified bitumen as reinforcement to
+@77 Asphalt @123 overlay @168 flexible @214 pavements @277 and @303 Asphalt @348 over @378 distressed @437 rigid @468 P.C.C @503 (Ref @531 to
+@139 th
+@77 MoRT&H’s 5 @149 revision 2013 Spec 708).
+@77 Unit-sqm
+@82 Fiber glass geogrid manufactured from high quality glass fiber strands and coated with a polymer
+@196 modified bitumen ( @286 From Item No.12 (i) and (ii) )
+@273 (FOR EXAMPLE)
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 14
+=== PAGE 22
+@77 Items & materials
+@77 Materials Requirement
+@99 i) @135 For Tensile stength-50 kN/m
+@134 Fiber Glass Geogrids as per approved design and specifications = 1 sqm per sqm.
+@99 ii) @135 For Tensile stength-100 kN/m
+@135 Fiber Glass Geogrids as per approved design and specifications = 1 sqm per sqm.
+@77 Item No. C-13 Providing and laying Needle Punched and mechanically bonded non-woven
+@77 Geotextile indigenously manufactured from high quality fibers on the prepared subgrade
+@255 th
+@77 for Separation @151 . @155 (Ref to MoRT&H’s 5 @265 Revision 2013, Spec- 702).
+@77 Unit-sq.m.
+@125 Punched and mechanically bonded non-woven Geotextile for the Item No C-13
+@273 (FOR EXAMPLE)
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 15
+=== PAGE 23
+@77 Items & materials
+@77 Materials Requirement
+@95 i) @131 For Type-I (150gsm) non woven Geotextile
+@114 Non -woven Geotextile as per approved design and specifications. = 1 sq.m per sq.m.
+@95 ii) @131 For Type-II (200gsm) non woven Geotextile
+@113 Non-woven Geotextile as per approved design and specifications. = 1 sq.m per sq.m.
+@95 iii) @131 For Type-III (450gsm) non-woven Geotextile
+@111 Non-woven Geotextile as per approved design and specifications. = 1 sq.m per sq.m.
+@77 Item No.C-14 One filtering UV stabilized polypropylene nonwoven geotextile @494 . @504 (Ref to
+@77 CPWD SOR 2016, Sub Head 26 for New Technologies and Materials Code No 8960).
+@77 Unit-sqm
+@113 One filtering UV stabilized polypropylene nonwoven geotextile @413 . @419 (Item No. 14 & 15)
+@273 (FOR EXAMPLE)
+@77 Drainage composite for use behind walls having three dimensional composite with thermo
+@77 bonding a draining core having “W” configuration in extruded monofilaments of minimum
+@77 thickness 6.9 mm with one filtering UV stabilized polypropylene nonwoven geotextile of
+@77 minimum thickness of 0.75mm.
+@81 Tensile strength of 8.0 KN/m that will be working as separation or protecting layer, geo
+@77 composite having in plane flow capacity of 2.60 L / (m.s) at hydraulic gradient of @488 1.0 at 20 k
+@77 pa pressure and tensile strength of 12 KN/m.
+@81 Mass per unit area of 540 gsm supplied in the form of roll for easy transportation to site of
+@77 work as per detailed specification all complete as per directions of Engineer in charge.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 16
+=== PAGE 24
+@77 Items & materials
+@77 Materials Requirement
+@77 Polypropylene @156 nonwoven @214 geotextile @273 drainage @324 Composite @385 as @404 per @429 approved @484 design @524 and
+@77 specifications = 1 sqm per sqm .
+@77 Add 10 per cent of the cost of Polypropylene nonwoven geotextile drainage composites for
+@77 accessories for joining seats with the facia panels, overlaps and other protective elements
+@77 for @100 Polypropylene @179 nonwoven @237 geotextile @295 Drainage @347 composites @411 and @438 other @473 miscellaneous
+@77 activities required to complete the item in all respect including transportation and takes.
+@77 Note: Lower gsm may be used in RE structure.
+@77 Item No. C-15. Two filtering UV stabilized polypropylene nonwoven geotextile. (Ref to
+@77 CPWD SOR 2016, Sub Head 26 for New Technologies and Materials Code No 8960).
+@77 Unit-sqm
+@77 Drainage composite for use behind walls, between two different fills, alongside drains of
+@77 road, below concrete lining of canals etc. having three dimensional composite with thermo
+@77 bonding a draining core having “W” configuration in extruded monofilaments of @496 minimum
+@77 thickness 7.2mm, with two filtering UV stabilized polypropylene nonwoven geotextile of
+@77 minimum thickness of 0.75mm.
+@77 Tensile strength of 8.0 KN/m that will be working as separation or protecting layer, geo
+@77 composite having in plane flow capacity of 2.3 L / (m.s) at hydraulic gradient of 1.0 & 20 kPa
+@77 pressure.
+@81 Tensile strength of 18 KN/m , with mass per unit area of 740 gsm, at @454 easily @491 accessible
+@77 location @124 including @175 top @198 and @223 bottom, @269 with @298 all @316 leads @349 and @373 lifts, @403 manpower @462 and @486 machinery,
+@77 materials, labour etc. complete @242 and @266 as @283 directed @331 by Engineer - In - Charge.
+@77 Materials Requirement
+@77 Polypropylene @156 nonwoven @214 geotextile @273 Composite @333 Drainage @385 as @404 per @429 approved @483 design @523 and
+@77 specifications = 1 sqm per sqm.
+@77 Add 10 per cent of the cost of Polypropylene nonwoven geotextile drainage Composite for
+@77 accessories for joining seats with the facia panels, overlaps and other protective elements
+@77 for @100 Polypropylene @179 nonwoven @237 geotextile @296 drainage @347 composites @411 and @437 other @473 miscellaneous
+@77 activities required to complete the item in all respect including transportation and takes.
+@77 Note: Higher gsm may be used in drainage composite at the time of pavement construction.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 17
+=== PAGE 25
+@77 Items & materials
+@77 Item No C-16. Providing & making BIS certified Gabion fascia box.
+@77 Unit-cum
+@77 Providing & making of BIS certified Gabion fascia box with 2m integrated tail of @521 Size
+@77 3m(Length of Tail)x3m(Length of Box)x1m(Height of unit) @380 with Mechanically Woven Double
+@493 th
+@77 Twisted Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @442 MoRTH’s 5 @503 revision
+@77 2013, clause 2500, of required size, Mesh Type 10x12 (D=100 mm with tolerance of ± 2%) Zn +
+@77 10% Al alloy +Polymer coated, Mesh wire diameter @351 2.70/3.70 @405 mm (ID/OD), mechanically
+@77 edged/selvedge with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of @476 diameter 2.2
+@77 /3.2 @103 mm (ID/OD), supplied @3% by weight of Gabion boxes, filled with boulders with least
+@77 dimension of 200 mm, as per drawing, all complete as per direction of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm. = 1 cum per cum
+@136 BIS certified Gabion fascia box of different height @371 (Item No. C-16 to C- 24)
+@273 (FOR EXAMPLE)
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 18
+=== PAGE 26
+@77 Items & materials
+@77 Item No. C-17. Providing & making BIS certified Gabion fascia box.
+@77 Unit-cum
+@77 Providing @132 & @147 making @190 BIS @212 certified @263 Gabion @306 fascia @342 box @367 with @397 2m @419 integrated @480 tail @503 of @521 Size
+@77 3m(Length @140 of @158 Tail)x3m(Length @249 of @267 Box)x0.5m(Height @367 of @385 unit) @409 with @438 Mechanically @509 Woven
+@77 Double Twisted Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @499 MoRTH’s
+@83 th
+@77 5 @90 revision clause 2500, of required size, Mesh Type 10x12 (D=100 mm with tolerance of ± 2%)
+@77 Zn + 10% Al alloy +Polymer coated, Mesh wire diameter @357 2.70/3.70 @409 mm (ID/OD), mechanically
+@77 edged/selvedge with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of diameter 2.2
+@77 mm, supplied @3% by weight of Gabion boxes, filled with boulders with least dimension of
+@77 200 mm, as per drawing, all complete as per direction of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm = 1 cum per cum.
+@77 Item No. C-18. Providing & making BIS certified Gabion fascia box.
+@77 Unit-cum
+@77 Providing @132 & @147 making @190 BIS @212 certified @263 Gabion @306 fascia @342 box @367 with @397 2m @420 integrated @480 tail @503 of @521 Size
+@77 3m(Length @140 of @158 Tail)x3m(Length @249 of @267 Box)x0.8m(Height @367 of @385 unit) @409 with @438 Mechanically @509 Woven
+@535 th
+@77 Double Twisted Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @483 MoRTH’s 5
+@77 revision clause 2500, of required size, Mesh Type 10x12 (D=100 mm with tolerance of ± 2%)
+@77 Zn + 10% Al alloy +Polymer coated, Mesh wire diameter @357 2.70/3.70 mm @431 (ID/OD), mechanically
+@77 edged/selvedged with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of diameter 2.2
+@77 mm, supplied @3% by weight of Gabion boxes, filled with boulders with least dimension of
+@77 200 mm, as per drawing, all complete as per direction of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm = 1 cum per cum.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 19
+=== PAGE 27
+@77 Items & materials
+@77 Item No. C-19 Providing & making BIS certified Gabion fascia box.
+@77 Unit-cum
+@77 Providing @132 & @147 making @190 BIS @212 certified @263 Gabion @306 fascia @342 box @367 with @397 2m @420 integrated @480 tail @503 of @521 Size
+@77 3m(Length of Tail)x3m(Length of Box)x1m(Height of unit) @378 with Mechanically Woven Double
+@535 th
+@77 Twisted Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @473 MoRT&H’s 5
+@77 revision clause 2500, of required size, Mesh Type 10x12 (D=100 mm with tolerance of ± 2%)
+@77 Zn @101 +Polymer @159 coated, @208 Mesh @244 wire @277 diameter @334 2.70/3.70 @394 mm @424 (ID/OD), @477 mechanically
+@77 edged/selvedged with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of diameter @526 2.2
+@77 /3.2 mm @126 (ID/OD), supplied @3% by weight of Gabion boxes, filled with boulders with least
+@77 dimension of 200 mm, as per drawing, all complete as per direction of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm= 1 cum per cum.
+@77 Item No. C-20. Providing & making BIS certified Gabion fascia box.
+@77 Unit-cum
+@77 Providing @132 & @147 making @190 BIS @212 certified @263 Gabion @306 fascia @342 box @367 with @397 2m @419 integrated @480 tail @503 of @521 Size
+@77 3m(Length of Tail)x3m(Length of Box)x0.5m(Height of unit) @412 with Mechanically Woven
+@77 Double Twisted Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @492 MoRT&H’s
+@83 th
+@77 5 @94 revision clause 2500, of required size, Mesh Type 10x12 (D=100 mm with tolerance of ±
+@77 2%) @103 Zn @124 +Polymer @178 coated, @225 Mesh @258 wire @288 diameter @342 2.70/3.70 @399 mm @426 (ID/OD), @477 mechanically
+@77 edged/selvedged with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of diameter 2.2
+@77 mm, supplied @3% by weight of Gabion boxes, filled with boulders with least dimension of
+@77 200 mm, as per drawing, all complete as per direction of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm= 1 cum per cum.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 20
+=== PAGE 28
+@77 Items & materials
+@77 Item No. C-21. Providing & making BIS certified Gabion fascia box.
+@77 Unit-cum
+@77 Providing @132 & @147 making @190 BIS @212 certified @263 Gabion @306 fascia @342 box @367 with @397 2m @419 integrated @480 tail @503 of @521 Size
+@77 3m(Length of Tail)x3m(Length of Box)x0.8m(Height of unit) @412 with Mechanically Woven
+@77 Double Twisted Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @492 MoRT&H’s
+@83 th
+@77 5 @94 revision clause 2500, of required size, Mesh Type 10x12 (D=100 mm with tolerance of ±
+@77 2%) @101 Zn @121 + @134 10% @159 Al @176 alloy @207 +Polymer @260 coated, @305 Mesh @337 wire @366 diameter @418 2.70/3.70 @474 mm @500 (ID/OD),
+@77 mechanically edged/selvedged with partitions at every 1m interval and shall have minimum
+@77 10 numbers of openings per meter of mesh perpendicular to twist, tying with lacing wire of
+@77 diameter 2.2 mm, supplied @3% by weight of Gabion boxes, filled with boulders with least
+@77 dimension of 200 mm, as per drawing, all complete as per direction of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm= 1 cum per cum.
+@77 Item No. C-22. Providing & making BIS certified Gabion fascia box.
+@77 Unit-cum
+@77 Providing @132 & @147 making @190 BIS @212 certified @263 Gabion @306 fascia @342 box @367 with @397 2m @419 integrated @480 tail @503 of @521 Size
+@77 3m(Length @139 of @157 Tail)x3m(Length @251 of @269 Box)x1m(Height @359 of @377 unit) @410 with @438 Mechanically @509 Woven
+@77 Double Twisted Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012,, @492 MoRT&H’s
+@83 th
+@77 5 @94 revision clause 2500, of required size, Mesh Type 10x12 (D=100 mm with tolerance of ±
+@77 2%) @103 Zn @123 +Polymer @178 coated, @224 Mesh @257 wire @288 diameter @342 2.70/3.70 @399 mm @426 (ID/OD), @477 mechanically
+@77 edged/selvedged with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of diameter @526 2.2
+@77 /3.2 @103 mm (ID/OD), supplied @3% by weight of Gabion boxes, filled with boulders with least
+@77 dimension of 200 mm, as per drawing, all complete as per direction of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm=1 cum per cum.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 21
+=== PAGE 29
+@77 Items & materials
+@77 Item No. C-23 Providing & making BIS certified Gabion fascia box.
+@77 Unit-cum
+@77 Providing @132 & @147 making @190 BIS @212 certified @263 Gabion @306 fascia @342 box @367 with @397 2m @419 integrated @480 tail @503 of @520 Size
+@77 3m(Length of Tail)x3m(Length of Box)x0.5m(Height of unit) @411 with Mechanically Woven
+@77 Double Twisted Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @492 MoRT&H’s
+@83 th
+@77 5 @93 revision clause 2500, of required size, Mesh Type 10x12 (D=100 mm with tolerance of ±
+@77 2%) @103 Zn @124 +Polymer @178 coated, @225 Mesh @258 wire @288 diameter @342 2.70/3.70 @399 mm @426 (ID/OD), @477 mechanically
+@77 edged/selvedged with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of diameter 2.2
+@77 mm, supplied @3% by weight of Gabion boxes, filled with boulders with least dimension of
+@77 200 mm, as per drawing, all complete as per direction of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm= 1cum per cum.
+@77 Item No. C-24. Providing & making BIS certified Gabion fascia box.
+@77 Unit-cum
+@77 Providing @132 & @147 making @190 BIS @212 certified @263 Gabion @306 fascia @342 box @368 with @397 2m @420 integrated @480 tail @503 of @520 Size
+@77 3m(Length of Tail)x3m(Length of Box)x0.8m(Height of unit) @411 with Mechanically Woven
+@77 Double Twisted Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @492 MoRT&H’s
+@83 th
+@77 5 @93 revision clause 2500,of required size, Mesh Type 10x12 (D=100 mm with tolerance of ± 2%)
+@77 Zn + 10% Al alloy +Polymer coated, Mesh wire diameter 2.70/3.70 mm (ID/OD), mechanically
+@77 edged/selvedged with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of diameter 2.2
+@77 mm, supplied @3% by weight of Gabion boxes, filled with boulders with least dimension of
+@77 200 mm, as per drawing, all complete as per direction of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm= 1 cum per cum.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 22
+=== PAGE 30
+@77 Items & materials
+@77 Item No. C-25 Providing & making BIS certified Gabion fascia box
+@77 Unit-cum
+@77 Providing & making Gabion structure of size (2x1x1)m with Mechanically Woven Double
+@535 th
+@77 Twisted Hexagonal Shaped Wire mesh Gabion Boxes @363 as per IS 16014:2012, @474 MoRT&H’s 5
+@77 revision clause 2500 of required size, Mesh Type 10x12(D=100 mm with tolerance of ±2%),
+@77 Zinc+10% Al alloy+Polymer coated, Mesh wire diameter 2.7/3.7mm (ID/OD), mechanically
+@77 edged/selvedged with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of diameter
+@77 2.2/3.2mm(ID/OD), supplied @3% by weight of Gabion boxes, filled with boulders with least
+@77 dimension of 200 mm, as per drawing, all complete as per directions of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm= 1 cum per cum.
+@136 BIS certified Gabion fascia box of different height (Item No.C-25 to C-33)
+@273 (FOR EXAMPLE)
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 23
+=== PAGE 31
+@77 Items & materials
+@77 Item No. @132 C-26.Gabion structure with @285 Mechanically Woven Double Twisted Hexagonal
+@426 th
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @364 MoRT&H’s 5 @436 revision 2013 clause
+@77 2500.
+@77 Unit-cum
+@77 Providing & making Gabion structure of size (2x0.5x1)m with Mechanically Woven Double
+@535 th
+@77 Twisted Hexagonal Shaped Wire mesh Gabion Boxes @363 as per IS 16014:2012, @474 MoRT&H’s 5
+@77 revision clause 2500 of required size, Mesh Type 10x12(D=100 mm with tolerance of ±2%),
+@77 Zinc+10% Al alloy+Polymer coated, Mesh wire diameter 2.7/3.7mm (ID/OD), mechanically
+@77 edged/selvedged with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of diameter
+@77 2.2/3.2mm(ID/OD), supplied @3% by weight of Gabion boxes, filled with boulders with least
+@77 dimension of 200 mm, as per drawing, all complete as per directions of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm= 1.0 cum per cum.
+@77 Item No. @132 C-27.Gabion structure with @285 Mechanically Woven Double Twisted Hexagonal
+@426 th
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @364 MoRT&H’s 5 @436 revision 2013 clause
+@77 2500.
+@77 Unit-cum
+@77 Providing & making Gabion structure of size (2x0.8x1)m with Mechanically Woven Double
+@535 th
+@77 Twisted Hexagonal Shaped Wire mesh Gabion Boxes @363 as per IS 16014:2012, @474 MoRT&H’s 5
+@77 revision clause 2500, of required size, Mesh Type 10x12(D=100 mm with tolerance of ±2%),
+@77 Zinc+10% Al alloy+Polymer coated, Mesh wire diameter 2.7/3.7mm (ID/OD), mechanically
+@77 edged/selvedged with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of diameter
+@77 2.2/3.2mm(ID/OD), supplied @3% by weight of Gabion boxes, filled with boulders with least
+@77 dimension of 200 mm, as per drawing, all complete as per directions of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm= 1 cum per cum.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 24
+=== PAGE 32
+@77 Items & materials
+@77 Item No. @132 C-28.Gabion structure with @285 Mechanically Woven Double Twisted Hexagonal
+@426 th
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @364 MoRT&H’s 5 @436 revision 2013 clause
+@77 2500.
+@77 Unit-cum
+@77 Providing & making Gabion structure of size (2x1x1)m with Mechanically Woven Double
+@77 Twisted Hexagonal Shaped Wire mesh Gabion Boxes @360 as per IS 16014:2012, @470 MoRT&H’s 5th
+@77 revision clause 2500, of required size, Mesh Type 10x12(D=100 mm with tolerance of ±2%),
+@77 Zinc+Polymer @159 coated, @212 Mesh @252 wire @289 diameter @349 2.7/3.7mm @420 (ID/OD), @477 mechanically
+@77 edged/selvedged with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of diameter
+@77 2.2/3.2mm(ID/OD), supplied @3% by weight of Gabion boxes, filled with boulders with least
+@77 dimension of 200 mm, as per drawing, all complete as per directions of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm= 1 cum per cum.
+@77 Item No. @132 C-29.Gabion structure with @285 Mechanically Woven Double Twisted Hexagonal
+@450 th
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @386 MoRT&H’s 5 @463 revision clause
+@77 2500.
+@77 Unit-cum
+@77 Providing & making Gabion structure of size (2x0.5x1)m with Mechanically Woven Double
+@77 Twisted Hexagonal Shaped Wire mesh Gabion Boxes @360 as per IS 16014:2012, @470 MoRT&H’s 5th
+@77 revision clause 2500, of required size, Mesh Type 10x12(D=100 mm with tolerance of ±2%),
+@77 Zinc+Polymer @159 coated, @212 Mesh @252 wire @289 diameter @349 2.7/3.7mm @420 (ID/OD), @477 mechanically
+@77 edged/selvedged with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of diameter
+@77 2.2/3.2mm(ID/OD), supplied @3% by weight of Gabion boxes, filled with boulders with least
+@77 dimension of 200 mm, as per drawing, all complete as per directions of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm=1.0 cum per cum.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 25
+=== PAGE 33
+@77 Items & materials
+@77 Item No. C-30. Gabion structure with Mechanically Woven Double Twisted Hexagonal
+@429 th
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @367 MoRT&H’s 5 @435 revision 2013 clause
+@77 2500.
+@77 Unit-cum
+@77 Providing & making Gabion structure of size (2x0.8x1)m with Mechanically Woven Double
+@535 th
+@77 Twisted Hexagonal Shaped Wire mesh Gabion Boxes @363 as per IS 16014:2012, @474 MoRT&H’s 5
+@77 revision clause 2500.of required size, Mesh Type 10x12(D=100 mm with tolerance of ±2%),
+@77 Zinc+Polymer @159 coated, @212 Mesh @252 wire @289 diameter @349 2.7/3.7mm @420 (ID/OD), @477 mechanically
+@77 edged/selvedged with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of diameter
+@77 2.2/3.2mm(ID/OD), supplied @3% by weight of Gabion boxes, filled with boulders with least
+@77 dimension of 200 mm, as per drawing, all complete as per directions of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm= 1cum per cum.
+@77 Item No. @132 C-31.Gabion structure with @285 Mechanically Woven Double Twisted Hexagonal
+@426 th
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @364 MoRT&H’s 5 @436 revision 2013 clause
+@77 2500.
+@77 Unit-cum
+@77 Providing & making Gabion structure of size (2x1x1)m with Mechanically Woven Double
+@535 th
+@77 Twisted Hexagonal Shaped Wire mesh Gabion Boxes @363 as per IS 16014:2012, @474 MoRT&H’s 5
+@77 revision clause 2500.of required size, Mesh Type 10x12(D=100 mm with tolerance of ±2%),
+@77 Zinc coated, Mesh wire diameter 2.7/3.7mm (ID/OD), mechanically edged/selvedged with
+@77 partitions at every 1m interval and shall have minimum 10 numbers of openings per meter of
+@77 mesh perpendicular to twist, tying with lacing wire of diameter 2.2/3.2mm(ID/OD), supplied
+@77 @3% by weight of Gabion boxes, filled with boulders with least dimension of 200 mm, as per
+@77 drawing, all complete as per directions of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm= 1 cum per cum.
+@77 Item No. @132 C-32.Gabion structure with @285 Mechanically Woven Double Twisted Hexagonal
+@426 th
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @364 MoRT&H’s 5 @436 revision 2013 clause
+@77 2500.
+@77 Unit-cum.
+@77 Providing & making Gabion structure of size (2x0.5x1)m with Mechanically Woven Double
+@77 Twisted Hexagonal Shaped Wire mesh Gabion Boxes @360 as per IS 16014:2012, @470 MoRT&H’s 5th
+@77 revision clause 2500.of required size, Mesh Type 10x12(D=100 mm with tolerance of ±2%),
+@77 Zinc coated, Mesh wire diameter 2.7/3.7mm (ID/OD), mechanically edged/selvedged with
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 26
+=== PAGE 34
+@77 Items & materials
+@77 partitions at every 1m interval and shall have minimum 10 numbers of openings per meter of
+@77 mesh perpendicular to twist, tying with lacing wire of diameter 2.2/3.2mm(ID/OD), supplied
+@77 @3% by weight of Gabion boxes, filled with boulders with least dimension of 200 mm, as per
+@77 drawing, all complete as per directions of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm= 1.0 cum per cum.
+@77 Item No. @132 C-33.Gabion structure with @285 Mechanically Woven Double Twisted Hexagonal
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @388 MoRT&H’s 5th revision @516 2013
+@77 clause 2500
+@77 Unit-cum
+@77 Providing & making Gabion structure of size (2x0.8x1)m with Mechanically Woven Double
+@77 Twisted Hexagonal Shaped Wire mesh Gabion Boxes @360 as per IS 16014:2012, @470 MoRT&H’s 5th
+@77 revision clause 2500, of required size, Mesh Type 10x12(D=100 mm with tolerance of ±2%),
+@77 Zinc coated, Mesh wire diameter 2.7/3.7mm (ID/OD), mechanically edged/selvedged with
+@77 partitions at every 1m interval and shall have minimum 10 numbers of openings per meter of
+@77 mesh perpendicular to twist, tying with lacing wire of diameter 2.2/3.2mm(ID/OD), supplied
+@77 @3% by weight of Gabion boxes, filled with boulders with least dimension of 200 mm, as per
+@77 drawing, all complete as per directions of Engineer-in- charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm=1 cum per cum.
+@77 Item No. @132 C-34.Gabion structure with @285 Mechanically Woven Double Twisted Hexagonal
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @388 MoRT&H’s 5th revision @516 2013
+@77 clause 2500.
+@77 Unit-cum
+@77 Providing & making BIS certified Gabion structure of size (2x0.17x1)m with Mechanically
+@77 Woven Double Twisted Hexagonal Shaped Wire mesh Gabion mattress Boxes @496 as per IS
+@77 16014:2012, @137 MoRT&H’s 5th revision clause 2500. @320 of required size, Mesh Type 6x8 (D=60 mm
+@77 with tolerance of ± 2%) Zn + 10% Al alloy +Polymer coated, Mesh wire diameter 2.20/3.20
+@77 mm (ID/OD), mechanically edged/selvedged with partitions at every 1m interval and shall
+@77 have minimum 10 numbers of openings per meter of mesh perpendicular to twist, tying with
+@77 lacing wire of diameter 2.2 /3.2 mm (ID/OD), supplied @3% by weight of Gabion boxes, filled
+@77 with boulders with least dimension of 200 mm, as per drawing, all complete as per direction
+@77 of Engineer-in-charge.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 27
+=== PAGE 35
+@77 Items & materials
+@77 Materials Requirement
+@77 Stone boulder with least dimension 200mm=1 cum per cum.
+@137 BIS certified Gabion fascia box of different height @372 (Item No. C-34 to C-36)
+@273 (FOR EXAMPLE)
+@77 Item No. @132 C-35.Gabion structure with @285 Mechanically Woven Double Twisted Hexagonal
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @388 MoRT&H’s 5th revision @516 2013
+@77 clause 2500.
+@77 Unit-cum.
+@77 Providing & making BIS certified Gabion structure of size (2x0.23x1)m with Mechanically
+@77 Woven Double Twisted Hexagonal Shaped Wire mesh Gabion mattress Boxes @496 as per IS
+@77 16014:2012, @137 MoRT&H’s 5th revision clause 2500. @320 of required size, Mesh Type 6x8 (D=60 mm
+@77 with tolerance of ± 2%) Zn + 10% Al alloy +Polymer coated, Mesh wire diameter 2.20/3.20
+@77 mm (ID/OD), mechanically edged/selvedged with partitions at every 1m interval and shall
+@77 have minimum 10 numbers of openings per meter of mesh perpendicular to twist, tying with
+@77 lacing wire of diameter 2.2 /3.2 mm (ID/OD), supplied @3% by weight of Gabion boxes, filled
+@77 with boulders with least dimension of 200 mm, as per drawing, all complete as per direction
+@77 of Engineer-in-charge.
+@77 Materials Requirement @197 .
+@77 Stone boulder with least dimension 90-120mm= 1 cum per cum
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 28
+=== PAGE 36
+@77 Items & materials
+@77 Item No. @132 C-36.Gabion structure with @285 Mechanically Woven Double Twisted Hexagonal
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @388 MoRT&H’s 5th @469 revision 2013
+@77 clause 2500.
+@77 Unit-cum.
+@77 Providing & making BIS certified Gabion structure of size (2x0.3x1)m with Mechanically
+@77 Woven Double Twisted Hexagonal Shaped Wire mesh Gabion mattress Boxes @496 as per IS
+@77 16014:2012, @137 MoRT&H’s 5th revision clause 2500 @314 , of required size, Mesh Type 6x8 (D=60 mm
+@77 with tolerance of ± 2%) Zn + 10% Al alloy +Polymer coated, Mesh wire diameter 2.20/3.20
+@77 mm (ID/OD), mechanically edged/selvedged with partitions at every 1m interval and shall
+@77 have minimum 10 numbers of openings per meter of mesh perpendicular to twist, tying with
+@77 lacing wire of diameter 2.2 /3.2 mm (ID/OD), supplied @3% by weight of Gabion boxes, filled
+@77 with boulders with least dimension of 200 mm, as per drawing, all complete as per direction
+@77 of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 90-120mm=1 cum per cum.
+@77 Item No. @132 C-37.Gabion structure with @285 Mechanically Woven Double Twisted Hexagonal
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @388 MoRT&H’s 5th revision @516 2013
+@77 clause 2500.
+@77 Unit-cum.
+@77 Providing & making BIS certified Gabion structure of size (2x0.17x1)m with Mechanically
+@77 Woven Double Twisted Hexagonal Shaped Wire mesh Gabion mattress Boxes @496 as per IS
+@77 16014:2012, @137 MoRT&H’s 5th revision clause 2500 @314 , of required size, Mesh Type 6x8 (D=60 mm
+@77 with tolerance of ± 2%) Zn +Polymer coated, Mesh wire diameter 2.20/3.20 mm (ID/OD),
+@77 mechanically edged/selvedged with partitions at every 1m interval and shall have minimum
+@77 10 numbers of openings per meter of mesh perpendicular to twist, tying with lacing wire of
+@77 diameter 2.2 /3.2 mm (ID/OD), supplied @3% by weight of Gabion boxes, filled with boulders
+@77 with least dimension of 200 mm, as per drawing, all complete as per direction of Engineer-in-
+@77 charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 90-120mm=1 cum per box cum.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 29
+=== PAGE 37
+@77 Items & materials
+@134 BIS certified Gabion fascia box of different height (Item No. C-37 to C-39)
+@273 (FOR EXAMPLE)
+@77 Item No. @132 C-38.Gabion structure with @285 Mechanically Woven Double Twisted Hexagonal
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @388 MoRT&H’s 5th revision @516 2013
+@77 clause 2500.
+@77 Unit-cum.
+@77 Providing & making BIS certified Gabion structure of size (2x0.23x1)m with Mechanically
+@77 Woven Double Twisted Hexagonal Shaped Wire mesh Gabion mattress @461 Boxes @496 as per IS
+@77 16014:2012, @137 MoRT&H’s 5th revision clause 2500. @320 of required size, Mesh Type 6x8 (D=60 mm
+@77 with tolerance of ± 2%) Zn +Polymer coated, Mesh wire diameter 2.20/3.20 mm (ID/OD),
+@77 mechanically edged/selvedged with partitions at every 1m interval and shall have minimum
+@77 10 numbers of openings per meter of mesh perpendicular to twist, tying with lacing wire of
+@77 diameter 2.2 /3.2 mm (ID/OD), supplied @3% by weight of Gabion boxes, filled with boulders
+@77 with least dimension of 200 mm, as per drawing, all complete as per direction of Engineer-in-
+@77 charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 90-120mm=1 cum per cum.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 30
+=== PAGE 38
+@77 Items & materials
+@77 Item No. @132 C-39.Gabion structure with @285 Mechanically Woven Double Twisted Hexagonal
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @388 MoRT&H’s 5th revision @516 2013
+@77 clause 2500.
+@77 Unit-cum.
+@77 Providing & making BIS certified Gabion structure of size (2x0.3x1)m with Mechanically
+@77 Woven Double Twisted Hexagonal Shaped Wire mesh Gabion mattress Boxes @496 as per IS
+@77 16014:2012, @137 MoRT&H’s 5th revision clause 2500 @314 , of required size, Mesh Type 6x8 (D=60 mm
+@77 with tolerance of ± 2%) Zn +Polymer coated, Mesh wire diameter 2.20/3.20 mm (ID/OD),
+@77 mechanically edged/selvedged with partitions at every 1m interval and shall have minimum
+@77 10 numbers of openings per meter of mesh perpendicular to twist, tying with lacing wire of
+@77 diameter 2.2 /3.2 mm (ID/OD), supplied @3% by weight of Gabion boxes, filled with boulders
+@77 with least dimension of 200 mm, as per drawing, all complete as per direction of Engineer-in-
+@77 charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 90-120mm=1cum per cum.
+@77 Item No. @132 C-40.Gabion structure with @285 Mechanically Woven Double Twisted Hexagonal
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @388 MoRT&H’s 5th revision @516 2013
+@77 clause 2500.
+@77 Unit-cum.
+@77 Providing @135 & @152 making @197 BIS @222 certified @275 Gabion @320 structure @377 w @395 of @414 size @444 (2x0.17x1)m @519 with
+@77 Mechanically Woven Double Twisted Hexagonal Shaped Wire mesh Gabion mattress Boxes
+@77 as per IS 16014:2012, @189 MoRT&H’s 5th revision clause 2500. @374 of required size, Mesh Type 6x8
+@77 (D=60 mm with tolerance of ± 2%) Zn @279 coated, Mesh wire diameter 2.20 mm, mechanically
+@77 edged/selvedged with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of diameter 2.2
+@77 /3.2 mm (ID/OD), supplied @3% by weight of Gabion boxes, filled with boulders with least
+@77 dimension of 200 mm, as per drawing, all complete as per direction of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 90-120mm=1 cum per cum.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 31
+=== PAGE 39
+@77 Items & materials
+@137 BIS certified Gabion fascia box of different height @372 (Item No. C-40 to C-42)
+@273 (FOR EXAMPLE)
+@77 Item No. C-41. Gabion structure with Mechanically Woven Double Twisted Hexagonal
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @388 MoRT&H’s 5th revision @516 2013
+@77 clause 2500.
+@77 Unit-cum.
+@77 Providing @135 & @152 making @198 BIS @223 certified @276 Gabion @321 structure @379 of @398 size @428 (2x0.23x1)m @503 e @519 with
+@77 Mechanically Woven Double Twisted Hexagonal Shaped Wire mesh Gabion mattress Boxes
+@77 as per IS 16014:2012, @188 MoRT&H’s 5th revision clause 2500 @367 , of required size, Mesh Type 6x8
+@77 (D=60 mm with tolerance of ± 2%) Zn coated, Mesh wire diameter 2.20 mm, mechanically
+@77 edged/selvedged with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of diameter 2.2
+@77 /3.2 mm (ID/OD), supplied @3% by weight of Gabion boxes, filled with boulders with least
+@77 dimension of 200 mm, as per drawing, all complete as per direction of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 90-120mm=1 cum per cum.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 32
+=== PAGE 40
+@77 Items & materials
+@77 Item No. C-42 Gabion structure with Mechanically Woven Double Twisted Hexagonal
+@77 Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @388 MoRT&H’s 5th revision @516 2013
+@77 clause 2500.
+@77 Unit-cum.
+@77 Providing & making BIS certified Gabion structure of size (2x0.3x1)m with Mechanically
+@77 Woven Double Twisted Hexagonal Shaped Wire mesh Gabion mattress Boxes @496 as per IS
+@77 16014:2012, @137 MoRT&H’s 5th revision @256 2013 clause 2500.of required size, Mesh Type 6x8 (D=60
+@77 mm @103 with @132 tolerance @186 of @203 ± @216 2%) @239 Zn @258 coated, @303 Mesh. @338 wire @367 diameter @419 2.20 @448 mm, @477 mechanically
+@77 edged/selvedged with partitions at every 1m interval and shall have minimum 10 numbers of
+@77 openings per meter of mesh perpendicular to twist, tying with lacing wire of diameter 2.2
+@77 /3.2 mm (ID/OD), supplied @3% by weight of Gabion boxes, filled with boulders with least
+@77 dimension of 200 mm, as per drawing, all complete as per direction of Engineer-in-charge.
+@77 Materials Requirement
+@77 Stone boulder with least dimension 90-120mm =1 cum per cum.
+@77 Item @108 No @129 C-43.Cylindrical @219 Gabions @266 /Sack @301 Gabions @348 structure @403 with @433 Mechanically @507 Woven
+@77 Double Twisted Hexagonal Shaped Wire mesh.
+@77 Unit-cum.
+@77 Supply of Cylindrical Gabions /Sack Gabions of size 2 m in length and 0.96 m diameter @538 .
+@77 The Sack Gabions shall be made of the mechanically woven hexagonal double twisted @518 Zn +
+@77 10% Al alloy +Polymer Coated wire mesh, Mesh Size10x12 @395 . The approximate minimum
+@77 weight @118 of @136 the @161 sack @190 gabion @230 would @267 be @287 1350 @318 kg @337 when @371 filled @405 as @423 per @447 detailed @496 technical
+@77 specification.
+@77 Materials Requirement
+@77 Quantity of sand required = 1 cum. Per cum.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 33
+=== PAGE 41
+@77 Items & materials
+@79 Cylindrical Gabions /Sack Gabions structure with Mechanically Woven Double Twisted Hexagonal
+@122 Shaped of different coated Wire mesh @315 (Item No. C-43to C-45) (FOR EXAMPLE)
+@77 Item @108 No. @132 C-44.Cylindrical @221 Gabions @268 /Sack @303 Gabions @350 structure @404 with @434 Mechanically @507 Woven
+@77 Double Twisted Hexagonal Shaped Wire mesh.
+@77 Unit @102 – @110 cum.
+@77 Supply of Cylindrical Gabions /Sack Gabions of size 2 m in length and 0.96 m diameter @538 .
+@77 The Sack Gabions shall be made of the mechanically woven hexagonal double twisted @529 Zn
+@77 +Polymer Coated wire mesh, Mesh Size10x12 @321 . The approximate minimum weight of the
+@77 sack gabion would be 1350 kg when filled as per detailed technical specification.
+@77 Materials Requirement
+@77 Quantity of sand required = 1 cum. Per cum.
+@77 Item @108 No. @132 C-45.Cylindrical @221 Gabions @268 /Sack @303 Gabions @350 structure @404 with @434 Mechanically @507 Woven
+@77 Double Twisted Hexagonal Shaped Wire mesh.
+@77 Unit @102 – @110 cum.
+@77 Supply of Cylindrical Gabions /Sack Gabions of size 2 m in length and 0.96 m diameter @538 .
+@77 The Sack Gabions shall be made of the mechanically woven hexagonal double twisted @529 Zn
+@77 Coated wire mesh, Mesh Size10x12. @272 The approximate minimum weight of the sack gabion
+@77 would be 1350 kg when filled as per detailed technical specification.
+@77 Materials Requirement
+@77 Quantity of sand required = 1 cum. Per cum.
+@77 Note: - The photography are provided to give an idea about the product associated with the
+@77 particular item. It is necessarily not meant to use the product of a particular manufacturer but
+@77 the specification has mentioned in the item should be strictly followed @414 .
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 34
+=== PAGE 42
+@77 Items & materials
+@77 D)Consumption of Materials For New Items Related to Traffic signs, Marking and
+@77 other road appurtenances chapter 8 of NH SOR 2019-20
+@77 Item No. D-1Raised Profile Edge Markings with Reflectorized Hot Applied Thermoplastic
+@77 Compound on Bituminous Road surfaces.
+@77 Unit @101 – @106 sq. m.
+@77 Raised Profile Edge Markings with Hot Applied Thermoplastic Road Markings along with Drop
+@77 on Glass Beads as per the Provisions laid in @292 IRC 35-2015.
+@77 The height of the rib should be 8 mm for normal roads and it may extend upto 11 mm in case
+@77 of expressway.
+@77 The general gap between each rib shall vary between 200-500 mm, as per the direction of
+@77 the Engineer in charge.
+@200 .
+@118 Raised Profile Edge Markings with Reflectorized Hot Applied Thermoplastic
+@234 Compound for Item no. D-1
+@261 (FOR EXAMPLE)
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 35
+=== PAGE 43
+@72 Items & materials
+@72 Specifications for Raised Profile Edge Line Material
+@72 Following are the specifications of the material to be adopted for the provision of Rib Line
+@72 Edge Marking as per the Australian Standard AS 4049.2-2005
+@76 Sl No. @200 Property @423 Value
+@88 1 @205 Colour @340 White: Equivalent to or whiter thanY35
+@387 off white (AS2700S).
+@338 Yellow: Equivalent to or whiter thanY14
+@375 golden yellow (AS2700S).
+@88 2 @194 Luminance @394 Not less than 75%
+@88 3 @183 Softening Point @348 100-110 degree Celsius (AS 2314.18)
+@88 4 @162 Initial Retro reflectivity @372 Minimum 250 mod/lux/m2
+@88 5 @136 Retro reflectivity after one month @372 Minimum 150 mod/lux/m2
+@88 6 @183 Skid Resistance @396 Minimum 45 BPN
+@88 7 @205 Binder @395 18-20% by weight
+@88 8 @192 Glass Beads @402 20% by weight
+@88 9 @181 Mineral Content @339 50-60% by weight ( including aggregate,
+@386 pigment & extender)
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 36
+=== PAGE 44
+@75 Note: The rate of ribbed edge line marker is as per Ministry's Circular Ref. No.
+@295 rd
+@72 RW/NH/12013/11/6/SP (B @206 – @213 6)/EAP, Dated-3 @306 January 2019.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 37
+=== PAGE 45
+@72 Items & materials
+@72 Item No. D-2. Hybrid Solar-Retro Reflective Chevron Signs.
+@72 Unit @96 – @103 each
+@72 .
+@72 Solar @105 Powered @157 Retro @193 Reflective @252 LED @279 Blinking @327 Chevron @377 Signs @410 as @427 per @452 the @476 following
+@72 specifications Solar panel @207 : @231 450 MaH/9v/4 watts, Battery: Li-ion 6 Volt 4.5 AH.C-10,
+@72 Back up time: 108 hrs, Led: 112-130 nos.
+@72 Display thickness: @169 ACP or Aluminum 2 mm thick, Powder coated body. The Unit shall be
+@72 self-sufficient and shall be mounted on a Circular Pole: 50 NB (medium) duly painted and
+@72 grouted into the soil using M15 concrete (45 cm x 45 cm x 60 cm) Size: 600 mm x 450 mm.
+@72 The Retro reflective sheeting shall be HIP, Type IV @325 as per IRC 67.
+@139 Hybrid Solar-Retro Reflective Chevron Signs for D-2(FOR EXAMPLE)
+@72 Item No. D-3 @137 . @148 Solar Powered Road Studs @281 : -
+@75 Unit @99 – @107 each.
+@72 Solar powered road studs rectangular/circular shape (with super bright LEDs for long
+@72 visibility from distance greater than 800m) having twin shank and body made of aluminum
+@72 alloy or polycarbonate material which shall be absolutely weather resistant.
+@72 Strong enough to support a land of 13635 kg tested in accordance with @433 ASTM-D 4280 @506 and
+@72 water resistance as per IP65 in reference with @312 IS 12063:1987 @388 , fixed to the road surface
+@72 using adhesives and the procedure recommended by manufacturer as per clause no @494 804.6
+@193 th
+@72 and @93 804.7 @123 of MoRT&H's 5 @203 Revision 2013.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 38
+=== PAGE 46
+@72 Items & materials
+@160 Solar Powered Road Studs for Item No. D-3(FOR EXAMPLE)
+@72 Item No. D-4 Wire Rope Safety Crash Barrier
+@79 Unit @103 – @110 Running Metre.
+@75 Wire Rope Safety Barrier, meeting and conforming to @347 IRC:119 :2015, @429 Annexure II, Sec 4.
+@72 The barrier shall be supplied complete with steel posts (spacing 3.0m c/c), Post length
+@72 1200mm, Post Cross Section not less than 100 x 50 x 16 mm, thickness 4 mm, plastic cap
+@72 for @95 post @125 with @156 retro-reflective @242 sheet, @281 plastic @323 cable @359 spacers, @408 Stainless @460 Steel @493 Strap,
+@72 rectangular steel sections having thickness 3mm and length 420mm to be used as post
+@72 foundation sleeves, plastic top covers and bottom caps for steel sleeves, 3 galvanized wire
+@72 ropes @106 running @151 along @185 the @209 entire @247 length, @290 each @320 wire @350 rope @380 19mm @417 diameter, @474 (3x7)-pre-
+@72 stretched-16.7 Ton capacity, required steel fittings, steel turnbuckles, steel anchors and
+@72 M30 concrete complete.
+@75 All steel components of the barrier shall be hot dip galvanized, having an average zinc
+@72 coating thickness not less than 75 microns.
+@72 The installation shall include excavating in soft soil for post foundations (250 mm dia x 610
+@72 mm depth at 3m c/c), excavation in all kind of soil for end anchor foundations (1m x 1m
+@72 x1.5m each, 2 for each section), grouting of steel sleeves up to depth of 420 mm in each
+@72 post foundation with M30 concrete, grouting anchor plates in each end anchor foundation
+@72 with
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 39
+=== PAGE 47
+@72 Items & materials
+@72 M30 concrete, placing of posts in the grouted steel sleeves ensuring that the posts and
+@72 barrier are in line and level.
+@72 Note:The @125 bidder @164 shall @194 enclose @237 all @257 relevant @306 papers @345 in @362 support @406 of @424 meeting @471 the @494 above
+@72 criteria, the bidder shall also enclose Authorization from the OEM.
+@143 Wire Rope Safety Crash Barrier Item No D-4(FOR EXAMPLE)
+@72 Item No. D-5 Reflective Pavement Marker with Shank
+@79 Unit @103 – @110 each.
+@75 Single mould twin shanked moulded road markers/ road studs made of poly carbonate or
+@72 ABS body and shall support a load of 13635 kg tested in accordance to ASTM D4280.
+@381 th
+@75 Complying with specifications @231 as per clause 804 of MoRT&H5 @392 revision 2013 and section5
+@72 of IRC-35:2015, the reflecting panels shall consist of number of lenses containing single or
+@72 dual prismatic cubes capable of providing total internal reflection of the light entering the
+@72 lenses face.
+@72 The slope of retro reflecting surface should be 25 +/-5 degree to base. The reflective
+@72 marker shall be fixed on the road surface using the epoxy/adhesive and the procedure
+@72 recommended by the manufacturer. No nails shall be used to affix the markers so that
+@72 they do not pose safety hazard on the road.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 40
+=== PAGE 48
+@72 Items & materials
+@134 Reflective Pavement Marker with Shank for D-5(FOR EXAMPLE)
+@72 Item No. D-6 Median Marker:
+@72 Unit @96 – @103 each.
+@72 Made up of tough, impact resistant thermoplastic body, reflectorized on both side using
+@72 apx. 85 x 85 mm (for square shape or equivalent in case of round shape Fluorescent yellow
+@72 prismatic sheeting (type-XI) reflective surface should be incline to approximate 20 degree
+@72 to vertical to provide maximum reflective. Height & width of median marker shall be
+@72 approximate by 110 mm complete with all fixing arrangements.
+@177 Median Marker for Item No D-6(FOR EXAMPLE)
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 41
+=== PAGE 49
+@72 Items & materials
+@72 Item No. D-7 Retro-reflective studs
+@72 Unit @96 – @103 each.
+@72 Metal Road studs with shank, made of Die-cast Aluminium alloy moulded body with the
+@72 size 100x100x19.8 mm, shank size 50 mm, having reflective panels of 34 glass reflective
+@72 elements embedded in plastic and 19 degrees tilted to provide the highest reflectivity
+@72 having reflective panels in yellow, red and white plastic with yellow, red, white or green
+@72 glass elements. The weight of Aluminium stud should be not less than 370 grams.
+@75 The stud shall have a compressive strength test certificate of 40 tons in accordance with
+@72 ASTDM D 4280-04, clause no 806 of 5 th revision of MoRT&H @388 ’s @400 of 2013 @443 and successfully
+@72 passing retro reflectivity test as per EN 1463 part I & part II, from a reputed international
+@72 laboratory.
+@75 The fixing of road studs shall be done by using a recommended Two Component Epoxy
+@72 after drilling 60 mm hole on the road for the shank to go inside.
+@72 Materials Requirement
+@75 Die - cast Aluminium Alloy Road Stud having reflective glass element @418 – @426 1 no each.
+@180 Retro-reflective studs for D-7(FOR EXAMPLE)
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 42
+=== PAGE 50
+@72 Items & materials
+@72 Item No. D-8 Rumble marking using two component cold plastic
+@72 Unit @96 – @103 Sqm.
+@75 Rumble strips with two component cold plastic profiled material to give total width of
+@72 500 mm and height of 10 mm.
+@72 Ramp provided to give width of 145 mm, width of ribs to be 55mm laid at center to center
+@72 distance of 35 mm, with reflective glass beads @ 350 gm / sqm.
+@72 The finished surface to be levelled, uniform and free from streaks and holes, to be applied
+@72 on the edge lines, including secondary surface cleaning and cost of all materials etc.
+@72 complete.
+@72 Materials Requirement
+@72 Two Component Cold Plastic = 12 kg per sqm.
+@72 Hardener = 0.005 kg per sqm.
+@72 Thinner = 0.08 litre per sqm.
+@135 Rumble marking using two component cold plastic Item No D-8
+@258 (FOR EXAMPLE)
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 43
+=== PAGE 51
+@72 Items & materials
+@72 Item No. D-9 Audible Vibratory Profile Marking with Hot Applied Thermoplastic and
+@72 Reflectorizing Glass.
+@72 Unit @96 – @103 Square Metre.
+@72 Raised profile edge line marking (audible vibratory) with @382 special thermoplastic @501 road
+@72 marking compound 2 mm thick base coat layer above that ribs profile of 6 mm thick (Total
+@72 8 mm thick) at the distance of 250 mm between two ribs including reflectorizing glass
+@72 beads @ 250 gm. / sq. m. area.
+@72 The minimum and maximum width of raised profile should be 100 mm and 150 mm. The
+@72 thickness of 8 mm profile should be exclusive of surface applied glass beads. The finished
+@72 surface to be levelled, uniform and free from streaks and holes, to be applied on the edge
+@72 lines, @112 including @169 secondary @231 surface @280 cleaning @334 and @364 cost @397 of @420 all @445 materials @503 etc.
+@72 complete.According to IRC: 35-2015, Clause 7.7, Section 800, clause 803.7 of MOST 2013.
+@72 Materials Requirement
+@72 Hot applied thermoplastic compound =10 kg per sq.m.
+@72 Reflectorizing glass beads = 300 gm. per sq.m.
+@74 Audible Vibratory Profile Marking with Hot Applied Thermoplastic and Reflectorizing
+@264 Glass for D-9
+@258 (FOR EXAMPLE)
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 44
+=== PAGE 52
+@72 Items & materials
+@72 E) Consumption of Materials for New Items Related to Bridge Structure of NH
+@72 SOR 2019-20
+@72 Item No. E-1. @151 Per MT of Supplying fitting and placing mild steel plate in bridge work
+@72 (Super structure @160 – @168 Supplying of all types of structural steel)
+@72 Materials Requirement
+@72 Plate Girder/ Semi through Girder
+@72 Mild steel plates (including wastage 5%) = 1.05 MT per MT
+@72 Rivets (including riveted connections @3%) = 0.0315 MT per MT
+@72 20mm dia holding down bolts = 0.000657 MT per MT
+@72 Item No. E-2per MT of Supplying fitting and placing mild steel plate in bridge work
+@72 (Super structure @160 – @168 Supplying of all types of structural steel)
+@72 Materials Requirement
+@72 Open Web Girder
+@72 Mild steel plates (including wastage 5%) = 1.05 MT per MT
+@72 Rivets (includingriveted connections @3%) = 0.0315 MT per MT
+@72 20mm dia holding down bolts = 0.000127 MT per MT
+@72 Item No. E-3. @147 Metalizing of steel work of girder with grit blasting per sq. m.
+@72 Materials Requirement
+@72 One coat of primer (IS 5666) = 0.054 litre per sq. m.
+@72 One coat of Zinc chrome primer (IS 104) = 0.054 litre per sq. m.
+@72 Two coat of Aluminium paint as per IS 2339 = 0.090 litre per sq. m.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 45
+=== PAGE 53
+@72 Items & materials
+@72 Item No. E-4. Painting cleaned bridge plate girder including all scaffolding shuttering
+@72 strutting along with provision of jhoola / hanging scaffolding where required.
+@72 Materials Requirement
+@72 With one coat of ready mix red lead conforming to IS 102
+@72 a) Painting Work of Bridge Girder upto 30.5 m.
+@72 Red oxide Zinc chromate primer = 0.054 litre per sq. m.
+@72 b) Painting Work of Bridge Girder above 30.5 m
+@72 Red oxide Zinc chromate primer = 0.054 litre per sq. m.
+@72 Item No. E-5. @150 Painting cleaned bridge plate girder including all scaffolding shuttering
+@72 strutting along with provision of jhoola / hanging scaffolding where required.
+@72 With one coat of ready mix Zinc Chromate conforming to IS 104 followed by one coat of
+@72 Zinc Chromate red oxide conforming to IS: 2074
+@72 Materials Requirement
+@72 a) Painting Work of Bridge Girder up to 30.5 m.
+@72 Red oxide primer in two coats
+@72 Red oxide Zinc chromate primer (for first coat) = 0.054 litre per sq. m.
+@72 Red oxide Zinc chromate primer (for second coat) = 0.036 litre per sq. m.
+@72 b) Painting Work of Bridge Girder above 30.5 m
+@72 Red oxide Zinc chromate primer (for first coat) = 0.054 litre per sq. m.
+@72 Red oxide Zinc chromate primer (for second coat) = 0.036 litre per sq. m.
+@72 Item No. E-6 Painting cleaned bridge plate girder including all scaffolding shuttering
+@72 strutting along with provision of jhoola / hanging scaffolding where required.
+@72 With two coats Aluminium paints in dual containers conforming to IS 2339
+@72 Materials Requirement
+@72 a) Painting Work of Bridge Girder upto 30.5 m
+@78 Aluminium Paint @170 (for first coat) @244 = @254 0.054 litre per sq. m.
+@78 Aluminium Paint @166 (for second coat) @251 = @260 0.036 litre per sq. m.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 46
+=== PAGE 54
+@72 Items & materials
+@72 b) Painting Work of Bridge Girder above 30.5 m
+@78 Aluminium Paint @170 (for first coat) @244 = @254 0.054 litre per sq. m.
+@78 Aluminium Paint @170 (for second coat) @258 = @267 0.036 litre per sq. m.
+@78 Item No E-7 @142 Painting cleaned bridge plate girder including all scaffolding shuttering
+@78 strutting along with provision of jhoola / hanging scaffolding where required.
+@78 With two coats epoxy paint
+@78 a) Painting Work of Bridge Girder upto 30.5 m
+@89 Epoxy Paint @155 (for first coat) @229 = @239 0.054 litre per sq. m.
+@89 Epoxy Paint @152 (for second coat) @236 = @246 0.036 litre per sq. m.
+@78 b) Painting Work of Bridge Girder above 30.5 m
+@89 Epoxy Paint @155 (for first coat) @229 = @239 0.054 litre per sq. m.
+@89 Epoxy Paint @152 (for second coat) @236 = @246 0.036 litre per sq. m.
+@78 nd
+@72 2 @88 Addenda to N H Schedule of Rates _2019-20 @416 Roads and Bridge Works
+@486 Page 47
+=== PAGE 55
+@213 Chapter @334 - @349 17
+@222 MISCELLANE @334 OUS
+=== PAGE 56
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@58 A)
+@83 New items related to bases and surface courses ( Bituminous) Chapter 5 of NH SOR 19-20
+@56 A-1 @83 Mechanised Mastic Asphalt
+@82 Providing and laying mastic asphalt by mechanical means done in a @440 Material cost to be added.
+@360 sqm @398 200.00
+@82 centralised batching plant with appropriate built- in pollution control @445 Consumtion of materials
+@82 units with specified aggregates and lime stone powder (with Calcium @450 to be followed as per
+@82 Carbonate content not less than 80%) and approved grade of industrial @471 chapter - A
+@82 grade bitumen as per approved design mix, transporting the hot @471 Sl. No. A-1.
+@82 mastic ashphalt to the worksite by thermocontainer with the
+@82 arrangement of maintaing specified temperature during transport,
+@82 laying with a paver finisher for spreading and floating the plastic mix
+@82 uniformly on the surface to the specified width and thickness at
+@82 correct grade and camber through its heated, distortion free steel
+@82 float and turning sword distributors, applying uniform size of bitumen
+@82 coated stonechips at a specified rate, on the laid surface through a
+@82 power driven chip spreader as per the procedure laid down in
+@82 Annexure - II of IRC : 107 (2013) all complete as per clause 516 along
+@82 with IRC : 107 for materials and design mix etc.
+@56 A-2 @83 Waste Plastic Modified Dense Graded Hot Bituminous mix for
+@83 wearing coarse
+@82 Providing and laying waste plastic modified dense graded bituminous @360 cum @395 1561.60 @440 Material cost to be added.
+@82 mix for wearing coarse of a flexible pavement with HMP of capacity @445 Consumtion of materials
+@82 not less than 60-90TPH with approved aggregate and specified grade @450 to be followed as per
+@82 of bitumen, the bituminous mix be suitably modified with waste @471 chapter - A
+@82 plastic as per table 2 of IRC : SP:98 shraded to a specified size, @471 Sl. No. A-2.
+@82 making the waste plastic free from impurities, as per " Dry Process" ,
+@82 compacted to specified grade, level, camber and thickness to a
+@82 specified density including collection of waste plastic, cleaning and
+@82 shredding by shredding machine all complete as per IRC :SP: 98.
+@56 A-3 @83 Water proofing work with the provision of Asphalt Seal pad for
+@83 bridge deck, Parking Decks , Bridge Ramps , Elevated Roadways,
+@83 Pedestrin Subways (concrete surface).
+@82 Providing and Laying 5mm thick Asphalt seal pad made of actatic @360 sqm @398 367.31 @462 Complete Rate.
+@82 polypropylene polymer APP modified bituminous pad reinforced with @446 See the detailing of the
+@82 non woven polymer mat of high bear strength as a carrier confirming @439 item on chapter-A, Sl no. A-
+@82 to ASTM - D6222 (S) specification along with the single component @491 3
+@82 with antiskid material grafted on the asphalt seal pad over concrete
+@82 surface bridge deck slab complete as per specifications.
+@44 nd
+@283 Page 48 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 57
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@59 B)
+@83 New items related to cement concrete pavement Chapter 6 of NH SOR 19-20
+@56 B-1 @83 White Topping
+@82 Providing and laying conventional or thin white topping as per IRC:SP @360 cum @395 1645.20 @438 For consumption of materials
+@82 76 over bituminous surface( existing bituminous surface preparation to @438 refer Chapter A, Sl. No. B-1.
+@438 Only cost of stone
+@82 be done if neccesary either by milling and cleanning or levelling
+@82 course with bituminous mix or concrete mix as directed by E-I-C or as @438 Aggeregate, Sand, Cement
+@438 and Steel to be added. Fibres
+@82 shown in drawing to correct surface profile (and to be paid
+@438 if incorporated in Mixed
+@82 seperately) or short panel concrete pavement over prepared base with
+@438 design to be considered in
+@82 pavement quality concrete ( PQC) mixed in batching plant with weigh
+@438 estimate seperately (Dose -
+@82 batching facility as per approved mix design as per IRC: 44 to achieve
+@438 As per manufacturer
+@82 minimum flextural strength of concrete of 4.50 Mpa at 28 days,
+@438 specification). @503 Cost of
+@82 transported to site by transit mixer, laid with sensor paver
+@438 super plasticizer is included.
+@82 finisher,spread, vibrated, compacted and finished in continuous
+@438 For longituidinal joint (if
+@82 operation to the lines and grades with contraction joint and
+@438 provided, in case of more
+@82 longituidinal joint (including dowel bars and tie bars as per clause no
+@438 than single lane) and
+@82 602.2.8) as per drawing, texturing / tinning (as per clause no 602.9.11
+@438 contraction joint,provision of
+@82 of MoRT&Hss 5th revision) of surface, curing as per(clause no
+@438 Tie bar and dowel bar has to
+@82 602.9.12), saw cutting to a depth of 1/3 to 1/4 @266 of PQC slab, width 3
+@438 be made respectively. For Tie
+@82 mm - 4 mm and grid as per design and drawing within the specified
+@438 bar @458 10mm dia HYSD bar
+@82 time (saw cutting to be paid seperately in RM) including cost of
+@438 @750 mm c/c for and for
+@82 formwork, labour, plant and machineries etc complete as per
+@438 Dowel bar 25 mm dia MS bar
+@82 specification. @438 @ 300 mm c/c has to be
+@438 provided in estimate
+@438 seperately.
+@56 B-2 @83 Concrete Sawing
+@82 Concrete Sawing of the PQC slab upto the specified depth and width @363 rm @466 Complete rate
+@82 as per drawing and design, done strictly within the specified time as
+@82 mentioned in the drawing or as per direction of E- in -C .by @311 concrete
+@82 sawing machine operated either by electric or by petrol/diesel fitted
+@82 with water tank with flexible hoss and pump and diamond edge sawing
+@82 blades.
+@82 a)For depth of cutting upto 100 mm th. @400 18.00
+@82 b) For depth of cutting above 100 mm th and upto 150 mm th.
+@400 27.00
+@44 nd
+@283 Page 49 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 58
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@56 B-3 @83 Concrete Block Pavement
+@82 Supplying and Laying in the particular pattern of cement concrete @438 Cost of bedding and jointing
+@82 block pavements with BIS certification and spacer nib of size and @438 sand is not included in the
+@82 shape with aspect ratio as per IS 15658 @235 with cement concrete grade @438 item. It will be paid
+@82 not less than M40 on the prepared base course of specified CBR as @438 seperately
+@82 mentioned in design and drawing with a cushion of bedding sand of 30 @438 as per chapter A, @527 Item
+@82 to 50 mm thick (grading of the bedding sand as per clause 6.5.1 of IRC @438 no. B-3.
+@82 SP-63) and filling up the gaps between two paver block with joint @438 Edge protection should be
+@82 filling sand (the grading of the joint filling sand will be as per clause @438 treated as separate item.
+@82 6.5.2) complete as per IRC SP - 63 @216 with proper confinement of
+@82 bedding and joint filling sand, compaction,levelling and filling up of
+@82 the edge gaps with mortar. @248 Type I, II,III, IV should be
+@82 as per design requeirment or instruction of E-I-C.
+@82 Note : The IRC SP 63 will prevail out of the two codes
+@82 a) Type - I (120 mm thickness) inter locking system @360 sqm @398 151.00
+@82 b) Type - II (100 mm thickness) inter locking system @398 145.00
+@360 sqm
+@82 c) Type - III (80 mm thickness) inter locking system
+@360 sqm @398 139.00
+@82 d) Type - IV (60 mm thickness) inter locking system @360 sqm
+@398 132.00
+@44 nd
+@283 Page 50 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 59
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@59 C)
+@83 New items related to geosynthetics and reinforced earth Chapter 7 of NH SOR 19-20
+@56 C-1 @83 Installation of Pre fabricated Vertical Drain with drainage
+@83 composite wrapped in sand layer
+@363 rm @398 150.00 @460 Rate of sand bed with
+@82 Installation of PVD of 100mm width with rod by the help of
+@447 medium sand to be paid
+@82 mechanical rig. The pre fabricated vertical drain material shall be cut
+@473 seperately
+@82 nearly at the upper end with 100 mm to 200 mm protruding above the
+@82 working surface minimum 100 mm sand blanket is provided wrapped in
+@82 a layer of drainage composite in accordance with clause 7, of IS -
+@82 15284 (Part - II, 2004)
+@82 Prefabricated Vertical Drain (PVD) UV protected formed of
+@82 Polypropylene of core width as per MoRT&H's section - 704,Table -
+@251 th
+@82 700-11 and 314 of MoRT&Hs specification (5 @259 Rivision)
+@56 C-2 @82 Supplying and laying geogrid for pavement reinforcement @360 sqm @400 79.50 @466 Complete rate
+@82 application consisting of glass fiber strands @254 arranged in a grid shape @448 See the detailing of the
+@82 with squared polymeric coated mesh having upto @270 50kN/m @303 minimum @440 item on chapter-A, Sl no. C-
+@82 tensile strength in longitudinal and transverse direction having 25 X @491 2
+@82 25mm mesh opening, at @178 easily @204 accessible location including top and
+@82 bottom, with all leads and lifts, manpower and machinery, @310 materials,
+@82 labour etc. complete and as directed by Engineer - In - Charge. (
+@82 Complying with specifications of @208 clause 708 of MoRT&Hs @313 5th
+@82 Revision @118 .)
+@56 C-3 @82 Supplying and laying geogrid for pavement reinforcement @360 sqm @398 109.20 @466 Complete rate
+@82 application consisting of glass fiber strands @254 arranged in a grid shape @448 See the detailing of the
+@82 with squared polymeric coated mesh having upto 2 @275 00kN/m @308 minimum @440 item on chapter-A, Sl no. C-
+@82 tensile strength in longitudinal and transverse direction, and having @491 3
+@82 12.5 x 12.5 mm mesh opening, at @213 easily @240 accessible location
+@82 including top and bottom, with all leads and lifts, manpower and
+@82 machinery, @130 materials, labour etc. complete and as directed by
+@82 Engineer - In - Charge. (Complying with specifications of @298 clause 708
+@82 of MoRT&H’s 5th Revision.)
+@56 C-4 @82 Supplying and laying of high modulus polypropylene bi-axial extruded @360 sqm @400 71.80 @466 Complete rate
+@82 geogrid confirming to Section 700 of @225 MoRT&Hs 5th Revision @448 See the detailing of the
+@82 specifications for base/sub-base reinforcement in pavements having @440 item on chapter-A, Sl no. C-
+@82 minimum LCR/MIF value of 1.2 for subgrade CBR≤3% %, minimum @491 4
+@82 ultimate tensile strength of 15 kN/m in both cross machine and
+@82 machine direction, with minimum 5kN/m & 7kN/m tensile strength at
+@82 2% and 5% strain respectively in both machine and cross-machine
+@82 direction, junction efficiency not less than 90% of rib ultimate tensile
+@82 strength and with 38mm X 38mm mesh opening.
+@44 nd
+@283 Page 51 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 60
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@56 C-5 @82 Supplying and laying of high modulus polypropylene bi-axial extruded @360 sqm @400 71.80 @466 Complete rate
+@82 geogrid confirming to Section 700 of @225 MoRT&Hs 5th Revision @448 See the detailing of the
+@82 specifications for base/sub-base reinforcement in pavements having @440 item on chapter-A, Sl no. C-
+@82 minimum LCR/MIF value of 1.2 for subgrade CBR≤3%, minimum @491 5
+@82 ultimate tensile strength of 20 kN/m in both cross machine and
+@82 machine direction, with minimum 7kN/m & 14kN/m tensile strength
+@82 at 2% and 5% strain respectively in both machine and cross-machine
+@82 direction, junction efficiency not less than 90% of rib ultimate tensile
+@82 strength and with 38mm X 38mm mesh opening.
+@56 C-6 @82 Supplying and laying of high modulus polypropylene bi-axial extruded @360 sqm @400 97.00 @466 Complete rate
+@82 geogrid confirming to Section 700 of @225 MoRT&Hs specifications for @448 See the detailing of the
+@82 base/sub-base reinforcement in pavements having minimum LCR/MIF @440 item on chapter-A, Sl no. C-
+@82 value of 1.2 for subgrade CBR≤3%, minimum ultimate tensile strength @491 6
+@82 of 30 kN/m in both cross machine and machine direction, with
+@82 minimum 10kN/m & 21kN/m tensile strength at 2% and 5% strain
+@82 respectively in both machine and cross-machine direction, junction
+@82 efficiency not less than 90% of rib ultimate tensile strength and with
+@82 38mm X 38mm mesh opening.
+@56 C-7 @82 Supplying and laying of high radial stiffness and radial stiffness ratio @360 sqm @398 110.30 @466 Complete rate
+@82 polypropylene tri-axial punched and stretched geogrid with triangular @448 See the detailing of the
+@82 aperture and hexagonal geometry conforming to ISO 10319/EOTA TR41 @440 item on chapter-A, Sl no. C-
+@82 and with IRC accreditation for base/sub base stabilization in @491 7
+@82 pavements with MIF value greater than 1.8 (IRC SP 59-2019-3.1.3
+@82 along with IRC : 37, 2018, clause no 7.2) for sub grade CBR≤3% with
+@82 radial secant stiffness of 390 KN/m (tollerence 75 KN/m) at 5%
+@82 strength , ( MoRT&H's 5th Revision Table 700-7 ) and radial secant
+@82 stiffness ratio of 0.7 to 0.8, junction efficiency greater than 90% with
+@82 distance between alternate parallal ribs as 80mm.
+@56 C-8 @82 Supplying and laying of high strength flexible geogrids (HSFG @321 ) as soil @466 Complete rate
+@82 reinforcement / basal reinforcement as per @252 MoRT&Hs 3100, 5th @448 See the detailing of the
+@82 Revision and IRC 113 @172 , made of high tenacity polyester core with @440 item on chapter-A, Sl no. C-
+@491 8
+@82 polyethylene coating with Minimum Long Term Design Strength (LTDS)
+@82 of more than 50% of ultimate tensile strength at 30 degree Celcius
+@82 corresponding to 12 % strain.
+@60 i) @82 High strength geogrid of Ultimate Tensile strength of 500 kN/m @360 sqm @396 561.30
+@59 ii) @82 High strength geogrid of Ultimate Tensile strength of 900 kN/m @360 sqm @396 936.40
+@57 iii) @82 High strength geogrid of Ultimate Tensile strength of 1200 kN/m @360 sqm @394 1208.00
+@44 nd
+@283 Page 52 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 61
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@56 C-9 @82 Supplying and laying of Reinforced Geo composite made of @360 sqm @466 Complete rate
+@82 Polypropylene Polymer made three dimensional matrix @302 of minimum @448 See the detailing of the
+@82 mass per unit area 450 grams/sqm extruded onto a mechanically @440 item on chapter-A, Sl no. C-
+@82 woven double twisted hexagonal shaped steel wire Mesh and Mesh @491 9
+@82 Type 6X8 having Zn coating , the composite have a combined mass
+@82 per unit area and nominal thickness of 12mm; including fixing of U
+@82 pins of 8mm diameter of depth 500mm at 1m c/c spacing, at easily
+@82 accessible location including top and bottom, with all leads and lifts,
+@82 manpower and machinery, materials,labour etc. complete and as
+@82 directed by Engineer - In - Charge @210 .(Ref to MoRT&H’s 5 th Rivision
+@82 Specification 706)
+@60 i) @82 Double twisted hexagonal shaped steel wire Mesh having dia 2.2mm @360 sqm @396 919.30
+@82 and the composite shall have a combined mass per unit area more
+@82 than @102 1630 Grams / Sq.m. @285 Note : Use for
+@82 slope erosion protection work.
+@59 ii) @85 Double twisted hexagonal shaped steel wire Mesh having dia @360 sqm @394 1029.30
+@82 2.2/3.2mm and the composite shall have a combined mass per unit
+@82 area more than @143 1920 Grams / Sq.m. @309 Note : Use
+@82 for slope erosion protection work.
+@82 Supplying and laying of Reinforced Geocomposite made of @466 Complete rate
+@54 C-10
+@82 Polypropylene Polymer made three dimensional matrix @302 of minimum @448 See the detailing of the
+@82 mass per unit area 450 grams/sqm extruded onto a mechanically @440 item on chapter-A, Sl no. C-
+@82 woven double twisted hexagonal shaped steel wire Mesh and Mesh @489 10
+@82 Type 8X10 having Zn coating, the composite have a combined mass
+@82 per unit area and nominal thickness of 12mm; including fixing of U
+@82 pins of 8mm diameter of depth 500mm at 1m c/c spacing, at easily
+@82 accessible location including top and bottom, with all leads and lifts,
+@82 manpower and machinery, materials,labour etc. complete and as
+@82 directed by Engineer - In - Charge. @213 (Ref to MoRT&H’s 5 th Revision
+@82 Specification 706 @157 )
+@82 Double twisted hexagonal shaped steel wire Mesh having dia 2.7mm
+@60 i) @360 sqm @398 854.30
+@82 and the composite shall have a combined mass per unit area more
+@82 than @102 1850 Grams / Sq.m.
+@59 ii) @85 Double twisted hexagonal shaped steel wire Mesh having dia @360 sqm @398 964.30
+@82 2.7/3.7mm and the composite shall have a combined mass per unit
+@82 area more than @143 2130 Grams / Sq.m.
+@54 C-11 @82 Providing and laying of woven Geotextile @249 on the prepared subgrade @465 Complete Rate
+@82 as the separator cum reinforcement with necessary overlap as per @448 See the detailing of the
+@82 drawing. @120 . @124 (Ref to MoRT&H’s 5 th Specification 700 & 2500) @440 item on chapter-A, Sl no. C-
+@489 11
+@82 For Type-I (160gsm) @163 woven Geotextile
+@60 i) @360 sqm @400 51.30
+@59 ii) @82 For Type-II (240gsm) @165 woven Geotextile @360 sqm @400 56.30
+@57 iii) @82 For Type-III (450gsm) @167 woven Geotextile @360 sqm @400 61.30
+@44 nd
+@283 Page 53 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 62
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@54 C-12 @82 Providing and laying of fibre glass geogrid manufactured from high @465 Complete Rate
+@82 quality glass fibre strands @185 and coated with a polymer modified @448 See the detailing of the
+@82 bitumen as reinforcement to Asphalt overlay flexible pavements and @440 item on chapter-A, Sl no. C-
+@82 Asphalt over distressed rigid P.C.C. . @221 (Ref to MoRT&H’s 5 th @489 12
+@82 Specification 708 )
+@60 i) @82 For Tensile stength-50 kN/m @360 sqm @400 86.30
+@59 ii) @82 For Tensile stength-100 kN/m @360 sqm @398 116.30
+@54 C-13 @82 Providing and laying of Needle Punched and mechanically bonded @465 Complete Rate
+@82 non-woven Geotextile @175 indigenously manufactured from high quality @448 See the detailing of the
+@82 fibers on the prepared subgrade for Seperation. @268 (Ref to MoRT&H’s 5 @440 item on chapter-A, Sl no. C-
+@82 th Specification 702 ) @489 13
+@60 i) @82 For Type-I (150gsm) non woven Geotextile @360 sqm @400 39.30
+@59 ii) @82 For Type-II (200gsm) @165 non woven Geotextile @360 sqm @400 48.30
+@57 iii) @82 For Type-III (450gsm) @167 non woven Geotextile @360 sqm @400 56.30
+@54 C-14 @82 Supplying and laying of @178 drainage composite for use behind walls @360 sqm @398 416.10 @465 Complete Rate
+@82 having three dimensional composite with thermobonding a draining @448 See the detailing of the
+@82 core having “W” configuration @205 in extruded monofilaments of @440 item on chapter-A, Sl no. C-
+@82 minimum thickness 6.9mm with one filtering UV stabilized @441 14 @518 (Ref to
+@82 polypropylene nonwoven geotextile of minimum thickness of 0.75mm @443 CPWD SOR 2016, Sub Head
+@82 and tensile strength of 8.0 kN/m that will be working as separation or @446 26 for New Technologies
+@82 protecting layer, geocomposite having in plane flow capacity of 2.60 L @450 and Materials Code No
+@82 / (m.s) at hydraulic gradient of 1.0 at 20 kpa pressure and tensile @481 8960).
+@82 strength of 12 kN/m with mass per unit area of @263 540 gsm @298 supplied in
+@82 the form of roll for easy transportation to site of work as per detailed
+@82 specification all complete as per directions of Engineer in charge.
+@82 Note:Lower gsm may be used in RE structure.
+@54 C-15 @82 Supplying and laying of drainage composite for use behind walls, @360 sqm @398 565.70 @465 Complete Rate
+@82 between two different fills, alongside drains of road, below @448 See the detailing of the
+@82 concrete lining of canals etc. having three dimensional composite @440 item on chapter-A, Sl no. C-
+@82 with thermobonding a draining core having “W” configuration @329 in @441 15 @518 (Ref to
+@82 extruded monofilaments of minimum thickness 7.2mm, with two @443 CPWD SOR 2016, Sub Head
+@82 filtering UV stabilized polypropylene nonwoven geotextile of minimum @446 26 for New Technologies
+@82 thickness of 0.75mm and tensile strength of 8.0 kN/m that will be @450 and Materials Code No
+@82 working as separation or protecting layer, geocomposite having in @481 8960).
+@82 plane flow capacity of 2.3 L / (m.s) at hydraulic gradient of 1.0 & 20
+@82 kPa pressure and tensile strength of 18 kN/m , with mass per unit area
+@82 of @93 740 gsm, @131 at @143 easily @170 accessible location including top and bottom,
+@82 with all leads and lifts, manpower and machinery, @277 materials, labour
+@82 etc. complete and as directed by Engineer - In - Charge.
+@82 Note: Higher gsm may be used in drainage composite at the time of
+@82 pavement construction
+@44 nd
+@283 Page 54 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 63
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@54 C-16 @85 Providing & making of BIS cerified Gabion fascia box with 2m @360 cum @395 2414.17 @452 Cost of material to be
+@82 integrated tail of Size 3m(Length of Tail)x3m(Length of @450 added. Consumption of
+@82 Box)x1m(Height of unit) @180 with Mechanically Woven Double Twisted @442 material i.e. for boulder to
+@82 Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @439 be followed as per chapter A
+@82 MoRT&H's 5 th revision clause 2500, of required size, Mesh Type 10x12 @475 Sl No C-16
+@82 (D=100 mm with tolerance of ± 2%) Zn + 10% Al alloy +Polymer coated,
+@82 Mesh wire diameter 2.70/3.70 mm (ID/OD), mechanically
+@82 edged/selvedged with partitions at every 1m interval and shall have
+@82 minimum 10 numbers of openings per meter of mesh perpendicular to
+@82 twist, tying with lacing wire of diameter 2.2 /3.2 mm (ID/OD),
+@82 supplied @3% by weight of Gabion boxes, filled with boulders with
+@82 least dimension of 200 mm, as per drawing, all complete as per
+@82 direction of Engineer-in-charge.
+@54 C-17 @85 Providing & making of BIS cerified Gabion fascia box with 2m @360 cum @395 3862.00 @452 Cost of material to be
+@82 integrated tail of Size 3m(Length of Tail)x3m(Length of @450 added. Consumption of
+@82 Box)x0.5m(Height of unit) @188 with Mechanically Woven Double Twisted @442 material i.e. for boulder to
+@82 Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @439 be followed as per chapter A
+@82 MoRT&H's 5 th clause 2500, of required size, Mesh Type 10x12 (D=100 @475 Sl No C-17
+@82 mm with tolerance of ± 2%) Zn + 10% Al alloy +Polymer coated, Mesh
+@82 wire diameter 2.70/3.70 mm (ID/OD), mechanically edged/selvedged
+@82 with partitions at every 1m interval and shall have minimum 10
+@82 numbers of openings per meter of mesh perpendicular to twist, tying
+@82 with lacing wire of diameter 2.2 @209 mm , supplied @3% by weight of
+@82 Gabion boxes, filled with boulders with least dimension of 200 mm, as
+@82 per drawing, all complete as per direction of Engineer-in-charge.
+@54 C-18 @85 Providing & making of BIS cerified Gabion fascia box with 2m @360 cum @395 2776.00 @452 Cost of material to be
+@82 integrated tail of Size 3m(Length of Tail)x3m(Length of @450 added. Consumption of
+@82 Box)x0.8m(Height of unit @182 ) with Mechanically Woven Double Twisted @442 material i.e. for boulder to
+@82 Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @439 be followed as per chapter A
+@82 MoRT&H's 5 th clause 2500, of required size, Mesh Type 10x12 (D=100 @475 Sl No C-18
+@82 mm with tolerance of ± 2%) Zn + 10% Al alloy +Polymer coated, Mesh
+@82 wire diameter 2.70/3.70 mm (ID/OD), mechanically edged/selvedged
+@82 with partitions at every 1m interval and shall have minimum 10
+@82 numbers of openings per meter of mesh perpendicular to twist, tying
+@82 with lacing wire of diameter 2.2 @209 mm , supplied @3% by weight of
+@82 Gabion boxes, filled with boulders with least dimension of 200 mm, as
+@82 per drawing, all complete as per direction of Engineer-in-charge.
+@44 nd
+@283 Page 55 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 64
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@54 C-19 @85 Providing & making of BIS cerified Gabion fascia box with 2m @360 cum @395 1901.00 @452 Cost of material to be
+@82 integrated tail of Size 3m(Length of Tail)x3m(Length of @450 added. Consumption of
+@82 Box)x1m(Height of unit) @180 with Mechanically Woven Double Twisted @442 material i.e. for boulder to
+@82 Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @439 be followed as per chapter A
+@82 MoRT&H's 5th revision clause 2500, of required size, Mesh Type 10x12 @475 Sl No C-19
+@82 (D=100 mm with tolerance of ± 2%) Zn +Polymer coated, Mesh wire
+@82 diameter 2.70/3.70 mm (ID/OD), mechanically edged/selvedged with
+@82 partitions at every 1m interval and shall have minimum 10 numbers of
+@82 openings per meter of mesh perpendicular to twist, tying with lacing
+@82 wire of diameter 2.2 /3.2 mm (ID/OD), supplied @3% by weight of
+@82 Gabion boxes, filled with boulders with least dimension of 200 mm, as
+@82 per drawing, all complete as per direction of Engineer-in-charge.
+@54 C-20 @85 Providing & making of BIS cerified Gabion fascia box with 2m @360 cum @395 3068.00 @452 Cost of material to be
+@82 integrated tail of Size 3m(Length of Tail)x3m(Length of @450 added. Consumption of
+@82 Box)x0.5m(Height of unit @182 ) with Mechanically Woven Double Twisted @442 material i.e. for boulder to
+@82 Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @439 be followed as per chapter A
+@82 MoRT&H's 5 th revision clause 2500, of required size, Mesh Type 10x12 @475 Sl No C-20
+@82 (D=100 mm with tolerance of ± 2%) Zn +Polymer coated, Mesh wire
+@82 diameter 2.70/3.70 mm (ID/OD), mechanically edged/selvedged with
+@82 partitions at every 1m interval and shall have minimum 10 numbers of
+@82 openings per meter of mesh perpendicular to twist, tying with lacing
+@82 wire of diameter 2.2 mm, supplied @3% by weight of Gabion boxes,
+@82 filled with boulders with least dimension of 200 mm, as per drawing,
+@82 all complete as per direction of Engineer-in-charge.
+@54 C-21 @85 Providing & making of BIS cerified Gabion fascia box with 2m @360 cum @395 2192.70 @452 Cost of material to be
+@82 integrated tail of Size 3m(Length of Tail)x3m(Length of @450 added. Consumption of
+@82 Box)x0.8m(Height of unit) @188 with Mechanically Woven Double Twisted @442 material i.e. for boulder to
+@82 Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @439 be followed as per chapter A
+@82 MoRT&H's 5 th revision clause 2500, of required size, Mesh Type 10x12 @475 Sl No C-21
+@82 (D=100 mm with tolerance of ± 2%) Zn + 10% Al alloy +Polymer coated,
+@82 Mesh wire diameter 2.70/3.70 mm (ID/OD), mechanically
+@82 edged/selvedged with partitions at every 1m interval and shall have
+@82 minimum 10 numbers of openings per meter of mesh perpendicular to
+@82 twist, tying with lacing wire of diameter 2.2 @255 mm , supplied @3% by
+@82 weight of Gabion boxes, filled with boulders with least dimension of
+@82 200 mm, as per drawing, all complete as per direction of Engineer-in-
+@82 charge.
+@44 nd
+@283 Page 56 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 65
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@54 C-22 @85 Providing & making of BIS cerified Gabion fascia box with 2m @360 cum @395 1681.00 @452 Cost of material to be
+@82 integrated tail of Size 3m(Length of Tail)x3m(Length of @450 added. Consumption of
+@82 Box)x1m(Height of unit) @180 with Mechanically Woven Double Twisted @442 material i.e. for boulder to
+@82 Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @439 be followed as per chapter A
+@82 MoRT&H's 5 th revision clause 2500, of required size, Mesh Type 10x12 @475 Sl No C-22
+@82 (D=100 mm with tolerance of ± 2%) Zn +Polymer coated, Mesh wire
+@82 diameter 2.70/3.70 mm (ID/OD), mechanically edged/selvedged with
+@82 partitions at every 1m interval and shall have minimum 10 numbers of
+@82 openings per meter of mesh perpendicular to twist, tying with lacing
+@82 wire of diameter 2.2 /3.2 mm (ID/OD), supplied @3% by weight of
+@82 Gabion boxes, filled with boulders with least dimension of 200 mm, as
+@82 per drawing, all complete as per direction of Engineer-in-charge.
+@54 C-23 @85 Providing & making of BIS cerified Gabion fascia box with 2m @360 cum @395 2728.00 @452 Cost of material to be
+@82 integrated tail of Size 3m(Length of Tail)x3m(Length of @450 added. Consumption of
+@82 Box)x0.5m(Height of unit) @188 with Mechanically Woven Double Twisted @442 material i.e. for boulder to
+@82 Hexagonal Shaped Wire mesh Gabion Boxes as per IS @439 be followed as per chapter A
+@82 16014:2012,MoRT&H's 5 th revision clause 2500, of required size, Mesh @473 Sl No C-23.
+@82 Type 10x12 (D=100 mm with tolerance of ± 2%) Zn +Polymer coated,
+@82 Mesh wire diameter 2.70/3.70 mm (ID/OD), mechanically
+@82 edged/selvedged with partitions at every 1m interval and shall have
+@82 minimum 10 numbers of openings per meter of mesh perpendicular to
+@82 twist, tying with lacing wire of diameter 2.2 mm, supplied @3% by
+@82 weight of Gabion boxes, filled with boulders with least dimension of
+@82 200 mm, as per drawing, all complete as per direction of Engineer-in-
+@82 charge.
+@54 C-24 @85 Providing & making of BIS cerified Gabion fascia box with 2m @360 cum @395 1943.00 @452 Cost of material to be
+@82 integrated tail of Size 3m(Length of Tail)x3m(Length of @450 added. Consumption of
+@82 Box)x0.8m(Height of unit @182 ) with Mechanically Woven Double Twisted @442 material i.e. for boulder to
+@82 Hexagonal Shaped Wire mesh Gabion Boxes as per IS 16014:2012, @439 be followed as per chapter A
+@82 MoRT&H's 5 th revision clause 2500, of required size, Mesh Type 10x12 @473 Sl No C-24.
+@82 (D=100 mm with tolerance of ± 2%) Zn + 10% Al alloy +Polymer coated,
+@82 Mesh wire diameter 2.70/3.70 mm (ID/OD), mechanically
+@82 edged/selvedged with partitions at every 1m interval and shall have
+@82 minimum 10 numbers of openings per meter of mesh perpendicular to
+@82 twist, tying with lacing wire of diameter 2.2 @255 mm , supplied @3% by
+@82 weight of Gabion boxes, filled with boulders with least dimension of
+@82 200 mm, as per drawing, all complete as per direction of Engineer-in-
+@82 charge.
+@44 nd
+@283 Page 57 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 66
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@54 C-25 @82 Providing & making of Gabion structure of size (2x1x1)m with @360 cum @395 2026.25 @452 Cost of material to be
+@82 Mechanically Woven Double Twisted Hexagonal Shaped Wire mesh @450 added. Consumption of
+@82 Gabion Boxes @138 as per IS 16014:2012, MoRT&H's 5 th revision clause @442 material i.e. for boulder to
+@82 2500, of required size, Mesh Type 10x12(D=100 mm with tolerance of @439 be followed as per chapter A
+@82 ±2%), Zinc+10% Al alloy+Polymer coated, Mesh wire diameter @473 Sl No C-25.
+@82 2.7/3.7mm (ID/OD), mechanically edged/selvedged with partitions at
+@82 every 1m interval and shall have minimum 10 numbers of openings per
+@82 meter of mesh perpendicular to twist, tying with lacing wire of
+@82 diameter 2.2/3.2mm(ID/OD), supplied @3% by weight of Gabion
+@82 boxes, filled with boulders with least dimension of 200 mm, as per
+@82 drawing, all complete as per directions of Engineer-in-charge.
+@82 Providing & making of Gabion structure of size( 2x0.5x1)m with @452 Cost of material to be
+@54 C-26 @360 cum @395 3617.50
+@82 Mechanically Woven Double Twisted Hexagonal Shaped Wire mesh @450 added. Consumption of
+@82 Gabion Boxe @132 s as per IS 16014:2012, MoRT&H's 5 th revision clause @442 material i.e. for boulder to
+@82 2500 of required size, Mesh Type 10x12(D=100 mm with tolerance of @439 be followed as per chapter A
+@82 ±2%), Zinc+10% Al alloy+Polymer coated, Mesh wire diameter @473 Sl No C-26.
+@82 2.7/3.7mm (ID/OD), mechanically edged/selvedged with partitions at
+@82 every 1m interval and shall have minimum 10 numbers of openings per
+@82 meter of mesh perpendicular to twist, tying with lacing wire of
+@82 diameter 2.2/3.2mm(ID/OD), supplied @3% by weight of Gabion
+@82 boxes, filled with boulders with least dimension of 200 mm, as per
+@82 drawing, all complete as per directions of Engineer-in-charge.
+@54 C-27 @82 Providing & making of Gabion structure of size (2x0.8x1)m with @360 cum @401 2424 @452 Cost of material to be
+@82 Mechanically Woven Double Twisted Hexagonal Shaped Wire mesh @450 added. Consumption of
+@82 Gabion Boxes @138 as per IS 16014:2012, MoRT&H's 5 th revision clause @442 material i.e. for boulder to
+@82 2500 of required size, Mesh Type 10x12(D=100 mm with tolerance of @439 be followed as per chapter A
+@82 ±2%), Zinc+10% Al alloy+Polymer coated, Mesh wire diameter @473 Sl No C-27.
+@82 2.7/3.7mm (ID/OD), mechanically edged/selvedged with partitions at
+@82 every 1m interval and shall have minimum 10 numbers of openings per
+@82 meter of mesh perpendicular to twist, tying with lacing wire of
+@82 diameter 2.2/3.2mm(ID/OD), supplied @3% by weight of Gabion
+@82 boxes, filled with boulders with least dimension of 200 mm, as per
+@82 drawing, all complete as per directions of Engineer-in-charge.
+@54 C-28 @82 Providing & making of Gabion structure of size (2x1x1)m with @360 cum @395 1641.25 @452 Cost of material to be
+@82 Mechanically Woven Double Twisted Hexagonal Shaped Wire mesh @450 added. Consumption of
+@82 Gabion Boxe @132 s as per IS 16014:2012, MoRT&H's 5 th revision clause @442 material i.e. for boulder to
+@82 2500, of required size, Mesh Type 10x12(D=100 mm with tolerance of @439 be followed as per chapter A
+@82 ±2%), Zinc+Polymer coated, Mesh wire diameter 2.7/3.7mm (ID/OD), @473 Sl No C-28.
+@82 mechanically edged/selvedged with partitions at every 1m interval
+@82 and shall have minimum 10 numbers of openings per meter of mesh
+@82 perpendicular to twist, tying with lacing wire of diameter
+@82 2.2/3.2mm(ID/OD), supplied @3% by weight of Gabion boxes, filled
+@82 with boulders with least dimension of 200 mm, as per drawing, all
+@82 complete as per directions of Engineer-in-charge.
+@44 nd
+@283 Page 58 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 67
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@54 C-29 @82 Providing & making of Gabion structure of size (2x0.5x1)m with @360 cum @395 2952.50 @452 Cost of material to be
+@82 Mechanically Woven Double Twisted Hexagonal Shaped Wire mesh @450 added. Consumption of
+@82 Gabion Boxes @138 as per IS 16014:2012, @223 MoRT&H's 5 th revision clause @442 material i.e. for boulder to
+@82 2500, of required size, Mesh Type 10x12(D=100 mm with tolerance of @439 be followed as per chapter A
+@82 ±2%), Zinc+Polymer coated, Mesh wire diameter 2.7/3.7mm (ID/OD), @473 Sl No C-29.
+@82 mechanically edged/selvedged with partitions at every 1m interval
+@82 and shall have minimum 10 numbers of openings per meter of mesh
+@82 perpendicular to twist, tying with lacing wire of diameter
+@82 2.2/3.2mm(ID/OD), supplied @3% by weight of Gabion boxes, filled
+@82 with boulders with least dimension of 200 mm, as per drawing, all
+@82 complete as per directions of Engineer-in-charge.
+@82 Providing & making of Gabion structure of size (2x.8x1)m with @452 Cost of material to be
+@54 C-30 @360 cum @401 1969
+@82 Mechanically Woven Double Twisted Hexagonal Shaped Wire mesh @450 added. Consumption of
+@82 Gabion Boxes @138 as per IS 16014:2012, MoRT&H's 5 th revision clause @442 material i.e. for boulder to
+@82 2500, of required size, Mesh Type 10x12(D=100 mm with tolerance of @439 be followed as per chapter A
+@82 ±2%), Zinc+Polymer coated, Mesh wire diameter 2.7/3.7mm (ID/OD), @473 Sl No C-30.
+@82 mechanically edged/selvedged with partitions at every 1m interval
+@82 and shall have minimum 10 numbers of openings per meter of mesh
+@82 perpendicular to twist, tying with lacing wire of diameter
+@82 2.2/3.2mm(ID/OD), supplied @3% by weight of Gabion boxes, filled
+@82 with boulders with least dimension of 200 mm, as per drawing, all
+@82 complete as per directions ofEngineer-in-charge.
+@54 C-31 @82 Providing & making of Gabion structure of size (2x1x1)m with @360 cum @395 1476.25 @452 Cost of material to be
+@82 Mechanically Woven Double Twisted Hexagonal Shaped Wire mesh @450 added. Consumption of
+@82 Gabion Boxes @138 as per IS 16014:2012, MoRT&H's 5 th revision clause @442 material i.e. for boulder to
+@82 2500, of required size, Mesh Type 10x12(D=100 mm with tolerance of @439 be followed as per chapter A
+@82 ±2%), Zinc coated, Mesh wire diameter 2.7/3.7mm (ID/OD), @473 Sl No C-31.
+@82 mechanically edged/selvedged with partitions at every 1m interval
+@82 and shall have minimum 10 numbers of openings per meter of mesh
+@82 perpendicular to twist, tying with lacing wire of diameter
+@82 2.2/3.2mm(ID/OD), supplied @3% by weight of Gabion boxes, filled
+@82 with boulders with least dimension of 200 mm, as per drawing, all
+@82 complete as per directions of
+@82 Engineer-in-charge.
+@54 C-32 @82 Providing & making of Gabion structure of size (2x0.5x1)m with @360 cum @395 2667.50 @452 Cost of material to be
+@82 Mechanically Woven Double Twisted Hexagonal Shaped Wire mesh @450 added. Consumption of
+@82 Gabion Boxes @138 as per IS 16014:2012, MoRT&H's 5 th revision clause @442 material i.e. for boulder to
+@82 2500, of required size, Mesh Type 10x12(D=100 mm with tolerance of @439 be followed as per chapter A
+@82 ±2%), Zinc coated, Mesh wire diameter 2.7/3.7mm (ID/OD), @473 Sl No C-32.
+@82 mechanically edged/selvedged with partitions at every 1m interval
+@82 and shall have minimum 10 numbers of openings per meter of mesh
+@82 perpendicular to twist, tying with lacing wire of diameter
+@82 2.2/3.2mm(ID/OD), supplied @3% by weight of Gabion boxes, filled
+@82 with boulders with least dimension of 200 mm, as per drawing, all
+@82 complete as per directions of Engineer-in-charge.
+@44 nd
+@283 Page 59 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 68
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@54 C-33 @82 Providing & making of Gabion structure of size (2x0.8x1)m with @360 cum @401 1774 @452 Cost of material to be
+@82 Mechanically Woven Double Twisted Hexagonal Shaped Wire mesh @450 added. Consumption of
+@82 Gabion Boxes @138 as per IS 16014:2012, MoRT&H's 5 th revision clause @442 material i.e. for boulder to
+@82 2500, of required size, Mesh Type 10x12(D=100 mm with tolerance of @439 be followed as per chapter A
+@82 ±2%), Zinc coated, Mesh wire diameter 2.7/3.7mm (ID/OD), @473 Sl No C-33.
+@82 mechanically edged/selvedged with partitions at every 1m interval
+@82 and shall have minimum 10 numbers of openings per meter of mesh
+@82 perpendicular to twist, tying with lacing wire of diameter
+@82 2.2/3.2mm(ID/OD), supplied @3% by weight of Gabion boxes, filled
+@82 with boulders with least dimension of 200 mm, as per drawing, all
+@82 complete as per directions of Engineer-in-charge.
+@54 C-34 @82 Providing & making of BIS cerified Gabion structure of size @360 cum @401 6964 @452 Cost of material to be
+@82 (2x0.17x1)m with Mechanically Woven Double Twisted Hexagonal @450 added. Consumption of
+@82 Shaped Wire mesh Gabion mattress Boxes @249 as per IS 16014:2012, @442 material i.e. for boulder to
+@82 MoRT&H's 5 th revision clause 2500, of required size, Mesh Type 6x8 @439 be followed as per chapter A
+@82 (D=60 mm with tolerance of ± 2%) Zn + 10% Al alloy +Polymer coated, @473 Sl No C-34.
+@82 Mesh wire diameter 2.20/3.20 mm (ID/OD), mechanically
+@82 edged/selvedged with partitions at every 1m interval and shall have
+@82 minimum 10 numbers of openings per meter of mesh perpendicular to
+@82 twist, tying with lacing wire of diameter 2.2 /3.2 mm (ID/OD),
+@82 supplied @3% by weight of Gabion boxes, filled with boulders with
+@82 least dimension of 200 mm, as per drawing, all complete as per
+@82 direction of Engineer-in-charge.
+@54 C-35 @82 Providing & making of BIS cerified Gabion structure of size @360 cum @395 5412.00 @452 Cost of material to be
+@82 (2x0.23x1)m with Mechanically Woven Double Twisted Hexagonal @450 added. Consumption of
+@82 Shaped Wire mesh Gabion mattress Boxes @249 as per IS 16014:2012, @442 material i.e. for boulder to
+@82 MoRT&H's 5 th revision clause 2500, of required size, Mesh Type 6x8 @439 be followed as per chapter A
+@82 (D=60 mm with tolerance of ± 2%) Zn + 10% Al alloy +Polymer coated, @473 Sl No C-35.
+@82 Mesh wire diameter 2.20/3.20 mm (ID/OD), mechanically
+@82 edged/selvedged with partitions at every 1m interval and shall have
+@82 minimum 10 numbers of openings per meter of mesh perpendicular to
+@82 twist, tying with lacing wire of diameter 2.2 /3.2 mm (ID/OD),
+@82 supplied @3% by weight of Gabion boxes, filled with boulders with
+@82 least dimension of 200 mm, as per drawing, all complete as per
+@82 direction of Engineer-in-charge.
+@44 nd
+@283 Page 60 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 69
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@54 C-36 @82 Providing & making of BIS cerified Gabion structure of size @360 cum @401 5721 @452 Cost of material to be
+@82 (2x0.3x1)m with Mechanically Woven Double Twisted Hexagonal @450 added. Consumption of
+@82 Shaped Wire mesh Gabion mattress @224 Boxes as per IS 16014:2012, @442 material i.e. for boulder to
+@82 MoRT&H's 5 th revision clause 2500, of required size, Mesh Type 6x8 @439 be followed as per chapter A
+@82 (D=60 mm with tolerance of ± 2%) Zn + 10% Al alloy +Polymer coated, @473 Sl No C-36.
+@82 Mesh wire diameter 2.20/3.20 mm (ID/OD), mechanically
+@82 edged/selvedged with partitions at every 1m interval and shall have
+@82 minimum 10 numbers of openings per meter of mesh perpendicular to
+@82 twist, tying with lacing wire of diameter 2.2 /3.2 mm (ID/OD),
+@82 supplied @3% by weight of Gabion boxes, filled with boulders with
+@82 least dimension of 200 mm, as per drawing, all complete as per
+@82 direction of Engineer-in-charge.
+@54 C-37 @82 Providing & making of @174 BIS cerified Gabion structure of size @360 cum @401 5895 @452 Cost of material to be
+@82 (2x0.17x1)m with Mechanically Woven Double Twisted Hexagonal @450 added. Consumption of
+@82 Shaped Wire mesh Gabion mattress Boxes @249 as per IS 16014:2012, @442 material i.e. for boulder to
+@82 MoRT&H's 5 th revision clause 2500, of required size, Mesh Type 6x8 @439 be followed as per chapter A
+@82 (D=60 mm with tolerance of ± 2%) Zn +Polymer coated, Mesh wire @473 Sl No C-37.
+@82 diameter 2.20/3.20 mm (ID/OD), mechanically edged/selvedged with
+@82 partitions at every 1m interval and shall have minimum 10 numbers of
+@82 openings per meter of mesh perpendicular to twist, tying with lacing
+@82 wire of diameter 2.2 /3.2 mm (ID/OD), supplied @3% by weight of
+@82 Gabion boxes, filled with boulders with least dimension of 200 mm, as
+@82 per drawing, all complete as per direction of Engineer-in-charge.
+@54 C-38 @82 Providing & making BIS cerified Gabion structure of size @360 cum @401 4558 @452 Cost of material to be
+@82 (2x0.23x1)m with Mechanically Woven Double Twisted Hexagonal @450 added. Consumption of
+@82 Shaped Wire mesh Gabion mattress @226 Boxes as per IS 16014:2012, @442 material i.e. for boulder to
+@82 MoRT&H's 5 th revision clause 2500, of required size, Mesh Type 6x8 @439 be followed as per chapter A
+@82 (D=60 mm with tolerance of ± 2%) Zn +Polymer coated, Mesh wire @473 Sl No C-38.
+@82 diameter 2.20/3.20 mm (ID/OD), mechanically edged/selvedged with
+@82 partitions at every 1m interval and shall have minimum 10 numbers of
+@82 openings per meter of mesh perpendicular to twist, tying with lacing
+@82 wire of diameter 2.2 /3.2 mm (ID/OD), supplied @3% by weight of
+@82 Gabion boxes, filled with boulders with least dimension of 200 mm, as
+@82 per drawing, all complete as per direction of Engineer-in-charge.
+@44 nd
+@283 Page 61 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 70
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@54 C-39 @82 Providing & making of BIS cerified Gabion structure of size @360 cum @401 3674 @452 Cost of material to be
+@82 (2x0.3x1)m with Mechanically Woven Double Twisted Hexagonal @450 added. Consumption of
+@82 Shaped Wire mesh Gabion mattress @224 Boxes as per IS 16014:2012, @442 material i.e. for boulder to
+@82 MoRT&H's 5 th revision clause 2500, of required size, Mesh Type 6x8 @439 be followed as per chapter A
+@82 (D=60 mm with tolerance of ± 2%) Zn +Polymer coated, Mesh wire @473 Sl No C-39.
+@82 diameter 2.20/3.20 mm (ID/OD), mechanically edged/selvedged with
+@82 partitions at every 1m interval and shall have minimum 10 numbers of
+@82 openings per meter of mesh perpendicular to twist, tying with lacing
+@82 wire of diameter 2.2 /3.2 mm (ID/OD), supplied @3% by weight of
+@82 Gabion boxes, filled with boulders with least dimension of 200 mm, as
+@82 per drawing, all complete as per direction of Engineer-in-charge.
+@54 C-40 @82 Providing & making of BIS cerified Gabion structure of size @360 cum @401 5437 @452 Cost of material to be
+@82 (2x0.17x1)m with Mechanically Woven Double Twisted Hexagonal @450 added. Consumption of
+@82 Shaped Wire mesh Gabion mattress Boxes @249 as per IS 16014:2012, @442 material i.e. for boulder to
+@82 MoRT&H's 5 th revision clause 2500, of required size, Mesh Type 6x8 @439 be followed as per chapter A
+@82 (D=60 mm with tolerance of ± 2%) Zn @230 coated, Mesh wire diameter @473 Sl No C-40.
+@82 2.20 @104 mm , mechanically edged/selvedged with partitions at every 1m
+@82 interval and shall have minimum 10 numbers of openings per meter of
+@82 mesh perpendicular to twist, tying with lacing wire of diameter 2.2
+@82 /3.2 mm (ID/OD), supplied @3% by weight of Gabion boxes, filled with
+@82 boulders with least dimension of 200 mm, as per drawing, all
+@82 complete as per direction of Engineer-in-charge.
+@54 C-41 @82 Providing & making of BIS cerified Gabion structure of size @360 cum @401 4192 @452 Cost of material to be
+@82 (2x0.23x1)m with Mechanically Woven Double Twisted Hexagonal @450 added. Consumption of
+@82 Shaped Wire mesh Gabion mattress Boxes @249 as per IS 16014:2012, @442 material i.e. for boulder to
+@82 MoRT&H's 5 th revision clause 2500, of required size, Mesh Type 6x8 @439 be followed as per chapter A
+@82 (D=60 mm with tolerance of ± 2%) Zn coated, Mesh wire diameter 2.20 @473 Sl No C-41.
+@82 mm , mechanically edged/selvedged with partitions at every 1m
+@82 interval and shall have minimum 10 numbers of openings per meter of
+@82 mesh perpendicular to twist, tying with lacing wire of diameter 2.2
+@82 /3.2 mm (ID/OD), supplied @3% by weight of Gabion boxes, filled with
+@82 boulders with least dimension of 200 mm, as per drawing, all
+@82 complete as per direction of Engineer-in-charge.
+@54 C-42 @82 Providing & making of BIS cerified Gabion structure of size @360 cum @401 3369 @452 Cost of material to be
+@82 (2x0.3x1)m with Mechanically Woven Double Twisted Hexagonal @450 added. Consumption of
+@82 Shaped Wire mesh Gabion mattress Boxes @249 as per IS 16014:2012, @442 material i.e. for boulder to
+@82 MoRT&H's 5 th revision clause 2500, of required size, Mesh Type 6x8 @439 be followed as per chapter A
+@82 (D=60 mm with tolerance of ± 2%) Zn coated, Mesh wire diameter 2.20 @473 Sl No C-42.
+@82 mm , mechanically edged/selvedged with partitions at every 1m
+@82 interval and shall have minimum 10 numbers of openings per meter of
+@82 mesh perpendicular to twist, tying with lacing wire of diameter 2.2
+@82 /3.2 mm (ID/OD), supplied @3% by weight of Gabion boxes, filled with
+@82 boulders with least dimension of 200 mm, as per drawing, all
+@82 complete as per direction of Engineer-in-charge.
+@44 nd
+@283 Page 62 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 71
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@54 C-43 @82 Supply of Cylindrical Gabions /Sack Gabions of size 2 m in length @360 cum @401 2102 @452 Cost of material to be
+@82 and 0.96 m diameter. @171 The Sack Gabions shall be made of the @450 added. Consumption of
+@82 mechanically woven hexagonal double twisted Zn + 10% Al alloy @442 material i.e. for sand to be
+@82 +Polymer Coated wire mesh, Mesh Size10x12. The approximate @441 followed as per chapter A Sl
+@82 minimum weight of the sack gabion would be 1350 kgs when filled as @478 No C-43.
+@82 per detailed technical specification.
+@54 C-44 @82 Supply of Cylindrical Gabions /Sack Gabions of size 2 m in length @360 cum @401 1738 @452 Cost of material to be
+@82 and 0.96 m diameter. @171 The Sack Gabions shall be made of the @450 added. Consumption of
+@82 mechanically woven hexagonal double twisted Zn +Polymer Coated @442 material i.e. for sand to be
+@82 wire mesh, Mesh Size10x12. The approximate minimum weight of the @441 followed as per chapter A Sl
+@82 sack gabion would be 1350 kgs when filled as per detailed technical @478 No C-44.
+@82 specification.
+@54 C-45 @82 Supply of Cylindrical Gabions /Sack Gabions of size 2 m in length @360 cum @395 1582.30 @452 Cost of material to be
+@82 and 0.96 m diameter. @171 The Sack Gabions shall be made of the @450 added. Consumption of
+@82 mechanically woven hexagonal double twisted Zn Coated wire mesh, @442 material i.e. for sand to be
+@82 Mesh Size10x12. The approximate minimum weight of the sack gabion @441 followed as per chapter A Sl
+@82 would be 1350 kgs when filled as per detailed technical specification. @478 No C-45.
+@44 nd
+@283 Page 63 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 72
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@83 New items related to traffic signs, marking and other road appurtenances Chapter 8 of NH SOR 19-20
+@57 D)
+@56 D-1 @83 Raised Profile Edge Markings with Reflectorised Hot Applied @360 sqm @395 1205.00 @463 Complete Rate.
+@83 Thermoplastic Compound on Bituminous Road surfaces.
+@82 Providing a laying of Raised Profile Edge Markings with Hot Applied @441 Ribbed edge line marker as
+@82 Thermoplastic Road Markings along with Drop on Glass Beads as per @444 per Ministry's Circular.Ref
+@82 the Provisions laid in IRC 35-2015, the height of the rib should be 8 @457 Chapter A, @513 D-1.
+@82 mm for normal roads and it may extend upto 11 mm incase of
+@82 expressway, the general gap between each rib shall vary between 200-
+@82 500 mm, as per the direction of the Engineer in charge.
+@82 Note : @109 For Application on Rigid pavement a Resin Based primer has to
+@82 be applied prior to the application of Thermoplastic Road Marking for
+@82 which an additional cost of Rs.150 per Sqm shall be paid extra.
+@56 D-2 @359 each @393 18000.00 @463 Complete Rate.
+@83 Hybrid Solar-Retro Reflective Chevron Signs
+@448 See the detailing of the
+@82 Supplying and Fixing of Solar Powered Retro Reflective LED Blinking
+@439 item on chapter-A, Sl no. D-
+@82 Chevron signs as per the following specifications : Solar panel: 450
+@491 2
+@82 MaH/9v/4 watts, Battery: Li-ion 6 Volt 4.5 AH.C-10, Back up time:
+@82 108 hrs, Led: 112-130 nos, Display thickness : ACP or Alluminium 2 mm
+@82 thick, Powder coated body. The Unit shall be self sufficient and shall
+@82 be mounted on a Circular Pole: 50 NB (medium) duly painted and
+@82 grouted into the soil using M15 concrete (45 cm x 45 cm x 60 cm) Size:
+@82 600 mm x 450 mm. The Retro reflective sheeting shall be HIP, Type IV
+@82 as per IRC 67.
+@56 D-3 @83 Solar Powered Road Studs @360 sqm @395 2159.00 @463 Complete Rate.
+@448 See the detailing of the
+@82 Providing and fixing of solar powered road studs rectangular/circuler
+@439 item on chapter-A, Sl no. D-
+@82 shape (with super bright LEDs for long visibility from distance greater
+@491 3
+@82 than 800m) having twin shank and body made of alluminium alloy or
+@82 polycarbonate material which shall be absolutely weather resistant
+@82 and strong enough to support a land of 13635 kg tested in accordance
+@82 with ASTM-D 4280 and water resistance as per IP65 in reference with
+@82 IS 12063:1987,fixed to the road surface using addhesives and the
+@82 procedure recomended by manufacturer as per clause no 804.6 and
+@82 804.7 of @119 MoRT&Hs's specification.
+@44 nd
+@283 Page 64 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 73
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@56 D-4 @83 Wire Rope Safety Crash Barrier @363 rm @395 3500.00 @463 Complete Rate.
+@82 Supply and Installation of Wire Rope Safety Barrier, meeting and conforming @448 See the detailing of the
+@82 to IRC:119:2015, Annexure II, Sec 4. The barrier shall be supplied complete @439 item on chapter-A, Sl no. D-
+@82 with steel posts (spacing 3.0m c/c), Post length 1200mm, Post Cross Section
+@491 4
+@82 not less than 100 x 50 x 16 mm, thickness 4 mm, plastic cap for post with
+@82 retro-reflective sheet, plastic cable spacers, Stainless Steel Strap, rectangular
+@82 steel sections having thickness 3mm and length 420mm to be used as post
+@82 foundation sleeves, plastic top covers and bottom caps for steel sleeves, 3
+@82 galvanized wire ropes running along the entire length, each wire rope 19mm
+@82 dia, (3x7)-pre-stretched-16.7 Ton capacity, required steel fittings, steel
+@82 turnbuckles, steel anchors and M30 concrete complete. All steel components
+@82 of the barrier shall be hot dip galvanized, having an average zinc coating
+@82 thickness not less than 75 microns. The installation shall include excavating in
+@82 soft soil for post foundations (250 mm dia x 610 mm depth at 3m c/c),
+@82 excavation in all kind of soil for end anchor foundations (1m x 1m x1.5m each,
+@82 2 for each section), grouting of steel sleeves up to depth of 420 mm in each
+@82 post foundation with M30 concrete , grouting anchor plates in each end anchor
+@82 foundation with M30 concrete, placing of posts in the grouted steel sleeves
+@82 ensuring that the posts and barrier are in line and level.
+@82 Note : The bidder shall enclose all relevant papers in support of meeting the
+@82 above criteria, the bidder shall also enclose Authorization from the OEM.
+@56 D-5 @82 Reflective Pavement Marker with Shank @359 each @398 355.00 @463 Complete Rate.
+@82 Providing and fixing of single mould twin shanked moulded road @448 See the detailing of the
+@82 markers/ road studs @163 made of poly carbonate or ABS body and shall @439 item on chapter-A, Sl no. D-
+@82 support a load of 13635 kg tested in accordance to ASTM D4280 and @491 5
+@82 complying with specifications as per clause 804 of @276 MoRT&Hs 5th
+@82 revision and section 5 of IRC-35:2015, the reflecting panels shall
+@82 consist of number of lenses containing single or dual prismatic cubes
+@82 capable of providing total internal reflection of the light entering the
+@82 lenses face. The slope of retro reflecting surface should be 25 +/-5
+@82 degree to base. The reflective marker shall be fixed on the road
+@82 surface using the epoxy/adhesive and the procedure recommended by
+@82 the manufacturer. No nails shall be used to affix the markers so that
+@82 they do not pose safety hazard on the road.
+@56 D-6 @82 Median Marker @309 Made up @359 each @398 435.00 @465 Complete Rate
+@82 of tough, impact resistant thermoplastic body, reflectorized on both @448 See the detailing of the
+@82 side using approximate. 85 x 85 mm (for square shape or equivalent in @439 item on chapter-A, Sl no. D-
+@82 case of round shape Fluorescent yellow prismatic sheeting (type-XI) @491 6
+@82 reflective surface should be incline to approximate 20 degree to
+@82 vertical to provide maximum reflective. Height & width of median
+@82 marker shall be approximate by 110 mm complete with all fixing
+@82 arrangements.
+@44 nd
+@283 Page 65 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 74
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@56 D-7 @359 each @398 485.00 @439 Complete Rate @533 See
+@83 Retro-reflective studs
+@440 the detailing of the item on
+@82 Supplying and fixing of Metal Road studs with shank, made of Die-cast
+@453 chapter-A, Sl no. D-7
+@82 Aluminium alloy molded body with the size 100x100x19.8 mm, shank
+@82 size 50 mm, having reflective panels of 34 glass reflective elements
+@82 embedded in plastic and 19 degrees tilted to provide the highest
+@82 reflectivity having reflective panels in yellow, red and white plastic
+@82 with yellow, red, white or green glass elements. The weight of
+@82 Aluminium stud should be not less than 370 grams. The stud shall have
+@82 a compressive strength test certificate of 40 tons in accordance with
+@82 ASTDM D 4280-04, clause no 806 of 5 th revision of @279 MoRT&Hs’s and
+@82 successfully passing retro reflectivity test as per EN 1463 part 1 & part
+@82 2 , from a reputed international laboratory. The fixing of road studs
+@82 shall be done by using a recommended Two Component Epoxy after
+@82 drilling 60 mm hole on the road for the shank to go inside.
+@56 D-8 @83 Rumble Marking using two component cold plastic @360 sqm @395 3888.00 @439 Complete Rate @533 See
+@440 the detailing of the item on
+@453 chapter-A, Sl no. D-8
+@82 Providing and Laying of Rumble strips with 2 component cold plastic
+@82 profiled material to give total width of 500 mm and height of 10 mm.
+@82 Ramp provided to give width of 145 mm, width of ribs to be 55mm
+@82 laid at centre to centre distance of 35 mm, with reflective glass beads
+@82 @ 350 gm / sqm. @151 The finished surface to be levelled, uniform and
+@82 free from streaks and holes, to be applied on the edge lines, including
+@82 secondary surface cleaning and cost of all materials etc. complete.
+@56 D-9 @83 Audible Vibratory Profile Marking with Hot Applied Thermoplastic @360 sqm @395 1012.00 @443 Complete Rate @530 See
+@83 and Reflectorizing Glass @440 the detailing of the item on
+@453 chapter-A, Sl no. D-9
+@82 Providing and laying of raised profile edge line marking (audible
+@82 vibratory) with special thermoplastic @227 road marking compound 2 mm
+@82 thick base coat layer above that ribs profile of 6 mm thick (total 8
+@82 mm thick) at the distance of 250 mm between two ribs including
+@82 reflectorizing glass beads @ 250 gm / sq.m. area. The minium and
+@82 maximum width of raised profile should be 100mm and 150 mm. The
+@82 thickness of 8 mm profile should be exclusive of surface applied glass
+@82 beads. The finished surface to be levelled, uniform and free from
+@82 streaks and holes, to be applied on the edge lines, including secondary
+@82 surface cleaning and cost of all materials etc. complete.
+@44 nd
+@283 Page 66 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 75
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@46 E) @60 Steel Structure of Bridge
+@56 E-1 @83 Plate Girder/Semi Through Girder @362 MT @392 22581.54 @451 Cost of material to be
+@449 added. Consumption of
+@82 Supplying of all types of structural steel conforming to Fe 410 B / Fe
+@441 materials to be followed as
+@82 490 of IS 2062, fabrication, assembling, erection/slewing/end
+@452 per chapter A , Sl No.
+@82 launching of steel girders (not requiring traffic block) upto 45.7m span
+@487 E-1
+@82 on sub structure including provision of trolley refuges, if required
+@82 complete as per approved drawing including one coat of zinc chrome
+@82 primer to IS:104& one coat Zinc Chrome Red Oxide to IS 2074 and
+@82 painting as per IRC-B- 1 on all members (detailed fabrication and
+@82 erection drawings & lunching methodology will be prepared and got
+@82 approved by the contractor from NH authority ). Rate includes
+@82 fabrication of all types of battens bracings, ties, stiffeners, packing
+@82 diaphragms, shop rivets/ welding, T&F bolts,drafts, shop welds
+@82 templates , jigs, fixtures, back up supports, accessories, transporting
+@82 various components from fabrication shop to site including loading,
+@82 unloading, lift and taxes complete, assembly of girders on
+@82 drifts/bolts. field riveting/welding, assembling of temporary support
+@82 for side slewing, raising of girders to the bed block level, providing
+@82 sliding arrangements and slewing the girder in position, lowering of
+@82 girder on bearings and bed plates grouting holes in the bed block for
+@82 fixing of HD bolts/anchor pins of bed plates. All tempporary
+@82 arrangements, load testing may be done. The bearing sets to be
+@82 provided with the girder will be paid separately .
+@56 E-2 @83 Open WEB Girder @362 MT @393 29745.00 @451 Cost of material to be
+@449 added. Consumption of
+@82 Basic cost for fabrication,erection,leading, painting primer coats and
+@441 materials to be followed as
+@82 final two coats of paint at site
+@464 per chapter A ,
+@82 Take a Plate girder of 200 Feet length and 1955.3 Qtl weight and 4000
+@472 Sl No. @502 E-2
+@82 Sqm of area to be painted.
+@82 Supplying and laying drainage composite wrapped in sand layer,having
+@82 three @108 dimensional @159 composite @203 with @225 thermobonding @288 a @298 draining @334 core
+@82 having @112 “W” @134 configuration @189 in @202 extruded @241 monofilaments @302 of @315 minimum
+@82 thickness @123 7.2mm, @158 with @181 two @201 filtering @238 UV @254 stabilized @297 polypropylene
+@82 nonwoven geotextile of minimum thickness of 0.75mm @307 and tensile
+@82 strength of 8.0 kN/m that will be working as separation or protecting
+@82 layer, geocomposite having in plane flow capacity of 2.3 L / (m.s) at
+@82 hydraulic gradient of 1.0 & 20 kPa pressure and tensile strength of 18
+@82 kN/m , with mass per unit area of 740 gsm, at @283 easily @312 accessible
+@82 location including top and bottom, with all leads and lifts, manpower
+@82 and machinery, @146 materials, labour etc. complete @273 and @291 as @305 directed @341 by
+@82 Engineer - In - Charge.
+@56 E-3 @83 Metalizing of steel work of girder with grit blasting. @359 sq.m @398 391.00 @465 Complete rate
+@82 Metalizing of steel work of girder with grit blasting ,following by one @448 See the detailing of the
+@440 item on chapter-A, Sl no. E-
+@82 coat of each primer (as per IS:5666) one coat of Zink Chrome primer
+@82 (as per IS: 104) and two coats of Aluminium paint (as per IS:2339) with @491 3
+@82 all labour, T&P and material as a complete job
+@44 nd
+@283 Page 67 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 76
+@238 ADDENDA TO CHAPTER - 17
+@263 MISCELLANEOUS
+@400 Rate
+@405 ( @409 ₹ @414 )
+@393 Labour,
+@207 Item @358 Unit @476 Remarks
+@400 T&P,
+@65 Serial No.
+@388 Machinery
+@402 etc.
+@60 1 @214 2 @365 3 @408 4 @492 5
+@56 E-4 @82 Cleanning of steelwork of bridge girders with scrappers and / @328 or @465 Complete rate
+@82 ware brushes to remove all rust and loose or perished paint to proper @448 See the detailing of the
+@82 perfectly clean and dry bare metal surface free from all dust/ foreign @440 item on chapter-A, Sl no. E-
+@82 materials and ready for initial coat of paint. Rate includes cost of @491 4
+@82 labour, consumables, brushes, tools and plants, labours, scaffolding,
+@82 jhoola, hanging scaffolding stagging etc.
+@82 a) For bridge girders upto 30.5 m clearspan @359 sq.m @400 31.00
+@82 b) For larger spans and heavier loads and extra height of scaffolding @359 sq.m @400 46.00
+@56 E-5 @82 Painting cleaned bridge plate girder including all scaffolding @465 Complete rate
+@82 shuttering strutting along with provision of jhoola / hanging @448 See the detailing of the
+@82 scaffolding where required. @440 item on chapter-A, Sl no. E-
+@491 5
+@82 With one coat of ready mix red lead conforming to IS 102
+@83 a) Painting Work of Bridge Girder upto 30.5 m @353 sq.m @400 33.40
+@83 b) Painting Work of Bridge Girder above 30.5 m @353 sq.m @400 37.20
+@56 E-6 @465 Complete rate
+@82 Painting cleaned bridge plate girder including all scaffolding
+@82 shuttering strutting along with provision of jhoola / hanging @448 See the detailing of the
+@440 item on chapter-A, Sl no. E-
+@82 scaffolding where required.
+@491 6
+@82 With one coat of ready mix Zinc Chromate conforming to IS 104
+@82 followed by one coat of Zinc Chromate red oxide conforming to
+@82 IS:2074
+@83 a) Painting Work of Bridge Girder upto 30.5 m @359 sq.m @400 52.20
+@83 b) Painting Work of Bridge Girder above 30.5 m @359 sq.m @400 58.30
+@56 E-7 @82 Painting cleaned bridge plate girder including all scaffolding @465 Complete rate
+@82 shuttering strutting along with provision of jhoola / hanging @448 See the detailing of the
+@82 scaffolding where required. @440 item on chapter-A, Sl no. E-
+@491 7
+@82 With two coats Alluminium paints in dual containers conforming to IS
+@82 2339
+@83 a) Painting Work of Bridge Girder upto 30.5 m
+@359 sq.m @400 65.20
+@83 b) Painting Work of Bridge Girder above 30.5 m @359 sq.m @400 71.20
+@56 E-8 @82 Painting cleaned bridge plate girder including all scaffolding @465 Complete rate
+@448 See the detailing of the
+@82 shuttering strutting along with provision of jhoola / hanging
+@82 scaffolding where required. @440 item on chapter-A, Sl no. E-
+@491 8
+@82 With two coats epoxy paint
+@83 a) Painting Work of Bridge Girder upto 30.5 m @359 sq.m @400 92.50
+@83 b) Painting Work of Bridge Girder above 30.5 m @359 sq.m @400 98.60
+@44 nd
+@283 Page 68 @506 Miscellenious
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 77
+@248 TABLES
+=== PAGE 78
+@265 COST OF PAVER BLOCK
+@271 TABLE - I (PART-C)
+@263 Kolkata/ 24 Parganas
+@256 (N&S), Howrah, Hooghly, @357 Coochbehar,
+@264 Nadia, Murshidabad, @361 Jalpaiguri,
+@415 Darjeeling Hill
+@133 Description of Items @233 Unit @281 Malda, N&S @359 Alipurduar, @491 Remarks
+@431 Area
+@259 Dinajpur,Burdwan,E&W @361 Darjeeling
+@97 Serial No.
+@265 Midnapore,Bankura, @369 Plains
+@269 Purulia, Birbhum,
+@93 1 @112 Concrete Vibro Hydraulic
+@110 Paver Block (Not less than
+@110 M40)
+@110 (a) 120mm thick @233 sqm @327 1500 @387 1750 @447 1900
+@110 (b) 100mm thick @233 sqm @327 1250 @387 1450 @447 1575
+@510 Rate at site
+@110 (c) 80mm thick @233 sqm @332 950 @387 1100 @447 1195
+@110 (d) 60mm thick @233 sqm @332 800 @392 935 @447 1015
+@84 Note : The above rates are exclusive of contractor's profit & GST.
+@55 nd
+@51 2 @63 Addenda to N Schedule of Rates_ 2019-20 @299 Page 69 @528 Miscellenious
+=== PAGE 79
+@229 ANNEXUR @347 E
+=== PAGE 80
+@266 ANNEXURE - III
+@128 Illustration for New Items related to Chapter 17 of NHSOR 2019-20
+@41 A) New Items related to Bases and Surface courses (Bituminous) Chapter 5
+@41 A-1. Illustration @112 for analysis of rate for Mechanised Mastic Ashphalt (25mm thickness)
+@223 nd
+@41 (Ref. Sr. No. A-1 of Chapter - 17, Page - 1 of 2 @232 Addenda of N.H. Schedule of Rates 2019-2020
+@41 For this illustration a site 15 km away from Chitpur railway stackyard (Kolkata) has been considered.
+@41 Distance from Chitpur (Kolkata) @171 Railway Stackyard to worksite = @365 15 Km.
+@41 Lead by road = @146 15 Km.
+@41 i)Cost of carriage : @131 (Plain Area) @227 Unit : cum.
+@59 From Km. @128 To Km. @181 Rate @ ( @214 ₹ @219 ) @249 Distance @307 Amount ( @343 ₹ @348 ) @442 Remarks
+@76 0 @138 15 @190 11.10 @254 (Km.) @261 15 @316 166.50 @364 For Carriage cost analysis refer Chapter-I,
+@364 Page`-68, of @416 N.H. Schedule of Rates, 2019-2020
+@364 (w.e.f 1st June' 2019).
+@206 Total carriage cost = @290 ₹ @298 166.50 @364 per cum.
+@41 Carriage cost = @298 166.5 @364 per cum.
+@41 ii) Cost of Pakur variety stone aggregate at worksite :
+@177 Cost of Pakur
+@172 variety material
+@183 at Chitpur @252 Loading @314 Carriage @382 Total
+@69 Item @135 Size @471 REMARKS
+@185 (Kolkata) @244 & Unloading @322 Cost @383 Cost
+@178 Rly Yard per
+@191 cu.m.
+@132 (mm) @196 ( @199 ₹ @204 ) @260 ( @263 ₹ @268 ) @324 ( @327 ₹ @332 ) @385 ( @389 ₹ @394 )
+@65 Ballast @138 75 @192 1514 @259 125 @316 166.50 @378 1805.5 @421 1) For Cost of Pakur variety
+@65 Ballast @138 63 @192 1714 @259 125 @316 166.50 @378 2005.5 @421 material at Chitpur (Kolkata) Rly
+@65 Ballast @138 53 @192 1784 @259 125 @316 166.50 @378 2075.5 @421 Yard. refer Table-VI, page-280 of
+@65 Ballast @138 45 @192 1784 @259 125 @316 166.50 @378 2075.5 @421 N.H. Schedule of Rates,2019-
+@421 2020 (w.e.f 1st @486 June ' 2019).
+@65 Ballast @138 40 @192 1844 @259 125 @316 166.50 @378 2135.5
+@421 This rate excludes contractor's
+@65 Ballast @134 37.5 @192 1844 @259 125 @316 166.50 @378 2135.5
+@421 profit.
+@67 Chips @134 26.5 @192 1804 @259 125 @316 166.50 @378 2095.5
+@421 2) For loading/unloading cost
+@67 Chips @127 20/22.4 @192 1894 @259 125 @316 166.50 @378 2185.5
+@421 refer Chapter-I, Page- 68 of N.H.
+@67 Chips @134 13.2 @192 1914 @259 125 @316 166.50 @378 2205.5
+@421 Schedule of Rates,,2019-2020
+@67 Chips @127 10/11.2 @192 1564 @259 125 @316 166.50 @378 1855.5
+@421 (w.e.f 1st June '2019)
+@67 Chips @136 5.6 @192 1234 @259 125 @316 166.50 @378 1525.5
+@421 3) Material costs are in loose net
+@421 volume
+@69 Dust @140 - @192 1214 @259 125 @316 166.50 @378 1505.5
+@41 iii) Cost of Bulk Bitumen 85/25 at site
+@41 Source of material @119 :- @191 Haldia Refinery
+@41 Lead from Haldia Refinery to Kolkata worksite = @256 120 Km @287 .
+@41 COST OF ROAD CARRIAGE : @156 (Plain Area) @250 Unit : tn
+@59 From Km. @128 To Km. @181 Rate @ ( @214 ₹ @219 ) @249 Distance @307 Amount ( @343 ₹ @348 ) @441 REMARKS
+@254 (Km.)
+@76 0 @135 120 @199 7 @259 120 @316 840.00 @364 For Carriage cost analysis refer Chapter-I, Page-
+@364 69,of N.H. Schedule of Rates, 2019-2020 (w.e.f
+@364 1st June' 2019).
+@41 Total carriage cost = @128 ₹ @315 840.00 @364 per tonne
+@41 Carriage cost = @318 ₹ @326 840 @364 per tonne
+@41 Cost of Bitumen (85/25) at Source (Excluding all Taxes) @315 ₹ @323 39,910.00
+@41 Loading and unloading @327 ₹ @335 169.00
+@41 Carriage Cost @327 ₹ @335 840.00
+@364 per tonne
+@311 ₹ @318 40,919.00
+@41 iv) Cost of Bulk Bitumen VG 30 @173 at site
+@41 Cost of Bitumen at worksite @298 ₹ @305 32,910.00
+@41 Loading and unloading @327 ₹ @335 169.00
+@41 Carriage Cost @327 ₹ @335 840.00
+@41 Cost of Bitumen at worksite @311 ₹ @318 33,919.00 @364 per tonne
+@44 nd
+@282 Page 70 @418 Illustration for Miscellenious work
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 81
+@41 Rate for Mechanised Mastic Ashphalt (25mm thickness)
+@41 Unit : @118 sq.m.
+@41 A. Labour, T & P, Machinery etc. @528 200.00
+@41 B. Materials @528 329.26
+@95 Item @250 Quantity @315 Rate ( @337 ₹ @341 ) @368 Total Cost( @407 ₹ @412 )
+@169 Unit @472 REMARKS
+@41 Bitumen 85/25 @169 kg
+@255 5.714 @316 40.919 @378 233.81
+@41 Coarse Aggregate @460 Bitumen Price
+@41 5.6mm (50% of vol. of total @169 cum @252 0.0079 @314 1525.50 @380 11.98 @426 (85/25)=32910+7000=39910 per
+@438 MT, (VG 30 + 7000) is the
+@41 13.2 mm (50% of vol. of total @169 cum @252 0.0079 @314 2205.50 @380 17.31
+@429 published rate of I.O.C on 1st
+@41 sand @169 cum @255 0.011 @314 1180.00 @380 12.98
+@423 October ',2019 is considered,i.e.
+@41 Lime stonedust with calcium @169 kg @255 10.29 @321 5.00 @380 51.45
+@438 on the 4th quarter of the
+@41 13.2mm stone metal for @169 cum @250 0.00057 @314 2205.50 @383 1.26
+@440 financial year 2019-2020
+@41 Bitumen VG-30 @169 kg @255 0.014 @317 33.919 @383 0.47
+@309 Material Cost @378 329.26
+@388 (A+B) @413 ₹ @525 529.26
+@41 C. Cost of formwork/scaffolding etc.@ @200 0% @340 of @356 B @413 ₹ @537 0.00
+@274 Cost of (A+B+C) @413 ₹ @528 529.26
+@41 D. Add overhead charges @144 @ @224 10 @239 10% @259 of @288 (A+B+C) @413 ₹ @532 52.93
+@41 E. Add contractor's profit @145 @ @239 10% @259 of @283 (A+B+C+D) @413 ₹ @532 58.22
+@259 TOTAL COST (A+B+C+D+E) @413 ₹ @528 640.41
+@41 F. Add Labour welfare cess @225 @ 1% of (A+B+C+D+E) @413 ₹ @537 6.40
+@317 ITEM RATE @413 ₹ @525 646.81
+@41 A-2. Illustration @112 for analysis of rate for Waste plastic Modified Dense Graded Hot Bituminous Mix for Wearing Coarse.
+@41 (Ref. Sr. No. A-2,of Chapter - 17, Page - 1 of 2nd Addenda of N.H. Schedule of Rates 2019-2020
+@41 For this illustration a site @156 has been considered @247 at Burdwan District
+@41 Distance from Burdwan @147 Railway Stackyard to worksite @357 15 Km.
+@41 Lead by road = @156 15 Km.
+@41 Cost of Road Carriage : @152 (Plain Area) @255 Unit : cum.
+@57 From Km. @127 To Km. @179 Rate @ ( @215 ₹ @220 ) @247 Distance @305 Amount ( @345 ₹ @350 ) @440 REMARKS
+@75 0 @137 15 @189 11.10 @260 15 @315 166.50 @364 For Carriage cost analysis refer Chapter-I,
+@364 Page`-68, of @416 N.H. Schedule of Rates, 2019-2020
+@364 (w.e.f 1st June' 2019).
+@197 Total carriage cost = @289 ₹ @315 166.50 @364 per cum.
+@41 ii) Cost of Pakur variety stone aggregate at worksite @272 :
+@173 Cost of Pakur
+@186 variety
+@177 material at @249 Loading @311 Carriage @380 Total
+@68 Item @133 Size @469 Remarks
+@174 Burdwan Jn. @239 & Unloading @320 Cost @382 Cost
+@173 Rly Yard @215 per
+@189 cu.m.
+@131 (mm) @195 ( @199 ₹ @204 ) @259 ( @263 ₹ @268 ) @323 ( @327 ₹ @332 ) @385 ( @389 ₹ @394 )
+@63 Ballast @137 75 @191 1257 @258 125 @315 166.50 @377 1548.5
+@421 1) For Cost of Pakur variety
+@63 Ballast @137 63 @191 1457 @258 125 @315 166.50 @377 1748.5 @421 material at Burdwan Jn. Rly
+@63 Ballast @137 53 @191 1527 @258 125 @315 166.50 @377 1818.5 @421 Yard. refer Table-VI, page-280 of
+@63 Ballast @137 45 @191 1527 @258 125 @315 166.50 @377 1818.5 @421 N.H. Schedule of Rates,2019-
+@63 Ballast @137 40 @191 1587 @258 125 @315 166.50 @377 1878.5 @421 2020 (w.e.f 1st @486 June ' 2019).
+@421 This rate excludes @498 contractor's
+@63 Ballast @133 37.5 @191 1587 @258 125 @315 166.50 @377 1878.5
+@421 profit.
+@66 Chips @133 26.5 @191 1547 @258 125 @315 166.50 @377 1838.5
+@421 2) For loading/unloading cost
+@66 Chips @125 20/22.4 @191 1637 @258 125 @315 166.50 @377 1928.5
+@421 refer Chapter-I, Page- 68 of N.H.
+@66 Chips @133 13.2 @191 1657 @258 125 @315 166.50 @377 1948.5
+@421 Schedule of Rates,,2019-2020
+@66 Chips @125 10/11.2 @191 1307 @258 125 @315 166.50 @377 1598.5
+@421 (w.e.f 1st June '2019)
+@66 Chips @135 5.6 @194 977 @258 125 @315 166.50 @377 1268.5
+@421 3) Material costs are in loose net
+@421 volume
+@68 Dust @140 - @194 957 @258 125 @315 166.50 @377 1248.5
+@44 nd
+@282 Page 71 @418 Illustration for Miscellenious work
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 82
+@41 Unit : @118 cu.m.
+@41 Source of material @119 :- @191 Haldia Refinery
+@41 Lead from Haldia Refinery to Burdwan worksite = @261 197 Km @292 .
+@41 Cost of Road Carriage : @142 (Plain Area) @236 Unit : tn
+@59 From Km. @128 To Km. @181 Rate @ ( @214 ₹ @219 ) @249 Distance @307 Amount ( @343 ₹ @348 ) @441 REMARKS
+@76 0 @135 197 @199 7 @254 (Km.) @259 197 @314 1379.00 @364 For Carriage cost analysis refer Chapter-I, Page-
+@364 69,of N.H. Schedule of Rates, 2019-2020 (w.e.f
+@364 1st June' 2019).
+@41 Total carriage cost = @128 ₹ @312 1379.00 @364 per tonne
+@44 Cost of Bulk Bitumen VG 30 @163 at site
+@41 Cost of Bitumen at worksite @298 ₹ @305 32,910.00
+@41 Loading and unloading @327 ₹ @335 169.00
+@41 Carriage Cost @320 ₹ @327 1,379.00
+@41 Cost of Bitumen at worksite @311 ₹ @318 34,458.00 @364 per tonne
+@41 Rate of Waste Plastic
+@41 A. Labour, T & P, Machinery etc. @520 1561.60
+@41 B. Materials @520 6598.99
+@94 Item @169 Unit @249 Quantity @320 Rate @381 Total @471 Remarks
+@323 ( @327 ₹ @332 ) @385 ( @389 ₹ @394 ) @424 Bitumen may be VG 30 or VG 40
+@41 Bitumen VG-30 @169 kg @258 127 @317 34.46 @374 4376.42 @425 as per design mix depending on
+@427 location of site and volume of
+@41 Coarse Aggregate
+@426 traffic. @480 Bitumen Price VG
+@41 13.2 mm @169 cum @251 0.0700 @312 1948.50 @377 136.40
+@422 30 per MT, @469 is the @496 published rate
+@41 10.00 mm @169 cum @251 0.2400 @312 1598.50 @377 383.64
+@425 of I.O.C on 1st October ',2019 is
+@41 5.6 mm @169 cum @251 0.2500 @312 1268.50 @377 317.13
+@436 considered,i.e. on the 4th
+@41 Stone dust @169 cum @251 0.9000 @312 1248.50 @374 1123.65
+@432 quarter of the financial year
+@41 cement as filler material @169 kg @254 44.57 @320 5.87 @377 261.76
+@468 2019-2020
+@304 Material Cost @372 6598.99
+@385 (A+B) @412 ₹ @516 8160.59
+@41 C. Cost of formwork/scaffolding etc.@ @216 0% @338 of @355 B @412 ₹ @535 0.00
+@271 Cost of (A+B+C) @412 ₹ @520 8160.59
+@41 D. Add overhead charges @ @239 10% of @293 (A+B+C) @412 ₹ @525 816.06
+@41 E. Add contractor's profit @156 @ @239 10% of @287 (A+B+C+D) @412 ₹ @525 897.66
+@250 TOTAL COST (A+B+C+D+E) @412 ₹ @520 9874.31
+@41 F. Add Labour welfare cess @220 @ 1% of (A+B+C+D+E) @412 ₹ @530 98.74
+@313 ITEM RATE @412 ₹ @516 9973.06
+@41 B) New Items related to Cement Concrete Pavement Chapter 6
+@41 B-1. Illustration @112 for analysis of rate for White Topping
+@41 (Ref. Sr. No.B-1 of Chapter - 17, Page - 2 of 2nd Addenda of N.H. Schedule of Rates 2019-2020
+@47 (For Midnapore District)
+@41 For this illustration a site 20 km away from Kharagpur railway stackyard has been considered.
+@41 Distance from Kharagpur Railway Stackyard to worksite @363 20 Km.
+@41 Lead by road = @156 20 Km.
+@41 Cost of Road Carriage : @152 (Plain Area) @255 Unit : cum.
+@57 From Km. @127 To Km. @179 Rate @ ( @215 ₹ @220 ) @247 Distance @305 Amount ( @345 ₹ @350 ) @440 REMARKS
+@364 For Carriage cost analysis refer Chapter-I,
+@75 0 @137 20 @189 11.10 @260 20 @315 222.00
+@364 Page`-68, of @416 N.H. Schedule of Rates, 2019-2020
+@364 (w.e.f 1st June' 2019).
+@197 Total carriage cost = @289 ₹ @315 222.00 @364 per cum.
+@44 nd
+@282 Page 72 @418 Illustration for Miscellenious work
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 83
+@44 Cost of Pakur variety stone aggregate at worksite @263 :
+@177 Cost of Pakur
+@172 variety material
+@252 Loading @314 Carriage @382 Total
+@69 Item @124 Size (mm) @171 at Kharagpur Jn. @471 REMARKS
+@237 & Unloading ( @286 ₹ @291 ) @315 Cost ( @336 ₹ @341 ) @377 Cost ( @398 ₹ @402 )
+@196 ( @199 ₹ @204 )
+@178 Rly Yard per
+@63 Boulder @122 225 to 150 @192 1817 @259 125 @316 222.00 @382 2164
+@65 Ballast @138 75 @192 1767 @259 125 @316 222.00 @378 2114.0 @421 1) For Cost of Pakur variety material
+@421 at Kharagpur Rly Yard. refer Table-
+@65 Ballast @138 63 @192 1967 @259 125 @316 222.00 @378 2314.0
+@421 VI, page-280 of N.H. Schedule of
+@65 Ballast @138 53 @192 2037 @259 125 @316 222.00 @378 2384.0
+@421 Rates,2019-2020 (w.e.f 1st @523 June '
+@65 Ballast @138 45 @192 2037 @259 125 @316 222.00 @378 2384.0
+@421 2019). This rate excludes
+@65 Ballast @138 40 @192 2097 @259 125 @316 222.00 @378 2444.0
+@421 contractor's profit.
+@65 Ballast @134 37.5 @192 2097 @259 125 @316 222.00 @378 2444.0 @421 2) For loading/unloading cost refer
+@421 Chapter-I, Page- 68 of N.H.
+@67 Chips @134 26.5 @192 2057 @259 125 @316 222.00 @378 2404.0
+@421 Schedule of Rates,,2019-2020 (w.e.f
+@67 Chips @127 20/22.4 @192 2147 @259 125 @316 222.00 @378 2494.0
+@421 1st June '2019)
+@67 Chips @134 13.2 @192 2167 @259 125 @316 222.00 @378 2514.0
+@421 3) Material costs are in loose net
+@67 Chips @127 10/11.2 @192 1817 @259 125 @316 222.00 @378 2164.0
+@421 volume
+@67 Chips @136 5.6 @192 1487 @259 125 @316 222.00 @378 1834.0
+@69 Dust @140 - @192 1467 @259 125 @316 222.00 @378 1814.0
+@41 Unit : @118 cu.m.
+@41 Item Rate for White Topping
+@523 1645.20
+@41 A. Labour, T & P, Machinery etc.
+@41 B. Materials @523 4984.20
+@53 Item Rate for
+@168 Unit @249 Quantity @321 Rate @372 Total Cost @471 REMARKS
+@51 White Topping
+@324 ( @327 ₹ @332 ) @385 ( @389 ₹ @394 )
+@41 Stone Aggregate
+@41 26.5mm @257 0.54 @314 2404.00 @376 1298.16
+@167 cum
+@41 11.2mm @257 0.36 @314 2164.00 @378 779.04
+@41 cement @172 tn @257 0.40 @314 6056.00 @376 2422.40
+@41 sand @167 cum @257 0.45 @316 798.00 @378 359.10
+@41 Steel for Dowel @169 tn @250 0.00220 @312 57054.00 @378 125.50
+@41 bar & Tie bar
+@309 Material Cost @376 4984.20
+@388 (A+B) @413 ₹ @519 6629.40
+@41 C. Cost of formwork/scaffolding etc.@ @200 0% @340 of @356 B @413 ₹ @537 0.00
+@274 Cost of (A+B+C) @413 ₹ @523 6629.40
+@41 D. Add overhead charges @144 @ @224 10 @239 10% @259 of @288 (A+B+C) @413 ₹ @528 662.94
+@41 E. Add contractor's profit @145 @ @239 10% @259 of @283 (A+B+C+D) @413 ₹ @528 729.23
+@259 TOTAL COST (A+B+C+D+E) @413 ₹ @523 8021.58
+@41 F. Add Labour welfare cess @225 @ 1% of (A+B+C+D+E) @413 ₹ @532 80.22
+@317 ITEM RATE @413 ₹ @519 8101.80
+@44 nd
+@282 Page 73 @418 Illustration for Miscellenious work
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 84
+@41 B-3. Illustration @112 for analysis of rate for Concrete Block Pavement
+@41 (Ref. Sr. No. B-3 of Chapter - 17, Page - 3 of 2nd Addenda of N.H. Schedule of Rates 2019-2020
+@41 For this illustration a site @146 has been considered at Burdwan District
+@41 Unit : @118 sq.m.
+@41 Type I - 120mm thickness
+@41 A. Labour, T & P, Machinery etc. @528 151.00
+@41 B. Materials @523 1620.85
+@94 ITEM @169 UNIT @249 Quantity @320 Rate @367 TOTAL COST @470 REMARKS
+@324 ( @327 ₹ @332 ) @385 ( @389 ₹ @394 )
+@41 Cost of Paver Block @192 sq.m @257 1.05 @312 1500.000 @376 1575.00
+@43 sand
+@41 Bedding Sand (80% of 0.06 m3)
+@428 For the cost of paver block at
+@193 cum @257 0.05 @316 798.00 @380 39.90
+@432 the Burdwan Dist.Ref Table
+@463 No.1, Part B
+@43 Joint filling sand (20% of
+@193 cum @257 0.01 @316 595.00 @383 5.95
+@41 0.06m3)
+@309 Material Cost @376 1620.85
+@388 (A+B) @413 ₹ @519 1771.85
+@41 C. Cost of formwork/scaffolding etc.@ @200 0% @340 of @356 B @413 ₹ @537 0.00
+@274 Cost of (A+B+C) @413 ₹ @523 1771.85
+@41 D. Add overhead charges @144 @ @224 10 @239 10% @259 of @288 (A+B+C) @413 ₹ @528 177.19
+@41 E. Add contractor's profit @145 @ @239 10% @259 of @283 (A+B+C+D) @413 ₹ @528 194.90
+@259 TOTAL COST (A+B+C+D+E) @413 ₹ @523 2143.94
+@41 F. Add Labour welfare cess @225 @ 1% of (A+B+C+D+E) @413 ₹ @532 21.44
+@317 ITEM RATE @413 ₹ @519 2165.38
+@519 2165.50
+@41 C) New Items related to Geosyntehtic and Reinforced earth Chapter 7
+@41 C-16. Illustration for Analysis of rate for @216 BIS cerified Gabion fascia box with 2m integrated tail of Size 3m(Length of
+@41 Tail)x3m(Length of Box)x0.8m(Height of unit)
+@41 (Ref. Sr. No. C-16 of Chapter - 17, Page - 8 of 2nd Addenda of N.H. Schedule of Rates 2019-2020
+@41 Unit : @118 cu.m.
+@41 A. Labour, T & P, Machinery etc. @523 2414.00
+@41 B. Materials @523 2164.00
+@95 Item @169 Unit @250 Quantity @315 Rate ( @337 ₹ @341 ) @366 Total Cost ( @409 ₹ @413 ) @472 REMARKS
+@425 Consider the work site 15 km from
+@43 Boulder 200mm size @193 cum @257 1.00 @312 2164.000 @376 2164.00 @424 Kharagpur railway stackyard (Pakur
+@473 Variety)
+@309 Material Cost @376 2164.00
+@388 (A+B) @413 ₹ @519 4578.00
+@41 C. Cost of formwork/scaffolding etc.@ @200 0% @340 of @356 B @413 ₹ @537 0.00
+@274 Cost of (A+B+C) @413 ₹ @523 4578.00
+@41 D. Add overhead charges @144 @ @224 10 @239 10% @259 of @288 (A+B+C) @413 ₹ @528 457.80
+@41 E. Add contractor's profit @145 @ @239 10% @259 of @283 (A+B+C+D) @413 ₹ @528 503.58
+@259 TOTAL COST (A+B+C+D+E) @413 ₹ @523 5539.38
+@41 F. Add Labour welfare cess @225 @ 1% of (A+B+C+D+E) @413 ₹ @532 55.39
+@317 ITEM RATE @413 ₹ @519 5594.77
+@44 nd
+@282 Page 74 @418 Illustration for Miscellenious work
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 85
+@41 C-45. Illustration for Analysis of rate for @216 Cylindrical Gabions /Sack Gabions of size 2 m in length and 0.96 m diameter.
+@41 (Ref. Sr. No. C-45 of Chapter - 17, Page - 16 of 2nd Addenda of N.H. Schedule of Rates 2019-2020
+@41 Unit : @118 cu.m.
+@41 A. Labour, T & P, Machinery etc. @523 1582.30
+@41 B. Materials @528 625.00
+@95 Item @194 Unit @250 Quantity @315 Rate ( @337 ₹ @341 ) @366 Total Cost ( @409 ₹ @413 ) @473 Remarks
+@94 Sand @193 cum @257 1.00 @314 625.000 @378 625.00
+@438 Consider the work site at
+@452 Midnapore District
+@309 Material Cost @378 625.00
+@388 (A+B) @413 ₹ @519 2207.30
+@41 C. Cost of formwork/scaffolding etc.@ @216 0% @338 of @355 B @412 ₹ @535 0.00
+@271 Cost of (A+B+C) @412 ₹ @520 2207.30
+@41 D. Add overhead charges @ @239 10% of @293 (A+B+C) @412 ₹ @525 220.73
+@41 E. Add contractor's profit @156 @ @239 10% of @287 (A+B+C+D) @412 ₹ @525 242.80
+@250 TOTAL COST (A+B+C+D+E) @412 ₹ @520 2670.83
+@41 F. Add Labour welfare cess @220 @ 1% of (A+B+C+D+E) @412 ₹ @530 26.71
+@313 ITEM RATE @412 ₹ @516 2697.54
+@44 nd
+@282 Page 75 @418 Illustration for Miscellenious work
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 86
+@41 E) New Items related to Steel Structure of Bridge
+@41 E-1. Illustration @112 for analysis of rate for Bridgework - Super structure - Steel Plate Girder/Semi Through Girder
+@41 (Ref. Sr. No. E-1,of Chapter - 17, Page - 20 @229 of 2nd Addenda of N.H. Schedule of Rates 2019-2020 )
+@47 (For Burdwan District)
+@41 Unit : @118 Tonne
+@41 Supply of HYSD reinforcement bars shall be from Market at Burdwan
+@41 Total Lead from Site @364 15 km
+@41 Cost of Road Carriage : @152 (Plain Area) @255 Unit : cum.
+@57 From Km. @127 To Km. @179 Rate @ ( @215 ₹ @220 ) @247 Distance @305 Amount ( @345 ₹ @350 ) @440 REMARKS
+@254 (Km.)
+@75 0 @137 15 @199 7 @260 15 @315 105.00 @364 For Carriage cost analysis refer Chapter-I, @532 Page-
+@364 69, of N.H. Schedule of Rates, 2019-2020 (w.e.f
+@364 1st June ' 2019)..
+@41 Total carriage cost = @133 ₹ @315 105.00 @364 per tonne
+@41 Cost of Steel at worksite
+@69 Item @135 Unit @177 Basic Cost ( @218 ₹ @223 ) @252 Loading @299 Carriage Cost ( @352 ₹ @357 ) @366 Total Cost ( @409 ₹ @413 ) @471 REMARKS
+@237 & Unloading ( @286 ₹ @291 )
+@431 Refer values in Annexure - I,
+@41 Mild steel plates @131 tonne @190 49205 @252 169.00 @316 105.00 @383 49479.00
+@430 page 283 of N.H. Schedule of
+@41 Rivets @131 tonne @190 56888 @252 169.00 @316 105.00 @383 57162.00 @424 Rates 2019-2020 (w.e.f 1st June'
+@474 2019)..
+@41 20mm dia holding @131 tonne @190 56888 @252 169.00 @316 105.00 @383 57162.00
+@41 down bolts
+@41 A. Labour, T & P, Machinery etc. @519 22581.54
+@519 53791.11
+@41 B. Materials
+@366 Total Cost ( @409 ₹ @413 ) @472 REMARKS
+@69 Item @169 Unit @250 Quantity @315 Rate ( @337 ₹ @341 )
+@41 Mild steel plates @170 MT @257 1.05 @312 49479.00 @374 51952.95
+@41 Rivets @170 MT
+@252 0.0315 @312 57162.00 @376 1800.60
+@41 20mm dia holding
+@41 down bolts @170 MT
+@248 0.000657 @312 57162.00 @380 37.56
+@304 Material Cost @372 53791.11
+@388 (A+B) @413 ₹ @514 76372.65
+@43 C. Add for sundries , mics, T & P, consumable etc.@ @258 3% @340 of @356 B @413 ₹ @523 1613.73
+@274 Cost of (A+B+C) @413 ₹ @519 77986.38
+@41 D. Add overhead charges @144 @ @224 10 @239 25% @259 of @288 (A+B+C) @413 ₹ @519 19496.60
+@41 E. Add contractor's profit @145 @ @239 10% @259 of @283 (A+B+C+D) @413 ₹ @523 9748.30
+@259 TOTAL COST (A+B+C+D+E) @413 ₹ @514 107231.27
+@41 F. Add Labour welfare cess @225 @ 1% of (A+B+C+D+E) @413 ₹ @523 1072.31
+@317 ITEM RATE @413 ₹ @509 108303.59
+@44 nd
+@282 Page 76 @418 Illustration for Miscellenious work
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20
+=== PAGE 87
+@41 E-2 Illustration @109 for analysis of rate for Open WEB Grider.
+@41 (Ref. Sr. No. E-2,of Chapter - 17, Page - 20 @213 of 2nd Addenda of N.H. Schedule of Rates 2019-2020 )
+@41 A. Labour, T & P, Machinery etc. @519 29745.00
+@519 53760.81
+@41 B. Materials
+@69 Item @168 Unit @249 Quantity @313 Rate ( @337 ₹ @342 ) @371 Total Cost @470 REMARKS
+@386 ( @389 ₹ @394 )
+@41 Mild steel plates
+@170 MT @257 1.05 @312 49479.00 @374 51952.95
+@41 Rivets @170 MT
+@252 0.0315 @312 57162.00 @376 1800.60
+@41 20mm dia holding
+@41 down bolts @170 MT @248 0.000127 @312 57162.00 @383 7.26
+@309 Material Cost @374 53760.81
+@388 (A+B) @413 ₹ @514 83505.81
+@43 C. Add for sundries , mics, T & P, consumable etc.@ @258 3% @340 of @356 B @413 ₹ @523 1612.82
+@274 Cost of (A+B+C) @413 ₹ @519 85118.64
+@41 D. Add overhead charges @144 @ @224 10 @239 25% @259 of @288 (A+B+C) @413 ₹ @519 21279.66
+@41 E. Add contractor's profit @145 @ @239 10% @259 of @283 (A+B+C+D) @413 ₹ @519 10639.83
+@259 TOTAL COST (A+B+C+D+E) @413 ₹ @514 117038.13
+@41 F. Add Labour welfare cess @225 @ 1% of (A+B+C+D+E) @413 ₹ @523 1170.38
+@317 ITEM RATE @413 ₹ @509 118208.51
+@44 nd
+@282 Page 77 @418 Illustration for Miscellenious work
+@39 2 @53 Addenda to N H Schedule of Rates_2019-20

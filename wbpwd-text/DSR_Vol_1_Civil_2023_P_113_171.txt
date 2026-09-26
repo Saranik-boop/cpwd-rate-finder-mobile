@@ -1,0 +1,2882 @@
+=== PAGE 1
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 5.33A.1 @165 All works upto plinth level
+@165 5.33A.1.1 @220 Concrete of M25 grade with minimum cement
+@220 content of 330 kg /cum @437 cum @482 9333.95
+@113 5.33A.2 @165 All works above plinth level up to floor V level
+@165 5.33A.2.1 @220 Concrete of M25 grade with minimum cement
+@220 content of 330 kg /cum @437 cum @482 9689.60
+@58 5.35 @113 Add for using extra cement in the items of design mix over and above the
+@113 specified cement content therein. @432 quintal @485 733.50
+@58 5.36 @113 Providing and placing in position precast reinforced cement concrete
+@113 waffle units, square or rectangular, as per design and shape for floors
+@113 and roofs in 1:1½:3 (1 Cement : 1½ coarse sand (zone-III) derived
+@113 from natural sources : 3 graded stone aggregate 10 mm nominal size
+@113 derived from natural sources), including flush or deep ruled pointing at
+@113 joints in Cement mortar 1:2 (1 Cement : 2 Fine sand), making necessary
+@113 holes of required sizes for carrying through service lines etc., providing
+@113 steel hooks for lifting etc, form work in precasting, handling, hoisting,
+@113 centering and erection complete for all floor levels but, excluding the cost
+@113 of reinforcement. @437 cum @480 33018.75
+@58 5.36A @113 Providing and placing in position precast reinforced cement concrete
+@113 waffle units, square or rectangular as per design and shape for floors and
+@113 roofs in 1:1.5:3 (1 cement : 1.5 coarse sand incuding manufactured sand
+@113 derived from Recycled Concrete Aggregate (RCA) upto 20% : 3 graded
+@113 stone aggregate 10 mm nominal size including Recycled Concrete
+@113 Aggregate (RCA) upto 20%), including flush or deep ruled pointing at
+@113 joints in cement mortar 1:2 (1 cement : 2 Fine sand), making necessary
+@113 holes of required sizes for carrying through service lines etc., providing
+@113 steel hooks for lifting etc, form work in precasting, handling, hoisting,
+@113 centering and erection complete for all floor levels but excluding the cost
+@113 of reinforcement. @437 cum @480 32847.95
+@58 5.38 @113 Extra for R.C.C./ B.M.C/ R.M.C. work above floor V level for each four
+@113 floors or part thereof. @437 cum @485 355.65
+@58 5.41 @113 Supplying and applying pre tested and approved water based concrete
+@113 curing compound to concrete/ masonry surface, all as per manufacturer’s
+@113 specification and direction of Engineer-in-charge.
+@113 5.41.1 @165 Non pigmented wet curing compound @437 sqm @487 69.05
+@58 5.42 @113 Providing @160 and @183 fixing @212 parallel @250 threaded @294 couplers @337 conforming @391 to @406 IS
+@113 code on “Reinforcement Couplers for Mechanical Splices of Bars for
+@113 Concrete Reinforcement - Specification”, to reinforcement bars including
+@113 threading, enlargement at connection by forging, protecting the prepared
+@113 reinforcement bars and related operations as required to complete the
+@113 works per direction of Engineer- in-Charge.
+@113 5.42.1 @165 Coupler for 16 mm diameter reinforcement bar @435 each @485 115.10
+@113 5.42.2 @165 Coupler for 20 mm diameter reinforcement bar @435 each @485 160.10
+@113 5.42.3 @165 Coupler for 25 mm diameter reinforcement bar @435 each @485 228.95
+@113 5.42.4 @165 Coupler for 28 mm diameter reinforcement bar @435 each @485 267.55
+@113 5.42.5 @165 Coupler for 32 mm diameter reinforcement bar @435 each @485 318.80
+@58 5.43 @113 Providing and fixing in position Stainless steel Grade 304 plate-1.0 mm
+@113 thick as per design for expansion joints.
+@113 5.43.1 @165 200 mm wide. @433 metre @485 859.75
+@113 5.43.2 @165 300 mm wide. @433 metre @482 1208.05
+@305 SUB HEAD : 5.0 REINFORCED CEMENT CONCRETE
+@51 113
+=== PAGE 2
+
+=== PAGE 3
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 5.44 @113 Providing and fixing of expansion joint system related with floor location
+@113 as per drawings and direction of Engineer-In-Charge. The joints system
+@113 will be of extruded aluminum base members, self aligning / self centering
+@113 arrangement and support plates etc. as per ASTM B221-02. The system
+@113 shall be such that it provides floor to floor /floor to wall expansion
+@113 control system for various vertical localtion in load application areas that
+@113 accommodates multi directional seismic movement without stress to it’s
+@113 components. System shall consist of metal profiles with an universal
+@113 aluminum @160 base @186 member @227 designed @271 to @285 accommodate @350 various @387 project
+@113 conditions and finish floor treatments. The cover plate shall be designed
+@113 of width and thickness required to satisfy projects movement and loading
+@113 requirements and secured to base members by utilizing manufacturer’s
+@113 pre-engineered self- centering arrangement that freely rotates / moves
+@113 in all directions. The Self - centering arrangement shall exhibit circular
+@113 sphere ends that lock and slide inside the corresponding aluminum
+@113 extrusion cavity to allow freedom of movement and flexure in all directions
+@113 including vertical displacement. Provision of Moisture Barrier Membrane
+@113 in the Joint System to have watertight joint is mandatory requirement
+@113 all as per the manufactures design and as approved by Engineer -in-
+@113 Charge. (Material shall conform to ASTM 6063).
+@113 5.44.1 @165 Floor Joint of 100 mm gap @433 metre @482 6392.55
+@113 5.44.2 @165 Floor Joint of 150 mm gap @433 metre @482 7812.35
+@113 5.44.3 @165 Floor Joint of 200 mm gap @433 metre @482 9903.65
+@58 5.45 @113 Providing and fixing of expansion joint system related with wall joint
+@113 (internal/external) location as per drawings and direction of Engineer-In-
+@113 Charge. The joints shall be of extruded aluminum base members, self
+@113 aligning / centering arrangement and support plates as per ASTM B221-
+@113 02. The material shall be such that it provides an Expansion Joints System
+@113 suitable for vertical wall to wall/ wall to corner application, both new and
+@113 existing construction in office Buildings & complexes with no slipping down
+@113 tendency amongst the components of the Joint System. The Joint System
+@113 shall utilize light weight aluminum profiles exhibiting minimal exposed
+@113 aluminum surfaces mechanically snap locking the multicellular to facilitate
+@113 movement. (Material shall conform to ASTM 6063).
+@113 5.45.1 @165 Wall Joint of 100 mm gap @433 metre @482 5305.65
+@113 5.45.2 @165 Wall Joint of 150 mm gap @433 metre @482 5981.40
+@113 5.45.3 @165 Wall Joint of 200 mm gap @433 metre @482 6889.05
+@58 5.46 @113 Providing and fixing of expansion joint system of approved make and
+@113 manufactures for various roof locations as per approved drawings and
+@113 direction of Engineer-In-Charge. The joints shall be of extruded aluminum
+@113 base members with, self aligning and self centering arragement support
+@113 plates as per ASTM B221-02. The system shall be such that it provides
+@113 watertight roof to roof/roof to corner joint cover expansion control system
+@113 that is capable of accommodating multidirectional seismic movement
+@113 without stress to its components. System shall consist of metal profile
+@113 that incorporates an universal aluminum base member designed to
+@113 accommodate @179 various @216 project @251 conditions @300 and @322 roof @345 treatments. @399 The
+@113 cover plate shall be designed of width and thickness required to satisfy
+@113 movement and loading requirements and secured to base members by
+@113 utilizing manufacturer’s pre-engineered self-centering arrangement that
+@113 freely rotates / moves in all directions. The Self centering arrangement
+@113 shall @139 exhibit @174 circular @211 sphere @247 ends @275 that @297 lock @321 and @344 slide @370 inside @402 the
+@113 corresponding aluminum extrusion cavity to allow freedom of movement
+@113 and flexure in all directions including vertical displacement.
+@305 SUB HEAD : 5.0 REINFORCED CEMENT CONCRETE
+@51 114
+=== PAGE 4
+
+=== PAGE 5
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 The Joint System shall resists damage or deterioration from the impact
+@113 of falling ice, exposure to UV, airborne contaminants and occasional
+@113 foot traffic from maintenance personnel. Provision of Moisture Barrier
+@113 Membrane in the Joint System to have water tight joint is mandatory
+@113 requirement. (Material shall conform to ASTM 6063).
+@113 5.46.1 @165 Roof Joint of 100 mm gap @433 metre @482 5985.70
+@113 5.46.2 @165 Roof Joint of 150 mm gap @433 metre @482 6699.85
+@113 5.46.3 @165 Roof Joint of 200 mm gap @433 metre @482 7927.60
+@58 5.47 @113 Providing and fixing in position factory made precast RCC M-40 door
+@113 and window frame fixing with hold fast embedded in 1:3:6 concrete
+@113 block, having excellent smooth finish as per IS: 6523 with reinforcement
+@113 of 3 Nos, 6 mm dia main bars tied with 3 mm M.S stirrups placed @
+@113 200 mm C/C and 6 numbers high strength polymer blocks of required
+@113 size for fixing hinges including providing 6 nos. specially designed M.S.
+@113 galvanised sleeves for accomodating 6 mm dia fully threaded bolts for
+@113 fixing hold fast on vertical members, providing suitable arrangement for
+@113 recieving sliding door bolts and tower bolt etc. all complete, as per the
+@113 direction of Engineer-in-charge. The frame shall be measured in running
+@113 metre correct to two places of decimal.
+@113 5.47.1 @165 Door frame 125 mmx 60 mm @433 metre @485 814.85
+@113 5.47.2 @165 Door frame 100 mmx 60 mm @433 metre @485 757.10
+@113 5.47.3 @165 Door frame 85 mmx60 mm @433 metre @485 727.30
+@58 5.48 @113 Providing and laying Reinforced cement concrete for construction of piers,
+@113 abutments, portal frames, pier caps and bearing pedestals and seismic
+@113 arresters over pier/ abutment caps at all locations with specified grade using
+@113 Ordinary Portland Cement (conforming to strength requirement of IS:8112)
+@113 including the cost of steel centering and shuttering etc. complete, including
+@113 testing of materials etc. for casting pier & pier cap in one/two stage, necessary
+@113 tools, plants, machinery and all related operations as required to complete
+@113 the work as per drawings and Specifications with all leads, lifts and depths
+@113 true to level and position but excluding the cost of providing reinforcement.
+@113 Reinforcement shall be measured and paid separately.
+@113 Note:- Cement content considered in this item is 480 kg/cum. Excess/
+@113 less cement used as per design mix is payable/ recoverable separately.
+@113 5.48.1 @165 Reinforced Cement Concrete -M-50 @437 cum @482 8509.95
+@113 5.48.2 @165 Reinforced Cement Concrete -M-60 @437 cum @482 9500.30
+@113 5.48.3 @165 Extra for using M-50/ M-60 Grade Self-compacting Cement
+@165 Concrete @437 cum @485 664.85
+@58 5.49 @165 Constructing cast-in situ RCC diaphragm wall by providing
+@165 and @191 laying @225 machine @271 batched, @317 machine @363 mixed, @401 self
+@165 compacting, ready mix reinforced cement concrete, tramie
+@165 controlled, of M 30 grade using minimum 400 kg cement
+@165 per cum of concrete including providing and mixing required
+@165 admixtures in recommended proportions as per IS : 9103,
+@165 as approved by the Engineer-in-charge, for achieving 150
+@165 - 200 mm slump, for diaphragm wall having thickness as
+@165 per approved structural design not exceeding 600 mm, in
+@165 pannels of required depth and lengths as per approved
+@165 drawing, including constructing necessary guide walls as
+@165 required and as specified including boring in all kinds of soils
+@165 and rocks, including working in or under water and / or liquid
+@165 mud, in foul conditions and pumping
+@305 SUB HEAD : 5.0 REINFORCED CEMENT CONCRETE
+@51 115
+=== PAGE 6
+
+=== PAGE 7
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 or bailing out of water and removing slush, including disposal of earth/
+@113 rock / slush etc. for all leads and all lifts, including preparing, providing
+@113 and re-circulating bentonite slurry in the trench as and when required
+@113 for all depths, including agitating bentonite slurry during trenching etc.,
+@113 providing and fixing stop ends or form tubes, upto the required depth
+@113 of diaphragm wall including extracting the same after casting, including
+@113 chipping off the bentonite adulterated concrete or unsound concrete up
+@113 to the cut off level for obtaining the sound concrete, dressing undulations
+@113 on the exposed face of diaphragm wall after excavation by chipping /
+@113 chiseling etc. including filling the depression/ cavities with sound concrete
+@113 etc. complete and as directed by the Engineer-in-charge, including
+@113 providing recess for bearing plates and fixing insert boxes for inclined
+@113 rock anchors etc. complete as per the specifications and approved
+@113 design and as directed by the Engineer-in-charge, but excluding the cost
+@113 of reinforcement and inserts. (rates include cost of all inputs of labour,
+@113 material and T & P, cost of handling, lifting & placing in position the
+@113 reinforcement cage in the trench, including the additional cost of welding
+@113 the reinforcement bars etc. involved in the work and all other incidental
+@113 expenditure for completing the work as directed by the Engineer-in-
+@113 charge), However, the actual area of the diaphragm wall, correct to two
+@113 places of decimal, from design bottom level to the design cut off level
+@113 (including portion anchored in the rock upto the design bottom level) only
+@113 shall be measured for payment.
+@113 (rates include cost of all inputs of labour, material and T & P, cost of
+@113 handling, lifting & placing in position the reinforcement cage in the trench,
+@113 including the additional cost of welding the reinforcement bars etc.
+@113 involved in the work and all other incidental expenditure for completing
+@113 the work as directed by the Engineer-in-charge), However, the actual
+@113 area of the diaphragm wall, correct to two places of decimal, from design
+@113 bottom level to the design cut off level (including portion anchored in the
+@113 rock upto the design bottom level) only shall be measured for payment.
+@113 Excess/less cement used for design mix including the extra cement
+@113 required for under water concreting is payable / recoverable separately. @437 cum @480 20460.45
+@305 SUB HEAD : 5.0 REINFORCED CEMENT CONCRETE
+@51 116
+=== PAGE 8
+
+=== PAGE 9
+@183 SUB HEAD : 6.0
+@168 MASONRY WORK
+=== PAGE 10
+
+=== PAGE 11
+@224 6.0 MASONRY WORK
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 6.1 @113 Brick work with common burnt clay F.P.S. (non modular) bricks of class
+@113 designation 7.5 in foundation and plinth in:
+@113 6.1.1 @165 Cement mortar 1:4 (1 cement : 4 coarse sand) @437 cum @482 7370.65
+@113 6.1.2 @165 Cement mortar 1:6 (1 cement : 6 coarse sand) @437 cum @482 7132.25
+@58 6.2 @113 Brick work with common burnt clay modular bricks of class designation
+@113 7.5 in foundation and plinth in:
+@113 6.2.1 @165 Cement mortar 1:4 (1 cement : 4 coarse sand) @437 cum @482 6504.90
+@113 6.2.2 @165 Cement Mortar 1:6 (1 cement : 6 coarse sand). @437 cum @482 6295.15
+@58 6.3 @113 Brick work with common burnt clay machine moulded perforated bricks
+@113 of class designation 12.5 conforming to IS: 2222 in superstructure above
+@113 plinth level up to floor five level in cement mortar 1:6 (1 cement : 6 coarse
+@113 sand) :
+@113 6.3.1 @165 With F.P.S.(non modular) bricks @437 cum @482 9299.90
+@113 6.3.2 @165 With Modular bricks @437 cum @482 8942.35
+@58 6.4 @113 Brick work with common burnt clay F.P.S. (non modular) bricks of class
+@113 designation 7.5 in superstructure above plinth level up to floor V level in
+@113 all shapes and sizes in :
+@113 6.4.1 @165 Cement mortar 1:4 (1 cement : 4 coarse sand) @437 cum @482 9344.35
+@113 6.4.2 @165 Cement mortar 1:6 (1 cement : 6 coarse sand) @437 cum @482 9105.95
+@58 6.5 @113 Extra for brick work / AAC block masonry / Tile brick masonry in
+@113 superstructure above floor V level, for each four floors or part thereof by
+@113 mechanical means. @437 cum @485 169.45
+@58 6.6 @113 Extra for forming cavity 5 cm to 11.5 cm wide in cavity walls with necessary
+@113 weep and vent holes including use of cores and cost of providing and
+@113 fixing bitumastic coated M .S. ties 300 mm long of 25x3 mm section at
+@113 not less than 3 ties per sqm as per approved design. @437 sqm @485 234.20
+@58 6.7 @113 Providing half brick masonry with common burnt clay F.P.S. (non modular)
+@113 bricks of class designation 7.5 in cement mortar 1:3 (1 Cement : 3 coarse
+@113 sand) in superstructure for closing cavity 5 to 7.5 cm wide in cavity wall
+@113 complete with 10cm / 11.4 cm wide bitumen felt type 3 grade 1. @433 metre @485 300.75
+@58 6.8 @113 Brick work 7 cm thick with common burnt clay F.P.S. (non modular) brick
+@113 of class designation 7.5 in cement mortar 1:3 (1 cement : 3 coarse sand)
+@113 in superstructure above plinth level and upto floor five level. @437 sqm @485 865.65
+@58 6.9 @113 Brick work in plain arches in superstructure above plinth level and upto
+@113 floor five level including centering and shuttering complete for span up
+@113 to 6 metres with common burnt clay F.P.S. (non modular) bricks of class
+@113 designation 7.5 in cement mortar 1:3 (1 cement : 3 coarse sand). @437 cum @480 15077.95
+@58 6.10 @113 Brick work in gauged arches in superstructure above plinth level and
+@113 upto floor five level in cement mortar 1:3 (1 cement : 3 coarse sand)
+@113 including centering and shuttering complete, for span up to 6 meters with
+@113 common burnt clay F.P.S. (non modular) bricks of class designation 7.5. @437 cum @480 19066.10
+@58 6.11 @113 Extra for additional cost of centering for arches exceeding 6m span
+@113 including all shuttering, bolting, wedging and removal (Area of the soffit
+@113 to be measured). @437 sqm @485 608.15
+@113 HALF BRICK MASONRY
+@58 6.12 @113 Half brick masonry with common burnt clay F.P.S. (non modular) bricks of
+@113 class designation 7.5 in foundations and plinth in :
+@381 SUB HEAD : 6.0 MASONRY WORK
+@51 118
+=== PAGE 12
+
+=== PAGE 13
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 6.12.1 @165 Cement mortar 1:3 (1 cement : 3 coarse sand) @437 sqm @485 931.75
+@113 6.12.2 @165 cement mortar 1:4 (1 cement : 4 coarse sand) @437 sqm @485 905.05
+@58 6.13 @113 Half brick masonry with common burnt clay F.P.S. (non modular) bricks
+@113 of class designation 7.5 in superstructure above plinth level up to floor
+@113 V level.
+@113 6.13.1 @165 Cement mortar 1:3 (1 cement :3 coarse sand) @437 sqm @483 1150.50
+@113 6.13.2 @165 Cement mortar 1:4 (1 cement :4 coarse sand) @437 sqm @483 1123.80
+@58 6.14 @113 Extra for half brick masonry in superstructure, above floor V level for
+@113 every four floors or part thereof by mechanical means. @437 sqm @487 15.00
+@58 6.15 @113 Extra for providing and placing in position 2 Nos 6 mm dia. M.S. bars at
+@113 every third course of half brick masonry. @437 sqm @485 104.80
+@113 BRICK TILE WORK
+@58 6.16 @113 Tile brick masonry with common burnt clay F.P.S. (non modular) tile
+@113 bricks of class designation 10 in foundation and plinth in:
+@113 6.16.1 @165 Cement mortar 1:4 (1 cement : 4 coarse sand) @437 cum @480 11212.50
+@113 6.16.2 @165 Cement mortar 1:6 (1 cement : 6 coarse sand) @437 cum @480 10831.05
+@58 6.17 @113 Tile brick masonry with common burnt clay machine moulded tile bricks
+@113 of class designation 12.5 conforming to IS : 2690 (Part I) in foundation
+@113 and plinth in cement mortar 1:6 (1 cement : 6 coarse sand). @437 cum @480 11328.50
+@58 6.18 @113 Tile brick masonry with common burnt clay F.P.S. (non modular) tile
+@113 bricks of class designation 10 in superstructure above plinth level up to
+@113 floor V level in cement mortar 1:6 (1 cement : 6 coarse sand). @437 cum @480 12883.05
+@58 6.20 @113 Tile brick masonry with common burnt clay F.P.S. (non modular) tile
+@113 bricks of class designation 10 in plain arch work in superstructure above
+@113 plinth and upto floor five level in cement mortar 1:4 (1 cement : 4 coarse
+@113 sand) including centering and shuttering complete. @437 cum @480 18975.15
+@58 6.21 @113 Tile brick masonry with common burnt clay F.P.S. (non modular) tile
+@113 bricks of class designation 10 in gauged arch work in superstructure
+@113 above plinth and upto floor five level in cement mortar 1:4 (1 cement : 4
+@113 coarse sand) including centering and shuttering complete. @437 cum @480 23019.75
+@58 6.22 @113 Tile brick masonry work 5 cm thick with common burnt clay F.P.S. (non
+@113 modular) tile bricks of class designation 10 in cement mortar 1:3 (1
+@113 cement : 3 coarse sand) in superstructure above plinth and upto floor
+@113 five level. @437 sqm @485 885.45
+@113 HONEY COMB WORK
+@58 6.23 @113 Honey-comb brick work 10 / 11.4 cm thick with common burnt clay bricks
+@113 of class designation 7.5 in super structure above plinth level upto floor V
+@113 level with cement mortar 1:4 (1 cement : 4 coarse sand). @437 sqm @485 711.50
+@58 6.24 @113 Extra for laying brick work in or under water and/or liquid mud including @428 cum per
+@113 cost of pumping or bailing out water and removing slush etc. complete. @433 metre
+@434 depth @482 1098.80
+@113 NOTE :- The quantity will be calculated by multiplying the depth measured
+@113 from sub - soil water level up to the centre of gravity of brick work under
+@113 sub - soil water with the quantity of brick work in cum. executed under the
+@113 sub - soil water. The depth of centre of gravity shall be reckoned correct
+@113 to 0.1 m, (0.05 m or more shall be taken as 0.1 m and less than 0.05 m
+@113 ignored).
+@58 6.25 @113 Extra for laying brick work in or under foul position. @437 cum @485 467.55
+@381 SUB HEAD : 6.0 MASONRY WORK
+@51 119
+=== PAGE 14
+
+=== PAGE 15
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 EXPOSED BRICK WALL
+@58 6.26 @113 Brick @140 work @166 with @189 common @231 burnt @259 clay @282 selected @323 F.P.S. @353 (non @378 modular)
+@113 bricks of class designation 7.5 in exposed brick work including making
+@113 horizontal and vertical grooves 10 mm wide 12 mm deep complete in
+@113 cement mortar 1:6 (1 cement : 6 coarse sand)
+@113 6.26.1 @165 From ground level upto plinth level @437 cum @482 7361.35
+@113 6.26.2 @165 Above plinth level upto floor V level @437 cum @482 9439.75
+@58 6.27 @113 Brick work with common burnt clay modular bricks of class designation
+@113 7.5 in exposed brick work including making horizontal and vertical
+@113 grooves 10 mm wide 12 mm deep complete in cement mortar 1:6 (1
+@113 cement : 6 coarse sand).
+@113 6.27.1 @165 From ground level upto plinth level @437 cum @482 6339.20
+@113 6.27.2 @165 Above plinth level upto floor V level @437 cum @482 8312.90
+@58 6.28 @113 Brick work with common burnt clay machine moulded modular bricks of
+@113 class designation 12.5 in exposed brick work including making horizontal
+@113 and vertical grooves 10 mm wide 12 mm deep complete in cement mortar
+@113 1:6 (1 cement : 6 coarse sand).
+@113 6.28.1 @165 From ground level upto plinth level @437 cum @482 6997.40
+@113 6.28.2 @165 Above plinth level upto floor V level @437 cum @482 8971.10
+@58 6.29 @113 Brick work with common burnt clay machine moulded F.P.S. (non modular)
+@113 bricks of class designation 12.5 in exposed brick work including making
+@113 horizontal and vertical grooves 10 mm wide 12 mm deep complete in
+@113 cement mortar 1:6 (1 cement : 6 coarse sand).
+@113 6.29.1 @165 From ground level upto plinth level @437 cum @482 7581.15
+@113 6.29.2 @165 Above plinth level upto floor V level @437 cum @482 9481.70
+@58 6.30 @113 Brick work with common burnt clay machine moulded perforated F.P.S.
+@113 (non modular) bricks of class designation 12.5 conforming IS : 2222 in
+@113 exposed brick work including making horizontal and vertical grooves 10
+@113 mm wide 12 mm deep complete in cement mortar 1:6 (1 cement : 6
+@113 coarse sand).
+@113 6.30.1 @165 From ground level upto plinth level @437 cum @482 7370.30
+@113 6.30.2 @165 Above plinth level upto floor V level @437 cum @482 9344.00
+@58 6.31 @113 Brick work with common burnt clay machine moulded perforated modular
+@113 bricks of class designation 12.5 conforming to IS : 2222 in exposed brick
+@113 work including making horizontal and vertical grooves 10 mm wide 12
+@113 mm deep complete in cement mortar 1:6 (1 cement : 6 coarse sand).
+@113 6.31.1 @165 From ground level upto plinth level @437 cum @482 7032.05
+@113 6.31.2 @165 Above plinth level upto floor V level @437 cum @482 9005.75
+@58 6.32 @113 Brick work with clay flyash F.P.S. (non modular) brick of class designation
+@113 7.5 in superstructure above plinth level up to floor five level in :
+@113 6.32.1 @165 Cement mortar 1:4 (1 cement : 4 coarse sand) @437 cum @482 9333.45
+@113 6.32.2 @165 Cement mortar 1:6 (1 cement : 6 coarse sand) @437 cum @482 9095.05
+@58 6.34 @113 Brick work with non modular fly ash bricks conforming to IS:12894, class
+@113 designation 10 average compressive strength in super structure above
+@113 plinth level up to floor V level in :
+@113 6.34.1 @165 Cement mortar 1:4 (1 cement : 4 coarse sand) @437 cum @482 8962.35
+@113 6.34.2 @165 Cement mortar 1:6 (1 cement : 6 Coarse sand) @437 cum @482 8752.55
+@381 SUB HEAD : 6.0 MASONRY WORK
+@51 120
+=== PAGE 16
+
+=== PAGE 17
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 6.35 @113 Brick @140 work @167 with @190 modular @231 calcium @270 silicate @305 bricks @337 machine @379 moulded
+@113 conforming @166 to @180 IS:4139, @222 class @250 designation @305 10 @322 average @362 compressive
+@113 strength in super structure above plinth level up to floor V level in :
+@113 6.35.1 @165 Cement mortar 1:4 (1 cement : 4 coarse sand) @437 cum @482 9793.75
+@113 6.35.2 @165 Cement mortar 1:6 (1 cement : 6 Coarse sand) @437 cum @482 9583.95
+@58 6.36 @113 Brick @140 work @166 with @189 modular @229 extruded @272 brunt @300 fly @315 ash @336 clay @359 sewer @391 bricks
+@113 (Conforming to IS: 4885) in cement mortar 1:4 (1 cement : 4 coarse
+@113 sand) in foundation and plinth :
+@113 6.36.1 @165 Cement Mortar 1:4 ( 1 cement : 4 coarse sand) @437 cum @482 7197.75
+@58 6.37 @113 Brick @140 work @166 with @189 modular @229 extruded @272 brunt @300 fly @315 ash @336 clay @359 sewer @391 bricks
+@113 (conforming to IS : 4885) in arches in foundation and plinth in cement
+@113 mortar 1:3 ( 1 cement : 3 fine sand). @437 cum @480 13427.30
+@58 6.38 @113 Providing and laying Autoclaved Aerated concrete(AAC) blocks masonry
+@113 100 mm/ 125 mm thick with Grade-1 AAC blocks of density 551 to 650
+@113 kg/cum conforming to IS:2185 (Part 3) in super structure above plinth
+@113 level up to floor V level in cement mortar 1:4 (1 cement : 4 coarse sand ).
+@113 The rate includes providing and placing in position 2 Nos 6 mm dia M.S.
+@113 bars at every third course of masonry work. @437 cum @480 10195.45
+@58 6.40 @113 Providing @159 and @181 laying @212 Gypsum @254 panel @283 partitions @328 100 @350 mm @373 thick @398 with
+@113 water proof Gypsum panels of size 666x500x100 mm, made of calcite
+@113 phosphor Gypsum fixed with tongue and groove edges and jointed with
+@113 bonding plaster as per manufacturer’s specifications in superstructure
+@113 above plinth level up to floor V level. Gypsum blocks will have a minimum
+@258 2
+@113 compressive strength of 9.3 kg/cm @437 sqm @482 1023.60
+@58 6.41 @113 Extra for Gypsum panel Partitions in superstructure above floor V level
+@113 for every four floors or part thereof. @437 sqm @485 181.15
+@58 6.44 @113 Brick edging 7cm wide 11.4 cm deep to plinth protection with common
+@113 burnt clay F.P.S. (non modular) bricks of class designation 7.5 including
+@113 grouting with cement mortar 1:4 (1 cement : 4 fine sand). @433 metre @487 60.85
+@58 6.45 @113 Half brick masonry with non modular fly ash bricks of class designation
+@113 10, conforming to IS :12894, in super structure above plinth upto floor V
+@113 level.
+@113 6.45.1 @165 Cement mortar 1 : 3 (1 cement : 3 coarse sand) @437 sqm @483 1132.50
+@113 6.45.2 @165 Cement mortar 1 : 4 (1 cement : 4 coarse sand) @437 sqm @483 1105.80
+@58 6.47 @113 Providing and laying Autoclaved Aerated concrete(AAC) blocks masonry
+@113 with 150 mm to 300 mm thick with Grade-1 AAC blocks of density 551 to
+@113 650 kg/cum conforming to IS:2185 (Part 3) in super structure above plinth
+@113 level up to floor V level with RCC band at sill level and lintel level with
+@113 approved block laying polymer modified adhesive mortar all complete
+@113 as per direction of Engineer-in-Charge. (The payment of RCC band and
+@113 reinforcement shall be made for seperately). @437 cum @482 8333.65
+@381 SUB HEAD : 6.0 MASONRY WORK
+@51 121
+=== PAGE 18
+
+=== PAGE 19
+@183 SUB HEAD : 7.0
+@192 STONE WORK
+=== PAGE 20
+
+=== PAGE 21
+@235 7.0 STONE WORK
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 RANDOM RUBBLE MASONRY
+@58 7.1 @113 Random rubble masonry with hard stone in foundation and plinth including
+@113 levelling up with cement concrete 1:6:12 (1 cement : 6 coarse sand : 12
+@113 graded stone aggregate 20 mm nominal size) upto plinth level with :
+@113 7.1.1 @165 Cement mortar 1:6 (1 cement : 6 coarse sand) @437 cum @483 7311.25
+@58 7.2 @113 Random rubble masonry with hard stone in superstructure above plinth
+@113 level and upto floor five level, including leveling up with cement concrete
+@113 1:6:12 (1 cement : 6 coarse sand : 12 graded stone aggregate 20 mm
+@113 nominal size) at window sills, ceiling level and the like.
+@113 7.2.1 @165 Cement mortar 1:6 (1 cement : 6 coarse sand) @437 cum @482 9275.45
+@58 7.4 @113 Extra for random rubble masonry with hard stone in :
+@113 7.4.1 @165 Square or rectangular pillars @437 cum @485 956.00
+@113 7.4.2 @165 Circular pillars @437 cum @482 2530.60
+@58 7.5 @113 Extra for random rubble masonry with hard stone curved on plan for a
+@113 mean radius not exceeding 6 m. @437 cum @482 1046.20
+@113 COURSED RUBBLE MASONRY
+@58 7.6 @113 Coursed rubble masonry (first sort) with hard stone in foundation and
+@113 plinth with :
+@113 7.6.1 @165 Cement mortar 1:6 (1 cement : 6 coarse sand) @437 cum @482 8812.05
+@58 7.7 @113 Coursed rubble masonry (second sort) with hard stone in foundation &
+@113 plinth with :
+@113 7.7.1 @165 Cement mortar 1:6 (1 cement : 6 coarse sand) @437 cum @482 8198.55
+@58 7.8 @113 Coursed @155 rubble @187 masonry @230 with @253 hard @278 stone @307 (first @332 or @346 second @383 sort) @408 in
+@113 superstructure above plinth level and upto floor five level.
+@113 7.8.1 @165 Masonry work (first sort), in cement mortar 1:6 (1 cement :
+@165 6 coarse sand) @437 cum @480 10741.60
+@113 7.8.2 @165 Masonry work (second sort), in cement mortar 1:6 (1 cement:
+@165 6 coarse sand) @437 cum @480 10128.10
+@58 7.10 @113 Extra for coursed rubble masonry with hard stone (first or second sort) in:
+@113 7.10.1 @165 Square or rectangular pillars @437 cum @482 1060.50
+@113 7.10.2 @165 Circular pillars @437 cum @482 2874.20
+@58 7.11 @113 Extra for coursed rubble masonry with hard stone (first or second sort)
+@113 curved on plan for a mean radius not exceeding 6 m. @437 cum @483 1133.65
+@113 ASHLAR MASONRY
+@58 7.12 @113 Stone work in plain ashlar in super structure upto floor five level in cement
+@113 mortar 1:6 (1 cement : 6 coarse sand) including pointing with cement
+@113 mortar 1:2 (1 white cement : 2 stone dust) with an admixture of pigment
+@113 matching the stone shade :
+@113 7.12.1 @165 One face dressed
+@165 7.12.1.1 @220 Red sand stone @437 cum @480 68294.00
+@165 7.12.1.2 @220 White sand stone @437 cum @480 82518.00
+@113 7.12.2 @165 Both face dressed
+@165 7.12.2.1 @220 Red sand stone @437 cum @480 91295.00
+@165 7.12.2.2 @220 White sand stone @437 cum @477 105519.00
+@396 SUB HEAD : 7.0 STONE WORK
+@51 123
+=== PAGE 22
+
+=== PAGE 23
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 7.13 @113 Stone work plain ashlar in arches in super structure upto floor V level
+@113 in cement mortar 1:3 (1 cement : 3 coarse sand) including centering,
+@113 shuttering and pointing with white cement mortar 1:2 (1 white cement :
+@113 2 stone dust) with an admixture of pigment matching the stone shade.
+@113 7.13.1 @165 One face dressed
+@165 7.13.1.1 @220 Red sand stone @437 cum @480 75263.00
+@165 7.13.1.2 @220 White sand stone @437 cum @480 89487.00
+@113 7.13.2 @165 Both face dressed
+@165 7.13.2.1 @220 Red sand stone @437 cum @480 98265.00
+@165 7.13.2.2 @220 White sand stone @437 cum @477 112488.00
+@58 7.14 @113 Stone work plain ashlar in domes , in super structure upto floor V level
+@113 in cement mortar 1:3 (1 cement : 3 coarse sand) including centering,
+@113 shuttering and pointing with white cement mortar 1:2 (1 white cement :
+@113 2 stone dust) with an admixture of pigment matching the stone shade.
+@113 7.14.1 @165 One face dressed
+@165 7.14.1.1 @220 Red sand stone @437 cum @477 114277.00
+@165 7.14.1.2 @220 White sand stone @437 cum @477 128500.00
+@113 7.14.2 @165 Both face dressed
+@165 7.14.2.1 @220 Red sand stone @437 cum @477 169953.00
+@165 7.14.2.2 @220 White sand stone @437 cum @477 184177.00
+@58 7.15 @113 Stone work ashlar punched (ordinary) in superstructure upto floor five
+@113 level in cement mortar 1:6 (1 white cement : 6 coarse sand) including
+@113 pointing with white cement mortar 1:2 (1 white cement : 2 stone dust)
+@113 with an admixture of pigment matching the stone shade.
+@113 7.15.1 @165 One face dressed
+@165 7.15.1.1 @220 Red sand stone @437 cum @480 64926.00
+@165 7.15.1.2 @220 White sand stone @437 cum @480 79150.00
+@113 7.15.2 @165 Both faced punched
+@165 7.15.2.1 @220 Red sand stone @437 cum @480 84560.00
+@165 7.15.2.2 @220 White sand stone @437 cum @480 98784.00
+@58 7.16 @113 Extra for stone work, random rubble / coursed rubble masonry / ashlar
+@113 masonry above floor V level for every four floors or part thereof by
+@113 mechnical means. @437 cum @485 169.45
+@58 7.17 @113 Extra for plain ashlar or ashlar punched in :
+@113 7.17.1 @165 Square or rectangular pillars @437 cum @482 2896.00
+@58 7.18 @113 Extra for stone work; plain ashlar or ashlar punched curved on plan with
+@113 a mean radius not exceeding 6 m. @437 cum @482 2014.00
+@58 7.19 @113 Extra for additional cost of centering for arches exceeding 6m span
+@113 including all strutting, bolting, wedging etc. and removal (area of soffit to
+@113 be measured). @437 sqm @485 608.15
+@113 SUNK, MOULDED, CARVED ASHLAR MASONRY
+@58 7.20 @113 Stone work ashlar sunk or moulded or sunk and moulded upto floor five
+@113 level in cement mortar 1:6 (1 cement : 6 coarse sand) including pointing
+@113 with white cement mortar 1:2 (1 white cement : 2 stone dust) with an
+@113 admixture of pigment matching the stone shade :
+@113 7.20.1 @165 Red sand stone @437 cum @480 94463.00
+@113 7.20.2 @165 White sand stone @437 cum @477 108686.00
+@396 SUB HEAD : 7.0 STONE WORK
+@51 124
+=== PAGE 24
+
+=== PAGE 25
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 7.21 @113 Extra for stone work ashlar sunk or moulded or sunk and moulded or
+@113 carved in :
+@113 7.21.1 @165 Triangular or Square or rectangular pillars @437 cum @482 3779.00
+@113 7.21.2 @165 Circular or polygonal pillars @437 cum @480 10706.00
+@58 7.22 @113 Extra for stone work ashlar sunk or moulded in cornices. @425 per metre
+@431 per cm
+@436 girth
+@432 (60cm
+@433 deep) @485 303.50
+@113 MISCELLANEOUS STONE WORK
+@58 7.24 @113 Extra for stone work (veneer work) curved on plan with a mean radius
+@113 not exceeding 6 m. @437 cum @482 2896.00
+@58 7.26 @113 Providing and fixing stone dowels 10x5x2.50 cm cut to double wedge
+@113 shape as per design in cement mortar 1:2 (1 cement : 2 coarse sand),
+@113 including making the necessary chases. @435 each @487 54.55
+@58 7.28 @113 Providing and fixing sloping chajja of stone 40 mm thick and upto 80 cm
+@113 wide beyond the wall as measured along the slope in cement mortar 1:4
+@113 (1 cement : 4 coarse sand) with 12 mm diameter anchoring steel bar, 45
+@113 cm long, fixed in each stone and supported on and including with bricks
+@113 cove in cement mortar 1:4 (1 cement : 4 coarse sand), including pointing
+@113 in cement mortar 1:2 (1 white cement : 2 stone dust) with an admixture of
+@113 pigment matching the stone shade :
+@113 7.28.1 @165 Red sand stone :
+@165 7.28.1.1 @220 With common burnt clay F.P.S.(non modular)
+@220 bricks of class designation 7.5 @437 sqm @482 2854.35
+@113 7.28.2 @165 White sand stone :
+@165 7.28.2.1 @220 With common burnt clay F.P.S.(non modular)
+@220 bricks of class designation 7.5 @437 sqm @482 2932.60
+@58 7.29 @113 Providing and fixing horizontal chajja of stone 40 mm thick and upto 80
+@113 cm projection in cement mortar 1:4 (1 cement : 4 coarse sand), including
+@113 pointing in white cement mortar 1:2 (1 white cement : 2 stone dust) with
+@113 an admixture of pigment matching the stone shade :
+@113 7.29.1 @165 Red sand stone @437 sqm @482 1833.25
+@113 7.29.2 @165 White sand stone @437 sqm @482 1901.55
+@58 7.30 @113 30 mm red sand stone sun-shade (chisel-dressed) supported on red
+@113 sand stone brackets, fixed in walls with cement mortar 1:4 (1 cement : 4
+@113 coarse sand), including finishing complete. @437 sqm @482 2159.90
+@58 7.31 @113 Providing and fixing red sand stone brackets 55x22.5x45 cm sunk and
+@113 moulded including providing and fixing with 4 Nos gun metal cramp 25x6
+@113 mm 30 cm long @435 each @482 6788.85
+@58 7.32 @113 Stone work, plain in copings, cornices, string courses and plinth courses,
+@113 upto 75 mm thick in Cement mortar 1:6 (1 cement : 6 coarse sand),
+@113 including pointing with white cement mortar 1:2 (1 white cement : 2 stone
+@113 dust) with an admixture of pigment matching the stone shade.
+@113 7.32.1 @165 Red sand stone @437 cum @480 93741.10
+@113 7.32.2 @165 White sand stone @437 cum @477 107965.10
+@58 7.33 @113 Providing and fixing stone jali 40 mm thick throughout in cement mortar
+@113 1:3 (1 cement : 3 coarse sand), including pointing in white cement
+@113 mortar 1:2 (1 white cement : 2 stone dust) with an admixture of pigment,
+@113 matching the stone shade, jali slab without any chamfers etc.
+@396 SUB HEAD : 7.0 STONE WORK
+@51 125
+=== PAGE 26
+
+=== PAGE 27
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 7.33.1 @165 Red sand stone @437 sqm @480 14931.55
+@113 7.33.2 @165 White sand stone @437 sqm @480 14994.15
+@58 7.34 @113 Extra for laying stone work in or under water and/or liquid mud including @428 cum per
+@113 cost of pumping or bailing out water and removing slush etc. complete. @433 metre
+@434 depth @482 1098.80
+@113 NOTE :- The quantity will be calculated by multiplying the depth measured
+@113 from sub-soil water level up to the centre of gravity of stone work under
+@113 sub - water with the quantity of stone work in cum executed under the
+@113 sub-soil water. The depth of centre of gravity shall be reckoned correct
+@113 to 0.1 m, (0.05 m or more shall be taken as 0.1 m and less than 0.05 m
+@113 ignored).
+@58 7.35 @113 Extra for laying stone work in or under foul condition. @437 cum @485 467.55
+@58 7.38 @113 Stone tile work for wall lining upto 10 m height with special adhesive
+@113 over 12 mm thick bed of cement mortar 1:3 (1 cement : 3 coarse sand),
+@113 including pointing in white cement with an admixture of pigment to match
+@113 the stone shade.
+@113 7.38.1 @165 8 mm thick (mirror polished and machine cut edge)
+@165 7.38.1.1 @220 Granite stone of any colour and shade @437 sqm @482 3094.55
+@165 7.38.1.2 @220 Raj Nagar plain white marble/ Udaipur green
+@220 marble/ Zebra black marble @437 sqm @482 2766.45
+@396 SUB HEAD : 7.0 STONE WORK
+@51 126
+=== PAGE 28
+
+=== PAGE 29
+@183 SUB HEAD : 8.0
+@165 CLADDING WORK
+=== PAGE 30
+
+=== PAGE 31
+@223 8.0 CLADDING WORK
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 8.1 @113 Marble work gang saw cut (polished and machine cut) of thickness 18
+@113 mm for wall lining (veneer work), backing filled with a grout of average
+@113 12 mm thick in cement mortar 1:3 (1 cement : 3 coarse sand), including
+@113 pointing with white cement mortar 1:2 (1 white cement : 2 marble dust)
+@113 with an admixture of pigment to match the marble shade (To be secured
+@113 to the backing by means of cramps, which shall be paid for separately).
+@113 8.1.1 @165 Raj Nagar Plain white marble/ Udaipur green marble/ Zebra
+@165 black marble.
+@165 8.1.1.1 @220 Area of slab upto 0.50 sqm @437 sqm @482 5742.55
+@165 8.1.1.2 @220 Area of slab over 0.50 sqm @437 sqm @482 5938.00
+@58 8.2 @113 Providing @159 and @181 fixing @209 18 @226 mm @248 thick @274 gang @302 saw @325 cut, @346 mirror @377 polished,
+@113 premoulded and prepolished, machine cut for kitchen platforms, vanity
+@113 counters, window sills, facias and similar locations of required size,
+@113 approved shade, colour and texture laid over 20 mm thick base cement
+@113 mortar 1:4 (1 cement : 4 coarse sand), joints treated with white cement,
+@113 mixed with matching pigment, epoxy touch ups, including rubbing, curing,
+@113 moulding and polishing of edges to give high gloss finish etc. complete
+@113 at all levels.
+@113 8.2.1 @165 Raj Nagar Plain white marble/ Udaipur green marble/ Zebra
+@165 black marble
+@165 8.2.1.1 @220 Area of slab upto 0.50 sqm @437 sqm @482 3414.80
+@165 8.2.1.2 @220 Area of slab over 0.50 sqm @437 sqm @482 3078.40
+@113 8.2.2 @165 Granite stone slab of colour black, Cherry/Ruby red
+@165 8.2.2.1 @220 Area of slab upto 0.50 sqm @437 sqm @482 5413.50
+@165 8.2.2.2 @220 Area of slab over 0.50 sqm @437 sqm @482 5136.30
+@113 8.2.3 @165 Granite stone slab of all colour and texture except black,
+@165 Cherry/Ruby red
+@165 8.2.3.1 @220 Area of slab upto 0.50 sqm @437 sqm @482 4170.70
+@165 8.2.3.2 @220 Area of slab over 0.50 sqm @437 sqm @482 3848.70
+@58 8.3 @113 Providing edge moulding to 18 mm thick marble stone counters, Vanities
+@113 etc., including machine polishing to edge to give high gloss finish etc.
+@113 complete as per design approved by Engineer-in-Charge.
+@113 8.3.1 @165 Marble work @433 metre @485 298.60
+@113 8.3.2 @165 Granite work @433 metre @485 510.95
+@58 8.4 @113 Extra for fixing marble /granite stone, over and above corresponding
+@113 basic item, in facia and drops of width upto 150 mm with epoxy resin
+@113 based adhesive, including cleaning etc. complete. @433 metre @485 568.55
+@58 8.5 @113 Extra for providing opening of required size & shape for wash basin/
+@113 kitchen sink in kitchen platform, vanity counter and similar location in
+@113 marble/ Granite/ stone work, including necessary holes for pillar taps etc.
+@113 including moulding, rubbing and polishing of cut edges etc. complete. @435 each @485 978.70
+@58 8.6 @113 Mirror polishing on marble work/Granite work/stone work where ever
+@113 required to give high gloss finish complete. @437 sqm @485 506.70
+@58 8.7 @113 Providing and fixing cramps of required size & shape in RCC/ CC / Brick
+@113 masonry backing with cement mortar 1:2 ( 1 cement :2 coarse sand),
+@113 including drilling necessary hole in stones and embedding the cramp in
+@113 the hole (fastener to be paid separately).
+@380 SUB HEAD : 8.0 CLADDING WORK
+@51 128
+=== PAGE 32
+
+=== PAGE 33
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 8.7.1 @165 Gunmetal cramps @441 kg @485 723.45
+@113 8.7.2 @165 Stainless steel cramps @441 kg @485 714.40
+@58 8.8 @113 Providing and fixing expansion hold fasteners on C.C. /R.C.C./Brick
+@113 masonry surface backing including drilling necessary holes and the cost
+@113 of bolt etc complete.
+@113 8.8.1 @165 Wedge expansion type
+@165 8.8.1.1 @220 Fastener with threaded dia 6 mm @435 each @487 36.75
+@165 8.8.1.2 @220 Fastener with threaded dia 10 mm @435 each @487 40.00
+@165 8.8.1.3 @220 Fastener with threaded dia 12 mm @435 each @487 61.70
+@58 8.9 @113 Stone tile (polished) work for wall lining over 12 mm thick bed of cement
+@113 mortar 1:3 (1 cement : 3 coarse sand) and cement slurry @ 3.3 kg/sqm
+@113 including pointing in white cement complete.
+@113 8.9.1 @165 8 mm thick
+@165 8.9.1.1 @220 Raj nagar plain white marble/ Udaipur green
+@220 marble/ Zebra black marble @437 sqm @482 3190.30
+@165 8.9.1.2 @220 Granite of any colour and shade @437 sqm @482 3617.55
+@58 8.10 @113 Providing and fixing stone slab with table rubbed, edges rounded and
+@113 polished, of size 75x50 cm deep and 1.8 cm thick, fixed in urinal partitions
+@113 by cutting a chase of appropriate width with chase cutter and embedding
+@113 the stone in the chase with epoxy grout or with cement concrete 1:2:4 (1
+@113 cement : 2 coarse sand : 4 graded stone aggregate 6 mm nominal size)
+@113 as per direction of Engineer-in-charge and finished smooth.
+@113 8.10.1 @165 White Agaria Marble Stone @437 sqm @482 3500.45
+@113 8.10.2 @165 Granite Stone of approved shade @437 sqm @482 4051.85
+@58 8.11 @113 Providing and fixing machine cut, mirror/ eggshell polished , Marble stone
+@113 work for wall lining (veneer work) including dado, skirting, risers of steps
+@113 etc., in required design and pattern wherever required, stones of different
+@113 finished surface texture, on 12 mm (average) thick cement mortar 1:3 (1
+@113 cement : 3 coarse sand) laid and jointed with white cement slurry @ 3.3
+@113 kg/sqm including pointing with white cement slurry admixed with pigment
+@113 of matching shade, including rubbing, curing, polishing etc. all complete
+@113 as per Architectural drawings, and as directed by the Engineer-in-Charge.
+@113 8.11.1 @165 18 mm thick Italian Marble stone slab,Perlato, Rosso verona,
+@165 Fire Red or Dark Emperadore etc. @437 sqm @480 10414.80
+@58 8.14 @113 Stone work (machine cut edges) for wall lining etc. (veneer work) upto 10
+@113 metre height, backing filled with a grout of average 12 mm thick cement
+@113 mortar 1:3 (1 cement : 3 coarse sand) including pointing in white cement
+@113 mortar 1:2 (1 white cement : 2 stone dust) with an admixture of pigment
+@113 matching the stone shade : (To be secured to the backing and the sides
+@113 by means of cramps and pins which shall be paid for separately) :
+@113 8.14.1 @165 Red sand stone - exposed face fine dressed with rough
+@165 backing.
+@165 8.14.1.1 @220 70 mm thick @437 sqm @482 6282.40
+@165 8.14.1.2 @220 60 mm thick @437 sqm @482 6035.85
+@165 8.14.1.3 @220 50 mm thick @437 sqm @482 5789.90
+@165 8.14.1.4 @220 40 mm thick @437 sqm @482 5542.60
+@165 8.14.1.5 @220 30 mm thick @437 sqm @482 5295.90
+@113 8.14.2 @165 Red sand stone - Exposed face machine cut and table
+@165 rubbed with rough backing.
+@380 SUB HEAD : 8.0 CLADDING WORK
+@51 129
+=== PAGE 34
+
+=== PAGE 35
+@58 Code No @238 Description @436 Unit @489 Rate
+@165 8.14.2.1 @220 70 mm thick @437 sqm @482 8502.25
+@165 8.14.2.2 @220 60 mm thick @437 sqm @482 8255.75
+@165 8.14.2.3 @220 50 mm thick @437 sqm @482 8009.75
+@165 8.14.2.4 @220 40 mm thick @437 sqm @482 7762.50
+@165 8.14.2.5 @220 30 mm thick @437 sqm @482 7515.80
+@113 8.14.3 @165 White sand stone - exposed face fine dressed with rough
+@165 backing .
+@165 8.14.3.1 @220 70 mm thick @437 sqm @482 7278.20
+@165 8.14.3.2 @220 60 mm thick @437 sqm @482 6889.45
+@165 8.14.3.3 @220 50 mm thick @437 sqm @482 6501.55
+@165 8.14.3.4 @220 40 mm thick @437 sqm @483 6110.75
+@165 8.14.3.5 @220 30 mm thick @437 sqm @482 5722.60
+@113 8.14.4 @165 White sand stone - Exposed face machine cut and table
+@165 rubbed with rough backing.
+@165 8.14.4.1 @220 70 mm thick @437 sqm @482 9498.10
+@165 8.14.4.2 @220 60 mm thick @437 sqm @482 9109.30
+@165 8.14.4.3 @220 50 mm thick @437 sqm @482 8721.45
+@165 8.14.4.4 @220 40 mm thick @437 sqm @482 8330.65
+@165 8.14.4.5 @220 30 mm thick @437 sqm @482 7942.50
+@113 8.14.5 @165 Gang saw cut stone
+@165 8.14.5.1 @220 30 mm thick White sand stone @437 sqm @482 3256.65
+@165 8.14.5.2 @220 30 mm thick Red sand stone @437 sqm @483 3119.20
+@58 8.15 @113 Providing and fixing stainless steel cramps of required size and shape for
+@113 anchoring stone wall lining to the backing or securing adjacent stones in
+@113 stone wall lining in cement mortar 1:2 (1 cement : 2 coarse sand), including
+@113 making the necessary chases in stone and holes in walls wherever required. @441 kg @485 714.40
+@58 8.16 @113 Providing and fixing copper pins 7.5 cm long 6 mm diameter for securing
+@113 adjacent stones in stone wall lining in cement mortar 1:2 (1 cement : 2
+@113 coarse sand), including making the necessary chases. @435 each @487 43.90
+@58 8.17 @113 Wall lining butch work upto 10m height with Dholpur stone 40 mm thick
+@113 rough facing on the exposed surface with stone strips of minimum length
+@113 300 mm and required width, including embedding every tenth layer
+@113 and bottom most layer in masonry or concrete after making necessary
+@113 chases of size 75x75 mm and by providing layer of 75 mm thick strips
+@113 i/c 12 mm thick bed of cement mortar 1:3 (1 Cement : 3 coarse sand) i/c
+@113 ruled pointing in cement mortar 1:2 (1 white cement : 2 stone dust) with
+@113 an admixture of pigment to match the shade of stone complete as per
+@113 direction of Engineer-in-charge. @437 sqm @482 3135.00
+@58 8.18 @113 Stone work (machine cut edges in veneer work) for wall lining upto 10 m
+@113 height, backing filled with a grout of 12 mm thick cement mortar 1:3 (1
+@113 Cement : 3 coarse sand) and jointed with Cement mortar 1:2 (1 cement
+@113 : 2 stone dust), including grinding with hand grinder on joints, rubbing
+@113 and polishing complete. (To be secured to the backing and the sides by
+@113 means of cramps and pins which shall be paid for separately).
+@113 8.18.1 @165 Prepolished kota stone slabs on exposed face.
+@165 8.18.1.1 @220 25 mm thick @437 sqm @482 2651.35
+@58 8.19 @113 Extra for stone work for wall lining on exterior walls of height more than
+@113 10 m from ground level for every additional height of 3 m or part there of. @437 sqm @485 165.85
+@380 SUB HEAD : 8.0 CLADDING WORK
+@51 130
+=== PAGE 36
+
+=== PAGE 37
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 STONE WORK DRY CLADDING
+@58 8.20 @113 Providing and fixing dry cladding upto 10 metre height with 30 mm thick
+@113 gang saw cut stone with machine cut edges of uniform colour and size
+@113 upto 1mx1m, fixed to structural steel frame work and/ or with the help of
+@113 cramps, pins etc. and sealing the joints with approved weather sealant
+@113 as per Architectural drawing and direction of Engineer-in-charge. (The
+@113 steel frame work, stainless steel cramps and pins etc. shall be paid for
+@113 separately).
+@113 8.20.1 @165 Red sand stone - 30 mm thick gang saw cut stone @437 sqm @482 2902.65
+@113 8.20.2 @165 White sand stone - 30 mm thick gang saw cut stone @437 sqm @482 3040.10
+@58 8.21 @113 Providing and fixing structural steel frame (for dry cladding with 30 mm
+@113 thick gang saw cut with machine cut edges sand stone) on walls at all
+@113 heights using M.S. square/ rectangular tube in the required pattern as per
+@113 architectural drawing, including cost of cutting, bending, welding etc. The
+@113 frame work shall be fixed to the wall with the help of M.S. brackets/ lugs of
+@113 angle iron/ flats etc. which shall be welded to the frame and embedded in
+@113 brick wall with cement concrete block 1:2:4 (1 cement :2 coarse sand :4
+@113 graded stone aggregate 20 mm nominal size) of size 300x230x300 mm,
+@113 including cost of necessary centring and shuttering and with approved
+@113 expansion hold fasteners on CC/RCC surface, including drilling necessary
+@113 holes. Approved cramps/ pins etc. shall be welded to the frame work to
+@113 support stone cladding, the steel work will be given a priming coat of Zinc
+@113 primer as approved by Engineer-in-charge and painted with two or more
+@113 coats of epoxy paint (Shop drawings shall be submitted by the contractor
+@113 to the Engineer-in-charge for approval before execution). The frame work
+@113 shall be fixed in true horizontal & vertical lines/planes. (Only structural steel
+@113 frame work shall be measured for the purpose of payment, stainless steel
+@113 cramps shall be paid for separately and nothing extra shall be paid). @441 kg @485 269.95
+@58 8.22 @113 Providing and fixing adjustable stainless steel cramps of approved quality,
+@113 required shape and size, adjustable with stainless steel nuts, bolts and
+@113 washer (total weight not less than 260 gram), for dry stone cladding fixed
+@113 on frame work at suitable location, including making necessary recesses
+@113 in stone slab, drilling required holes etc complete as per direction of the
+@113 Engineer-in-charge. @435 each @485 437.00
+@58 8.23 @113 Providing 50x50x50 mm 2nd class teak wood plugs including cutting
+@113 brick work and fixing in cement mortar 1:3 (1 cement : 3 fine sand) and
+@113 making good the walls etc. @435 each @487 40.85
+@58 8.24 @113 Providing @160 and @183 fixing @212 expandable @268 fasteners @315 of @330 specified @374 size @399 with
+@113 necessary plastic sleeves and galvanised M.S. screws including drilling
+@113 holes in masonry work /CC/ R.C.C. and making good etc. complete.
+@113 8.24.1 @165 25 mm long @435 each @487 22.35
+@113 8.24.2 @165 32 mm long @435 each @487 24.05
+@113 8.24.3 @165 40 mm long @435 each @487 28.30
+@113 8.24.4 @165 50 mm long @435 each @487 29.75
+@58 8.25 @113 Providing and fixing 2nd class teak wood plain lining tongued and
+@113 grooved, including wooden plugs complete with necessary screws and
+@113 priming coat on unexposed surface.
+@113 8.25.1 @165 40 mm thick @437 sqm @482 6646.70
+@113 8.25.2 @165 25 mm thick @437 sqm @482 4437.80
+@113 8.25.3 @165 20 mm thick @437 sqm @482 3601.30
+@113 8.25.4 @165 12 mm thick @437 sqm @482 2423.25
+@380 SUB HEAD : 8.0 CLADDING WORK
+@51 131
+=== PAGE 38
+
+=== PAGE 39
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 8.26 @113 Providing and fixing in wall lining flat pressed three layer (medium
+@113 density) particle board or graded wood Pre-laminated one side decorative
+@113 lamination and other side balancing lamination Grade I, Type II, IS :
+@113 12823 marked, including priming coat on unexposed arrangement and
+@113 screws etc. complete :
+@113 8.26.1 @165 12 mm thick @437 sqm @482 1430.20
+@113 8.26.2 @165 18 mm thick @437 sqm @482 1492.80
+@113 8.26.3 @165 25 mm thick @437 sqm @482 1979.50
+@58 8.27 @113 Providing and fixing specified wood frame work consisting of battens
+@113 50x25 mm fixed with rawl plug and drilling necessary holes for rawl plug
+@113 etc. including priming coat complete.
+@113 8.27.1 @165 Kiln seasoned and chemically treated hollock wood @437 cum @477 187277.65
+@58 8.28 @113 Providing and fixing plywood 4 mm thick, one side decorative veneer
+@113 conforming to IS: 1328 (type-1), for plain lining / cladding with necessary
+@113 screws, including priming coat on unexposed surface with :
+@113 8.28.1 @165 Decorative veneer facings of approved manufacture @437 sqm @482 1946.25
+@58 8.29 @113 Providing and fixing 4 mm thick coir veneer board, ISI marked IS : 14842,
+@113 plain lining with necessary screws, priming coat on unexposed surface
+@113 etc., complete. @437 sqm @482 1825.05
+@58 8.30 @113 Providing and fixing skirting with Pre-laminated (one side decorative and
+@113 other side balancing lamination) flat pressed 3 layer or graded particle
+@113 board (medium density) Grade I, Type II, IS :12823 marked, with necessary
+@113 fixing arrangements and screws, including drilling necessary holes for rawl
+@113 plugs etc. and priming coat on unexposed surface complete :
+@113 8.30.1 @165 18 mm thick @437 sqm @482 1976.45
+@113 8.30.2 @165 25 mm thick @437 sqm @482 2463.10
+@58 8.31 @113 Providing and fixing Ist quality ceramic glazed wall tiles conforming to
+@113 IS: 15622 (thickness to be specified by the manufacturer), of approved
+@113 make, in all colours, shades except burgundy, bottle green, black of any
+@113 size as approved by Engineer-in-Charge, in skirting, risers of steps and
+@113 dados, over 12 mm thick bed of cement mortar 1:3 (1 cement : 3 coarse
+@113 sand) and jointing with grey cement slurry @ 3.3kg per sqm, including
+@113 pointing in white cement mixed with pigment of matching shade complete. @437 sqm @482 1267.95
+@58 8.32 @113 Designing, fabricating, testing, installing and fixing in position Curtain
+@113 Wall with Aluminium Composite Panel Cladding, with open grooves for
+@113 linear as well as curvilinear portions of the building , for all heights and all
+@113 levels etc. including:
+@113 (a) Structural analysis & design and preparation of shop drawings for
+@113 pressure equalisation or rain screen principle as required, proper drainage
+@113 of water to make it watertight including checking of all the structural and
+@113 functional design.
+@113 (b) Providing, fabricating and supplying and fixing panels of aluminium
+@113 composite panel cladding in pan shape in metalic colour of approved
+@113 shades made out of 4 mm thick aluminium composite panel material
+@113 consisting of 3 mm thick FR grade mineral core sandwiched between
+@113 two Aluminium sheets (each 0.5 mm thick). The aluminium composite
+@113 panel cladding sheet shall be coil coated, with Kynar 500 based PVDF /
+@113 Lumiflon based fluoropolymer resin coating of approved colour and shade
+@113 on face # 1 and polymer (Service) coating on face # 2 as specified using
+@113 stainless steel screws, nuts, bolts, washers, cleats, weather silicone
+@113 sealant, backer rods etc.
+@380 SUB HEAD : 8.0 CLADDING WORK
+@51 132
+=== PAGE 40
+
+=== PAGE 41
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 (c) The fastening brackets of Aluminium alloy 6005 T5 / MS with Hot
+@113 Dip Galvanised with serrations and serrated washers to arrest the wind
+@113 load movement, fasteners, SS 316 Pins and anchor bolts of approved
+@113 make in SS 316, Nylon separators to prevent bi-metallic contacts all
+@113 complete required to perform as per specification and drawing The item
+@113 includes cost of all material & labour component, the cost of all mock
+@113 ups at site, cost of all samples of the individual components for testing
+@113 in an approved laboratory, field tests on the assembled working curtain
+@113 wall with aluminium composite panel cladding, cleaning and protection of
+@113 the curtain wall with aluminium composite panel cladding till the handing
+@113 over of the building for occupation. Base frame work for ACP cladding
+@113 is payable under the relevant aluminium items. The Contractor shall
+@113 provide curtain wall with aluminium composite panel cladding, having
+@113 all the performance characteristics all complete , as per the Architectural
+@113 drawings, as per item description, as specified, as per the approved shop
+@113 drawings and as directed by the Engineer-in-Charge. However, for the
+@113 purpose of payment, only the actual area on the external face of the
+@113 curtain wall with Aluminum Composite Panel Cladding (including width of
+@113 groove) shall be measured in sqm. up to two decimal places. @437 sqm @482 5015.05
+@380 SUB HEAD : 8.0 CLADDING WORK
+@51 133
+=== PAGE 42
+
+=== PAGE 43
+@183 SUB HEAD : 9.0
+@116 WOOD AND P.V.C. WORK
+=== PAGE 44
+
+=== PAGE 45
+@202 9.0 WOOD AND P.V.C. WORK
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 FRAMES AND TRUSSES
+@58 9.1 @113 Providing wood work in frames of doors, windows, clerestory windows
+@113 and other frames, wrought framed and fixed in position with hold fast lugs
+@113 or with dash fasteners of required dia & length (hold fast lugs or dash
+@113 fastener shall be paid for separately).
+@113 9.1.1 @165 Second class teak wood @437 cum @477 142949.70
+@113 9.1.2 @165 Sal wood @437 cum @477 116520.30
+@113 9.1.3 @165 Kiln seasoned and chemically treated hollock wood @437 cum @479 83378.05
+@58 9.2 @113 Providing laminated veneer lumber conforming to IS:14616 and TAD
+@113 -15: 2001 (Part B) in factory made frames of doors, windows, clerestory
+@113 windows and other frames, wrought framed and fixing in position with
+@113 hold fast lugs or with dash fasteners of required dia & length (hold fast
+@113 lugs or dash fastener shall be paid for separately). @437 cum @477 131981.10
+@58 9.3 @113 Providing wood work in frames of false ceiling, partitions etc. sawn and
+@113 fixed in position with necessary stainless steel screws etc.
+@113 9.3.1 @165 Sal wood @437 cum @477 104754.35
+@113 9.3.2 @165 Kiln seasoned and chemically treated hollock wood @437 cum @479 71337.85
+@58 9.4 @113 Extra for additional labour for circular works, such as in frames of fan light
+@113 9.4.1 @165 Second class teak wood @437 cum @479 14294.95
+@113 9.4.2 @165 Sal wood @437 cum @480 11652.05
+@113 9.4.3 @165 Kiln seasoned and chemically treated hollock wood @437 cum @482 8338.10
+@58 9.5 @113 Providing and fixing panelled or panelled and glazed shutters for doors,
+@113 windows and clerestory windows, fixing with butt hinges of required
+@113 size with necessary screws, excluding panelling which will be paid
+@113 for @130 separately, @181 all @197 complete @241 as @257 per @276 direction @318 of @332 Engineer-in-charge.
+@113 (Note: Butt hinges and necessary screws shall be paid separately)
+@113 9.5.1 @165 Second class teak wood
+@165 9.5.1.1 @223 35 mm thick shutters @437 sqm @483 4111.95
+@165 9.5.1.2 @223 30 mm thick shutters @437 sqm @482 3747.30
+@113 9.5.2 @165 Kiln seasoned and chemically treated hollock wood
+@165 9.5.2.1 @223 35 mm thick shutters @437 sqm @482 2869.10
+@165 9.5.2.2 @223 30 mm thick shutters @437 sqm @482 2676.85
+@113 9.5.3 @165 Kiln seasoned selected planks of sheesham wood
+@165 9.5.3.1 @223 35 mm thick shutters @437 sqm @482 3638.35
+@165 9.5.3.2 @223 30 mm thick shutters @437 sqm @482 3338.65
+@58 9.6 @113 Providing and fixing 35 mm thick factory made laminated veneer lumber
+@113 door shutter conforming to IS : 14616 and TADS 15:2001 (Part B), fixing
+@113 with butt hinges of required size with necessary screws, all complete
+@113 as per directions of Engineer- in-charge and panelling with panels of :
+@113 (Note:- Butt hinges and necessary screws shall be paid separately)
+@113 9.6.1 @165 12 mm thick plain grade -1, medium density flat pressed
+@165 three layer particle board FPT - I or graded wood particle
+@165 board FPT- I, IS : 3087 marked, bonded with BWP type
+@165 synthetic resin adhesive as per IS : 848 : @437 sqm @482 3069.05
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 135
+=== PAGE 46
+
+=== PAGE 47
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 9.6.2 @165 12 @183 mm @206 thick @233 pre-laminated @299 particle @337 board @368 (decorative
+@165 lamination on both sides) grade -1, medium density flat
+@165 pressed, three layer particle board FPT- I or graded wood
+@165 particle board FPT- I, conforming to IS : 3087, bonded with
+@165 BWP type synthetic resin adhesive as per IS : 848 and
+@165 pre-laminated conforming to IS : 12823, Grade 1, Type - II
+@165 marked. @437 sqm @482 3212.70
+@113 9.6.3 @165 12 @184 mm @208 thick @236 one @260 side @285 Pre-laminated @352 particle @391 board
+@165 (decorative lamination on one side and other sides balancing
+@165 lamination) grade -1, medium density flat pressed, three
+@165 layer particle board FPT - I or graded wood particle board
+@165 FPT-1 conforming to IS : 3087 bonded with BWP type
+@165 synthetic resin adhesive as per IS : 848 and pre-laminated
+@165 conforming to IS : 12823, Grade -1, Type II marked. @437 sqm @482 3450.30
+@58 9.7 @113 Providing and fixing panelling or panelling and glazing in panelled or
+@113 panelled and glazed shutters for doors, windows and clerestory windows
+@113 (Area of opening for panel inserts excluding portion inside grooves or
+@113 rebates to be measured). Panelling for panelled or panelled and glazed
+@113 shutters 25 mm to 40 mm thick.
+@113 9.7.1 @165 Second class teak wood @437 sqm @482 3323.20
+@113 9.7.2 @165 Kiln seasoned and chemically treated hollock wood @437 sqm @482 2327.10
+@113 9.7.3 @165 Ply wood 5 ply, 9 mm thick
+@165 9.7.3.1 @223 Decorative @277 plywood @320 both @346 side @372 decorative
+@223 veneer (Type - I) conforming to IS 1328 BWR
+@223 type @437 sqm @482 2724.25
+@165 9.7.3.2 @223 Decorative @278 plywood @321 one @346 side @372 decorative
+@223 veneer and commercial veneer on other face
+@223 (Type 1) conforming to IS 1328 BWR Type @437 sqm @482 2698.40
+@113 9.7.4 @165 Ply wood 7 ply, 9 mm thick
+@165 9.7.4.1 @223 Decorative @278 plywood @321 one @346 side @372 decorative
+@223 veneer and commercial veneer on other face
+@223 (Type 1) conforming to IS 1328 BWR Type @437 sqm @482 2907.05
+@113 9.7.5 @165 Particle Board 12 mm thick
+@165 9.7.5.1 @223 Plain particle board flat pressed, 3 layer or
+@223 graded wood particle board medium density
+@223 Grade I, IS : 3087 marked @437 sqm @482 1693.00
+@165 9.7.5.2 @223 Veneered flat pressed three layer or graded
+@223 wood particle board with commercial veneering
+@223 on both sides conforming to IS:3097, grade I @437 sqm @482 2012.05
+@165 9.7.5.3 @223 Pre-laminated particle board with decorative
+@223 lamination @276 on @297 one @322 side @349 and @375 balancing
+@223 lamination on other side, Grade I, Type II IS:
+@223 12823 marked @437 sqm @482 2081.05
+@165 9.7.5.4 @223 Pre-laminated particle board with decorative
+@223 lamination on both sides, Grade I, Type II,
+@223 IS:12823 marked @437 sqm @482 2053.45
+@113 9.7.6 @165 Coir Veneer Board (conforming to IS 14842)
+@165 9.7.6.1 @223 12 mm thick @437 sqm @482 2253.45
+@113 9.7.7 @165 Float glass panes
+@165 9.7.7.1 @223 4 mm thick glass pane (weight not less than
+@223 10 kg/sqm). @437 sqm @482 2241.80
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 136
+=== PAGE 48
+
+=== PAGE 49
+@58 Code No @238 Description @436 Unit @489 Rate
+@165 9.7.7.2 @223 5.0 mm thick glass panes (weight not less
+@223 than 12.50 kg/sqm). @437 sqm @482 2600.45
+@113 9.7.8 @165 Fly proof stainless steel grade 304 wire gauge with 0.5 mm
+@165 dia. wire and 1.4 mm wide aperture with matching wood
+@165 beading @437 sqm @482 1800.45
+@58 9.9 @113 Providing and fixing glazed shutters for doors, windows and clerestory
+@113 windows using 4 mm thick float glass panes (weight not less than 10 kg
+@113 per sqm) fixing with ISI marked M.S. pressed butt hinges bright finished
+@113 of required size with necessary screws.
+@113 9.9.1 @165 Second class teak wood
+@165 9.9.1.1 @223 35 mm thick @437 sqm @482 4940.20
+@165 9.9.1.2 @223 30 mm thick @437 sqm @482 4523.40
+@113 9.9.2 @165 Kiln seasoned and chemically treated hollock wood
+@165 9.9.2.1 @223 35 mm thick @437 sqm @482 3524.85
+@165 9.9.2.2 @223 30 mm thick @437 sqm @482 3305.20
+@113 9.9.3 @165 Kiln seasoned selected planks of sheesham wood
+@165 9.9.3.1 @223 35 mm thick @437 sqm @482 4401.55
+@165 9.9.3.2 @223 30 mm thick @437 sqm @482 4059.05
+@58 9.10 @113 Providing and fixing factory made laminated veneer lumber glazed shutter
+@113 conforming to IS: 14616 and TADS 15:2001 (Part B), using 4 mm thick
+@113 float glass panes for doors, windows and clerestory windows, fixing with
+@113 butt hinges of required size with necessary screws, all as per directions
+@113 of Engineer-in-charge (Note:- Butt hinges and necessary screws shall be
+@113 paid separately)
+@113 9.10.1 @165 30 mm thick shutters @437 sqm @482 3066.20
+@58 9.11 @113 Extra for providing heavy sheet float glass panes instead of ordinary
+@113 float glass in glazed doors, windows and clerestory window shutters.
+@113 (Area of opening for glass panes excluding portion inside rebate shall
+@113 be measured)
+@113 9.11.1 @165 5.0 mm thick (weight not less than 12.50 kg per sqm) instead
+@165 of 4 mm thick (weight not less than 10 kg per sqm). @437 sqm @485 295.90
+@58 9.12 @113 Extra for providing frosted glass panes 4 mm thick (weight not less than
+@113 10 kg per sqm) instead of ordinary float glass panes 4 mm thick (weight
+@113 not less than 10 kg per sqm) in doors, windows and clerestory window
+@113 shutters. (Area of opening for glass panes excluding portion inside rebate
+@113 shall be measured). @437 sqm @485 176.40
+@58 9.13 @113 Deduct for providing pin headed glass panes instead of ordinary float
+@113 glass panes 4 mm thick (weight not less than 10 kg per sqm) in doors,
+@113 windows and clerestory windows shutters (Area of opening for glass
+@113 panes excluding portion inside rebate shall be measured). @437 sqm @487 73.95
+@58 9.14 @113 Extra for providing ISI marked Stainless Steel butt hinges instead of
+@113 M.S. pressed butt hinges bright finished of required size with necessary
+@113 screws. (Shutter area to be measured). @437 sqm @485 193.55
+@58 9.15 @113 Deduct for not providing hinges in doors, windows or clerestory window
+@113 shutters with :
+@113 9.15.1 @165 ISI marked Stainless steel butt hinges with stainless steel
+@165 screws :
+@165 9.15.1.1 @223 For 2nd class teak wood and other class of
+@223 wood shutters @437 sqm @485 253.30
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 137
+=== PAGE 50
+
+=== PAGE 51
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 9.15.2 @165 ISI marked M.S. pressed butt hinges bright finished of
+@165 required size with necessary screws.
+@165 9.15.2.1 @223 For 2nd class teak wood and other class of
+@223 wood shutters @437 sqm @487 59.80
+@58 9.16 @113 Providing and fixing 25 mm thick shutters for cup board etc. :
+@113 9.16.1 @165 Panelled or panelled & glazed shutters :
+@165 9.16.1.1 @223 Second @265 class @297 teak @324 wood @357 including @404 ISI
+@223 marked anodised aluminium butt hinges with
+@223 necessary screws @437 sqm @482 4402.85
+@165 9.16.1.2 @223 Second class teak wood including ISI marked
+@223 nickel plated bright finished M.S. piano hinges
+@223 with necessary screws @437 sqm @482 4542.90
+@113 9.16.2 @165 Glazed shutters :
+@165 9.16.2.1 @223 Second @265 class @297 teak @324 wood @357 including @404 ISI
+@223 marked anodized aluminium butt hinges with
+@223 necessary screws @437 sqm @482 4193.25
+@165 9.16.2.2 @223 Second class teak wood including ISI marked
+@223 nickel plated bright finished M.S. piano hinges
+@223 with necessary screws @437 sqm @482 4241.15
+@58 9.17 @113 Providing and fixing flat pressed three layer particle or graded plain wood
+@113 board medium density exterior grade (Grade I) FPT-I, conforming and
+@113 marked to frame, backing or studding with screws etc. complete (Frames,
+@113 backing or studding to be paid separately):
+@113 9.17.1 @165 12 mm thick @437 sqm @485 802.95
+@113 9.17.2 @165 18 mm thick @437 sqm @482 1020.95
+@58 9.18 @113 Providing and fixing Pre-laminated flat pressed 3 layer (medium density)
+@113 particle board or graded wood particle board IS : 3087 marked, with
+@113 one side decorative and other side balancing lamination Grade I, Type
+@113 II exterior grade IS : 12823 marked, in shelves with screws and fittings
+@113 wherever required, edges to be painted with polyurethane primer (fittings
+@113 to be paid separately).
+@113 9.18.1 @165 18 mm thick @437 sqm @482 1245.75
+@113 9.18.2 @165 25 mm thick @437 sqm @482 1715.20
+@58 9.20 @113 Providing and fixing ISI marked flush door shutters conforming to IS :
+@113 2202 (Part I) decorative type, core of block board construction with
+@113 frame of 1st class hard wood and well matched teak 3 ply veneering with
+@113 vertical grains or cross bands and face veneers on both faces of shutters.
+@113 9.20.1 @165 35 mm thick including ISI marked Stainless Steel butt hinges
+@165 with necessary screws @437 sqm @482 3473.85
+@113 9.20.2 @165 30 mm thick including ISI marked Stainless Steel butt hinges
+@165 with necessary screws @437 sqm @482 3167.95
+@113 9.20.3 @165 25 mm thick (for cupboard) including ISI marked nickel
+@165 plated bright finished M.S. Piano hinges IS : 3818 marked
+@165 with necessary screws @437 sqm @482 2819.25
+@58 9.21 @113 Providing and fixing ISI marked flush door shutters conforming to IS :
+@113 2202 (Part I) non-decorative type, core of block board construction
+@113 with frame of 1st class hard wood and well matched commercial 3 ply
+@113 veneering with vertical grains or cross bands and face veneers on both
+@113 faces of shutters:
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 138
+=== PAGE 52
+
+=== PAGE 53
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 9.21.1 @165 35 mm thick including ISI marked Stainless Steel butt hinges
+@165 with necessary screws @437 sqm @482 2392.65
+@113 9.21.2 @165 30 mm thick including ISI marked Stainless Steel butt hinges
+@165 with necessary screws @437 sqm @482 2172.10
+@113 9.21.3 @165 25 mm thick (for cupboard) including ISI marked nickel plated
+@165 bright finished M.S. piano hinges with necessary screws @437 sqm @482 2093.70
+@58 9.22 @113 Extra for Providing and fixing flush doors with decorative veneering
+@113 instead of non decorative ISI marked flush door shutters conforming to
+@113 IS: 2202 (Part I)
+@113 9.22.1 @165 On one side only @437 sqm @485 478.00
+@58 9.23 @113 Extra for providing lipping with 2nd class teak wood battens 25 mm
+@113 minimum depth on all edges of flush door shutters (over all area of door
+@113 shutter to be measured). @437 sqm @485 462.35
+@58 9.24 @113 Extra for providing vision panel not exceeding 0.1 sqm in all type of
+@113 flush doors (cost of glass excluded) (overall area of door shutter to be
+@113 measured):
+@113 9.24.1 @165 Rectangular or square @437 sqm @485 199.15
+@113 9.24.2 @165 Circular @437 sqm @485 206.30
+@58 9.25 @113 Extra if louvers (not exceeding 0.2 sqm) are provided in flush door
+@113 shutters (overall area of door shutters to be measured).
+@113 9.25.1 @165 Decorative type door @437 sqm @485 405.45
+@58 9.26 @113 Extra for cutting rebate in flush door shutters (Total area of the shutter to
+@113 be measured). @437 sqm @485 106.70
+@58 9.27 @113 Providing and fixing wire gauge shutters using galvanized M.S. wire
+@113 gauge of average width of aperture 1.4 mm in both directions with wire
+@113 of dia 0.63 mm, for doors, windows and clerestory windows with hinges
+@113 and necessary screws :
+@113 9.27.1 @165 35 mm thick shutters
+@165 9.27.1.1 @223 with @246 ISI @263 marked @301 M.S. @326 pressed @366 butt @387 hinges
+@223 bright finished of required size
+@223 9.27.1.1.1 @297 Second class teak wood @437 sqm @482 4852.30
+@223 9.27.1.1.2 @297 Kiln @336 seasoned @400 and
+@297 chemically @349 treated @386 hollock
+@297 wood @437 sqm @482 3599.20
+@223 9.27.1.1.3 @297 Kiln @326 seasoned @380 selected
+@297 class of sheesham wood @437 sqm @482 4375.00
+@165 9.27.1.2 @223 With ISI marked stainless steel butt hinges of
+@223 required size
+@223 9.27.1.2.1 @297 Second class teak wood @437 sqm @482 5045.85
+@223 9.27.1.2.2 @297 Kiln @336 seasoned @400 and
+@297 chemically @349 treated @386 hollock
+@297 wood @437 sqm @482 3792.75
+@223 9.27.1.2.3 @297 Kiln @326 seasoned @380 selected
+@297 class of sheesham wood @437 sqm @482 4568.50
+@113 9.27.2 @165 30 mm thick shutters
+@165 9.27.2.1 @223 with @246 ISI @263 marked @301 M.S. @326 pressed @366 butt @387 hinges
+@223 bright finished of required size
+@223 9.27.2.1.1 @297 Second class teak wood @437 sqm @482 4326.80
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 139
+=== PAGE 54
+
+=== PAGE 55
+@58 Code No @238 Description @436 Unit @489 Rate
+@223 9.27.2.1.2 @297 Kiln seasoned and
+@297 chemically treated hollock
+@297 wood @437 sqm @482 3254.25
+@223 9.27.2.1.3 @297 Kiln seasoned selected
+@297 class of sheesham wood @437 sqm @482 3918.15
+@165 9.27.2.2 @223 With ISI marked stainless steel butt hinges of
+@223 required size
+@223 9.27.2.2.1 @297 Second class teak wood @437 sqm @482 4520.30
+@223 9.27.2.2.2 @297 Kiln seasoned and
+@297 chemically treated hollock
+@297 wood @437 sqm @482 3447.80
+@223 9.27.2.2.3 @297 Kiln seasoned selected
+@297 class of sheesham wood @437 sqm @483 4111.70
+@58 9.31 @113 Providing @158 and @180 fixing @208 wire @232 gauge @264 laminated @312 veneer @347 lumber @382 shutters
+@113 conforming to IS : 14616, and as per TADS 15 :2001 (Part B) using
+@113 galvanised wire gauge with average width of aperture 1.4 mm in both
+@113 directions with wire of dia 0.63 mm as per IS :1568, for doors, windows
+@113 and clerestory windows, fixing with butt hinges of required size with
+@113 necessary screws, as per directions of Engineer-in-charge: (Note:- Butt
+@113 hinges and necessary screws shall be paid separately)
+@113 9.31.1 @165 35 mm thick shutters @437 sqm @482 3066.20
+@113 9.31.2 @165 30 mm thick shutters @437 sqm @482 2803.00
+@113 MISCELLANEOUS-WOOD WORK
+@58 9.40 @113 Providing and fixing wooden moulded beading to door and window
+@113 frames with iron screws, plugs and priming coat on unexposed surface
+@113 etc. complete :
+@113 9.40.1 @165 2nd class teak wood
+@165 9.40.1.1 @223 50x12 mm @434 metre @485 221.10
+@165 9.40.1.2 @223 50 x 20 mm @434 metre @485 271.75
+@113 9.40.2 @165 Kiln seasoned and chemically treated hollock wood
+@165 9.40.2.1 @223 50x12 mm @434 metre @485 185.95
+@165 9.40.2.2 @223 50x20 mm @434 metre @485 213.20
+@58 9.41 @113 Providing and fixing plain jaffri of 35x10 mm laths placed 35 mm apart
+@113 (frames to be paid separately), including fixing 50x12 mm beading
+@113 complete with :
+@113 9.41.1 @165 Second class teak wood @437 sqm @482 2945.10
+@58 9.42 @113 Providing and fixing 18 mm thick, 150 mm wide pelmet of flat pressed
+@113 three layer or graded plain wood particle board medium density grade
+@113 I, ISI marked and conforming to IS : 3087 marked, including top cover
+@113 of 6 mm commercial ply wood conforming to IS: 303 BWR grade, nickel
+@113 plated M.S. pipe 20 mm dia ( heavy type) curtain rod with nickel plated
+@113 brackets, including fixing with 25x3 mm M.S. flat 10 cm long fixed to
+@113 pelmet with hollock wood cleats of size 100 mm x 40 mm x 40 mm on
+@113 both inner side of pelmet and rawl plugs 75 mm long etc. all complete. @433 metre @485 600.55
+@58 9.43 @113 Providing and fixing 18 mm thick, 150 mm wide pelmet of coir veneer
+@113 board ISI marked IS : 14842, including top cover of 6 mm coir veneer
+@113 board, nickle plated M.S. Pipe 20 mm dia. (heavy type) curtain rod with
+@113 nickel plated brackets, including fixing with 25x3 mm M.S. Flat 10 cm long
+@113 fixed to pelmet with hollock wood cleats of size 100 mm x 40 mm x 40 mm
+@113 on both inner side of pelmet and rawl plugs 75 mm long etc. all complete. @433 metre @485 725.85
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 140
+=== PAGE 56
+
+=== PAGE 57
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 9.44 @113 Extra for using veneered particle board conforming to IS 3097 Grade I, in
+@113 item of pelmet 18 mm thick 150 mm wide.
+@113 9.44.1 @165 Non decorative veneer on both sides @433 metre @487 38.70
+@113 9.44.2 @165 Particle board with decorative veneering on both sides @433 metre @485 125.20
+@58 9.45 @113 Providing and fixing teak wood lipping of size 25x3 mm in pelmet. @433 metre @487 73.70
+@58 9.46 @113 Providing and fixing chromium plated brass curtain rod having wall
+@113 thickness of 1.25 mm with two chromium plated brass brackets fixed with
+@113 C.P. brass screws and PVC sleeves etc., wherever necessary complete :
+@113 9.46.1 @165 12 mm dia @433 metre @485 285.10
+@113 9.46.2 @165 20 mm dia @433 metre @485 393.25
+@113 9.46.3 @165 25 mm dia @433 metre @485 525.55
+@58 9.47 @113 Providing and fixing nickel plated M.S. pipe curtain rods with nickel plated
+@113 brackets :
+@113 9.47.1 @165 20 mm dia (heavy type) @433 metre @485 175.00
+@113 9.47.2 @165 25 mm dia (heavy type) @433 metre @485 186.40
+@58 9.48 @113 Providing and fixing M.S. grills of required pattern in frames of windows
+@113 etc. with M.S. flats, square or round bars etc. including priming coat with
+@113 approved steel primer all complete.
+@113 9.48.1 @165 Fixed to steel windows by welding @441 kg @485 219.10
+@113 9.48.2 @165 Fixed to openings /wooden frames with rawl plugs screws
+@165 etc. @441 kg @485 238.35
+@58 9.49 @113 Providing and fixing expanded metal 20x60 mm strands 3.25 mm wide
+@113 and 1.6 mm thick for windows etc. including 62 x19 mm beading of
+@113 second class teak wood and priming coat with approved steel primer all
+@113 complete. @437 sqm @482 1421.95
+@58 9.50 @113 Providing and fixing hard drawn steel wire fabric 75x25 mm mesh of
+@113 weight not less than 7.75 Kg per sqm to window frames etc. including
+@113 62x19 mm beading of second class teak wood and priming coat with
+@113 approved steel primer all complete. @437 sqm @482 1641.15
+@58 9.51 @113 Providing and fixing fly proof galvanized M.S. wire gauge to windows and
+@113 clerestory windows using wire gauge with average width of aperture 1.4
+@113 mm in both directions with wire of dia 0.63 mm all complete.
+@113 9.51.1 @165 With second class teak wood beading 62X19 mm @437 sqm @482 1308.35
+@113 9.51.2 @165 With 12 mm mild steel U beading @437 sqm @485 939.20
+@58 9.52 @113 Deduct for fixing 75x25 mm hard drawn steel wire fabric of weight not less
+@113 than 7.75 Kg per sqm in panelled and glazed door and window shutter
+@113 instead of glass sheet 4 mm thick (weight not less than 10 kg per sqm) @437 sqm @485 155.10
+@58 9.53 @113 Providing 40x5 mm flat iron hold fast 400 mm long including fixing to frame
+@113 with 10 mm diameter bolts, nuts and wooden plugs and embedding in
+@113 cement concrete block 300x100x150 mm 1:3:6 mix (1 cement : 3 coarse
+@113 sand : 6 graded stone aggregate 20 mm nominal size). @435 each @485 228.85
+@58 9.54 @113 Providing beams including hoisting, fixing in position and applying wood
+@113 preservative for the unexposed surfaces, etc. complete with :
+@113 9.54.1 @165 Sal wood @437 cum @477 103140.10
+@113 9.54.2 @165 Hollock wood @437 cum @479 69178.05
+@113 BRIGHT FINISHED M.S. FITTINGS
+@58 9.55 @113 Providing and fixing ISI marked IS:1341 M.S. pressed butt hinges bright
+@113 finished with necessary screws etc. complete :
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 141
+=== PAGE 58
+
+=== PAGE 59
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 9.55.1 @165 125x65x2.12 mm @435 each @487 53.00
+@113 9.55.2 @165 100x58x1.90 mm @435 each @487 45.00
+@113 9.55.3 @165 75x47x1.70 mm @435 each @487 39.30
+@113 9.55.4 @165 50x37x1.50 mm @435 each @487 18.85
+@58 9.56 @113 Providing and fixing ISI marked, IS : 1341, M.S. heavy weight bright
+@113 finished butt hinges with necessary screws etc. complete :
+@113 9.56.1 @165 125x90x4.00 mm @435 each @487 71.25
+@113 9.56.2 @165 100x75x3.50 mm @435 each @487 62.05
+@113 9.56.3 @165 75x60x3.10 mm @435 each @487 48.15
+@113 9.56.4 @165 50x40x2.50 mm @435 each @487 27.50
+@113 Note: - In coastal areas, M.S. heavy weight butt hinges or stainless steel
+@113 hinges shall be used.
+@113 COPER OXIDISED MILD STEEL FITTINGS (COPPER OXIDISED AS
+@113 PER IS: 1378)
+@58 9.57 @113 Providing and fixing ISI marked IS:1341 oxidised M.S. pressed butt
+@113 hinges with necessary screws etc. complete. (Copper oxidised as per
+@113 IS 1378)
+@113 9.57.1 @165 125x65x2.12 mm @435 each @487 55.75
+@113 9.57.2 @165 100x58x1.90 mm @435 each @487 48.20
+@113 9.57.3 @165 75x47x1.70 mm @435 each @487 40.50
+@113 9.57.4 @165 50x37x1.50 mm @435 each @487 20.00
+@58 9.58 @113 Providing @159 and @182 fixing @211 ISI @229 marked @268 IS: @286 1341 @314 oxidised @355 M.S. @382 pressed
+@113 Parliamentary hinges with necessary screws etc. complete (Copper
+@113 oxidised as per IS 1378)
+@113 9.58.1 @165 150x125x27x2.80 mm @435 each @487 91.70
+@113 9.58.2 @165 125x125x27x2.80 mm @435 each @487 86.00
+@113 9.58.3 @165 100x125x27x2.80 mm @435 each @487 75.35
+@113 9.58.4 @165 75x100x20x2.24 mm @435 each @487 66.65
+@58 9.59 @113 Providing and fixing ISI marked oxidised M.S. single acting spring hinges
+@113 with necessary screws etc. complete (Copper oxidised as per IS 1378)
+@113 9.59.1 @165 150 mm @435 each @485 291.35
+@113 9.59.2 @165 125 mm @435 each @485 262.90
+@113 9.59.3 @165 100 mm @435 each @485 232.70
+@58 9.60 @113 Providing and fixing ISI marked IS: 453 oxidised M.S. double acting
+@113 spring hinges with necessary screws etc. complete (Copper oxidised as
+@113 per IS 1378)
+@113 9.60.1 @165 150 mm @435 each @485 326.90
+@113 9.60.2 @165 125 mm @435 each @485 291.35
+@113 9.60.3 @165 100 mm @435 each @485 261.15
+@58 9.61 @113 Providing M.S. Piano hinges ISI marked IS : 3818 finished with nickel
+@113 chromium plating grade 1 as per IS: 1068 and fixing with necessary
+@113 screws etc., complete.
+@113 9.61.1 @165 Overall width 35 mm @433 metre @485 336.45
+@113 9.61.2 @165 Overall width 50 mm @433 metre @485 337.90
+@113 9.61.3 @165 Overall width 65 mm @433 metre @485 357.80
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 142
+=== PAGE 60
+
+=== PAGE 61
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 9.62 @113 Providing and fixing ISI marked oxidised M.S. sliding door bolts with nuts
+@113 and screws etc. complete (Copper oxidised as per IS 1378)
+@113 9.62.1 @165 300x16 mm @435 each @485 216.55
+@113 9.62.2 @165 250x16 mm @435 each @485 193.70
+@58 9.63 @113 Providing and fixing ISI marked oxidised M.S. tower bolt black finish,
+@113 (Barrel type) with necessary screws etc. complete (Copper oxidised as
+@113 per IS 1378)
+@113 9.63.1 @165 250x10 mm @435 each @487 83.90
+@113 9.63.2 @165 200x10 mm @435 each @487 69.40
+@113 9.63.3 @165 150x10 mm @435 each @487 59.45
+@113 9.63.4 @165 100x10 mm @435 each @487 44.30
+@58 9.64 @113 Providing and fixing ISI marked 85x42 mm oxidised M.S. pull bolt lock
+@113 conforming to IS : 7534 with necessary screws bolts, nut and washers
+@113 etc. complete (Copper oxidised as per IS 1378). @435 each @485 122.15
+@58 9.65 @113 Providing and fixing ISI marked oxidised M.S. door latches conforming
+@113 to IS:5930 with screws etc. complete (Copper oxidised as per IS 1378)
+@113 9.65.1 @165 300x20x6 mm @435 each @487 98.35
+@113 9.65.2 @165 250x20x6 mm @435 each @487 79.85
+@58 9.66 @113 Providing and fixing ISI marked oxidised M.S. handles conforming to
+@113 IS:4992 with necessary screws etc. complete (Copper oxidised as per
+@113 IS 1378)
+@113 9.66.1 @165 125 mm @435 each @487 39.95
+@113 9.66.2 @165 100 mm @435 each @487 32.55
+@113 9.66.3 @165 75 mm @435 each @487 29.70
+@58 9.67 @113 Providing @159 and @181 fixing @210 oxidised @252 M.S. @278 hasp @305 and @327 staple @359 (safety @394 type)
+@113 conforming to IS : 363 with necessary screws etc. complete (Copper
+@113 oxidised as per IS 1378)
+@113 9.67.1 @165 150 mm @435 each @487 33.10
+@113 9.67.2 @165 115 mm @435 each @487 29.70
+@113 9.67.3 @165 90 mm @435 each @487 25.30
+@58 9.68 @113 Providing and fixing oxidised M.S. casement stays (straight peg type)
+@113 with necessary screws etc. complete (Copper oxidised as per IS 1378)
+@113 9.68.1 @165 300 mm weighing not less than 330 grams @435 each @487 67.40
+@113 9.68.2 @165 250 mm weighing not less than 280 grams @435 each @487 61.05
+@113 9.68.3 @165 200 mm weighing not less than 240 grams @435 each @487 53.95
+@58 9.69 @113 Providing and fixing oxidised M.S. Safety chain with necessary fixtures
+@113 for doors, (weighting not less than 450 gms) and Copper oxidised as per
+@113 IS 1378 @435 each @485 100.60
+@113 STAINLESS STEEL FITTINGS
+@58 9.70 @113 Providing and fixing IS : 12817 marked stainless steel butt hinges with
+@113 stainless steel screws etc. complete :
+@113 9.70.1 @165 125x64x1.90 mm @435 each @485 118.20
+@113 9.70.2 @165 100X58X1.90 mm @435 each @485 107.10
+@113 9.70.3 @165 75x47x1.80 mm @435 each @487 80.05
+@113 9.70.4 @165 50x37x1.50 mm @435 each @487 43.75
+@58 9.71 @113 Providing and fixing IS : 12817 marked stainless steel butt hinges (heavy
+@113 weight) with stainless steel screws etc. complete :
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 143
+=== PAGE 62
+
+=== PAGE 63
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 9.71.1 @165 125x64x2.50 mm @435 each @485 129.85
+@113 9.71.2 @165 100x60x2.50 mm @435 each @485 106.35
+@113 9.71.3 @165 75x50x2.50 mm @435 each @487 89.30
+@113 BRASS FITTINGS
+@58 9.72 @113 Providing and fixing bright finished brass butt hinges with necessary
+@113 screws etc. complete :
+@113 9.72.1 @165 125x85x5.5 mm (heavy type) @435 each @485 268.65
+@113 9.72.2 @165 125x70x4 mm (ordinary type) @435 each @485 185.15
+@113 9.72.3 @165 100x85x5.5 mm (heavy type) @435 each @485 206.40
+@113 9.72.4 @165 100x70x4 mm (ordinary type) @435 each @485 148.25
+@113 9.72.5 @165 75x65x4 mm (heavy type) @435 each @485 173.40
+@113 9.72.6 @165 75x40x2.5 mm (ordinary type) @435 each @485 101.85
+@113 9.72.7 @165 50x40x2.5 mm (ordinary type) @435 each @487 40.90
+@58 9.73 @113 Providing and fixing bright finished brass parliamentary hinges with
+@113 necessary screws etc. complete :
+@113 9.73.1 @165 150x125x27x5 mm @435 each @485 463.15
+@113 9.73.2 @165 125x125x27x5 mm @435 each @485 414.60
+@113 9.73.3 @165 100x125x27x5 mm @435 each @485 381.75
+@113 9.73.4 @165 75x100x20x3.2 mm @435 each @485 339.20
+@58 9.74 @113 Providing and fixing bright finished brass tower bolts (barrel type) with
+@113 necessary screws etc. complete :
+@113 9.74.1 @165 250x10 mm @435 each @485 441.60
+@113 9.74.2 @165 200x10 mm @435 each @485 358.40
+@113 9.74.3 @165 150x10 mm @435 each @485 287.25
+@113 9.74.4 @165 100x10 mm @435 each @485 197.50
+@58 9.75 @113 Providing and fixing bright finished brass door latch with necessary
+@113 screws etc. complete :
+@113 9.75.1 @165 300x16x5 mm @435 each @485 322.20
+@113 9.75.2 @165 250x16x5 mm @435 each @485 308.00
+@58 9.76 @113 Providing and fixing bright finished brass 100 mm mortice latch and
+@113 lock with 6 levers and a pair of lever handles of approved quality with
+@113 necessary screws etc. complete. @435 each @485 854.65
+@58 9.77 @113 Providing and fixing bright finished brass 100 mm mortice latch with one
+@113 dead bolt and a pair of lever handles of approved quality with necessary
+@113 screws etc. complete. @435 each @485 726.60
+@58 9.78 @113 Providing and fixing bright finished brass night latch of approved quality
+@113 including necessary screws etc. complete. @435 each @482 1183.30
+@58 9.79 @113 Providing and fixing special quality bright finished brass cupboard or
+@113 ward robe locks with four levers of approved quality including necessary
+@113 screws etc. complete.
+@113 9.79.1 @165 40 mm @435 each @485 311.20
+@113 9.79.2 @165 50 mm @435 each @485 356.75
+@113 9.79.3 @165 65 mm @435 each @485 362.40
+@113 9.79.4 @165 75 mm @435 each @485 386.60
+@58 9.80 @113 Providing and fixing 50 mm bright finished brass cup board or wardrobe
+@113 knob of approved quality with necessary screws. @435 each @487 74.25
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 144
+=== PAGE 64
+
+=== PAGE 65
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 9.81 @113 Providing and fixing bright finished brass handles with screws etc.
+@113 complete:
+@113 9.81.1 @165 125 mm @435 each @485 256.65
+@113 9.81.2 @165 100 mm @435 each @485 234.70
+@113 9.81.3 @165 75 mm @435 each @485 184.95
+@58 9.82 @113 Providing and fixing bright finished brass hanging type floor door stopper
+@113 with necessary screws, etc. complete. @435 each @485 121.65
+@58 9.83 @113 Providing and fixing aluminium die cast body tubular type universal
+@113 hydraulic door closer (having brand logo with ISI, IS : 3564, embossed
+@113 on the body, door weight upto 35 kg and door width upto 700 mm), with
+@113 necessary accessories and screws etc. complete. @435 each @482 1124.85
+@58 9.84 @113 Providing @158 and @180 fixing @208 aluminium @257 extruded @300 section @336 body @363 tubular @397 type
+@113 universal hydraulic door closer (having brand logo with ISi, IS : 3564,
+@113 embossed on the body, door weight upto 36 kg to 80 kg and door width
+@113 from 701 mm to 1000 mm), with double speed adjustment with necessary
+@113 accessories and screws etc. complete. @435 each @485 983.15
+@58 9.85 @113 Providing and fixing bright finished brass casement window fastener with
+@113 necessary screws etc. complete. @435 each @487 89.00
+@58 9.86 @113 Providing and fixing bright finished brass casement stays (straight peg
+@113 type) with necessary screws etc. complete :
+@113 9.86.1 @165 300 mm weighing not less than 330 gms @435 each @485 218.15
+@113 9.86.2 @165 250 mm weighing not less than 280 gms @435 each @485 175.80
+@113 9.86.3 @165 200 mm weighing not less than 240 gms @435 each @485 167.25
+@58 9.87 @113 Providing and fixing bright finished brass hasp and staple (safety type)
+@113 with necessary screws etc. complete :
+@113 9.87.1 @165 150 mm @435 each @485 139.10
+@113 9.87.2 @165 115 mm @435 each @485 126.00
+@113 9.87.3 @165 90 mm @435 each @485 111.05
+@113 CHROMIUM PLATED BRASS FITTINGS
+@58 9.88 @113 Providing and fixing chromium plated brass 100 mm mortice latch and
+@113 lock with 6 levers and a pair of lever handles of approved quality with
+@113 necessary screws etc. complete. @435 each @485 998.35
+@58 9.89 @113 Providing and fixing chromium plated brass night latch of approved
+@113 quality including necessary screws etc. complete. @435 each @485 952.80
+@58 9.90 @113 Providing and fixing special quality chromium plated brass cupboard
+@113 locks with six levers of approved quality including necessary screws etc.
+@113 complete.
+@113 9.90.1 @165 Size 40 mm @435 each @485 319.75
+@113 9.90.2 @165 Size 50 mm @435 each @485 333.95
+@113 9.90.3 @165 Size 65 mm @435 each @485 372.40
+@113 9.90.4 @165 Size 75 mm @435 each @485 409.35
+@58 9.91 @113 Providing and fixing chromium plated brass 50 mm cupboard or wardrobe
+@113 knobs with nuts complete. @435 each @485 151.05
+@58 9.92 @113 Providing and fixing chromium plated brass handles with necessary
+@113 screws etc. complete:
+@113 9.92.1 @165 125 mm @435 each @485 231.05
+@113 9.92.2 @165 100 mm @435 each @485 206.25
+@113 9.92.3 @165 75 mm @435 each @485 176.40
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 145
+=== PAGE 66
+
+=== PAGE 67
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 9.93 @113 Providing and fixing chromium plated brass casement window fastener
+@113 with necessary screws etc. complete. @435 each @485 155.45
+@58 9.94 @113 Providing and fixing chromium plated brass casement stays (straight peg
+@113 type) with necessary screws etc. complete :
+@113 9.94.1 @165 300 mm weighing not less than 330 gms @435 each @485 215.20
+@113 9.94.2 @165 250 mm weighing not less than 280 gms @435 each @485 191.00
+@113 9.94.3 @165 200 mm weighing not less than 240 gms @435 each @485 166.80
+@113 ANODISED ALUMINIUM FITTINGS (ALL FITTINGS SHALL BE ISI
+@113 MARKED)
+@58 9.95 @113 Providing and fixing ISI marked aluminium butt hinges anodised (anodic
+@113 coating not less than grade AC 10 as per IS: 1868) transparent or dyed to
+@113 required colour or shade with necessary screws etc. complete:
+@113 9.95.1 @165 125x75x4 mm @435 each @485 150.10
+@113 9.95.2 @165 125x63x4 mm @435 each @485 126.65
+@113 9.95.3 @165 100x75x4 mm @435 each @485 115.40
+@113 9.95.4 @165 100x63x4 mm @435 each @485 104.75
+@113 9.95.5 @165 100x63x3.2 mm @435 each @487 96.90
+@113 9.95.6 @165 75x63x4 mm @435 each @487 87.90
+@113 9.95.7 @165 75x63x3.2 mm @435 each @487 81.50
+@113 9.95.8 @165 75x45x3.2 mm @435 each @487 76.50
+@113 Note :- Aluminum hinges shall not be used in wooden shutters, stainless
+@113 steel hinges shall be preferred.
+@58 9.96 @113 Providing and fixing aluminium sliding door bolts, ISI marked anodised
+@113 (anodic coating not less than grade AC 10 as per IS : 1868), transparent
+@113 or dyed to required colour or shade, with nuts and screws etc. complete :
+@113 9.96.1 @165 300x16 mm @435 each @485 303.25
+@113 9.96.2 @165 250x16 mm @435 each @485 260.60
+@58 9.97 @113 Providing and fixing aluminium tower bolts, ISI marked, anodised (anodic
+@113 coating not less than grade AC 10 as per IS : 1868 ) transparent or dyed
+@113 to required colour or shade, with necessary screws etc. complete :
+@113 9.97.1 @165 300x10 mm @435 each @485 130.10
+@113 9.97.2 @165 250x10 mm @435 each @485 115.15
+@113 9.97.3 @165 200x10 mm @435 each @487 99.70
+@113 9.97.4 @165 150x10 mm @435 each @487 82.55
+@113 9.97.5 @165 100x10 mm @435 each @487 64.70
+@58 9.98 @113 Providing and fixing aluminium pull bolt lock, ISI marked, anodised
+@113 (anodic coating not less than grade AC 10 as per IS : 1868) transparent
+@113 or dyed to required colour and shade, with necessary screws bolts, nut
+@113 and washers etc. complete. @435 each @485 100.80
+@58 9.99 @113 Providing and fixing 50 cm long aluminium kicking plate of size 100x3.15
+@113 mm, anodised (anodic coating not less than grade AC 10 as per IS :
+@113 1868) transparent or dyed to required colour or shade, with necessary
+@113 screws etc. complete. @435 each @485 239.40
+@58 9.100 @113 Providing and fixing aluminium handles, ISI marked, anodised (anodic
+@113 coating not less than grade AC 10 as per IS : 1868) transparent or dyed
+@113 to required colour or shade, with necessary screws etc. complete :
+@113 9.100.1 @165 125 mm @435 each @487 66.25
+@113 9.100.2 @165 100 mm @435 each @487 59.55
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 146
+=== PAGE 68
+
+=== PAGE 69
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 9.100.3 @165 75 mm @435 each @487 51.75
+@58 9.101 @113 Providing and fixing aluminium hanging floor door stopper, ISI marked,
+@113 anodised (anodic coating not less than grade AC 10 as per IS : 1868)
+@113 transparent or dyed to required colour and shade, with necessary screws
+@113 etc. complete.
+@113 9.101.1 @165 Single rubber stopper @435 each @487 39.60
+@113 9.101.2 @165 Twin rubber stopper @435 each @487 72.35
+@58 9.102 @113 Providing and fixing aluminium casement stays, ISI marked, anodised
+@113 (anodic coating not less than grade AC 10 as per IS : 1868) transparent or
+@113 dyed to required colour and shade, with necessary screws etc. complete. @435 each @487 71.50
+@58 9.103 @113 Providing and fixing bright finished brass 100 mm mortice latch and lock,
+@113 ISI marked, with six levers and a pair of anodised (anodic coating not less
+@113 than grade AC 10 as per IS : 1868) aluminium lever handles of approved
+@113 quality with necessary screws etc. complete. @435 each @485 868.95
+@58 9.104 @113 Providing and fixing aluminium tee channels (heavy duty) with rollers &
+@113 stop end in pelmets as curtain rod. @433 metre @485 160.35
+@113 GYPSUM BOARD PARTITIONS
+@58 9.105 @113 Providing and fixing partition upto ceiling height consisting of G.I. frame
+@113 and required board, including providing and fixing of frame work made
+@113 of special section power pressed/ roll form G.I. sheet with zinc coating of
+@113 120 gms/sqm(both side inclusive), consisting of floor and ceiling channel
+@113 50 mm wide having equal flanges of 32 mm and 0.50 mm thick, fixed
+@113 to the floor and ceiling at the spacing of 610 mm centre to centre with
+@113 dash fastener of 12.5 mm dia meter 50 mm length or suitable anchor
+@113 fastener or metal screws with nylon plugs and the studs 48 mm wide
+@113 having one flange of 34 mm and other flange 36 mm and 0.50 mm thick
+@113 fixed vertically within flanges of floor and ceiling channel and placed at a
+@113 spacing of 610 mm centre to centre by 6 mm dia bolts and nuts, including
+@113 fixing of studs along both ends of partition fixed flush to wall with suitable
+@113 anchor fastener or metal screws with nylon plugs at spacing of 450 mm
+@113 centre to centre, and fixing of boards to both side of frame work by 25 mm
+@113 long dry wall screws on studs, floor and ceiling channels at the spacing
+@113 of 300 mm centre to centre. The boards are to be fixed to the frame
+@113 work with joints staggered to avoid through cracks, M.S. fixing channel
+@113 of 99 mm width (0.9 mm thick having two flanges of 9.5 mm each) to be
+@113 provided at the horizontal joints of two boards, fixed to the studs using
+@113 metal to metal flat head screws, including jointing and finishing to a flush
+@113 finish with recommended jointing compound, jointing tape, angle beads
+@113 at corners (25 mm x 25 mm x 0.5 mm), joint finisher and two coats of
+@113 primer suitable for board as per manufacture’s specification and direction
+@113 of engineer in charge all complete.
+@113 9.105.1 @165 75 mm overall thickness partition with 12.5 mm thick double
+@165 skin fire rated Glass Reinforced Gypsum (GRG) plaster
+@165 board @196 conforming @248 to @262 IS: @280 2095: @309 part @332 3 @343 (Board @377 with @400 BIS
+@165 certification marks) @437 sqm @482 2131.10
+@113 9.105.2 @165 75 mm overall thickness partition with 12.5 mm thick double
+@165 skin tapered edged plain Gypsum plaster board conforming
+@165 to IS: 2095: (part I): 2011 (Board with BIS certification marks) @437 sqm @482 1818.15
+@113 9.105.3 @165 66 mm overall thickness Partition with 8 mm thick double skin
+@165 Calcium Silicate Board made with Calcareous & Siliceous
+@165 materials @212 reinforced @262 with @286 cellulose @331 fiber @357 manufactured
+@165 through autoclaving process with Compressive Strength
+@165 225 kg/sq.cm, Bending Strength 100 kg./ sq.cm @437 sqm @482 2225.00
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 147
+=== PAGE 70
+
+=== PAGE 71
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 9.105.4 @165 66 mm overall thickness partition using 8 mm thick, double
+@165 skin multipurpose cement board Type-B, Category-III as per
+@165 IS: 14862 : 2000 reinforced with cellulose fibre manufactured
+@165 through autoclaving process (High pressure steam cured)
+@165 with suitable fibre cement screws @437 sqm @482 2062.85
+@113 9.105.5 @165 66 mm overall thickness partition using 8 mm thick double
+@165 skin @189 multipurpose @249 cement @287 bonded @325 wood @354 particle @391 board
+@165 manufactured as per IS: 14276 with suitable cement bonded
+@165 board screws @437 sqm @482 2034.40
+@58 9.106 @113 Providing and fixing PTMT handles with necessary screws etc. complete.
+@113 9.106.1 @165 125x34x24 mm weighing not less than 23 gms @435 each @487 42.95
+@113 9.106.2 @165 150x34x24 mm weighing not less than 26 gms @435 each @487 41.55
+@58 9.107 @113 Providing and fixing PTMT Butt hinges with necessary screws etc.
+@113 complete.
+@113 9.107.1 @165 75x60x10 mm fitted with 5.5 mm dia M.S. Bright Bar Rod
+@165 weighing not less than 34 gms @435 each @487 75.90
+@113 9.107.2 @165 100x75x10 mm fitted with 5.5 mm dia MS Bright Bar Rod
+@165 weighing not less than 53 gms @435 each @487 89.10
+@58 9.108 @113 Providing and fixing PTMT Tower Bolts with 12 mm one piece rod inside
+@113 and necessary screws etc., complete.
+@113 9.108.1 @165 152x42x18 mm weighing not less than 60 gms @435 each @487 69.75
+@113 9.108.2 @165 202x42x18 mm weighing not less than 78 gms @435 each @485 106.15
+@58 9.109 @113 Providing and fixing PTMT door catcher of length 72 mm and dia. of 42
+@113 mm with suitable washers weighing not less than 33 gms @435 each @487 40.05
+@58 9.110 @113 Providing @158 and @180 fixing @208 Bamboo @249 jaffery/ @283 fencing @319 consisting @367 of @381 superior
+@113 quality 25 mm dia (Average) half cut bamboo placed vertically and fixed
+@113 together with three numbers horizontal running members of hollock wood
+@113 in scantling of section 50X25 mm, fixed with nails and G.I wire on existing
+@113 support complete as per direction of Engineer-in-charge. @437 sqm @485 689.40
+@58 9.111 @113 Providing and fixing wooden moulded corner beading of triangular shape
+@113 to the junction of panelling etc. with iron screws, plugs and priming coat
+@113 on unexposed surface etc. complete 2nd class teak wood.
+@113 9.111.1 @165 50x50 mm (base and height) @433 metre @485 354.35
+@58 9.112 @113 Providing and fixing 2nd class teak wood lipping/ moulded beading or
+@113 taj beading of size 18X5 mm fixed with wooden adhesive of approved
+@113 quality and screws/nails on the edges of the Pre-laminated particle board
+@113 as per direction of Engineer-in-charge. @433 metre @485 102.15
+@58 9.113 @113 Providing and fixing bright finished 100 mm mortice lock with 6 levers
+@113 without pair of handles of approved quality for aluminium door, with
+@113 necessary screws etc complete as per direction of Engineer- in-charge. @435 each @485 850.05
+@58 9.114 @113 Providing and fixing magnetic catcher of approved quality in cupboard /
+@113 ward robe shutters, including fixing with necessary screws etc. complete.
+@113 9.114.1 @165 Triple strip vertical type @435 each @487 52.50
+@113 9.114.2 @165 Double strip (horizontal type) @435 each @487 39.70
+@58 9.115 @113 Providing and fixing powder coated telescopic drawer channels 300 mm
+@113 long with necessary screws etc. complete as per directions of Engineer-
+@113 in-charge. @430 one set @485 414.20
+@58 9.116 @113 Providing and fixing sliding arrangement in racks/ cupboards/cabinets
+@113 shutter with stainless steel rollers to run inside C or E aluminium channel
+@113 section (The payment of C or E channel shall be made separately) @435 each @487 20.40
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 148
+=== PAGE 72
+
+=== PAGE 73
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 9.117 @113 Providing and fixing factory made uPVC door frame made of uPVC
+@113 extruded sections having an overall dimension as below (tolerance
+@113 ±1mm), with wall thickness 2.0 mm (± 0.2 mm), corners of the door
+@113 frame to be Jointed with galvanized brackets and stainless steel screws,
+@113 joints mitred and Plastic welded. The hinge side vertical of the frames
+@113 reinforced by galvanized M.S. tube of size 19 X 19 mm and 1 mm (± 0.1
+@113 mm) wall thickness and 3 nos. stainless steel hinges fixed to the frame
+@113 complete as per manufacturer’s specification and direction of Engineer-
+@113 in-charge
+@113 9.117.1 @165 Extruded section profile size 48x40 mm @433 metre @485 270.20
+@113 9.117.2 @165 Extruded section profile size 42x50 mm @433 metre @485 331.35
+@58 9.118 @113 Providing and fixing to existing door frames.
+@113 9.118.1 @165 24 mm thick factory made PVC door shutters made of styles
+@165 and rails of a uPVC hollow section of size 59x24 mm and
+@165 wall thickness 2 mm (± 0.2 mm) with inbuilt edging on both
+@165 sides. The styles and rails mitred and joint at the corners by
+@165 means of M.S. galvanised/ plastic brackets of size 75x220
+@165 mm @187 having @221 wall @244 thickness @289 1.0 @309 mm @330 and @352 stainless @395 steel
+@165 screws. The styles of the shutter reinforced by inserting
+@165 galvanised M.S. tube of size 20x20 mm and 1 mm (± 0.1
+@165 mm) wall thickness. The lock rail made up of ‘H’ section, a
+@165 uPVC hollow section of size 100x24 mm and 2 mm (± 0.2
+@165 mm) wall thickness, fixed to the shutter styles by means of
+@165 plastic/galvanised M.S. ‘U’ cleats. The shutter frame filled
+@165 with a uPVC multi-chambered single panel of size not less
+@165 than 620 mm, having over all thickness of 20 mm and 1 mm
+@165 (± 0.1 mm) wall thickness. The panels filled vertically and tie
+@165 bar at two places by inserting horizontally 6 mm galvanised
+@165 M.S. rod and fastened with nuts and washers, complete as
+@165 per manufacturer’s specification and direction of Engineer-
+@165 in-charge. (For W.C. and bathroom door shutter). @437 sqm @482 2969.25
+@113 9.118.2 @165 30 mm thick factory made Polyvinyl Chloride (PVC) door
+@165 shutter made of styles and rails of a uPVC hollow section
+@165 of size 60x30 mm and wall thickness 2 mm (± 0.2 mm), with
+@165 inbuilt decorative moulding edging on one side. The styles
+@165 and rails mitred and joint at the corners by means of M.S.
+@165 galvanised/ plastic brackets of size 75x220 mm having wall
+@165 thickness 1.0 mm and stainless steel screws. The styles of
+@165 the shutter reinforced by inserting galvanised M.S. tube of
+@165 size 25x20 mm and 1 mm (± 0.1 mm) wall thickness. The
+@165 lock rail made up of ‘H’ section, a uPVC hollow section
+@165 of size 100x30 mm and 2 mm (± 0.2 mm) wall thickness
+@165 fixed to the shutter styles by means of plastic/ galvanised
+@165 M.S. ‘U’ cleats. The shutter frame filled with a uPVC multi-
+@165 chambered single panel of size not less than 620 mm,
+@165 having over all thickness of 20 mm and 1 mm (± 0.1 mm)
+@165 wall thickness . The panels filled vertically and tie bar at
+@165 two places by inserting horizontally 6 mm galvanised M.S.
+@165 rod and fastened with nuts and washers, complete as per
+@165 manufacturer’s specification and direction of Engineer-in-
+@165 charge. @437 sqm @482 3253.80
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 149
+=== PAGE 74
+
+=== PAGE 75
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 9.118.3 @165 25 mm thick PVC flush door shutters made out of a one piece
+@165 Multi chamber extruded PVC section of the size of 762 mm
+@165 X 25 mm or less as per requirement with an average wall
+@165 thickness of 1 mm (± 0.3 mm). PVC foam end cap of size
+@165 23x10 mm are provided on both vertical edges to ensure the
+@165 overall thickness of 25 mm. M.S. tube having dimensions
+@165 19 mm x 19 mm and 1.0 mm (± 0.1 mm) is inserted along
+@165 the hinge side of the door. Core of the door shutter should
+@165 be filled with High Density Polyurethane foam. The Top &
+@165 Bottom edges of the shutter are covered with an end-cap of
+@165 the size 25 mm X 11 mm. Door shutter shall be reinforced
+@165 with special polymeric reinforcements as per manufacturer’s
+@165 specification and direction of Engineer-in-charge to take up
+@165 necessary hardware and fixtures. Stickers indicating the
+@165 locations of hardware will be pasted at appropriate places @437 sqm @482 3068.85
+@58 9.119 @113 Providing and fixing factory made P.V.C. door frame of size 50x47 mm
+@113 with a wall thickness of 5 mm, made out of extruded 5 mm rigid PVC
+@113 foam sheet, mitred at corners and joined with 2 Nos of 150 mm long
+@113 brackets of 15x15 mm M.S. square tube, the vertical door frame profiles
+@113 to be reinforced with 19x19 mm M.S. square tube of 19 gauge, EPDM
+@113 rubber gasket weather seal to be provided through out the frame. The
+@113 door frame to be fixed to the wall using M.S. screws of 65/100 mm size,
+@113 complete as per manufacturer’s specification and direction of Engineer-
+@113 in-Charge. @433 metre @485 492.70
+@58 9.120 @113 Providing and fixing factory made panel PVC door shutter consisting of
+@113 frame made out of M.S. tubes of 19 gauge thickness and size of 19 mm
+@113 x 19 mm for styles and 15x15 mm for top & bottom rails. M.S. frame shall
+@113 have a coat of steel primers of approved make and manufacture. M.S.
+@113 frame covered with 5 mm thick heat moulded PVC ‘C’ channel of size 30
+@113 mm thickness, 70 mm width out of which 50 mm shall be flat and 20 mm
+@113 shall be tapered in 45 degree angle on both side forming styles and 5 mm
+@113 thick, 95 mm wide PVC sheet out of which 75 mm shall be flat and 20 mm
+@113 shall be tapered in 45 degree on the inner side to form top and bottom
+@113 rail and 115 mm wide PVC sheet out of which 75 mm shall be flat and 20
+@113 mm shall be tapered on both sides to form lock rail. Top, bottom and lock
+@113 rails shall be provided both side of the panel. 10 mm (5 mm x 2 ) thick, 20
+@113 mm wide cross PVC sheet be provided as gap insert for top rail & bottom
+@113 rail, paneling of 5 mm thick both side PVC sheet to be fitted in the M.S.
+@113 frame welded/ sealed to the styles & rails with 7 mm (5 mm+2 mm) thick
+@113 x 15 mm wide PVC sheet beading on inner side, and joined together
+@113 with solvent cement adhesive. An additional 5 mm thick PVC strip of 20
+@113 mm width is to be stuck on the interior side of the ‘C’ Channel using PVC
+@113 solvent adhesive etc. complete as per direction of Engineer-in-charge,
+@113 manufacturer’s specification & drawing.
+@113 9.120.1 @165 30 mm thick plain PVC door shutters @437 sqm @482 3182.95
+@113 9.120.2 @165 30 mm thick pre laminated PVC door shutters @437 sqm @482 3663.80
+@58 9.121 @113 Providing and fixing Fiber Glass Reinforced plastic (FRP) Door Frames of
+@113 cross-section 90 mm x 45 mm having single rebate of 32 mm x 15 mm to
+@113 receive shutter of 30 mm thickness. The laminate shall be moulded with
+@113 fire resistant grade unsaturated polyester resin and chopped mat. Door
+@113 frame laminate shall be 2 mm thick and shall be filled with suitable wooden
+@113 block in all the three legs. The frame shall be covered with fiber glass from
+@113 all sides. M.S. stay shall be provided at the bottom to steady the frame. @433 metre @485 570.95
+@58 9.122 @113 Providing and fixing to existing door frames.
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 150
+=== PAGE 76
+
+=== PAGE 77
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 9.122.1 @165 30 mm thick Glass Fibre Reinforced Plastic (FRP) panelled
+@165 door shutter of required colour and approved brand and
+@165 manufacture, made with fire - retardant grade unsaturated
+@165 polyester resin, moulded to 3 mm thick FRP laminate for
+@165 forming hollow rails and styles, with wooden frame and suitable
+@165 blocks of seasoned wood inside at required places for fixing of
+@165 fittings, cast monolithically with 5 mm thick FRP laminate for
+@165 panels conforming to IS: 14856, including fixing to frames. @437 sqm @482 3720.75
+@113 9.122.2 @165 30 mm thick Fiberglass Reinforced Plastic (F.R.P.) flush
+@165 door shutter in different plain and wood finish made with fire
+@165 retardant grade unsaturated polyester resin, moulded to 3
+@165 mm thick FRP laminate all around, with suitable wooden
+@165 blocks inside at required places for fixing of fittings and
+@165 polyurethane @226 foam @253 (PUF)/Polystyrene @337 foam @364 to @378 be @395 used
+@165 as @182 filler @207 material @248 throughout @300 the @320 hollow @354 panel, @387 casted
+@165 monolithically with testing parameters of F.R.P. laminate
+@165 conforming to table - 3 of IS: 14856, complete as per
+@165 direction of Engineer-in-charge. @437 sqm @482 4488.95
+@58 9.123 @113 Providing and fixing factory made door frame (single rebate) made out of
+@113 solid foam PVC extruded profile of minimum 60 mm width and minimum
+@113 30 mm thickness, having homogenous fine cellular structure and integral
+@113 smooth outer skin. The frame’s vertical and horizontal members to be
+@113 mitered cut and joined together with PVC solvent adhesive / cement and
+@113 both corners strengthened with fully threaded steel screws (of required size)
+@113 fixed diagonally. The door frame is to be fixed to door jambs using 6 Nos.
+@113 SS 304 grade minimum 8 mm dia CSK Phillips stainless steel self tapping
+@113 screws/fasteners with PA6 grade polyamide sleeves both of required size,
+@113 and gap if any between the door frame and the jamb must be filled with
+@113 clear silicon, complete as per direction of the Engineer-in-Charge. @433 metre @485 696.00
+@58 9.123A @113 Providing PVC moulding / architrave for door frame made up of extruded
+@113 solid foam PVC profile having homogenous fine cellular structure with
+@113 smooth outer integral skin, minimum 30 mm width and minimum 12 mm
+@113 thick suitable for fixing to frame. The molding shall be snap fitted in the
+@113 groove provided in the frame & fixed with PVC solvent adhesive / cement
+@113 and self tapping screws (of required size) complete as per direction of
+@113 Engineer-in-Charge. @433 metre @485 135.80
+@58 9.124 @113 Providing and fixing factory made PVC door shutter made of solid foam
+@113 PVC profiles of thikness 5 mm and 15 mm at edges integrally extruded
+@113 for vertical style and horizontal (top/ bottom/ lock) rails of minimum cross
+@113 section of 70mmx 28mm, of shape and design as per manufacturer’s
+@113 specifications having homogenous fine cellular structure and smooth
+@113 integral outer skin, inserted with G.I. ‘C’ section/ rectangular tube profile
+@113 of minimum 0.30 mm thickness with 120 gsm coating as stiffeners as per
+@113 manufacturer’s specifications Mitred cut joints for styles and rails provided
+@113 with telescopic polymeric ‘L’ corners are jointed together using solvent
+@113 adhesive and strenghtened with fully threaded stainless steel screws (of
+@113 required size) through reinforced stiffener with paneling of specified solid
+@113 foam PVC board/ high pressure laminate of required thickness and of
+@113 approved design and shade (matching the styles and rails), secured within
+@113 styles and rails with specially designed solid foam PVC moulded beadings
+@113 of required size using PVC solvent adhesive/ cement. The finished door
+@113 shutter including SS hardware, 1 no. ss sliding bolt 200 x 10mm, 1 no. SS
+@113 tower bolt 200 x 10 mm and 2 nos. SS handles 125mm, shall be fixed to
+@113 frame with 3 nos. stainless steel hinges of minimum size 100x58x1.9 mm
+@113 and stainless steel screws of required size complete as per direction of the
+@113 Engineer-in-Charge. (Cost of above hardware is inclusive in rates)
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 151
+=== PAGE 78
+
+=== PAGE 79
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 9.124.1 @113 5 mm thick solid foam PVC panel of required size with moulded/ extruded
+@113 beading of appropriate design shape and size as per manufacturer’s
+@113 specifications ( to secure the panel insert tight in place within the style
+@113 and rails of shutter) matching the colour and shade of shutter frame.
+@113 Non decorative type. @437 sqm @482 3754.20
+@58 9.124.2 @113 5 mm thick solid foam PVC panel of required size with moulded/ extruded
+@113 beading of appropriate design shape and size as per manufacturer’s
+@113 specifications ( to secure the panel insert tight in place within the style
+@113 and rails of shutter) matching the colour and shade of shutter frame.
+@113 Decorative type. @437 sqm @482 4138.35
+@58 9.124.3 @113 3 mm thick high pressure laminate (decorative type) with moulded/
+@113 extruded @157 beading @198 of @213 appropriate @269 design @304 shape @337 and @360 size @384 as @402 per
+@113 manufacturer’s specifications ( to secure the panel insert tight in place
+@113 within the style and rails of shutter) matching the colour and shade of
+@113 shutter frame. Non decorative type. @437 sqm @482 4678.95
+@58 9.126 @113 Providing and fixing 12 mm thick panelling or panelling and glazing
+@113 in panelled or panelled and glazed shutters for doors, windows and
+@113 clerestory windows (area of opening for panel inserts excluding portion
+@113 inside grooves or rebates to be measured). Panelling for panelled or
+@113 panelled and glazed shutters 25 mm to 40 mm thick.
+@113 9.126.1 @165 Marine plywood conforming to IS: 710 @437 sqm @482 2486.25
+@113 9.126.2 @165 Fire retardant plywood conforming to IS: 5509 @437 sqm @482 2777.70
+@58 9.127 @113 Providing & Fixing decorative high pressure laminated sheet of plain
+@113 / wood grain in gloss / matt/ suede finish with high density protective
+@113 surface layer and reverse side of adhesive bonding quality conforming to
+@113 IS : 2046 Type S, including cost of adhesive of approved quality.
+@113 9.127.1 @165 1.5 mm thick @437 sqm @482 1045.95
+@113 9.127.2 @165 1.0 mm thick @437 sqm @485 897.30
+@58 9.128 @113 Providing and fixing factory made Fiberglass Reinforced plastics (F.R.P.)
+@113 chajja 4 mm thick of required colour, size and design made by Resin
+@113 Transfer Moulding (RTM) Machine Technology, resulting in void free
+@113 compact laminate in single piece, having smooth gradual slope curvature
+@113 for easy drainage of water and duly reinforced by 2 nos vertically and
+@113 1 nos horizontally 50x2 mm thick M.S. flat with 12 mm in built hole for
+@113 grouting on the existing wall along with the 50 mm flanges duly inserted
+@113 and sealed in the wall complete in one single piece casted monolithically,
+@113 including all necessary fittings . The FRP Chajja should be manufactured
+@113 using unsaturated Polyester resin as per IS: 6746, duly reinforced with
+@113 fibre glass chopped strand mat (CSM) as per IS: 11551 complete with
+@113 protective Gel coat U/V coating on Top for complete resistance from the
+@113 extreme of temperature, weather & sunlight (Only plan area of chajjas
+@113 shall be measured for making payment). @437 sqm @482 5207.45
+@58 9.129 @113 Providing and fixing cup board shutters 25 mm thick, with Pre-laminated
+@113 flat pressed three layer particle board or graded wood particle board
+@113 IS: 12823 marked, exterior grade (Grade l Type ll), having one side
+@113 decorative lamination and other side balancing lamination, including IInd
+@113 class teak wood lipping of 25 mm wide x12 mm thick with necessary
+@113 screws and bright finished stainless steel piano hinges, complete as per
+@113 direction of the Engineer-in-Charge @437 sqm @482 2307.35
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 152
+=== PAGE 80
+
+=== PAGE 81
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 9.130 @113 Providing and fixing cup board shutters with 25 mm thick veneered
+@113 particle board IS : 3097 marked, exterior grade (Grade I), of approved
+@113 make, including IInd class teak wood lipping of 25 mm wide x 12 mm
+@113 thick with necessary screws and bright finished stainless steel piano
+@113 hinges, complete as per direction of Engineer-in-Charge.
+@113 9.130.1 @165 With decorative veneering on one side and commercial
+@165 veneering on other side @437 sqm @482 1927.50
+@113 9.130.2 @165 With non decorative veneering on both sides @437 sqm @482 1809.40
+@58 9.131 @113 Providing and fixing factory made shutters of Pre-laminated particle
+@113 board flat pressed three layer or graded wood particle board with one
+@113 side decorative finish and other side balancing lamination conforming
+@113 to IS: 12823 Grade l Type ll, of approved design, and edges sealed with
+@113 water resistant paint and lipped with aluminium ‘U’ type edge beading
+@113 all- round the shutter, including fixing with angle cleat, grip strip, cadmium
+@113 plated steel screws, including fixing of aluminium hinges 100x63x4 mm
+@113 etc. complete as per architectural drawing and direction of Engineer-in-
+@113 Charge (Cost of ‘U’ beading and hinges will be paid for separately).
+@113 9.131.1 @165 25 mm thick @437 sqm @482 1801.60
+@58 9.132 @113 Providing @158 and @180 fixing @208 aluminum @255 U @267 beading @307 of @321 required @361 size @384 to @397 Pre-
+@113 laminated/flush @183 door @209 shutter, @246 including @290 fixing @319 etc. @340 complete @385 as @402 per
+@113 direction of Engineer-in-charge. @441 kg @485 596.15
+@58 9.133 @113 Providing and fixing, in position concealed G.I. section for wall paneling
+@113 using board of required thickness fixed on the ‘W’ profile (0.55 mm thick)
+@113 having a knurled web of 51.55 mm and two flanges of 26 mm each with
+@113 lips of 10.55 mm, placed @ 610 mm C/C in perimeter channel having
+@113 one flange of 20 mm and another flange of 30 mm with thickness of 0.55
+@113 mm and web of length 27 mm. Perimeter channel is fixed on the floor
+@113 and the ceiling with the nylon sleeves @ 610 mm C/C with fully threaded
+@113 self-tapping dry wall screws. Board is fixed to the ‘W’ profile with 25 mm
+@113 countersunk ribbed head screws @ 200 mm C/C., all complete as per
+@113 the drawing & directions of engineer-in-charge, the joints of the boards
+@113 are finished with specially formulated jointing compound and 48 mm wide
+@113 jointing tape to provide seamless finish.
+@113 9.133.1 @165 Tapered edge calcium silicate board made with calcareous
+@165 & @181 siliceous @226 materials @274 reinforced @325 with @351 cellulose @397 fiber
+@165 manufactured through autoclaving process to give stable
+@165 crystalline @214 structure @257 with @280 compressive @340 strength @381 225 @403 kg/
+@165 sq.cm, Bending strength 100 kg/sq.cm.
+@165 9.133.1.1 @223 10 mm thick @437 sqm @482 1790.95
+@113 9.133.2 @165 Multipurpose cement board reinforced with suitable fibre
+@165 cement screw.
+@165 9.133.2.1 @223 8 @235 mm @257 thick @282 cement @319 fibre @344 board, @377 Type- @406 B,
+@223 Category- III as per IS: 14862 : 2000 @437 sqm @482 1443.45
+@165 9.133.2.2 @223 8 mm thick Cement bonded wood particle
+@223 board as per IS:14276 @437 sqm @482 1427.80
+@113 9.133.3 @165 Plain Gypsum plaster board conforming to IS: 2095 Part
+@165 -1:2011 (Board with BIS certification marks)
+@165 9.133.3.1 @223 12.5 mm thick @437 sqm @482 1308.85
+@58 9.134 @113 Providing and fixing wire gauge shutters using stainless steel grade 304
+@113 wire gauge with wire of dia 0.5 mm and average width of aperture 1.4
+@113 mm in both directions for doors, windows and clerestory windows with
+@113 necessary screws :
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 153
+=== PAGE 82
+
+=== PAGE 83
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 9.134.1 @165 35 mm thick shutters
+@165 9.134.1.1 @223 with @246 ISI @263 marked @301 M.S. @326 pressed @366 butt @387 hinges
+@223 bright finished of required size
+@223 9.134.1.1.1 @297 Second class teak wood @437 sqm @482 5024.15
+@223 9.134.1.1.2 @297 Kiln @336 seasoned @400 and
+@297 chemically @349 treated @386 hollock
+@297 wood @437 sqm @482 3771.00
+@223 9.134.1.1.3 @297 Kiln @326 seasoned @380 selected
+@297 class of sheesham wood @437 sqm @482 4546.80
+@165 9.134.1.2 @223 With ISI marked stainless steel butt hinges of
+@223 required size
+@223 9.134.1.2.1 @297 Second class teak wood @437 sqm @482 5217.65
+@223 9.134.1.2.2 @297 Kiln @336 seasoned @400 and
+@297 chemically @349 treated @386 hollock
+@297 wood @437 sqm @482 3964.55
+@223 9.134.1.2.3 @297 Kiln @326 seasoned @380 selected
+@297 class of sheesham wood @437 sqm @482 4740.30
+@113 9.134.2 @165 30 mm thick shutters
+@165 9.134.2.1 @223 with ISI marked M.S. pressed butt hinges bright
+@223 finished of required size
+@223 9.134.2.1.1 @297 Second class teak wood @437 sqm @482 4498.60
+@223 9.134.2.1.2 @297 Kiln @336 seasoned @400 and
+@297 chemically @349 treated @386 hollock
+@297 wood @437 sqm @482 3426.05
+@223 9.134.2.1.3 @297 Kiln @326 seasoned @380 selected
+@297 class of sheesham wood @437 sqm @482 4090.00
+@165 9.134.2.2 @223 With ISI marked stainless steel butt hinges of
+@223 required size
+@223 9.134.2.2.1 @297 Second class teak wood @437 sqm @482 4692.10
+@223 9.134.2.2.2 @297 Kiln @336 seasoned @400 and
+@297 chemically @349 treated @386 hollock
+@297 wood @437 sqm @482 3619.60
+@223 9.134.2.2.3 @297 Kiln @326 seasoned @380 selected
+@297 class of sheesham wood @437 sqm @482 4283.50
+@58 9.135 @113 Providing and fixing fly proof stainless steel grade 304 wire gauge, to
+@113 windows and clerestory windows using wire gauge with average width of
+@113 aperture 1.4 mm in both directions with wire of dia. 0.50 mm all complete.
+@113 9.135.1 @165 With 2nd class teak wood beading 62X19 mm @437 sqm @482 1597.15
+@113 9.135.2 @165 With 12 mm mild steel U beading @437 sqm @482 1228.00
+@58 9.136 @113 Providing and fixing fire resistant door frame of section 143 x 57 mm
+@113 having built in rebate made out of 16 SWG G.I. sheet (zinc coating not
+@113 less than 120 gm/sqm) duly filled with vermuculite based concrete mix,
+@113 suitable for mounting 60 minutes fire rated door shutters. The frame is
+@113 fitted with intumuscent fire seal strip of size 10x4 mm (minimum) alround
+@113 the frame and fixing with dash fastener of approved size and make,
+@113 including applying a coat of approved brand fire resistant primer etc.
+@113 complete as per direction of Engineer-in-charge (Dash fastener to be
+@113 paid for separately). @433 metre @482 1709.25
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 154
+=== PAGE 84
+
+=== PAGE 85
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 9.137 @113 Providing and fixing 50 mm thick glazed fire resistant door shutters of 60
+@113 minutes fire rating conforming to IS:3614 (Part-II), tested and certified as
+@113 per laboratory approved by Engineer-in-charge, with suitable mounting
+@113 on door frame, consisting of vertical styles, lock rail, top rail 100 mm
+@113 wide, bottom rail 200 mm wide, made out of 16 SWG G.I.sheet (zinc
+@113 coating not less than 120 gm/sqm) duly filled FR insulation material and
+@113 fixing with necessary stainless steel ball bearing hinges of approved
+@113 make, including applying a coat of approved fire resistant primer etc. all
+@113 complete as per direction of Engineer-in-charge (panneling to be paid for
+@113 separately). @437 sqm @482 7533.20
+@58 9.138 @113 Providing and fixing glazing in fire resistant door shutters, fixed panels
+@113 & partitions etc., with G.I. beading made out of 1.6 mm thick G.I. sheet
+@113 (zinc coating not less than 120 gm/sqm) of size 20 x 33 mm screwed
+@113 with M4 x 38 mm SS screws at distance 75 mm from the edges and
+@113 150 mm c/c , including applying a coat of approved fire resistant primer/
+@113 powder coating of not less than 30 micron on G.I. beading, & special
+@113 ceramic tape of 5 x 20 mm size etc complete in all respect as per NBC
+@113 2016, IS 16231 (Part 3):2016 and as per direction of Engineer-in-charge
+@113 with glass of required thickness having 60 minutes of fire resistance
+@113 both integrity & radiation control (EW60) and minimum 20 minutes of
+@113 insulation (EI20). The manufacturer have to give test report/certification
+@113 of fire glass and the glass should have the stamp showing the value of
+@113 E, EW & EI. The glass shall be tested in approved NABL accredited lab
+@113 or by any other accreditation body which operates in accordance with
+@113 ISO/IEC 17011 and accredits labs as per ISO/IEC 17025 for testing and
+@113 calibration scopes shall be eligible. The maximum glazing size shall not
+@113 be more than 1100x2200 mm (w x h) or 2.42 sqm. @437 sqm @479 40405.55
+@58 9.139 @113 Providing and fixing panic bar / latch (Double point) fitted with a single
+@113 body, Trim Latch & Lock on back side of the Panic Latch of reputed
+@113 brand and manufacture to be approved by the Engineer- in- charge, all
+@113 complete. @435 each @482 8366.15
+@58 9.140 @113 Providing and fixing plain lining with necessary screws/nuts & bolts/ nails,
+@113 including a coat of approved primer on one face, and fixed on wooden
+@113 /steel frame work, complete as per direction of Engineer-in- charge
+@113 (Frame work shall be paid for separately).
+@113 9.140.1 @165 12 mm thick commercial ply conforming to IS : 1328 BWR
+@165 type @437 sqm @482 1224.65
+@58 9.141 @113 Providing and fixing PVC Door Frame of size 50x47 mm with a wall
+@113 thickness of 5 mm (± 0.2 mm), made out of single piece extruded PVC
+@113 profile, with mitred cut joints and joint with 2 nos of PVC bracket of size
+@113 190 mm x 100 mm long arms of cross section size 35 x 15 mm & self
+@113 driven self taping screws, the vertical door profiles to be reinforced with
+@113 40x20 mm M.S. rectangular tube of 0.8 mm , including providing EPDM
+@113 rubber gasket weather seal throughout the frame, including jointing 5
+@113 mm PVC frame strip with PVC solvent cement on the back of the profile.
+@113 The door frame to be fixed to the wall using 8 x100 mm long anchor
+@113 fasteners complete, all as per manufacturer’s specification and direction
+@113 of Engineer -in- charge. @433 metre @485 573.45
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 155
+=== PAGE 86
+
+=== PAGE 87
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 9.142 @113 35 mm thick factory made Solid panel PVC Door shutter, made out of
+@113 single piece extruded soild PVC profiles, 5 mm (± 0.2 mm) thick, having
+@113 styles & rails (except lock rail) of size 95 mmx 35 mm x 5 mm, out of
+@113 which 75 mm shall be flat and 20 mm shall be tapered (on both side),
+@113 having one side thickness of 15 mm integrally extruded on the hinge side
+@113 of the profile for better screw holding power, including reinforcing with MS
+@113 tube of size 40 mm X 20 mm x 1 mm, joints of styles & rails to be mitered
+@113 cut & joint with the help of PVC solvent cement, self driven self tapping
+@113 screws & M.S. rectangular pipes bracket of size 190 mm X 100 mm of
+@113 cross section size 35 mm x 17 mm x 1 mm at each corner. Single piece
+@113 extruded 5 mm thick solid PVC Lock rail of size 115 mm x 35 mm, out of
+@113 which 75 mm to be flat and 20 mm to be tapered at both ends, having 15
+@113 mm solid core in middle of rail section integrally extruded, fixing the styles
+@113 & rails with the help of solvent and self driven self tapping screws of 125
+@113 mm x 11 mm, including providing 5 mm Single piece solid PVC extruded
+@113 sheet inserted in the door as panel, all complete as per manufacturer’s
+@113 specification and direction of Engineer-in-charge.
+@113 9.142.1 @165 Non decorative finish (matt finish) @437 sqm @482 3997.45
+@113 9.142.2 @165 Decorative finish (wood grained finish) @437 sqm @482 4713.05
+@58 9.143 @113 Providing and Fixing factory made uPVC door frame, made of uPVC
+@113 exturded sections, of size 65 mm x 55 mm with wall thickness 2.0 mm
+@113 (± 0.2 mm), corners of the door frame to be mitred cut and jointed
+@113 with plastic brackets and stainless steel screws, reinforcing hinge side
+@113 vertical of the frames with PVC profile of Size 28 mm x 30 mm having
+@113 wall thickness 2 mm (±0.2 mm), including providing & fixing 3 nos of 125
+@113 mm long stainless steel hinges to the frame, fixing the frame with jamb
+@113 with required number & size of anchor dash fastners, all complete as per
+@113 manufacturer’s specification and direction of Engineer-in-charge. @433 metre @485 623.00
+@58 9.144 @113 Providing and fixing 37 mm thick factory made PVC door shutter, styles
+@113 and rails made of PVC hollow section of size 100 mm x 37 mm with wall
+@113 thickness 2 mm (± 0.2 mm), with inbuilt bead on one side, styles and rails
+@113 mitered cut and joint at the corners by means of 2 nos of plastic brackets
+@113 of size 75 mm x 220 mm at each corner and stainless steel screws,
+@113 reinforcing the hinge side of style by inserting PVC profile of size 28 mm
+@113 x 30 mm, with wall thickness 2 mm ( ± 0.2 mm). Lockrail of size 100 mm
+@113 x 37 mm, wall thickness 2 mm (+ 0.2 mm) will be fixed to the vertical
+@113 styles. Providing with PVC snapfit beads and panel of size 100 mm x 20
+@113 mm, and inserting 2 nos tie bar of 6 mm dia and fastening with nuts and
+@113 washers complete, all as per manufacturer’s specification and direction
+@113 of Engineer-in-charge. @437 sqm @482 4076.05
+@58 9.145 @113 Providing and Fixing factory made PVC door frame made of PVC extruded
+@113 sections of size 75 mm x 53 mm, having wall thickness 2.0 mm (± 0.2
+@113 mm). Both vertical sides of the frame reinforced with PVC profile of cross
+@113 section size 28 mm x 30 mm x 2 mm thickness (± 0.2 mm) and 75 mm x
+@113 200 mm long, including reinforcing both ends of the top frame with PVC
+@113 profile. PVC Door Frame and PVC reinforcement profile to be mitred cut,
+@113 jointed and fusion welded together, including providing and fixing 3 nos of
+@113 125 mm long stainless steel hinges to frame, fixing the frame with jamb
+@113 with required nos & sizes of anchor dash fastener, all complete as per
+@113 manufacturer’s specification and direction of engineer- in-charge. @433 metre @485 763.85
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 156
+=== PAGE 88
+
+=== PAGE 89
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 9.146 @113 Providing and fixing 37 mm thick factory made PVC Door shutter, styles
+@113 and rails made of PVC hollow extruded printed and laminated section
+@113 having overall dimension 115 mm x 37 mm with wall thickness 2 mm (±
+@113 0.2 mm) with inbuilt beading on one side, the styles and rails mitred cut
+@113 and joint at corners by inserting 2 nos PVC profile reinforcement of size
+@113 75 mm x 200 mm long with cross section size of 28 mm x 30 mm having
+@113 wall thickness 2 mm (± 0.2 mm). Styles, rails and reinforcements to be
+@113 fusion welded together. Only hinge side vertical style to be reinforced with
+@113 PVC profile reinforcement in full length. Printed and laminated PVC lock
+@113 rail of size 110 mm x 37 mm having wall thickness 2 mm (± 0.2 mm) to
+@113 be welded horizontally with the vertical styles after inserting PVC profile
+@113 reinforcement as in styles and rails, providing with PVC snap fit beading,
+@113 panels of 100 x 20 mm printed & laminated and inserting 2 nos 6 mm dia
+@113 bright steel rod horizontally with both side threaded and tightened with
+@113 check nuts and washers complete, all as per manufacturer’s specification
+@113 and direction of engineer-in-charge. @437 sqm @482 4362.00
+@58 9.147 @113 Providing and fixing factory made uPVC glazed/wire mesh windows/
+@113 doors comprising of lead free uPVC multi-chambered frame, sash and
+@113 mullion/coupler (where ever required) extruded profiles having minimum
+@113 wall thickness of 1.70 mm for Series R1 and R2 profiles and 2.10 mm
+@113 for Series R3 and R4 profiles conforming to EN: 12608 in any shape,
+@113 colour and design duly reinforced with galvanized mild steel section
+@113 made of required shape & size as per CPWD Specification, uPVC
+@113 extruded @156 glazing @192 beads, @226 interlocks @272 and @294 Inline @322 sash @348 adaptor @386 (where
+@113 ever required) of appropriate dimension, EPDM gasket, hardware, SS
+@113 304 grade fasteners of minimum 8 mm dia with countersunk head,
+@113 comprising of matching polyamide PA6 grade sleeve for fixing frame
+@113 to finished wall as per IS 1367 : Part 1 to 14, plastic packers, plastic
+@113 caps and necessary stainless steel screws etc. Profile of frame, sash &
+@113 mullion (if required) shall be mitred cut and fusion welded/mechanically
+@113 jointed duly sealed at all corners, including drilling of holes for fixing
+@113 hardware and drainage of water etc. After fixing frame the gap between
+@113 frame and adjacent finished wall shall be filled with weather proof silicon
+@113 sealant over backer rod of approved size and quality, all complete as
+@113 per approved drawing conforming to CPWD specification & direction of
+@113 Engineer-in-Charge. Section of steel reinforcement and cross sections
+@113 of uPVC profiles to be as per design approved by Engineer-in-Charge.
+@113 Wire mesh / Glazing of plain/ toughened/ laminated/ double glass unit
+@113 with / without high performance coatings as per design requirements and
+@113 conforming to IS: 3548 & IS: 16231 shall be paid separately.
+@113 Note:- @149 Structural @201 design @239 proof @272 checked @318 from @347 a @363 Government
+@113 Engineering @171 Institute, @215 to @230 be @248 provided @292 by @310 the @331 manufacturer @394 for @413 :
+@113 (i) Sites with basic wind speed > 45 m/sec as per IS 875 – Part 3
+@113 (ii) Sites with structure height more than 20m for all wind speeds
+@113 9.147.A1 @165 Two track two panels sliding window with Aluminium channel
+@165 for roller track, wool pile, nylon rollers with SS 304 body.
+@165 9.147.A1.1 @223 Using R2 series with frame (40 mm & above)
+@223 x (40 mm & above) & sash (25 mm & above)
+@223 x (50 mm & above) with zinc alloy (zamak)
+@223 powder coated touch locks with hook (Height
+@223 upto 1.2 metre). @437 sqm @482 8298.85
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 157
+=== PAGE 90
+
+=== PAGE 91
+@58 Code No @238 Description @436 Unit @489 Rate
+@165 9.147.A1.2 @223 Using R3 series with frame (55 mm & above)
+@223 x (40 mm & above) & sash (30 mm & above)
+@223 x (55 mm & above) with zinc alloy (zamak)
+@223 powder coated handle on every panel along
+@223 with multi-point locking system (Height upto
+@223 1.8m). @437 sqm @482 8799.25
+@165 9.147.A1.3 @223 Using R4 series with frame (64 mm & above)
+@223 x (45 mm & above) & sash (44 mm & above)
+@223 x (55 mm & above) with zinc alloy (zamak)
+@223 powder coated handle on every panel along
+@223 with multi-point locking system (Height above
+@223 1.8m). @437 sqm @482 9628.60
+@113 9.147.A2 @165 Two @189 track @216 four @238 panels @273 sliding @306 windows @348 with @371 Aluminium
+@165 channel for roller track, wool pile, zinc alloy (zamak) powder
+@165 coated handle on three panels along with multi-point locking
+@165 system, nylon rollers with SS 304 body.
+@165 9.147.A2.1 @223 Using R3 series with frame (55 mm & above)
+@223 x (40 mm & above) & sash (30 mm & above) x
+@223 (55 mm & above) (Height upto 1.8m). @437 sqm @482 7860.35
+@165 9.147.A2.2 @223 Using R4 series with frame (64 mm & above)
+@223 x (45 mm & above) & sash (44 mm & above) x
+@223 (55 mm & above) (Height above 1.8m). @437 sqm @482 8579.55
+@113 9.147.A3 @165 Two and half track three panels sliding window with two
+@165 glazed & one wire mesh panels with Aluminium channel for
+@165 roller track, wool pile, nylon rollers with SS 304 body.
+@165 9.147.A3.1 @223 Using R2 series with frame (65 mm & above)
+@223 x (40 mm & above) & glazed sash (25 mm &
+@223 above) x (50 mm & above) & fly screen sash
+@223 (18 mm & above) x (40 mm & above) with zinc
+@223 alloy (zamak) powder coated touch locks with
+@223 hook (Height upto 1.2 metre). @437 sqm @482 9933.40
+@165 9.147.A3.2 @223 Using R3 series with frame (85 mm & above)
+@223 x (40 mm & above) & glazed sash (30 mm &
+@223 above) x (55 mm & above) & fly screen sash
+@223 (20 mm & above) x (50 mm & above) with zinc
+@223 alloy (zamak) powder coated handle on every
+@223 glazed panel along with multi-point locking
+@223 system. (Height upto 1.8 metre). @437 sqm @482 9968.70
+@113 9.147.A4 @165 Three track three panels sliding window with two glazed
+@165 & one wire mesh panels with Aluminium channel for roller
+@165 track, wool pile, nylon rollers with SS 304 body.
+@165 9.147.A4.1 @223 Using R2 series with frame (70 mm & above) x
+@223 (40 mm & above) & both glazed and fly screen
+@223 sash (25 mm & above) x (50 mm & above)
+@223 with zinc alloy (zamak) powder coated touch
+@223 locks with hook. (Height upto 1.2 metre). @437 sqm @479 10993.55
+@165 9.147.A4.2 @223 Using R3 series with frame (98 mm & above) x
+@223 (40 mm & above) & both glazed and fly screen
+@223 sash (30 mm & above) x (55 mm & above)
+@223 with zinc alloy (zamak) powder coated handle
+@223 on every glazed panel along with multi-point
+@223 locking system. (Height upto 1.8m). @437 sqm @479 10874.20
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 158
+=== PAGE 92
+
+=== PAGE 93
+@58 Code No @238 Description @436 Unit @489 Rate
+@165 9.147.A4.3 @223 Using R4 series with frame (115 mm & above)
+@223 x (45 mm & above) & both glazed and fly
+@223 screen sash (44 mm & above) x (55 mm &
+@223 above) with zinc alloy (zamak) powder coated
+@223 handle on every glazed panel along with multi-
+@223 point locking system. (Height above 1.8m) @437 sqm @479 12372.25
+@113 9.147.A5 @165 Three track three panels sliding window with Aluminium
+@165 channel for roller track, wool pile, nylon rollers with SS 304
+@165 body.
+@165 9.147.A5.1 @223 Using R2 series with frame (70 mm & above)
+@223 x (40 mm & above) & sash (25 mm & above)
+@223 x (50 mm & above) with zinc alloy (zamak)
+@223 powder coated touch locks with hook. (Height
+@223 upto 1.2 metre). @437 sqm @482 8748.35
+@165 9.147.A5.2 @223 Using R3 series with frame (98 mm & above)
+@223 x (40 mm & above) & sash (30 mm & above)
+@223 x (55 mm & above) with zinc alloy (zamak)
+@223 powder @260 coated @295 handle @329 on @345 two @366 end @387 panels
+@223 along with multi-point locking system (Height
+@223 upto 1.8 metre). @437 sqm @482 8543.60
+@165 9.147.A5.3 @223 Using R4 series with frame (115 mm & above)
+@223 x (45 mm & above) & sash (44 mm & above)
+@223 x (55 mm & above) with zinc alloy (zamak)
+@223 powder @260 coated @295 handle @329 on @345 two @366 end @387 panels
+@223 along with multi-point locking system. (Height
+@223 above 1.8 metre). @437 sqm @482 9888.35
+@113 9.147.B1 @165 Two track two panels sliding door with Aluminium channel
+@165 for roller track, wool pile, zinc alloy (zamak) powder coated
+@165 handle on every panel along with multi-point locking system,
+@165 adjustable nylon rollers with SS 304 body.
+@165 9.147.B1.1 @223 Using R3 series with frame (55 mm & above)
+@223 x (40 mm & above) & sash (30 mm & above)
+@223 x (74 mm & above). (Height upto 2.5 metre). @437 sqm @482 8106.30
+@165 9.147.B1.2 @223 Using R4 series with frame (64 mm & above)
+@223 x (45 mm & above) & sash (44 mm & above)
+@223 x (85 mm & above). (Height above 2.5 metre). @437 sqm @482 7732.85
+@113 9.147.B2 @165 Two track four panels sliding door with Aluminium channel
+@165 for roller track, wool pile, zinc alloy (zamak) powder coated
+@165 handle on three panels along with multi-point locking system,
+@165 adjustable nylon rollers with SS 304 body.
+@165 9.147.B2.1 @223 Using R3 series with frame (55 mm & above)
+@223 x (40 mm & above) & sash (30 mm & above)
+@223 x (74 mm & above). (Height upto 2.5 metre). @437 sqm @482 7345.35
+@165 9.147.B2.2 @223 Using R4 series with frame (64 mm & above)
+@223 x (45 mm & above) & sash (44 mm & above)
+@223 x (85 mm & above). (Height above 2.5 metre). @437 sqm @482 7196.70
+@113 9.147.B3 @165 Three track three panels sliding door with two glazed & one
+@165 wire mesh panels with Aluminium channel for roller track,
+@165 wool pile, zinc alloy (zamak) powder coated handle on two
+@165 panels along with multi-point locking system, adjustable
+@165 nylon rollers with SS 304 body.
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 159
+=== PAGE 94
+
+=== PAGE 95
+@58 Code No @238 Description @436 Unit @489 Rate
+@165 9.147.B3.1 @223 Using R3 series with frame (98 mm & above) x
+@223 (40 mm & above) & both glazed and fly screen
+@223 sash (30 mm & above) x (74 mm & above).
+@223 (Height upto 2.5 metre). @437 sqm @479 10078.95
+@165 9.147.B3.2 @223 Using R4 series with frame (115 mm & above)
+@223 x (45 mm & above) & both glazed and fly
+@223 screen sash (44 mm & above) x (85 mm &
+@223 above). (Height above 2.5 metre). @437 sqm @482 9894.80
+@113 9.147.B4 @165 Three track three panels sliding door with Aluminium channel
+@165 for roller track, wool pile, zinc alloy (zamak) powder coated
+@165 handle on two panels along with multi-point locking system,
+@165 adjustable nylon rollers with SS 304 body.
+@165 9.147.B4.1 @223 Using R3 series with frame (98 mm & above)
+@223 x (40 mm & above) & sash (30 mm & above)
+@223 x (74 mm & above). (Height upto 2.5 metre). @437 sqm @482 8287.05
+@165 9.147.B4.2 @223 Using R4 series with frame (115 mm & above)
+@223 x (45 mm & above) & sash (44 mm & above)
+@223 x (85 mm & above). (Height above 2.5 metre). @437 sqm @482 7943.95
+@113 9.147.C1 @165 Fixed window / ventilator without mullion / transom.
+@165 9.147.C1.1 @223 Using R1 series with frame (33 mm & above)
+@223 x (35 mm & above). (Height upto 0.90 metre) @437 sqm @482 8247.25
+@165 9.147.C1.2 @223 Using R2 series with frame (39 mm & above)
+@223 x (39 mm & above). (Height upto 1.2 metre) @437 sqm @482 8054.75
+@165 9.147.C1.3 @223 Using R3 series with frame (55 mm & above)
+@223 x (45 mm & above). (Height upto 2.5 metre) @437 sqm @482 7080.05
+@165 9.147.C1.4 @223 Using R4 series with frame (64 mm & above)
+@223 x (50 mm & above). (Height above 2.5 metre) @437 sqm @482 6032.85
+@113 9.147.C2 @165 Fixed window / ventilator with mullion / transom.
+@165 9.147.C2.1 @223 Using R1 series with frame (33 mm & above )
+@223 x (35 mm & above) & mullion (33 mm & above)
+@223 x (50 mm & above). (Height upto 0.90 metre) @437 sqm @482 9155.20
+@165 9.147.C2.2 @223 Using R2 series with frame (39 mm & above )
+@223 x (39 mm & above) & mullion (39 mm & above)
+@223 x (60 mm & above). (Height upto 1.2 metre) @437 sqm @482 8765.40
+@165 9.147.C2.3 @223 Using R3 series with frame (55 mm & above )
+@223 x (45 mm & above) & mullion (55 mm & above)
+@223 x (65 mm & above). (Height upto 2.5 metre) @437 sqm @482 7827.75
+@165 9.147.C2.4 @223 Using R4 series with frame (64 mm & above )
+@223 x (50 mm & above) & mullion (64 mm & above)
+@223 x (70 mm & above). (Height above 2.5 metre) @437 sqm @482 6528.80
+@113 9.147.D1 @165 Ventilator Casement window single panel with or without
+@165 fixed panel with S.S. 304 friction hinges as per size and
+@165 weight @199 of @212 sash, @241 single @271 point @298 locking @333 zinc @356 alloy @381 (zamak)
+@165 powder coated handles.
+@165 9.147.D1.1 @223 Using R1 series with frame (33 mm & above )
+@223 x (35 mm & above) & sash /mullion (33 mm &
+@223 above) x (50 mm & above). (Height upto 0.90
+@223 metre). @437 sqm @479 13201.20
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 160
+=== PAGE 96
+
+=== PAGE 97
+@58 Code No @238 Description @436 Unit @489 Rate
+@165 9.147.D1.2 @223 Using R2 series with frame (39 mm & above)
+@223 x (39 mm & above) & sash /mullion (39 mm &
+@223 above) x (60 mm & above). (Height upto 1.2
+@223 metre) @437 sqm @479 12254.90
+@165 9.147.D1.3 @223 Using R3 series with frame (55 mm & above)
+@223 x (45 mm & above) & sash /mullion (55 mm
+@223 & above) x (65 mm & above). (Height above
+@223 1.2 metre) @437 sqm @480 11919.85
+@113 9.147.E1 @165 Casement window single panel with S.S. 304 friction hinges
+@165 as per size and weight of sash, multi-point locking system,
+@165 zinc alloy (zamak) powder coated handles.
+@165 9.147.E1.1 @223 Using R2 series with frame (39 mm & above)
+@223 x (39 mm & above) & sash (39 mm & above)
+@223 x (60 mm & above). (Height upto 1.2 metre) @437 sqm @479 14449.25
+@165 9.147.E1.2 @223 Using R3 series with frame (55 mm & above )
+@223 x (45 mm & above) & sash (55 mm & above)
+@223 x (65 mm & above). (Height upto 1.8 metre) @437 sqm @479 13387.15
+@165 9.147.E1.3 @223 Using R4 series with frame (64 mm & above)
+@223 x (50 mm & above) & sash (64 mm & above)
+@223 x (70 mm & above). (Height above 1.8 metre) @437 sqm @479 14587.05
+@113 9.147.E2 @165 Casement window double panels with fixed mullion with S.S.
+@165 304 friction hinges as per size and weight of sash, multi-point
+@165 locking system, zinc alloy (zamak) powder coated handles.
+@165 9.147.E2.1 @223 Using R2 series with frame (39 mm & above)
+@223 x (39 mm & above) & sash (39 mm & above) x
+@223 (60 mm & above) & mullion (39 mm & above)
+@223 x (60 mm & above). (Height upto 1.2 metre). @437 sqm @479 13078.70
+@165 9.147.E2.2 @223 Using R3 series with frame (55 mm & above)
+@223 x (45 mm & above) & sash (55 mm & above) x
+@223 (65 mm & above) & mullion (55 mm & above)
+@223 x (65 mm & above). (Height upto 1.8 metre). @437 sqm @479 12472.95
+@165 9.147.E2.3 @223 Using R4 series with frame (64 mm & above)
+@223 x (50 mm & above) & sash (64 mm & above) x
+@223 (70 mm & above) & mullion (64 mm & above)
+@223 x (70 mm & above). (Height above 1.8 metre). @437 sqm @479 13477.10
+@113 9.147.E3 @165 Casement @216 window @254 double @290 panels @325 with @349 French @386 (False)
+@165 Mullion with S.S. 304 friction hinges as per size and weight
+@165 of @179 sash, @208 multi-point @258 locking @294 system, @332 zinc @355 alloy @381 (zamak)
+@165 powder coated handles.
+@165 9.147.E3.1 @223 Using R2 series with frame (39 mm & above)
+@223 x (39 mm & above) & sash (39 mm & above)
+@223 x (60 mm & above) & French (False) mullion
+@223 (39 mm & above) x (60 mm & above). (Height
+@223 upto 1.2 metre). @437 sqm @480 11715.95
+@165 9.147.E3.2 @223 Using R3 series with frame (55 mm & above)
+@223 x (45 mm & above) & sash (55 mm & above)
+@223 x (65 mm & above) & French (False) mullion
+@223 (55 mm & above) x (60 mm & above). (Height
+@223 upto 1.8 metre). @437 sqm @480 11466.80
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 161
+=== PAGE 98
+
+=== PAGE 99
+@58 Code No @238 Description @436 Unit @489 Rate
+@165 9.147.E3.3 @223 Using R4 series with frame (64 mm & above)
+@223 x (50 mm & above) & sash (64 mm & above)
+@223 x (70 mm & above) & French (False) mullion
+@223 (64 mm & above) x (60 mm & above) . (Height
+@223 above 1.8 metre). @437 sqm @479 12496.30
+@113 9.147.E4 @165 Casement @215 cum @239 fixed @266 panel @296 window @334 having @368 one @391 single
+@165 casement panel & one fixed panel with S.S 304 friction
+@165 hinges as per size and weight of sash, multi-point locking
+@165 system, zinc alloy (zamak) powder coated handles.
+@165 9.147.E4.1 @223 Using R2 series with frame (39 mm & above )
+@223 x (39 mm & above) & sash (39 mm & above) x
+@223 (60 mm & above) & mullion (39 mm & above)
+@223 x (60 mm & above). (Height upto 1.2 metre;
+@223 each openable shutter upto 0.8m width) @437 sqm @482 9870.15
+@165 9.147.E4.2 @223 Using R3 series with frame (55 mm & above )
+@223 x (45 mm & above) & sash (55 mm & above) x
+@223 (65 mm & above) & mullion (55 mm & above)
+@223 x (65 mm & above). (Height upto 1.8 metre;
+@223 each openable shutter upto 0.8m width) @437 sqm @482 9308.00
+@165 9.147.E4.3 @223 Using R4 series with frame (64 mm & above)
+@223 x (50 mm & above) & sash (64 mm & above) x
+@223 (70 mm & above) & mullion (64 mm & above)
+@223 x (70 mm & above). (Height above 1.8 metre;
+@223 each openable shutter upto 0.8m width) @437 sqm @479 10212.60
+@113 9.147.E5 @165 Casement cum fixed panel window having single casement
+@165 panel at both ends & middle fixed panel with S.S 304 friction
+@165 hinges as per size and weight of sash, multi-point locking
+@165 system, zinc alloy (zamak) powder coated handles.
+@165 9.147.E5.1 @223 Using R2 series with frame (39 mm & above)
+@223 x (39 mm & above) & sash (39 mm & above) x
+@223 (60 mm & above) & mullion (39 mm & above)
+@223 x (60 mm & above). (Height upto 1.2 metre;
+@223 each openable shutter upto 0.8m width) @437 sqm @479 10474.05
+@165 9.147.E5.2 @223 Using R3 series with frame (55 mm & above)
+@223 x (45 mm & above) & sash (55 mm & above) x
+@223 (65 mm & above) & mullion (55 mm & above)
+@223 x (65 mm & above). (Height upto 1.8 metre;
+@223 each openable shutter upto 0.8m width) @437 sqm @479 10051.20
+@165 9.147.E5.3 @223 Using R4 series with frame (64 mm & above )
+@223 x (50 mm & above) & sash (64 mm & above) x
+@223 (70 mm & above) & mullion (64 mm & above)
+@223 x (70 mm & above). (Height above 1.8 metre;
+@223 each openable shutter upto 0.8m width) @437 sqm @479 10200.75
+@113 9.147.E6 @165 Casement Window with Double Rebate Frame with one
+@165 Side Hung Glazed Panel and one Side Hung wire mesh
+@165 Panel with S.S. 304 friction hinges as per size and weight of
+@165 sash, multi-point locking system, zinc alloy (zamak) powder
+@165 coated handles on both glazed and fly screen panel
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 162
+=== PAGE 100
+
+=== PAGE 101
+@58 Code No @238 Description @436 Unit @489 Rate
+@165 9.147.E6.1 @223 Using R3 series with frame (110 mm & above)
+@223 x (45 mm & above) & glazed sash (55 mm &
+@223 above) x (65 mm & above) & fly screen sash
+@223 (30 mm & above) x (55 mm & above) & metal
+@223 grill (if required to be paid separately). (Height
+@223 upto 1.8 metre) @437 sqm @479 22785.35
+@113 9.147.E7 @165 Casement Window with Double Rebate Frame with two Side
+@165 Hung Glazed Panel and two Side Hung wire mesh Panel
+@165 and Fixed Mullion with S.S. 304 friction hinges as per size
+@165 and weight of sash, multi-point locking system, zinc alloy
+@165 (zamak) powder coated handles on both glazed and fly
+@165 screen panel.
+@165 9.147.E7.1 @223 Using R3 series with frame (110 mm & above)
+@223 x (45 mm & above) & glazed sash (55 mm &
+@223 above) x (65 mm & above) & fly screen sash
+@223 (30 mm & above) x (55 mm & above) & mullion
+@223 (55 mm & above) x (65 mm & above) & metal
+@223 grill (if required to be paid separately). (Height
+@223 upto 1.8 metre) @437 sqm @479 20576.30
+@113 9.147.E8 @165 Casement Window with Double Rebate Frame with two
+@165 Side Hung Glazed Panel on outside and two Side Hung wire
+@165 mesh Panel on inside and French (False) Mullion with S.S.
+@165 304 friction hinges as per size and weight of sash, multi-
+@165 point locking system, zinc alloy (zamak) powder coated
+@165 handles with shoot bolt on both glazed and fly screen panel.
+@165 9.147.E8.1 @223 Using R3 series with frame (110 mm & above)
+@223 x (45 mm & above) & glazed sash (55 mm &
+@223 above) x (65 mm & above) & fly screen sash
+@223 (30 mm & above) x (55 mm & above) & French
+@223 (False) mullion (55 mm & above) x (60 mm
+@223 & above) & metal grill (if required to be paid
+@223 separately). (Height upto 1.8 metre). @437 sqm @479 19047.60
+@113 9.147.F1 @165 Casement door single panel with zinc alloy (zamak) 3D
+@165 hinges, multi-point locking system with cylinder, zinc alloy
+@165 (zamak) powder coated handles on both sides.
+@165 9.147.F1.1 @223 Using R3 series with frame (55 mm & above)
+@223 x (50 mm & above) & sash (55 mm & above)
+@223 x (85 mm & above) (Height upto 2.5 metre). @437 sqm @479 12496.05
+@165 9.147.F1.2 @223 Using R4 series with frame (64 mm & above)
+@223 x (55 mm & above) & sash (64 mm & above) x
+@223 (100 mm & above). (Height above 2.5 metre). @437 sqm @479 12454.40
+@113 9.147.F2 @165 Casement door double panel with French (False) Mullion
+@165 with zinc alloy (zamak) 3D hinges, multi-point locking system
+@165 with cylinder, zinc alloy (zamak) powder coated handles on
+@165 both sides.
+@165 9.147.F2.1 @223 Using R3 series with frame (55 mm & above)
+@223 x (50 mm & above) & sash (55 mm & above)
+@223 x (85 mm & above) & French (False) mullion
+@223 (55 mm & above) x (60 mm & above). (Height
+@223 upto 2.5 metre). @437 sqm @480 11903.75
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 163
+=== PAGE 102
+
+=== PAGE 103
+@58 Code No @238 Description @436 Unit @489 Rate
+@165 9.147.F2.2 @223 Using R4 series with frame (64 mm & above)
+@223 x (55 mm & above) & sash (64 mm & above)
+@223 x (100 mm & above) & French (False) mullion
+@223 (64 mm & above) x (60 mm & above). (Height
+@223 above 2.5 metre). @437 sqm @480 11818.95
+@113 9.147.F3 @165 Casement Door with Double Rebate Frame with one Side
+@165 Hung Glazed Panel and one Side Hung wire mesh Panel
+@165 with zinc alloy (zamak) 3D hinges, multi-point locking system
+@165 with cylinder, zinc alloy (zamak) powder coated handles on
+@165 both sides of glazed panel and zinc alloy (Zamak) powder
+@165 coated handle along with multi-point locking system on one
+@165 side of fly screen panel.
+@165 9.147.F3.1 @223 Using R3 series with frame (110 mm & above)
+@223 x (45 mm & above) & glazed sash (55 mm &
+@223 above) x (85 mm & above) & fly screen sash
+@223 (55 mm & above) x (65 mm & above). (Height
+@223 upto 2.5 metre). @437 sqm @479 19994.40
+@58 9.148 @113 Providing and fixing stainless steel (SS-304 grade) friction hinges to
+@113 the side/top hung uPVC windows, of approved quality, with necessary
+@113 stainless steel screws etc. as per direction of Engineer-in-charge.
+@113 9.148.1 @165 200 x 19 x 1.9 mm @435 each @485 381.30
+@113 9.148.2 @165 250 x 19 x 1.9 mm @435 each @485 422.55
+@113 9.148.3 @165 300 x 19 x 1.9 mm @435 each @485 459.55
+@113 9.148.4 @165 350 x 19 x 1.9 mm @435 each @485 624.60
+@113 9.148.5 @165 400 x 19 x 1.9 mm @435 each @485 610.35
+@58 9.149 @113 Providing and fixing casement handle made of zinc alloyed (white
+@113 powder coated) for uPVC casement window with necessary screws etc.
+@113 complete. @435 each @485 231.05
+@58 9.150 @113 Providing and fixing zinc alloyed (white powder coated) touch lock for
+@113 uPVC sliding window with necessary screws etc. complete. @435 each @485 204.00
+@58 9.151 @113 Providing and fixing steel roller for uPVC sliding window with necessary
+@113 screws etc. complete. @435 each @485 115.80
+@58 9.152 @113 Providing and fixing steel roller for uPVC sliding door with necessary
+@113 screws etc. complete. @435 each @485 185.50
+@58 9.153 @113 Providing and fixing steel (white power coated) crescent lock for uPVC
+@113 sliding window/ door with necessary screws etc. complete. @435 each @485 198.30
+@58 9.154 @113 Providing and fixing frame work for partitions/ wall lining etc. made of
+@113 50x50x1.6 mm hollow MS tube, placed along the walls, ceiling and
+@113 floor in a grid pattern with spacing @ 60 cm centre to centre both ways
+@113 (vertically & horizontally) or at required spacing near opening, with
+@113 necessary welding at junctions and fixing the frame to wall/ ceiling/ floors
+@113 with steel dash fasteners of 8 mm dia, 75 mm long bolt, including making
+@113 provision for opening for doors, windows, electrical conduits, switch
+@113 boards etc., including providing with two coats of approved steel primer
+@113 etc. complete, all as per direction of Engineer-in-charge. @441 kg @485 166.80
+@58 9.155 @113 Providing and fixing panelling or paneling and glazing in panelled or
+@113 panelled and glazed shutters for doors, windows and clerestory windows
+@113 (area of opening for panel inserts excluding portion inside grooves or
+@113 rebated to be measured). Panelling for panelled and glazed shutters 25
+@113 mm to 40 mm thick: Pre-laminated with decorative lamination on both
+@113 side exterior Grade - I MDF Board 12 mm thick conforming to IS:14587 @437 sqm @482 1956.90
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 164
+=== PAGE 104
+
+=== PAGE 105
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 9.156 @113 Providing and fixing Pre -laminated medium density fibre board exterior
+@113 grade (Grade-I) IS:14587:1998 marked, to frame, backing or studding
+@113 with screws etc. complete (Frames, backing or studding to be paid
+@113 separately).
+@113 9.156.1 @165 Pre-laminated @231 with @255 decorative @305 lamination @355 on @373 both @398 side
+@165 exterior Grade - I MDF Board 12 mm thick conforming to
+@165 IS:14587 @437 sqm @482 1031.50
+@113 9.156.2 @165 Pre-laminated @231 with @255 decorative @305 lamination @355 on @373 both @398 side
+@165 exterior Grade - I MDF Board 18 mm thick conforming to
+@165 IS:14587 @437 sqm @482 1248.00
+@58 9.157 @113 Providing @158 and @180 fixing @208 Pre-laminated @273 medium @313 density @349 fibre @374 board @404 IS:
+@113 14587:1998 marked, with one side decorative lamination other side
+@113 balancing lamination Grade-I (exterior grade) in shelves with screws and
+@113 fittings wherever required, edges to be sealed with PVC edge bending
+@113 tape 2.00 mm thick of approved brand (fittings to be paid separately).
+@113 9.157.1 @165 Pre-laminated with decorative lamination one side and other
+@165 side balancing lamination exterior Grade - I MDF Board 18
+@165 mm thick conforming to IS:14587 @437 sqm @482 1415.70
+@113 9.157.2 @165 Pre-laminated with decorative lamination one side and other
+@165 side balancing lamination exterior Grade - I MDF Board 25
+@165 mm thick conforming to IS:14587 @437 sqm @482 1874.70
+@58 9.158 @113 Providing @159 and @180 fixing @209 in @222 wall @245 lining @273 medium @313 density @349 fibre @373 board @404 IS:
+@113 14587:1998 marked, Pre-laminated one side decorative lamination and
+@113 other side balancing lamination, with necessary fixing arrangement and
+@113 screws etc. complete.
+@113 9.158.1 @165 12 mm thick. @437 sqm @482 1212.75
+@113 9.158.2 @165 18 mm thick. @437 sqm @482 1436.55
+@113 9.158.3 @165 25 mm thick. @437 sqm @482 1912.25
+@58 9.159 @113 Providing and fixing 25 mm thick pre-laminated medium density fibre
+@113 board exterior grade (Grade-I) IS:14587:1998 marked with one side
+@113 decorative and other side balancing lamination for cupboard shutters
+@113 edges to be sealed with PVC edge bending tape 2.00 mm thick of
+@113 approved brand including ISI marked nickel plated bright finishing M.S.
+@113 piano hinges conforming to IS:3818 marked with necessary screw etc all
+@113 complete. @437 sqm @482 2135.25
+@58 9.160 @113 Providing and fixing skirting with Pre-laminated medium density fibre
+@113 board exterior grade (Grade-I) conforming to IS: 14587:1998 marked,
+@113 with (one side decorative and other side balancing lamination and edges
+@113 to be sealed with PVC edge bending tape 2.00 mm thick of approved
+@113 brand with necessary fixing arrangements and screws, including drilling
+@113 necessary holes for rawl plugs etc. all complete.
+@113 9.160.1 @165 18 mm thick. @437 sqm @482 2076.65
+@113 9.160.2 @165 25 mm thick. @437 sqm @482 2552.40
+@58 9.161 @113 Providing and fixing fire resistant door frame of section 50 x 60 mm on
+@113 horizontal side & 35 x 60 mm on vertical sides having built in rebate made
+@113 out of 1.6 mm thick GI sheet (Zinc coating not less than 120 gm/sqm)
+@113 suitable for mounting 120 minutes Fire Rated Glazed Door Shutters. The
+@113 frame shall be filled with mineral wool Insulation having density minimum
+@113 96Kg/sqm. The frame will have a provision of G.I. anchor fastners 14
+@113 nos (5 each on vertical style & 4 on horizontal style of size M10 x 80)
+@113 suitable for fixing in the opening along with factory made template for SS
+@113 ball bearing
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 165
+=== PAGE 106
+
+=== PAGE 107
+@58 Code No @238 Description @436 Unit @489 Rate
+@113 hinges of size 100x89x3 mm for fixing of fire rated glazed shutter. The
+@113 frame shall be finished with an approved fire resistant primer or powder
+@113 coating of not less than 30 micron in desired shade as per the directions
+@113 of Engineer - in- Charge. (Cost of SS ball bearing hinges is excluded). @434 metre @482 2202.90
+@58 9.162 @113 Providing and fixing 60 mm thick glazed fire resistant door shutters of 120
+@113 minutes Fire rating conforming to IS:3614 (Part II) or EN1634-1:1999,
+@113 tested and certified as per laboratory approved by Engineer-in-Charge,
+@113 with suitable mounting on door frame, consisting of vertical styles, top
+@113 rail & side rail 60 mm x 60 mm wide and bottom rail of 110 mm x 60 mm
+@113 made out of 1.6 mm thick G.I. sheet (zinc coating not less than 120 gm/
+@113 sqm) duly filled mineral wool insulation having density minimum 96 kg/
+@113 cum and fixing with necessary stainless steel ball bearing hinges of size
+@113 100x89x3 mm of approved make, including applying a coat of approved
+@113 fire resistant primer or powder coating not less than 30 micron etc all
+@113 complete as per direction of Engineer-in-Charge (panelling to be paid for
+@113 seperately). @437 sqm @479 12017.90
+@58 9.163 @113 Providing and fixing non load bearing fixed frame for fire resistant glazed
+@113 partition for 120 minutes fire rating, made out to a profile of dimension 60
+@113 mm x 70 mm of 1.6 mm thick galvanised steel sheet as per test evidence
+@113 suitable for fixing fire rated glass for 120 minutes of both integrity &
+@113 radiation control (EW120) & minimum 20 minutes of insulation (EI20).The
+@113 profile has to be fixed to the supporting construction by means of anchor
+@113 fasteners of size M10 x 80, every 150 mm from the edges and every 500
+@113 mm (approx) c/c. Linear measurement of frame shall be measured for
+@113 payment. The frame shall be filled with mineral wool insulation of density
+@113 minimum 96kg/ cum and finished with a approved fire resistant primer or
+@113 powder coating of not less than 30 micron in desired shade as per NBC
+@113 2016, IS 16231 (Part 3):2016 and directions of Engineer - in- Charge. @433 metre @482 2202.90
+@58 9.164 @113 Providing and fixing glazing in fire resistant door shutters, fixed panels
+@113 & partitions etc., with G.I. beading made out of 1.6 mm thick G.I. sheet
+@113 (zinc coating not less than 120 gm/sqm) of size 20 x 33 mm screwed
+@113 with M4 x 38 mm SS screws at distance 75 mm from the edges and
+@113 150 mm c/c , including applying a coat of approved fire resistant primer/
+@113 powder coating of not less than 30 micron on G.I. beading, & special
+@113 ceramic tape of 5 x 20 mm size etc complete in all respect as per NBC
+@113 2016, IS 16231 (Part 3):2016 and as per direction of Engineer-in-Charge
+@113 with glass of required thickness having 120 minutes of fire resistance
+@113 both integrity & radiation control (EW120) and minimum 20 minutes of
+@113 insulation (EI20). The manufacturer have to give test report/certification
+@113 of fire glass and the glass should have the stamp showing the value of
+@113 E, EW & EI. The glass shall be tested in approved NABL accredited lab
+@113 or by any other accreditation body which operates in accordance with
+@113 ISO/IEC 17011 and accredited labs as per ISO/IEC 17025 for testing and
+@113 calibration scopes shall be eligible. The maximum glazing size shall not
+@113 be more than 1100x2200 mm (w x h) or 2.42 sqm. @437 sqm @479 43677.65
+@58 9.165 @113 Providing and fixing bright /matt finished Stainless Steel handles of
+@113 approved quality & make with necessary screws etc all complete.
+@113 9.165.1 @165 125 mm @435 each @485 119.20
+@113 9.165.2 @165 100mm @435 each @487 90.45
+@113 9.165.3 @165 75 mm @435 each @487 58.75
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 166
+=== PAGE 108
+
+=== PAGE 109
+@58 Code No @238 Description @436 Unit @489 Rate
+@58 9.166 @113 Providing and fixing 18 mm thick both sides Pre-laminated cement
+@113 bonded wood particle board as per IS : 15786:2008 of approved brand
+@113 and shade with suitable full threaded steel screws etc. in partitions, boxes,
+@113 shelves, racks and cupboard, kitchen cabinet under kitchen counter etc.
+@113 all complete as per direction of Engineer-in-charge (Note: Fittings to be
+@113 paid separately).
+@113 9.166.1 @165 18 mm thick @437 sqm @482 1362.30
+@58 9.167 @113 Providing @158 and @180 fixing @208 6 @219 mm @241 thick @267 both @291 sides @319 Pre-laminated @384 cement
+@113 bonded wood particle board as per IS : 15786:2008 of approved brand
+@113 and shade with suitable full threaded steel screws etc. on the backing of
+@113 racks, drawer, cupboard, kitchen cabinet under kitchen counter etc. all
+@113 complete as per direction of Engineer-in-charge. @437 sqm @482 1010.60
+@58 9.168 @113 Providing @158 and @180 fixing @209 cupboard @254 shutter @289 with @312 19 @329 mm @351 thick @376 one @398 side
+@113 decorative and other side balancing lamination factory pressed BWP
+@113 grade marine ply as per IS 710 of approved brand including 2 mm thick
+@113 PVC edge banding tape with hot glue by edge bending machine etc. with
+@113 auto closing spring loaded hinges (hydraulic type) etc. complete as per
+@113 direction of Engineer-in-charge. (Payment of providing and fixing auto
+@113 closing hinges shall be paid separately) @437 sqm @482 2829.25
+@58 9.169 @113 Providing @159 and @181 fixing @210 19 @227 mm @250 thick @276 both @301 side @325 balancing @372 lamination
+@113 factory pressed BWP grade marine ply as per IS : 710 of approved
+@113 brand boxes,shelves,racks,almirah,cupboard and drawer etc. including
+@113 necessary nails,screws etc. complete as per direction of Engineer-in-
+@113 charge. @437 sqm @482 2593.15
+@58 9.170 @113 Providing and fixing stainless steel fancy handle of approved make fixed
+@113 with SS screws etc. complete as per direction of Engineer-in-charge.
+@113 9.170.1 @165 200 mm @435 each @485 186.65
+@58 9.171 @113 Providing and fixing stainless steel soft closing spring hinges at 0 degree
+@113 hinges (hydraulic type) of approved make/brand to cupboard shutters
+@113 with full threaded steel screws including making necessary recess in
+@113 board and finished etc. complete as per direction of Engineer-in-charge. @435 each @485 272.00
+@58 9.172 @113 Providing and fixing stainless steel soft closing heavy type telescopic
+@113 drawer channels of approved make 500 mm long with screws etc.
+@113 complete as per direction of Engineer- in-charge. @430 one set @485 885.10
+@58 9.173 @113 Providing and fixing ready made 304 grade stainless steel Modular
+@113 kitchen basket and accessories such as right angle basket (Plain Cup &
+@113 Saucer, plant, Partition, Bottle rack, Thali, Cutlery) kitchen utensil basket,
+@113 Dinner set basket, kitchen grain basket, Multipurpose basket as per site
+@113 requirement including finishing (wherever required) and fittings. The
+@113 same shall be fixed with necessary stainless steel nuts & bolts, Stainless
+@113 Steel screws & telescopic channel etc. as per direction of Engineer-in-
+@113 charge. (For payment purpose only weight of Stainless steel basket shall
+@113 be considered excluding weight of all fixing accessories such as nuts,
+@113 bolts, fasteners telescopic basket channels etc. Payment of providing
+@113 and fixing telescopic channel shall be paid separately) @441 kg @485 533.25
+@58 9.174 @113 Providing and fixing 2 mm thick 16 to 19 mm wide PVC edge binding tape
+@113 of approved quality for cupboard/wardrobe shutters including necessary
+@113 synthetic resin hot pressed to edges on binding machine etc. complete
+@113 as per direction of Engineer- in-charge. @433 metre @487 43.80
+@347 SUB HEAD : 9.0 WOOD AND P.V.C. WORK
+@51 167
+=== PAGE 110
+
+=== PAGE 111
+
+=== PAGE 112
+
+=== PAGE 113
+@175 SUB HEAD : 10.0
+@195 STEEL WORK
+=== PAGE 114
+
+=== PAGE 115
+@233 10.0 STEEL WORK
+@58 Code No @240 Description @440 Unit @502 Rate
+@58 10.1 @113 Structural steel work in single section, fixed with or without connecting
+@113 plate, including cutting, hoisting, fixing in position and applying a priming
+@113 coat of approved steel primer all complete. @444 kg @494 117.35
+@58 10.2 @113 Structural steel work riveted, bolted or welded in built up sections, trusses
+@113 and framed work, including cutting, hoisting, fixing in position and applying
+@113 a priming coat of approved steel primer all complete. @444 kg @494 133.70
+@58 10.3 @113 Providing and fixing in position collapsible steel shutters with vertical
+@113 channels 20x10x2 mm and braced with flat iron diagonals 20x5 mm
+@113 size, with top and bottom rail of T-iron 40x40x6 mm, with 40 mm dia
+@113 steel pulleys, complete with bolts, nuts, locking arrangement, stoppers,
+@113 handles, including applying a priming coat of approved steel primer. @440 sqm @484 11439.60
+@58 10.4 @113 Providing and fixing 1 mm thick M.S. sheet sliding-shutters, with frame
+@113 and diagonal braces of 40x40x6 mm angle iron, 3 mm M.S. gusset plates
+@113 at the junctions and corners, 25 mm dia pulley, 40x40x6 mm angle and T-
+@113 iron guide at the top and bottom respectively, including applying a priming
+@113 coat of approved steel primer @440 sqm @488 6566.20
+@58 10.5 @113 Providing and fixing 1 mm thick M.S. sheet door with frame of 40x40x6
+@113 mm angle iron and 3 mm M.S. gusset plates at the junctions and corners,
+@113 all necessary fittings complete, including applying a priming coat of
+@113 approved steel primer.
+@113 10.5.1 @165 Using M.S. angels 40x40x6 mm for diagonal braces @440 sqm @488 5804.35
+@113 10.5.2 @165 Using flats 30x6 mm for diagonal braces and central cross
+@165 piece @440 sqm @488 5563.75
+@58 10.6 @113 Supplying and fixing rolling shutters of approved make, made of required
+@113 size M.S. laths, interlocked together through their entire length and jointed
+@113 together at the end by end locks, mounted on specially designed pipe
+@113 shaft with brackets, side guides and arrangements for inside and outside
+@113 locking with push and pull operation complete, including the cost of
+@113 providing and fixing necessary 27.5 cm long wire springs manufactured
+@113 from high tensile steel wire of adequate strength conforming to IS: 4454 -
+@113 part 1 and M.S. top cover of required thickness for rolling shutters.
+@113 10.6.1 @165 80x1.25 mm M.S. laths with 1.25 mm thick top cover @440 sqm @488 3653.20
+@113 10.6.2 @165 80x1.20 mm M.S. laths with 1.20 mm thick top cover @440 sqm @488 3307.05
+@113 10.6.3 @165 80x0.90 mm M.S. laths with 0.90 mm thick top cover @440 sqm @488 3191.35
+@58 10.7 @113 Providing and fixing ball bearing for rolling shutters. @438 each @494 492.35
+@58 10.8 @113 Extra for providing mechanical device chain and crank operation for
+@113 operating rolling shutters.
+@113 10.8.1 @165 Exceeding 10.00 sqm and upto 16.80 sqm in the area @440 sqm @488 1281.35
+@113 10.8.2 @165 Exceeding 16.80 sqm in area @440 sqm @489 1181.80
+@58 10.9 @113 Extra for providing grilled rolling shutters manufactured out of 8 mm dia
+@113 M.S. bar instead of laths as per design approved by Engineer-in- charge,
+@113 (area of grill to be measured). @440 sqm @494 768.25
+@58 10.10 @113 Fixing standard steel glazed doors, windows and ventilators in walls,
+@113 including fixing of float glass panes with glazing clips and special metal-
+@113 sash putty of approved make, or metal beading with screws, (only steel
+@113 windows, glass panes cut to size and glazing clips or metal beading with
+@113 screws, shall be supplied by department free of cost).
+@393 SUB HEAD : 10.0 STEEL WORK
+@51 170
+=== PAGE 116
+
+=== PAGE 117
+@58 Code No @240 Description @440 Unit @502 Rate
+@113 10.10.1 @165 Fixing with 15x3 mm lugs 10 cm long embedded in cement
+@165 concrete block 15x10x10 cm of C.C. 1:3:6 (1 Cement : 3
+@165 coarse sand : 6 graded stone aggregate 20 mm nominal size) @444 kg @499 82.45
+@113 10.10.2 @165 Fixing with carbon steel galvanised dash fastener of required
+@165 dia and size (to be paid for separately) @444 kg @499 40.80
+@58 10.11 @113 Providing and fixing factory made ISI marked steel glazed doors, windows
+@113 and ventilators, side /top /centre hung, with beading and all members
+@113 such as F7D,F4B, K11 B and K12 B etc. complete of standard rolled steel
+@113 sections, joints mitred and flash butt welded and sash bars tenoned and
+@113 riveted, including providing and fixing of hinges, pivots, priming coat of
+@113 approved steel primer, but excluding the cost of other fittings,glass panes
+@113 complete all as per approved design, (sectional weight of only steel
+@113 members shall be measured for payment).
+@113 10.11.1 @165 Fixing with 15x3 mm lugs 10 cm long embedded in cement
+@165 concrete block 15x10x10 cm of C.C. 1:3:6 (1 Cement : 3
+@165 coarse sand : 6 graded stone aggregate 20 mm nominal size) @444 kg @494 131.05
+@113 10.11.2 @165 Fixing with carbon steel galvanised dash fastener of required
+@165 dia and size (to be paid for separately) @444 kg @494 128.25
+@58 10.12 @113 Extra for providing and fixing steel beading of size 10 x 10 x 1.6 mm (box
+@113 type), approved shape and section with screws instead of glazing clips
+@113 and metal sash putty, in steel doors, windows, ventilators and composite
+@113 units. @437 metre @499 49.60
+@58 10.13 @113 Providing and fixing T-iron frames for doors, windows and ventilators
+@113 of mild steel Tee-sections, joints mitred and welded, including fixing
+@113 of necessary butt hinges and screws and applying a priming coat of
+@113 approved steel primer.
+@113 10.13.1 @165 Fixing with 15x3 mm lugs 10 cm long embedded in cement
+@165 concrete block 15x10x10 cm of C.C. 1:3:6 (1 Cement : 3
+@165 coarse sand : 6 graded stone aggregate 20 mm nominal
+@165 size). @444 kg @494 141.70
+@113 10.13.2 @165 Fixing with carbon steel galvanised dash fastener of required
+@165 dia and size (to be paid for separately) @444 kg @494 136.00
+@58 10.14 @113 Providing and fixing pressed steel door frames conforming to IS: 4351,
+@113 manufactured from commercial mild steel sheet of 1.60 mm thickness,
+@113 including hinges, jamb, lock jamb, bead and if required angle threshold of
+@113 mild steel angle of section 50x25 mm, or base ties of 1.60 mm, pressed
+@113 mild steel welded or rigidly fixed together by mechanical means, including
+@113 M.S. pressed butt hinges 2.5 mm thick with mortar guards, lock strike-
+@113 plate and shock absorbers as specified and applying a coat of approved
+@113 steel primer after pre-treatment of the surface as directed by Engineer-
+@113 in-charge:
+@113 10.14.1 @165 Profile B
+@165 10.14.1.1 @223 Fixing with adjustable lugs with split end tail to
+@223 each jamb @437 metre @494 583.30
+@165 10.14.1.2 @223 Fixing @256 with @281 carbon @317 steel @345 galvanised @398 dash
+@223 fastener of required dia and size (to be paid for
+@223 separately) @437 metre @494 570.40
+@113 10.14.2 @165 Profile C
+@165 10.14.2.1 @223 Fixing with adjustable lugs with split end tail to
+@223 each jamb @437 metre @494 611.75
+@393 SUB HEAD : 10.0 STEEL WORK
+@51 171
+=== PAGE 118
