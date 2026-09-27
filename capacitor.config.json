@@ -6,5 +6,16 @@
     "allowMixedContent": false,
     "captureInput": true,
     "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "CapacitorUpdater": {
+      "autoUpdate": false,
+      "resetWhenUpdate": true,
+      "appReadyTimeout": 15000,
+      "statsUrl": "",
+      "channelUrl": "",
+      "autoDeleteFailed": true,
+      "autoDeletePrevious": true
+    }
   }
 }

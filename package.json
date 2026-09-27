@@ -1,6 +1,6 @@
 {
   "name": "cpwd-rate-finder-mobile",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "private": true,
   "description": "CPWD Rate Finder for Android, locked to owner-approved devices",
   "scripts": {
@@ -10,7 +10,9 @@
     "@capacitor/android": "^8.5.2",
     "@capacitor/core": "^8.5.2",
     "@capacitor/device": "^8.0.3",
-    "capacitor-secure-storage-plugin": "^0.13.0"
+    "capacitor-secure-storage-plugin": "^0.13.0",
+    "@capacitor/app": "^8.1.1",
+    "@capgo/capacitor-updater": "^8.51.25"
   },
   "devDependencies": {
     "@capacitor/cli": "^8.5.2"

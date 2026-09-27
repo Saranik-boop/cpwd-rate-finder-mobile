@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://*.supabase.co">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://*.supabase.co https://saranik-boop.github.io https://api.github.com">
 <meta name="theme-color" content="#0f6e4f">
 <title>CPWD Rate Finder</title>
 <link rel="manifest" href="manifest.webmanifest">
@@ -26,7 +26,7 @@
       <div class="brand-mark" title="CPWD Rate Finder">₹</div>
       <div>
         <h1>CPWD Rate Finder</h1>
-        <p>CPWD · I&amp;WD · PWD R&amp;B · offline</p>
+        <p>CPWD · I&amp;WD · WB PWD (R&amp;B, Bldg, NH) · offline</p>
       </div>
       <button type="button" class="admin-pill" data-open-admin hidden>Admin</button>
     </div>
@@ -100,7 +100,7 @@
       <div class="brand-mark">₹</div>
       <div>
         <h1>CPWD Rate Finder</h1>
-        <p>CPWD · I&amp;WD · PWD R&amp;B · offline</p>
+        <p>CPWD · I&amp;WD · WB PWD (R&amp;B, Bldg, NH) · offline</p>
       </div>
       <button type="button" class="admin-pill" data-open-admin hidden>Admin</button>
       <div class="count" id="count">loading…</div>
@@ -137,7 +137,7 @@
   </div>
   <div id="loading" class="loading">Loading 6,870 items…</div>
   <div id="empty" class="empty" hidden>
-    <h2>Search CPWD, I&amp;WD &amp; PWD R&amp;B rates</h2>
+    <h2>Search CPWD, I&amp;WD &amp; WB PWD rates</h2>
     <p>Type an item number or a few words. You don't need to fill in everything.</p>
     <div class="try" id="tryChips"></div>
   </div>
@@ -191,6 +191,8 @@
 
 <script src="capacitor.js"></script>
 <script src="config.js"></script>
+<script src="version.js"></script>
+<script src="updater.js"></script>
 <script src="fuse.js"></script>
 <script src="search-ui.js"></script>
 <script src="gate.js"></script>

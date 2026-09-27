@@ -202,6 +202,7 @@
       window.startSearch(payload.items, payload.meta);
       refreshAdminPills();
       if (offline) toast('Offline — using approved access');
+      else if (window.AppUpdater) setTimeout(window.AppUpdater.check, 1500);
     }, function (e) {
       console.error(e);
       // Key no longer matches the data (e.g. data re-encrypted). Drop it and re-check online.
