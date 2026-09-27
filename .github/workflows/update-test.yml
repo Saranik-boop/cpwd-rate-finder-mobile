@@ -8,6 +8,9 @@ on:
     types: [completed]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update:
     if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
@@ -41,6 +44,18 @@ jobs:
           grep -hE "WEBVER|Capgo|CapacitorUpdater" run2.txt | tail -40 > r2.txt || true
           { echo "## First start"; echo '```'; cat r1.txt; echo '```'; echo "## After restart (want $WANT)"; echo '```'; cat r2.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
           grep -q "WEBVER $WANT" run2.txt
+      - name: Save results to the ci-results branch
+        if: always()
+        run: |
+          mkdir -p /tmp/res && cp r1.txt r2.txt screen1.png screen2.png /tmp/res/ 2>/dev/null || true
+          grep -hiE "Capacitor|Capgo|Updater|chromium|console|AndroidRuntime" run1.txt | tail -300 > /tmp/res/run1_filtered.txt || true
+          grep -hiE "Capacitor|Capgo|Updater|chromium|console|AndroidRuntime" run2.txt | tail -200 > /tmp/res/run2_filtered.txt || true
+          git config user.name ci; git config user.email ci@users.noreply.github.com
+          git fetch origin ci-results || true
+          git checkout -B ci-results
+          git rm -rq --cached . >/dev/null 2>&1 || true
+          rm -rf ci && mkdir -p ci && cp /tmp/res/* ci/
+          git add -f ci && git commit -qm "update-test ${{ github.run_id }}" && git push -f origin ci-results
       - uses: actions/upload-artifact@v4
         if: always()
         with:
