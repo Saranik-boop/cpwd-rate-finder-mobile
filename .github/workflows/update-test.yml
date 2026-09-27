@@ -1,0 +1,52 @@
+name: Test live update on emulator
+
+# After every APK build: installs the newest APK on a clean emulator, lets the app check the
+# published update (docs/update/manifest.json), restarts it and confirms the newer web bundle is running.
+on:
+  workflow_run:
+    workflows: ["Build APK"]
+    types: [completed]
+  workflow_dispatch:
+
+jobs:
+  update:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Enable KVM
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules
+          sudo udevadm control --reload-rules
+          sudo udevadm trigger --name-match=kvm
+      - name: Download latest APK
+        run: gh release download --repo "$GITHUB_REPOSITORY" --pattern '*.apk' --dir . && ls -la *.apk
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Expected version
+        run: echo "WANT=$(node -p "require('./docs/update/manifest.json').web.version")" >> $GITHUB_ENV
+      - uses: reactivecircus/android-emulator-runner@v2
+        with:
+          api-level: 35
+          arch: x86_64
+          target: google_apis
+          emulator-options: -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim
+          disable-animations: true
+          script: |
+            set -x; P=com.saranik.cpwdratefinder.mobile; APK=$(ls *.apk | head -1); adb install -r "$APK"; adb logcat -c; adb shell monkey -p $P -c android.intent.category.LAUNCHER 1; sleep 60; adb logcat -d > run1.txt; adb exec-out screencap -p > screen1.png; adb shell am force-stop $P; sleep 3; adb logcat -c; adb shell monkey -p $P -c android.intent.category.LAUNCHER 1; sleep 25; adb logcat -d > run2.txt; adb exec-out screencap -p > screen2.png
+      - name: Check
+        if: always()
+        run: |
+          grep -hE "WEBVER|UPDATE_READY|update check failed|Capgo|CapacitorUpdater" run1.txt | tail -40 > r1.txt || true
+          grep -hE "WEBVER|Capgo|CapacitorUpdater" run2.txt | tail -40 > r2.txt || true
+          { echo "## First start"; echo '```'; cat r1.txt; echo '```'; echo "## After restart (want $WANT)"; echo '```'; cat r2.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          grep -q "WEBVER $WANT" run2.txt
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: update-test
+          path: |
+            run1.txt
+            run2.txt
+            screen1.png
+            screen2.png

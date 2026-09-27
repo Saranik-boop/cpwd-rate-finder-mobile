@@ -10,7 +10,8 @@ import crypto from 'node:crypto';
 const note = process.argv[2] || 'New rates and improvements';
 const minBuild = Number(process.argv[3] || 0);
 const verSrc = fs.readFileSync('www/version.js', 'utf8');
-const version = Number((/APP_WEB_VERSION\s*=\s*(\d+)/.exec(verSrc) || [])[1]);
+// optional 3rd argument publishes the bundle under a newer version number than www/version.js
+const version = Number(process.argv[4] || (/APP_WEB_VERSION\s*=\s*(\d+)/.exec(verSrc) || [])[1]);
 if (!version) throw new Error('www/version.js has no APP_WEB_VERSION');
 
 // --- minimal ZIP writer (deflate) ---
@@ -45,7 +46,9 @@ const files = [];
 (function walk(dir, rel) {
   for (const e of fs.readdirSync(dir, { withFileTypes: true }).sort((a, b) => a.name.localeCompare(b.name))) {
     const p = path.join(dir, e.name), r = rel ? `${rel}/${e.name}` : e.name;
-    if (e.isDirectory()) walk(p, r); else files.push({ name: r, data: fs.readFileSync(p) });
+    if (e.isDirectory()) walk(p, r);
+    else if (r === 'version.js') files.push({ name: r, data: Buffer.from(fs.readFileSync(p, 'utf8').replace(/APP_WEB_VERSION\s*=\s*\d+/, 'APP_WEB_VERSION = ' + version)) });
+    else files.push({ name: r, data: fs.readFileSync(p) });
   }
 })('www', '');
 const buf = zip(files);

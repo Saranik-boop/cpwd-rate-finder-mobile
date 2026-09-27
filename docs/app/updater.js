@@ -72,6 +72,7 @@
       if (w.min_build && myBuild < Number(w.min_build)) return; // needs a newer APK first (checkApk handles it)
       return Updater.download({ url: w.url, version: String(w.version), checksum: w.sha256 }).then(function (bundle) {
         return Updater.next({ id: bundle.id }).then(function () {
+          console.log('UPDATE_READY ' + w.version);
           bar('Update ready' + (w.notes ? ': ' + escapeHtml(w.notes) : '') + '.', [
             { label: 'Restart now', run: function () { Updater.set({ id: bundle.id }); } },
             { label: 'Later', later: true }
@@ -92,6 +93,9 @@
   }
 
   window.AppUpdater = { check: check };
+  try { console.log('WEBVER ' + MY_WEB); } catch (e) {}
+  // First check shortly after start (works on the request/waiting screens too), then every few hours.
+  setTimeout(function () { if (navigator.onLine !== false) check(); }, 4000);
   document.addEventListener('visibilitychange', function () {
     if (!document.hidden && Date.now() - lastCheck > CHECK_EVERY) check();
   });
