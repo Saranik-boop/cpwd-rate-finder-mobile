@@ -1,10 +1,10 @@
 {
   "web": {
-    "version": 2026092803,
-    "notes": "Complete CPWD, I&WD and WB PWD R&B schedules with all addenda; WB PWD Building & Sanitary SoR; PWD(NH) SoR; faster switch-over to updates",
-    "sha256": "76c458bdedace0eadcf2d47e7e9b70985f4f766e33bd4bac10988e0b48b22e30",
+    "version": 2026092804,
+    "notes": "Complete CPWD, I&WD and WB PWD R&B schedules with all addenda; WB PWD Building & Sanitary SoR; PWD(NH) SoR",
+    "sha256": "590e880c5d204c689f4c4dc8ae89e0ffc5cce8f4cb039b8d5fa794cdeda5af9f",
     "min_build": 0,
-    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026092803.zip",
-    "published": "2026-09-28T13:22:56.201Z"
+    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026092804.zip",
+    "published": "2026-09-28T13:36:10.349Z"
   }
 }

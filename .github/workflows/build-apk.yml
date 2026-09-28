@@ -73,3 +73,6 @@ jobs:
           name: CPWD Rate Finder ${{ env.VER }} (build ${{ github.run_number }})
           body: Download the .apk file below and open it on the phone to install.
           files: CPWD-Rate-Finder-*.apk
+          # Only commits marked [release] become the "latest" release that installed apps offer as an upgrade.
+          # Everything else is published as a pre-release (rates and screens reach phones as live updates instead).
+          prerelease: ${{ !contains(github.event.head_commit.message, '[release]') }}

@@ -98,9 +98,10 @@
             { label: 'Restart now', run: function () { Updater.set({ id: bundle.id }); } },
             { label: 'Later', later: true }
           ]);
+          return true;
         });
       });
-    }).catch(function (e) { console.warn('update check failed', e); });
+    }).catch(function (e) { console.warn('update check failed', e); return false; });
   }
 
   function escapeHtml(s) { return String(s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
@@ -109,7 +110,8 @@
     if (busy || Date.now() - lastCheck < 60000) return;
     busy = true; lastCheck = Date.now();
     nativeBuild().then(function (b) {
-      return checkApk(b).then(function (apkShown) { if (!apkShown) return checkWeb(b); });
+      // rates/screens first (no reinstall needed); offer a new APK only when there is no live update to apply
+      return checkWeb(b).then(function (webReady) { if (!webReady) return checkApk(b); });
     }).finally(function () { busy = false; });
   }
 
