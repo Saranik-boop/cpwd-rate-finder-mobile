@@ -7,6 +7,11 @@ on:
     workflows: ["Build APK"]
     types: [completed]
   workflow_dispatch:
+    inputs:
+      apk_tag:
+        description: 'Release tag of the APK to start from (empty = latest)'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -23,7 +28,7 @@ jobs:
           sudo udevadm control --reload-rules
           sudo udevadm trigger --name-match=kvm
       - name: Download latest APK
-        run: gh release download --repo "$GITHUB_REPOSITORY" --pattern '*.apk' --dir . && ls -la *.apk
+        run: gh release download ${{ github.event.inputs.apk_tag }} --repo "$GITHUB_REPOSITORY" --pattern '*.apk' --dir . && ls -la *.apk
         env:
           GH_TOKEN: ${{ github.token }}
       - name: Expected version
@@ -36,7 +41,7 @@ jobs:
           emulator-options: -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim
           disable-animations: true
           script: |
-            set -x; P=com.saranik.cpwdratefinder.mobile; APK=$(ls *.apk | head -1); adb install -r "$APK"; adb logcat -c; adb shell monkey -p $P -c android.intent.category.LAUNCHER 1; sleep 60; adb logcat -d > run1.txt; adb exec-out screencap -p > screen1.png; adb shell am force-stop $P; sleep 3; adb logcat -c; adb shell monkey -p $P -c android.intent.category.LAUNCHER 1; sleep 25; adb logcat -d > run2.txt; adb exec-out screencap -p > screen2.png
+            set -x; P=com.saranik.cpwdratefinder.mobile; APK=$(ls *.apk | head -1); adb install -r "$APK"; adb logcat -c; adb shell monkey -p $P -c android.intent.category.LAUNCHER 1; sleep 60; adb logcat -d > run1.txt; adb exec-out screencap -p > screen1.png; adb shell input keyevent 3; sleep 8; adb shell am force-stop $P; sleep 3; adb logcat -c; adb shell monkey -p $P -c android.intent.category.LAUNCHER 1; sleep 25; adb logcat -d > run2.txt; adb exec-out screencap -p > screen2.png
       - name: Check
         if: always()
         run: |

@@ -23,6 +23,21 @@
   // Tell the plugin this bundle started fine (otherwise it rolls back after a few seconds).
   try { Updater.notifyAppReady().catch(function () {}); } catch (e) {}
 
+  // If an update was downloaded earlier but not switched in yet (e.g. the user tapped "Later" and the app
+  // was closed without going to the background first), switch to it right away at start-up.
+  // Each bundle is tried at most once this way, so a bundle that cannot start can never cause a loop.
+  function applyPending() {
+    return Updater.getNext().then(function (n) {
+      if (!n || !n.id || n.status === 'error' || !(Number(n.version) > MY_WEB)) return false;
+      var tried = null; try { tried = localStorage.getItem('cpwd.upd_tried'); } catch (e) {}
+      if (tried === n.id) return false;
+      try { localStorage.setItem('cpwd.upd_tried', n.id); } catch (e) {}
+      console.log('APPLY_PENDING ' + n.version);
+      return Updater.set({ id: n.id }).then(function () { return true; });
+    }).catch(function () { return false; });
+  }
+  applyPending();
+
   function getJSON(url) {
     var ctl = new AbortController();
     var t = setTimeout(function () { ctl.abort(); }, 15000);
@@ -70,7 +85,13 @@
       var w = man && man.web;
       if (!w || !(Number(w.version) > MY_WEB)) return;
       if (w.min_build && myBuild < Number(w.min_build)) return; // needs a newer APK first (checkApk handles it)
-      return Updater.download({ url: w.url, version: String(w.version), checksum: w.sha256 }).then(function (bundle) {
+      // reuse a copy that was already downloaded instead of fetching it again
+      return Updater.list().then(function (l) {
+        var have = ((l && l.bundles) || []).filter(function (b) { return String(b.version) === String(w.version) && b.status !== 'error'; })[0];
+        return have || Updater.download({ url: w.url, version: String(w.version), checksum: w.sha256 });
+      }, function () {
+        return Updater.download({ url: w.url, version: String(w.version), checksum: w.sha256 });
+      }).then(function (bundle) {
         return Updater.next({ id: bundle.id }).then(function () {
           console.log('UPDATE_READY ' + w.version);
           bar('Update ready' + (w.notes ? ': ' + escapeHtml(w.notes) : '') + '.', [
