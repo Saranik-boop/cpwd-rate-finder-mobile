@@ -103,6 +103,7 @@
         <p>CPWD · I&amp;WD · WB PWD (R&amp;B, Bldg, NH) · offline</p>
       </div>
       <button type="button" class="admin-pill" data-open-admin hidden>Admin</button>
+      <button type="button" class="about-pill" data-open-about title="Which schedule applies to which work, edition and last update">Schedules</button>
       <div class="count" id="count">loading…</div>
     </div>
     <form id="form" autocomplete="off">
@@ -117,8 +118,9 @@
         </div>
       </div>
       <div class="row2">
-        <select id="fCategory" aria-label="Category"><option value="">All categories</option></select>
+        <select id="fWork" aria-label="Work type"><option value="">All work types</option></select>
         <select id="fSchedule" aria-label="Schedule"><option value="">All schedules</option></select>
+        <select id="fCategory" aria-label="Category"><option value="">All categories</option></select>
       </div>
       <div class="chips" id="chips"></div>
     </form>
@@ -135,7 +137,7 @@
       <option value="item_no">Item no.</option>
     </select>
   </div>
-  <div id="loading" class="loading">Loading 6,870 items…</div>
+  <div id="loading" class="loading">Loading items…</div>
   <div id="empty" class="empty" hidden>
     <h2>Search CPWD, I&amp;WD &amp; WB PWD rates</h2>
     <p>Type an item number or a few words. You don't need to fill in everything.</p>
@@ -145,6 +147,17 @@
   <footer class="foot">Built for Saranik · Powered by Arya · <span class="tag">TCD1</span></footer>
 </main>
 <div id="toast" class="toast" hidden></div>
+</div>
+
+<!-- ============ ABOUT SCHEDULES ============ -->
+<div id="about" class="admin" hidden>
+  <div class="admin-bar">
+    <div class="wrap admin-bar-row">
+      <button type="button" class="abtn-back" id="aboutClose" aria-label="Close">←</button>
+      <h2>About schedules</h2>
+    </div>
+  </div>
+  <div class="wrap admin-body" id="aboutList"></div>
 </div>
 
 <!-- ============ OWNER / ADMIN ============ -->
@@ -193,6 +206,7 @@
 <script src="config.js"></script>
 <script src="version.js"></script>
 <script src="updater.js"></script>
+<script src="schedules.js"></script>
 <script src="fuse.js"></script>
 <script src="search-ui.js"></script>
 <script src="gate.js"></script>

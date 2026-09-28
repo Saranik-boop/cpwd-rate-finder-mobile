@@ -30,16 +30,63 @@ window.startSearch = function (items, meta) {
     return null;
   }
 
+  var SCHED = window.SCHEDULES || {};
+  function sinfo(it) { return SCHED[it.schedule] || {}; }
+  function applicable(it) { return sinfo(it).applicable !== false; }
+
+  // Common abbreviations / spellings: typing any one finds the others.
+  var SYN = [
+    ['rcc', 'reinforced cement concrete', 'r.c.c'], ['pcc', 'plain cement concrete', 'p.c.c'], ['cc', 'cement concrete'],
+    ['brick work', 'brickwork', 'brick masonry'], ['earth work', 'earthwork'], ['stone work', 'stonework', 'stone masonry'],
+    ['flush door', 'flush door shutter'], ['dpc', 'damp proof course', 'damp-proof course'],
+    ['gi', 'galvanised iron', 'galvanized iron', 'g.i.'], ['ci', 'cast iron', 'c.i.'], ['di', 'ductile iron', 'd.i.'],
+    ['ms', 'mild steel', 'm.s.'], ['ss', 'stainless steel', 's.s.'], ['hysd', 'tmt', 'tor steel', 'high yield strength deformed'],
+    ['rmc', 'ready mix concrete', 'ready mixed concrete'], ['pvc', 'poly vinyl chloride', 'polyvinyl chloride'],
+    ['upvc', 'unplasticised pvc', 'u.p.v.c'], ['cpvc', 'chlorinated pvc'], ['hdpe', 'high density polyethylene'],
+    ['wbm', 'water bound macadam'], ['wmm', 'wet mix macadam'], ['gsb', 'granular sub base', 'granular sub-base'],
+    ['dbm', 'dense bituminous macadam'], ['bm', 'bituminous macadam'], ['bc', 'bituminous concrete'],
+    ['sdbc', 'semi dense bituminous concrete'], ['sma', 'stone matrix asphalt'], ['pmb', 'polymer modified bitumen'],
+    ['crmb', 'crumb rubber modified bitumen'], ['dlc', 'dry lean concrete'], ['pqc', 'pavement quality concrete'],
+    ['shuttering', 'formwork', 'form work', 'centering', 'centring'], ['whitewash', 'white wash', 'white washing'],
+    ['colour', 'color'], ['galvanised', 'galvanized'], ['aluminium', 'aluminum'], ['metre', 'meter'],
+    ['plaster', 'plastering'], ['painting', 'paint'], ['acp', 'aluminium composite panel'], ['frp', 'fibre reinforced plastic', 'fiber reinforced plastic'],
+    ['swr', 'soil waste and rain water'], ['ac sheet', 'asbestos cement sheet'], ['wc', 'water closet', 'w.c.'],
+    ['ewc', 'european water closet', 'european type w.c'], ['iwc', 'indian water closet', 'orissa pan'],
+    ['vitrified', 'vitrified tile', 'vitrified tiles'], ['ips', 'indian patent stone'], ['nhp', 'non-pressure'], ['np2', 'np-2'], ['np3', 'np-3'], ['np4', 'np-4']
+  ];
+  var SYN_INDEX = [];
+  SYN.forEach(function (g, gi) { g.forEach(function (p) { SYN_INDEX.push({ p: p, g: gi }); }); });
+  SYN_INDEX.sort(function (a, b) { return b.p.length - a.p.length; });
+  function reWord(p) { return new RegExp('(^|[^a-z0-9])' + p.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '(?=$|[^a-z0-9])', 'i'); }
+  // Returns null (no synonyms involved) or a Fuse logical query: every term must match, any spelling of it.
+  function synonymQuery(q) {
+    var text = ' ' + q.toLowerCase().replace(/\s+/g, ' ') + ' ', groups = [], hit = false;
+    SYN_INDEX.forEach(function (e) {
+      var r = reWord(e.p);
+      if (r.test(text)) { text = text.replace(r, '$1 '); if (groups.indexOf(e.g) < 0) groups.push(e.g); hit = true; }
+    });
+    if (!hit) return null;
+    var terms = groups.map(function (gi) { return SYN[gi]; });
+    text.split(' ').filter(function (w) { return w.length > 0; }).forEach(function (w) { terms.push([w]); });
+    return { $and: terms.map(function (vars) {
+      var ors = [];
+      vars.forEach(function (v) { var ex = v.indexOf(' ') >= 0 ? "'" + v : v; ors.push({ description: ex }); ors.push({ category: ex }); });
+      return { $or: ors };
+    }) };
+  }
+  window.__synonymQuery = synonymQuery;
+
   // Same ranking logic as the desktop app's search.js
   function search(o) {
     var itemNo = (o.itemNo || '').trim(), keywords = (o.keywords || '').trim();
-    var category = o.category || '', schedule = o.schedule || '', sort = o.sort || 'relevance';
+    var category = o.category || '', schedule = o.schedule || '', sort = o.sort || 'relevance', work = o.work || '';
     var pool = items;
+    if (work) pool = pool.filter(function (it) { return sinfo(it).work === work; });
     if (schedule) pool = pool.filter(function (it) { return it.schedule === schedule; });
     if (category) pool = pool.filter(function (it) { return it.category === category; });
     var hasItemNo = itemNo.length > 0, hasKeywords = keywords.length > 0;
     var scoreMap = new Map();
-    function passes(it) { return (!category || it.category === category) && (!schedule || it.schedule === schedule); }
+    function passes(it) { return (!category || it.category === category) && (!schedule || it.schedule === schedule) && (!work || sinfo(it).work === work); }
 
     if (hasItemNo) {
       pool.forEach(function (it) {
@@ -56,7 +103,8 @@ window.startSearch = function (items, meta) {
     }
     if (hasKeywords) {
       var pattern = keywords.split(/\s+/).filter(Boolean).join(' ');
-      var kw = descFuse.search(pattern, { limit: 400 });
+      var sq = synonymQuery(keywords);
+      var kw = descFuse.search(sq || pattern, { limit: 600 });
       if (hasItemNo) {
         kw.forEach(function (r) { var ex = scoreMap.get(r.item.id); if (ex) ex.k = Math.max(0, 1 - r.score); });
         scoreMap.forEach(function (v) { if (v.k === null) v.k = 0; });
@@ -80,15 +128,26 @@ window.startSearch = function (items, meta) {
     if (sort === 'rate_asc') combined.sort(function (a, b) { return rv(a.item, 1) - rv(b.item, 1); });
     else if (sort === 'rate_desc') combined.sort(function (a, b) { return rv(b.item, -1) - rv(a.item, -1); });
     else if (sort === 'item_no') combined.sort(function (a, b) { return naturalCompare(a.item.item_no, b.item.item_no); });
-    else combined.sort(function (a, b) { return b.score !== a.score ? b.score - a.score : naturalCompare(a.item.item_no, b.item.item_no); });
-    return { results: combined.map(function (c) { return c.item; }), total: combined.length, mode: 'search' };
+    else {
+      // Officially applicable schedules first (23.07.2026 order); reference-only schedules follow.
+      // For an item-number-only search a clearly better match still wins.
+      var group = !schedule && hasKeywords;
+      combined.sort(function (a, b) {
+        var aa = applicable(a.item), ab = applicable(b.item);
+        if (group && aa !== ab) return aa ? -1 : 1;
+        if (b.score !== a.score) return b.score - a.score;
+        if (aa !== ab) return aa ? -1 : 1;
+        return naturalCompare(a.item.item_no, b.item.item_no);
+      });
+    }
+    return { results: combined.map(function (c) { return c.item; }), total: combined.length, mode: 'search', grouped: sort === 'relevance' && !schedule && hasKeywords };
   }
 
   // ---------- UI ----------
   var $ = function (id) { return document.getElementById(id); };
-  var fItemNo = $('fItemNo'), fKeywords = $('fKeywords'), fCategory = $('fCategory'), fSchedule = $('fSchedule'), fSort = $('fSort');
+  var fItemNo = $('fItemNo'), fKeywords = $('fKeywords'), fCategory = $('fCategory'), fSchedule = $('fSchedule'), fSort = $('fSort'), fWork = $('fWork');
   var list = $('list'), empty = $('empty'), metaRow = $('metaRow'), resultsMeta = $('resultsMeta'), toast = $('toast');
-  var PAGE = 40, lastResults = [], shown = 0, lastKw = '', lastNo = '';
+  var PAGE = 40, lastResults = [], shown = 0, lastKw = '', lastNo = '', lastGrouped = false;
 
   var SCHED_LABEL = { 'CPWD': 'CPWD DSR (Delhi)', 'I&WD': 'I&WD (West Bengal)', 'PWD-RB': 'PWD Roads & Bridges (WB)', 'PWD-BLD': 'PWD Building Works (WB)', 'PWD-SAN': 'PWD Sanitary & Plumbing (WB)', 'PWD-NH': 'PWD National Highway (WB)' };
   var SCHED_SHORT = { 'CPWD': 'CPWD', 'I&WD': 'I&WD', 'PWD-RB': 'PWD R&B', 'PWD-BLD': 'PWD Bldg', 'PWD-SAN': 'PWD San.', 'PWD-NH': 'PWD NH' };
@@ -101,7 +160,7 @@ window.startSearch = function (items, meta) {
   function hl(text, term) {
     var e = esc(text);
     if (!term) return e;
-    var words = term.trim().split(/\s+/).filter(function (w) { return w.length > 1; }).map(function (w) { return reEsc(esc(w)); });
+    var words = term.trim().replace(/[.*+?^${}()|[\]\\]/g, ' ').split(/\s+/).filter(function (w) { return w.length > 1; }).map(function (w) { return reEsc(esc(w)); });
     if (!words.length) return e;
     try { return e.replace(new RegExp('(' + words.join('|') + ')', 'ig'), '<mark>$1</mark>'); } catch (x) { return e; }
   }
@@ -173,7 +232,10 @@ window.startSearch = function (items, meta) {
   function cardFor(it) {
     var el = document.createElement('article');
     el.className = 'card' + (it.deleted ? ' deleted' : '');
-    var sched = it.schedule ? '<span class="b s-' + slug(it.schedule) + '">' + esc(SCHED_SHORT[it.schedule] || it.schedule) + '</span>' : '';
+    var si = sinfo(it);
+    var sched = it.schedule ? (si.applicable === false
+      ? '<span class="b s-' + slug(it.schedule) + '">' + esc(si.short || SCHED_SHORT[it.schedule] || it.schedule) + '</span><span class="b ap-ref" title="' + esc(window.ORDER_REF || '') + '">' + esc(si.tag) + '</span>'
+      : '<span class="b s-' + slug(it.schedule) + '" title="Official source under ' + esc(window.ORDER_REF || '') + '">' + esc(si.tag || SCHED_SHORT[it.schedule] || it.schedule) + '</span>') : '';
     var corr = it.correction ? '<span class="b ' + (it.correction.type === 'new_item' ? 'c-new">🆕 Added' : 'c-upd">✏️ Corrected') + ' · Slip ' + esc(it.correction.slip) + '</span>' : '';
     var amds = it.amendments || [];
     var lastA = amds.length ? amds[amds.length - 1] : null;
@@ -232,7 +294,14 @@ window.startSearch = function (items, meta) {
     var old = list.querySelector('.showmore'); if (old) old.remove();
     var frag = document.createDocumentFragment();
     var end = Math.min(shown + PAGE, lastResults.length);
-    for (var i = shown; i < end; i++) frag.appendChild(cardFor(lastResults[i]));
+    for (var i = shown; i < end; i++) {
+      if (lastGrouped && !applicable(lastResults[i]) && (i === 0 || applicable(lastResults[i - 1]))) {
+        var dv = document.createElement('div'); dv.className = 'ref-div';
+        dv.innerHTML = '<b>Reference only</b> — items below are from schedules superseded for estimates from 23.07.2026 (WB PWD Building, Sanitary and Road & Bridge SoR).';
+        frag.appendChild(dv);
+      }
+      frag.appendChild(cardFor(lastResults[i]));
+    }
     shown = end;
     list.appendChild(frag);
     if (shown < lastResults.length) {
@@ -250,11 +319,11 @@ window.startSearch = function (items, meta) {
     if (!descFuse) return;
     toggleClear(fItemNo); toggleClear(fKeywords);
     var itemNo = fItemNo.value.trim(), kw = fKeywords.value.trim();
-    if (!itemNo && !kw && !fCategory.value && !fSchedule.value) {
+    if (!itemNo && !kw && !fCategory.value && !fSchedule.value && !fWork.value) {
       empty.hidden = false; list.hidden = true; metaRow.hidden = true; return;
     }
-    var r = search({ itemNo: itemNo, keywords: kw, category: fCategory.value, schedule: fSchedule.value, sort: fSort.value });
-    lastKw = kw; lastNo = itemNo;
+    var r = search({ itemNo: itemNo, keywords: kw, category: fCategory.value, schedule: fSchedule.value, work: fWork.value, sort: fSort.value });
+    lastKw = kw; lastNo = itemNo; lastGrouped = !!r.grouped;
     lastResults = r.results.slice(0, 300); shown = 0;
     empty.hidden = true; list.hidden = false; list.innerHTML = '';
     metaRow.hidden = false;
@@ -275,14 +344,39 @@ window.startSearch = function (items, meta) {
     });
   }
 
+  function buildAbout() {
+    var box = $('aboutList'); if (!box) return;
+    var counts = meta.schedule_counts || {};
+    var keys = Object.keys(SCHED);
+    box.innerHTML = '<p class="about-ref">Applicability as per ' + esc(window.ORDER_REF || '') + '.</p>' + keys.map(function (k) {
+      var s = SCHED[k], n = counts[k];
+      var wl = ((window.WORK_TYPES || []).filter(function (w) { return w.id === s.work; })[0] || {}).label || '';
+      return '<div class="about-card' + (s.applicable === false ? ' ref' : '') + '">' +
+        '<div class="about-top"><span class="b ' + (s.applicable === false ? 'ap-ref' : 'ap-yes') + '">' + esc(s.tag) + '</span>' +
+        (n ? '<span class="about-n">' + n.toLocaleString('en-IN') + ' items</span>' : (s.missing ? '<span class="about-n miss">not in app</span>' : '')) + '</div>' +
+        '<div class="about-name">' + esc(s.name) + '</div>' +
+        '<div class="about-row"><span>Work type</span><span>' + esc(wl) + '</span></div>' +
+        '<div class="about-row"><span>Edition</span><span>' + esc(s.edition) + '</span></div>' +
+        '<div class="about-row"><span>Updated up to</span><span' + (s.caution ? ' class="caution"' : '') + '>' + esc(s.upto) + '</span></div>' +
+        '<div class="about-role">' + esc(s.role) + '</div></div>';
+    }).join('');
+    var open = function () { $('about').hidden = false; document.body.classList.add('noscroll'); };
+    var close = function () { $('about').hidden = true; document.body.classList.remove('noscroll'); };
+    document.querySelectorAll('[data-open-about]').forEach(function (b) { b.addEventListener('click', open); });
+    $('aboutClose').addEventListener('click', close);
+  }
+
   function buildUi() {
     $('count').textContent = meta.count.toLocaleString('en-IN') + ' items';
     (meta.schedules || []).forEach(function (sc) {
       var o = document.createElement('option'); o.value = sc;
       var n = (meta.schedule_counts || {})[sc];
-      o.textContent = (SCHED_LABEL[sc] || sc) + (n ? ' (' + n.toLocaleString('en-IN') + ')' : '');
+      o.textContent = (SCHED_LABEL[sc] || sc) + (SCHED[sc] && SCHED[sc].applicable === false ? ' — reference' : '') + (n ? ' (' + n.toLocaleString('en-IN') + ')' : '');
       fSchedule.appendChild(o);
     });
+    (window.WORK_TYPES || []).forEach(function (w) { var o = document.createElement('option'); o.value = w.id; o.textContent = w.label; fWork.appendChild(o); });
+    fWork.addEventListener('change', function () { runSearch(); });
+    buildAbout();
     meta.categories.forEach(function (c) { var o = document.createElement('option'); o.value = c; o.textContent = c; fCategory.appendChild(o); });
     var chips = $('chips');
     (meta.schedules || []).forEach(function (sc) {

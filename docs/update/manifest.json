@@ -1,10 +1,10 @@
 {
   "web": {
-    "version": 2026092807,
-    "notes": "Complete CPWD, I&WD and WB PWD R&B schedules with all addenda; WB PWD Building & Sanitary SoR; PWD(NH) SoR",
-    "sha256": "cb79cfad5a15b2e417fca6485c436ca687561bfb2a4fa47262f820e7e257275f",
+    "version": 2026092808,
+    "notes": "Schedule tags as per the 23.07.2026 order, work-type filter, 'Schedules' screen, smarter search (RCC, PCC, brickwork, DBM…)",
+    "sha256": "1001b817ca32cf8e1b2fa76c079cdd479591a2626290b66d267fc4146cdd73ce",
     "min_build": 0,
-    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026092807.zip",
-    "published": "2026-09-28T14:04:16.536Z"
+    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026092808.zip",
+    "published": "2026-09-28T17:00:34.078Z"
   }
 }
