@@ -27,14 +27,17 @@
   // was closed without going to the background first), switch to it right away at start-up.
   // Each bundle is tried at most once this way, so a bundle that cannot start can never cause a loop.
   function applyPending() {
-    return Updater.getNext().then(function (n) {
-      if (!n || !n.id || n.status === 'error' || !(Number(n.version) > MY_WEB)) return false;
+    return Updater.list().then(function (l) {
+      var n = ((l && l.bundles) || []).filter(function (b) {
+        return b && b.id && b.status !== 'error' && b.status !== 'downloading' && Number(b.version) > MY_WEB;
+      }).sort(function (a, b) { return Number(b.version) - Number(a.version); })[0];
+      if (!n) return false;
       var tried = null; try { tried = localStorage.getItem('cpwd.upd_tried'); } catch (e) {}
       if (tried === n.id) return false;
       try { localStorage.setItem('cpwd.upd_tried', n.id); } catch (e) {}
       console.log('APPLY_PENDING ' + n.version);
       return Updater.set({ id: n.id }).then(function () { return true; });
-    }).catch(function () { return false; });
+    }).catch(function (e) { console.warn('applyPending failed', e); return false; });
   }
   applyPending();
 
