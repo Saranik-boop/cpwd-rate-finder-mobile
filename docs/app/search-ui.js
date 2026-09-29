@@ -1,6 +1,7 @@
 // Search screen — same logic as the desktop app and the earlier mobile page.
 // Started by gate.js only after this phone is approved and the data is decrypted.
-window.startSearch = function (items, meta) {
+window.startSearch = function (items, meta, expl) {
+  expl = expl || [];
   'use strict';
   var descFuse = null, itemNoFuse = null;
 
@@ -33,6 +34,7 @@ window.startSearch = function (items, meta) {
   var SCHED = window.SCHEDULES || {};
   function sinfo(it) { return SCHED[it.schedule] || {}; }
   function applicable(it) { return sinfo(it).applicable !== false; }
+  function isBasic(it) { return it.source === 'basic' || /^basic rates/i.test(it.category || '') || /wages|labour rates/i.test(it.category || ''); }
 
   // Common abbreviations / spellings: typing any one finds the others.
   var SYN = [
@@ -123,6 +125,8 @@ window.startSearch = function (items, meta) {
 
     var combined = Array.from(scoreMap.values()).map(function (v) {
       var s = hasItemNo && hasKeywords ? (v.a || 0) * 0.45 + (v.k || 0) * 0.55 : hasItemNo ? (v.a || 0) : (v.k || 0);
+      // payable work items rank a little above basic material / labour / hire rates for the same words
+      if (hasKeywords && isBasic(v.item)) s -= 0.06;
       return { item: v.item, score: s };
     });
     if (sort === 'rate_asc') combined.sort(function (a, b) { return rv(a.item, 1) - rv(b.item, 1); });
@@ -229,6 +233,43 @@ window.startSearch = function (items, meta) {
     return h + '</div>';
   }
 
+
+  // ---------- Item explanation (where used / included / not included / measurement / codes / site notes) ----------
+  var BASIS_CLS = { 'Per item description': 'bd-desc', 'Per DAR analysis': 'bd-dar', 'Per chapter notes': 'bd-notes', 'Per CPWD Spec 2019': 'bd-spec',
+    'Per MoRTH Spec (5th Rev)': 'bd-spec', 'Per IS code': 'bd-spec', 'General practice': 'bd-gen', 'Check chapter notes / confirm with specification': 'bd-chk' };
+  function basisTag(b) { return b ? '<span class="bt ' + (BASIS_CLS[b] || 'bd-gen') + '">' + esc(b) + '</span>' : ''; }
+  var byNo = null;
+  function refLink(sched, ref) {
+    if (!ref) return '';
+    if (!byNo) { byNo = {}; items.forEach(function (x) { byNo[x.schedule + '|' + x.item_no] = true; }); }
+    return ' <button type="button" class="reflink" data-ref="' + esc(ref) + '" data-s="' + esc(sched) + '">→ ' + esc(ref) + '</button>';
+  }
+  function genericExpl(it) {
+    // basic rates, labour wages and material tables have no work explanation of their own
+    var isWage = /labour|wage/i.test(it.category) || /^W\./.test(it.item_no);
+    return { u: isWage ? 'Labour rate used to build up item rates (analysis of rates) and for works done on a labour basis.'
+                       : 'Basic rate of a material / hire charge / carriage used to build up item rates (analysis of rates), and to add the cost of materials where an item says "add cost of ...".',
+      i: [{ t: 'Only what the description and unit state', b: 'Per item description' }],
+      n: [{ t: 'Not a finished work item: labour, other materials, overheads and profit are added in the rate analysis', ref: '', b: 'General practice' }],
+      m: { t: 'Per ' + (it.unit || 'unit stated'), b: 'Per item description' }, c: [], s: ['Check the "Notes / remarks" and "Rate detail" panels for what the figure includes (GST, carriage, profit).'], v: '', d: '', generic: true };
+  }
+  function explHtml(it) {
+    var e = it.gx != null ? expl[it.gx] : null;
+    if (!e) e = genericExpl(it);
+    var h = '<div class="panel p-exp" hidden><div class="panel-title">Item explanation</div>';
+    h += '<div class="exp-note">Guidance to help read the item. The schedule\'s own description, notes and specification prevail. Each point shows its basis.</div>';
+    if (e.u) h += '<h4>Where it is used</h4><p>' + esc(e.u) + '</p>';
+    if (e.i && e.i.length) h += '<h4>Included in the rate</h4><ul>' + e.i.map(function (x) { return '<li>' + esc(x.t) + ' ' + basisTag(x.b) + '</li>'; }).join('') + '</ul>';
+    if (e.n && e.n.length) h += '<h4>Not included (paid separately)</h4><ul>' + e.n.map(function (x) { return '<li>' + esc(x.t) + refLink(it.schedule, x.ref) + ' ' + basisTag(x.b) + '</li>'; }).join('') + '</ul>';
+    if (e.m && e.m.t) h += '<h4>Measurement &amp; payment</h4><p>' + esc(e.m.t) + ' ' + basisTag(e.m.b) + '</p>';
+    if (e.c && e.c.length) h += '<h4>Codes &amp; specifications</h4><p>' + e.c.map(esc).join(' · ') + '</p>';
+    if (e.s && e.s.length) h += '<h4>Site notes</h4><ul>' + e.s.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul>';
+    if (e.v) h += '<h4>Sub-items</h4><p>' + esc(e.v) + '</p>';
+    var dg = e.d && window.DIAGRAMS && window.DIAGRAMS[e.d];
+    if (dg) h += '<h4>Diagram</h4><figure class="dgw">' + dg.svg + '<figcaption>' + esc(dg.title) + ' — schematic, not to scale</figcaption></figure>';
+    return h + '</div>';
+  }
+
   function cardFor(it) {
     var el = document.createElement('article');
     el.className = 'card' + (it.deleted ? ' deleted' : '');
@@ -266,6 +307,7 @@ window.startSearch = function (items, meta) {
         (hasBd ? '<button type="button" class="act ra-btn">Rate analysis</button>' : '') +
         (it.correction ? '<button type="button" class="act corr-btn">Correction</button>' : '') +
         (amds.length ? '<button type="button" class="act amd-btn">Amendments (' + amds.length + ')</button>' : '') +
+        '<button type="button" class="act exp-btn">Explanation</button>' +
         '<button type="button" class="act copy-btn">Copy</button>' +
       '</div>' +
       (hasBd ? breakdownHtml(it) : '') + (it.correction ? correctionHtml(it) : '') + (amds.length ? amendHtml(it) : '');
@@ -283,6 +325,13 @@ window.startSearch = function (items, meta) {
         var p = el.querySelector('.p-ra'); p.hidden = !p.hidden; t.textContent = p.hidden ? 'Rate analysis' : 'Hide analysis';
       } else if (t.classList.contains('corr-btn')) {
         var q = el.querySelector('.p-corr'); q.hidden = !q.hidden; t.textContent = q.hidden ? 'Correction' : 'Hide correction';
+      } else if (t.classList.contains('exp-btn')) {
+        var x = el.querySelector('.p-exp');
+        if (!x) { el.insertAdjacentHTML('beforeend', explHtml(it)); x = el.querySelector('.p-exp'); }
+        x.hidden = !x.hidden; t.textContent = x.hidden ? 'Explanation' : 'Hide explanation';
+      } else if (t.classList.contains('reflink')) {
+        fItemNo.value = t.dataset.ref; fKeywords.value = ''; fCategory.value = ''; fSchedule.value = t.dataset.s; if (fWork) fWork.value = '';
+        syncChips(); runSearch(); window.scrollTo(0, 0);
       } else if (t.classList.contains('amd-btn')) {
         var a = el.querySelector('.p-amd'); a.hidden = !a.hidden; t.textContent = a.hidden ? 'Amendments (' + amds.length + ')' : 'Hide amendments';
       }

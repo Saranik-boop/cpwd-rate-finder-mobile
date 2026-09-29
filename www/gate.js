@@ -199,7 +199,7 @@
       unlocked = true;
       $('gate').hidden = true;
       $('app').hidden = false;
-      window.startSearch(payload.items, payload.meta);
+      window.startSearch(payload.items, payload.meta, payload.expl || []);
       refreshAdminPills();
       if (offline) toast('Offline — using approved access');
       else if (window.AppUpdater) setTimeout(window.AppUpdater.check, 1500);
