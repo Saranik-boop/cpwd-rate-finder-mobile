@@ -309,6 +309,7 @@ window.startSearch = function (items, meta, expl) {
         (amds.length ? '<button type="button" class="act amd-btn">Amendments (' + amds.length + ')</button>' : '') +
         '<button type="button" class="act exp-btn">Explanation</button>' +
         '<button type="button" class="act copy-btn">Copy</button>' +
+        (window.DoubtUI ? '<button type="button" class="act ask-btn">Ask a doubt</button>' : '') +
       '</div>' +
       (hasBd ? breakdownHtml(it) : '') + (it.correction ? correctionHtml(it) : '') + (amds.length ? amendHtml(it) : '');
 
@@ -317,6 +318,7 @@ window.startSearch = function (items, meta, expl) {
       if (!t) return;
       if (t.classList.contains('cat')) { fCategory.value = it.category; syncChips(); runSearch(); window.scrollTo(0, 0); }
       else if (t.classList.contains('copy-btn')) copyItem(it);
+      else if (t.classList.contains('ask-btn')) askAbout(it);
       else if (t.classList.contains('more-toggle')) {
         var open = el.classList.toggle('open');
         var ex = el.querySelector('.p-extra'); if (ex) ex.hidden = !open;
@@ -463,7 +465,37 @@ window.startSearch = function (items, meta, expl) {
     });
   }
 
+  // ---------- Rate Finder / Doubt Solver tabs (each tab keeps its own typing, results and scroll position) ----------
+  var tabScroll = { rf: 0, ds: 0 }, curTab = 'rf';
+  function showTab(tab) {
+    if (tab === curTab) return;
+    tabScroll[curTab] = window.scrollY;
+    curTab = tab;
+    document.body.classList.toggle('tab-ds', tab === 'ds');
+    ['rf', 'ds'].forEach(function (k) {
+      var b = $(k === 'rf' ? 'tabRf' : 'tabDs'); if (!b) return;
+      b.classList.toggle('on', k === tab); b.setAttribute('aria-selected', k === tab ? 'true' : 'false');
+    });
+    if (tab === 'ds' && window.DoubtUI) window.DoubtUI.open();
+    window.scrollTo(0, tabScroll[tab] || 0);
+  }
+  function askAbout(it) {
+    var d = String(it.description || '').replace(/\s+/g, ' ');
+    if (d.length > 160) d = d.slice(0, 157) + '…';
+    var prefill = 'Item ' + it.item_no + ' (' + (SCHED_SHORT[it.schedule] || it.schedule) + ') – ' + d + ' – ';
+    showTab('ds');
+    window.DoubtUI.open(prefill);
+  }
+  function initTabs() {
+    if (!window.DoubtUI) { var nav = document.querySelector('.tabs'); if (nav) nav.hidden = true; return; }
+    window.DoubtUI.setData(items, meta);
+    document.querySelectorAll('.tabs [data-tab]').forEach(function (b) {
+      b.addEventListener('click', function () { showTab(b.dataset.tab); });
+    });
+  }
+
   function init() {
+    initTabs();
     descFuse = new Fuse(items, {
       keys: [{ name: 'description', weight: 0.75 }, { name: 'item_no', weight: 0.15 }, { name: 'category', weight: 0.10 }],
       threshold: 0.32, distance: 200, ignoreLocation: true, minMatchCharLength: 2, useExtendedSearch: true, includeScore: true

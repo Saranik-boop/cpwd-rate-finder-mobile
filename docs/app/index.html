@@ -16,6 +16,7 @@
 <meta name="robots" content="noindex, nofollow">
 <link rel="stylesheet" href="app.css">
 <link rel="stylesheet" href="gate.css">
+<link rel="stylesheet" href="doubt.css">
 </head>
 <body>
 
@@ -106,6 +107,10 @@
       <button type="button" class="about-pill" data-open-about title="Which schedule applies to which work, edition and last update">Schedules</button>
       <div class="count" id="count">loading…</div>
     </div>
+    <nav class="tabs" role="tablist" aria-label="Sections">
+      <button type="button" role="tab" id="tabRf" class="on" aria-selected="true" data-tab="rf">Rate Finder</button>
+      <button type="button" role="tab" id="tabDs" aria-selected="false" data-tab="ds">Doubt Solver</button>
+    </nav>
     <form id="form" autocomplete="off">
       <div class="inputs">
         <div class="inp">
@@ -146,6 +151,49 @@
   <div id="list" class="list" hidden></div>
   <footer class="foot">Built for Saranik · Powered by Arya · <span class="tag">TCD1</span></footer>
 </main>
+<!-- ============ DOUBT SOLVER TAB (desktop CPWD Doubt Solver 1.1.0, same behaviour) ============ -->
+<section id="ds" class="wrap" role="tabpanel" aria-labelledby="tabDs">
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-mark">?</div>
+      <div class="brand-text">
+        <h1>Doubt Solver</h1>
+        <p>Ask about CPWD, I&amp;WD &amp; WB PWD rates · answers only from the schedules · works offline</p>
+      </div>
+    </div>
+    <div class="topbar-right">
+      <button type="button" id="dsNewChatBtn" class="btn-newchat" title="Clear this conversation and start fresh">
+        <svg class="btn-icon" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10 4v12M4 10h12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        New chat
+      </button>
+      <div class="count-pill" id="dsTotalCount">&nbsp;</div>
+    </div>
+  </header>
+  <div class="chat-wrap">
+    <div id="dsConversation" class="conversation">
+      <div class="welcome" id="dsWelcome">
+        <div class="welcome-icon">💬</div>
+        <h2>Ask a question about the schedules</h2>
+        <p>Type a plain-language question — an item number, a description, or a general question about
+           how rates are built up, which addenda or correction slips apply, or which schedule to use. Every answer is drawn strictly from the
+           schedules in this app; nothing is looked up online.</p>
+        <div class="example-chips" id="dsExampleChips"><span class="example-chips-label">Try asking:</span></div>
+      </div>
+    </div>
+  </div>
+  <div class="composer-card">
+    <form id="dsAskForm" autocomplete="off">
+      <textarea id="dsQuestion" rows="2" placeholder="e.g. What is the rate for item 9.40.1.1? Or: What GST factor does CPWD use in its rate analysis?"></textarea>
+      <div class="composer-actions">
+        <span class="hint" id="dsComposerHint">Press Enter to ask · Shift+Enter for a new line</span>
+        <button type="submit" id="dsAskBtn" class="btn-primary">
+          <svg class="btn-icon" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M3 10h13M10 4l6 6-6 6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          Ask
+        </button>
+      </div>
+    </form>
+  </div>
+</section>
 <div id="toast" class="toast" hidden></div>
 </div>
 
@@ -209,6 +257,9 @@
 <script src="schedules.js"></script>
 <script src="fuse.js"></script>
 <script src="diagrams.js"></script>
+<script src="doubt-notes.js"></script>
+<script src="doubt-engine.js"></script>
+<script src="doubt-ui.js"></script>
 <script src="search-ui.js"></script>
 <script src="gate.js"></script>
 <script src="pwa.js"></script>

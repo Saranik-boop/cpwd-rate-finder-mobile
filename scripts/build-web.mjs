@@ -9,7 +9,7 @@ const OUT = 'docs/app';
 fs.rmSync(OUT, { recursive: true, force: true });
 fs.mkdirSync(OUT, { recursive: true });
 
-const files = ['app.css', 'gate.css', 'capacitor.js', 'config.js', 'version.js', 'updater.js', 'fuse.js', 'schedules.js', 'diagrams.js', 'search-ui.js', 'gate.js', 'data.enc'];
+const files = ['app.css', 'gate.css', 'capacitor.js', 'config.js', 'version.js', 'updater.js', 'fuse.js', 'schedules.js', 'diagrams.js', 'doubt.css', 'doubt-notes.js', 'doubt-engine.js', 'doubt-ui.js', 'search-ui.js', 'gate.js', 'data.enc'];
 for (const f of files) fs.copyFileSync(path.join('www', f), path.join(OUT, f));
 for (const f of fs.readdirSync('resources/web')) fs.copyFileSync(path.join('resources/web', f), path.join(OUT, f));
 

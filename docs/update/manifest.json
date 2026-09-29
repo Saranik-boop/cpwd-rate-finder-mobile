@@ -1,10 +1,10 @@
 {
   "web": {
-    "version": 2026093001,
-    "notes": "Item explanations (where used, included / not included, measurement, codes, site notes) with diagrams for 3,372 item groups",
-    "sha256": "6ea52b2034fc1b514e36218245851d3a8c155829cd2d284bc50efdfdb2692542",
+    "version": 2026093002,
+    "notes": "New Doubt Solver tab (ask questions in plain words) and an Ask a doubt button on every item",
+    "sha256": "cefc2ab5d23b2eb7f0165cd996a57967a16435aee5c4cf790b96395dc8d15d04",
     "min_build": 0,
-    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026093001.zip",
-    "published": "2026-09-29T20:44:26.852Z"
+    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026093002.zip",
+    "published": "2026-09-29T21:33:40.671Z"
   }
 }
