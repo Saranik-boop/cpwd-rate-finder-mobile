@@ -198,7 +198,7 @@ const CODE_PATTERNS = [
 const SCHEDULE_HINTS = [
   { schedule: 'CPWD', re: /\bcpwd\b|\bdsr\b|\bdar\b|\bdelhi\b/i },
   { schedule: 'I&WD', re: /\bi\s*&\s*wd\b|\birrigation\b|\bwaterways\b|\busor\b/i },
-  { schedule: 'PWD-NH', re: /\bpwd\s*\(?nh\)?|\bnational highways?\b|\bnh\s+sor\b/i },
+  { schedule: 'PWD-NH', re: /\bpwd\s*\(?nh\)?|\bnational highways?\b|\bnh\s+sor\b|\b(in|of|as per|under)\s+(the\s+)?nh\b/i },
   { schedule: 'PWD-SAN', re: /\bpwd\b.*\b(sanitary|plumbing)\b/i },
   { schedule: 'PWD-BLD', re: /\bpwd\b.*\bbuilding\b/i },
   { schedule: 'PWD-RB', re: /\bpwd\b.*\b(road|bridge)s?\b|\broads?\s*(and|&)\s*bridges?\b/i },
@@ -207,6 +207,8 @@ const SCHEDULE_HINTS = [
 // Generic question scaffolding to strip before running a keyword search - improves
 // match quality by not feeding filler words into the fuzzy search.
 const FILLER_PATTERNS = [
+  // schedule names only steer the search (see SCHEDULE_HINTS); they are not words in item descriptions
+  /\b(in|of|as per|under|from)\s+(the\s+)?(cpwd|dsr|dar|pwd\s*\(?nh\)?|nh|usor|i\s*&\s*wd)(\s+(sor|schedule))?\b/gi,
   /\bwhat('?s| is| are)\b/gi,
   /\bhow much( is| does| would| will)?\b/gi,
   /\bhow do i\b/gi,
