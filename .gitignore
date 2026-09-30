@@ -1,5 +1,0 @@
-.secrets/
-node_modules/
-/android/
-*.keystore
-*.jks
