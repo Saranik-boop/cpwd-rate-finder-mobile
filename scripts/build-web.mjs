@@ -9,7 +9,8 @@ const OUT = 'docs/app';
 fs.rmSync(OUT, { recursive: true, force: true });
 fs.mkdirSync(OUT, { recursive: true });
 
-const files = ['app.css', 'gate.css', 'capacitor.js', 'config.js', 'version.js', 'updater.js', 'fuse.js', 'schedules.js', 'diagrams.js', 'doubt.css', 'doubt-notes.js', 'doubt-engine.js', 'doubt-ui.js', 'search-ui.js', 'gate.js', 'data.enc'];
+// every file the app uses (everything in www/ except index.html, which is rewritten below)
+const files = fs.readdirSync('www').filter((f) => f !== 'index.html' && fs.statSync(path.join('www', f)).isFile()).sort();
 for (const f of files) fs.copyFileSync(path.join('www', f), path.join(OUT, f));
 for (const f of fs.readdirSync('resources/web')) fs.copyFileSync(path.join('resources/web', f), path.join(OUT, f));
 

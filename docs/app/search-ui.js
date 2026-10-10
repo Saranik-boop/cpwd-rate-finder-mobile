@@ -265,9 +265,16 @@ window.startSearch = function (items, meta, expl) {
     if (e.c && e.c.length) h += '<h4>Codes &amp; specifications</h4><p>' + e.c.map(esc).join(' · ') + '</p>';
     if (e.s && e.s.length) h += '<h4>Site notes</h4><ul>' + e.s.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul>';
     if (e.v) h += '<h4>Sub-items</h4><p>' + esc(e.v) + '</p>';
-    var dg = e.d && window.DIAGRAMS && window.DIAGRAMS[e.d];
-    if (dg) h += '<h4>Diagram</h4><figure class="dgw">' + dg.svg + '<figcaption>' + esc(dg.title) + ' — schematic, not to scale</figcaption></figure>';
+    var fig = e.d && window.DiagramView ? window.DiagramView.figure(e.d, it.description) : '';
+    if (fig) h += '<h4>Drawing</h4>' + fig;
     return h + '</div>';
+  }
+
+  function usageHtml(it) {
+    if (!window.UsageHint) return '';
+    var e = it.gx != null ? expl[it.gx] : null;
+    if (!e && isBasic(it)) e = { generic: true };
+    return window.UsageHint.html(it, e);
   }
 
   function cardFor(it) {
@@ -299,7 +306,7 @@ window.startSearch = function (items, meta, expl) {
     el.innerHTML =
       '<div class="card-top"><span class="itemno">' + hl(it.item_no, lastNo) + '</span>' +
       '<div class="rate">' + rateV + '<div class="rate-u">per ' + esc(it.unit || '—') + (it.rate_basis && it.zones ? '<br><span class="rate-b">' + esc(it.rate_basis) + '</span>' : '') + '</div></div></div>' +
-      '<div class="desc">' + hl(it.description, lastKw) + '</div>' +
+      '<div class="desc">' + hl(it.description, lastKw) + '</div>' + usageHtml(it) +
       '<div class="badges">' + sched + corr + '<button type="button" class="b cat">' + esc(it.category) + '</button></div>' +
       (extra ? '<div class="p-extra" hidden>' + extra + '</div>' : '') +
       '<div class="actions">' +

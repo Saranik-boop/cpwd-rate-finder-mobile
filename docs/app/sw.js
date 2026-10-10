@@ -1,6 +1,6 @@
 // Offline helper. Only caches this app's own files; access checks with the server always go to the network.
-const CACHE = 'cpwd-14a316b17561';
-const FILES = ["./","index.html","app.css","gate.css","capacitor.js","config.js","version.js","updater.js","fuse.js","schedules.js","diagrams.js","doubt.css","doubt-notes.js","doubt-engine.js","doubt-ui.js","search-ui.js","gate.js","data.enc","manifest.webmanifest","apple-touch-icon.png","icon-192.png","pwa.js"];
+const CACHE = 'cpwd-04df420f3689';
+const FILES = ["./","index.html","app.css","capacitor.js","config.js","data.enc","diagram-kit.js","diagram-view.js","diagrams.js","doubt-engine.js","doubt-notes.js","doubt-ui.js","doubt.css","fuse.js","gate.css","gate.js","schedules.js","search-ui.js","updater.js","usage.js","version.js","manifest.webmanifest","apple-touch-icon.png","icon-192.png","pwa.js"];
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(FILES)).then(() => self.skipWaiting()));
 });

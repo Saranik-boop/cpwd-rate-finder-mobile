@@ -1,10 +1,10 @@
 {
   "web": {
-    "version": 2026093003,
-    "notes": "Doubt Solver tab; questions like 'rate of wet mix macadam in NH' now search the NH schedule",
-    "sha256": "3cc7e2a34948ad453cf96878cc7e039c5ebe3346dc7dc081fad9a20297be6eca",
+    "version": 2026101001,
+    "notes": "New 3D drawings (tap to enlarge), 'Typically used in' line on every item, new footer",
+    "sha256": "17ab1c6a574427246a44870160c0102deae318af5a23843d249931b6a06d8bde",
     "min_build": 0,
-    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026093003.zip",
-    "published": "2026-09-30T06:48:15.249Z"
+    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026101001.zip",
+    "published": "2026-10-10T18:12:16.621Z"
   }
 }
