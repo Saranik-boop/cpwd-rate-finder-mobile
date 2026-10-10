@@ -1,0 +1,40 @@
+10-10 19:43:35.661  2497  2497 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-10 19:43:35.662  2497  2497 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-10 19:43:35.662  2497  2497 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-10 19:43:35.666  2497  2497 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-10 19:43:35.666  2497  2497 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-10 19:43:35.685  2497  2497 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-10 19:43:35.685  2497  2497 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-10 19:43:35.688  2497  2497 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-10 19:43:35.688  2497  2497 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-10 19:43:35.688  2497  2497 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-10 19:43:35.688  2497  2497 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-10 19:43:35.690  2497  2497 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-10 19:43:35.690  2497  2497 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-10 19:43:35.692  2497  2497 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-10 19:43:35.692  2497  2497 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-10 19:43:35.702  2497  2497 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-10 19:43:35.702  2497  2497 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-10 19:43:35.704  2497  2497 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-10 19:43:35.704  2497  2497 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-10 19:43:35.705  2497  2497 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-10 19:43:35.705  2497  2497 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-10 19:43:35.709  2497  2497 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-10 19:43:35.709  2497  2497 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-10 19:43:35.709  2497  2497 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event downloadComplete
+10-10 19:43:35.709  2497  2497 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event downloadComplete
+10-10 19:43:35.709  2497  2965 I CapgoUpdater: 🟢 updateAvailable: {bundle={"checksum":"d14b37f4eb947db6958f9005e448e216045f17e320111002b4df7a13dff60e74","id":"UpIzogbzuH","version":"2026101101","downloaded":"2026-10-10T19:43:35.708+0000","status":"pending"}}
+10-10 19:43:35.710  2497  2497 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 updateAvailable: {bundle={"checksum":"d14b37f4eb947db6958f9005e448e216045f17e320111002b4df7a13dff60e74","id":"UpIzogbzuH","version":"2026101101","downloaded":"2026-10-10T19:43:35.708+0000","status":"pending"}}
+10-10 19:43:35.710  2497  2497 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event updateAvailable
+10-10 19:43:35.710  2497  2497 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event updateAvailable
+10-10 19:43:35.710  2497  2965 I CapgoUpdater: 🟢 setNext: false
+10-10 19:43:35.711  2497  2497 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 setNext: false
+10-10 19:43:35.716  2497  2497 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 127469746, pluginId: CapacitorUpdater, methodName: next
+10-10 19:43:35.716  2497  2497 V Capacitor: callback: 127469746, pluginId: CapacitorUpdater, methodName: next, methodData: {"id":"UpIzogbzuH"}
+10-10 19:43:35.716  2497  2668 I CapgoUpdater: 🟢 Setting next active id UpIzogbzuH
+10-10 19:43:35.717  2497  2497 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Setting next active id UpIzogbzuH
+10-10 19:43:35.728  2497  2497 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event setNext
+10-10 19:43:35.728  2497  2497 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event setNext
+10-10 19:43:35.731  2497  2497 I Capacitor/Console: File: https://localhost/updater.js - Line 99 - Msg: UPDATE_READY 2026101101
+10-10 19:43:44.184  2497  2694 I CapgoUpdater: 🟢 Built-in bundle is active. We skip the check for notifyAppReady.
+10-10 19:43:44.194  2497  2497 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Built-in bundle is active. We skip the check for notifyAppReady.
