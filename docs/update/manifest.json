@@ -1,10 +1,10 @@
 {
   "web": {
-    "version": 2026101001,
-    "notes": "New 3D drawings (tap to enlarge), 'Typically used in' line on every item, new footer",
-    "sha256": "17ab1c6a574427246a44870160c0102deae318af5a23843d249931b6a06d8bde",
+    "version": 2026101002,
+    "notes": "Smarter Doubt Solver: direct answers (is X included, how measured, where used, compare two items), follow-up questions and related items",
+    "sha256": "c6f9c7cd4fc29333b2eea85c2b6a053f4cf9848438e596a970b0fd1d54f307f5",
     "min_build": 0,
-    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026101001.zip",
-    "published": "2026-10-10T18:12:16.621Z"
+    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026101002.zip",
+    "published": "2026-10-10T18:31:18.270Z"
   }
 }

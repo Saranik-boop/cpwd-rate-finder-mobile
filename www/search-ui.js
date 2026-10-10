@@ -495,7 +495,7 @@ window.startSearch = function (items, meta, expl) {
   }
   function initTabs() {
     if (!window.DoubtUI) { var nav = document.querySelector('.tabs'); if (nav) nav.hidden = true; return; }
-    window.DoubtUI.setData(items, meta);
+    window.DoubtUI.setData(items, meta, expl);
     document.querySelectorAll('.tabs [data-tab]').forEach(function (b) {
       b.addEventListener('click', function () { showTab(b.dataset.tab); });
     });

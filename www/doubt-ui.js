@@ -1,6 +1,6 @@
 // Doubt Solver tab - UI of the desktop CPWD Doubt Solver 1.1.0 (renderer/app.js), unchanged in behaviour.
 (() => {
-  let engine = null, started = false, pendingItems = null, pendingMeta = null;
+  let engine = null, started = false, pendingItems = null, pendingMeta = null, pendingExpl = null;
   const conversation = document.getElementById('dsConversation');
   const welcome = document.getElementById('dsWelcome');
   const askForm = document.getElementById('dsAskForm');
@@ -26,11 +26,11 @@
   }
 
   const EXAMPLES = [
-    'What is the rate for item 9.40.1.1?',
-    'What GST factor does CPWD use in its rate analysis?',
-    'How many correction slips have been applied?',
-    'Does I&WD give zone-wise rates?',
-    'What changed in item 12.52.4?',
+    'Is hinge included in flush door shutter?',
+    'Difference between flush door and panelled door',
+    'How is brick work measured?',
+    'Rate of 12 mm cement plaster 1:6',
+    'Where is anti-termite treatment used?',
     'What is CPOH?',
   ];
 
@@ -180,7 +180,53 @@
     `;
   }
 
+  function basisTags(list) {
+    const seen = {};
+    return (list || []).filter((b) => b && !seen[b] && (seen[b] = 1)).map((b) => `<span class="tag tag-basis">${escapeHtml(b)}</span>`).join('');
+  }
+  function renderSections(sections) {
+    return (sections || []).map((sec) => `
+      <div class="ans-sec"><div class="ans-h">${escapeHtml(sec.h)}${sec.b ? ` <span class="tag tag-basis">${escapeHtml(sec.b)}</span>` : ''}</div>
+      ${sec.p ? `<p>${escapeHtml(sec.p)}</p>` : ''}
+      ${sec.li ? `<ul>${sec.li.map((x) => `<li>${escapeHtml(x.t)}${x.b ? ` <span class="tag tag-basis">${escapeHtml(x.b)}</span>` : ''}</li>`).join('')}</ul>` : ''}</div>`).join('');
+  }
+  function itemChip(it) {
+    const r = it.zones ? 'zone-wise' : (it.rate != null ? currency.format(it.rate) + ' / ' + (it.unit || '') : (it.rate_text || ''));
+    const d = String(it.description || '');
+    const short = d.length > 110 ? d.slice(0, 108).replace(/\s+\S*$/, '') + '…' : d;
+    return `<button type="button" class="ans-alt" data-pick="${escapeHtml(it.id)}"><span class="ans-alt-no">${escapeHtml(SCHEDULE_SHORT[it.schedule] || it.schedule)} ${escapeHtml(it.item_no)}</span><span class="ans-alt-d">${escapeHtml(short)}</span><span class="ans-alt-r">${escapeHtml(r)}</span></button>`;
+  }
+  function followChips(list) {
+    if (!list || !list.length) return '';
+    return `<div class="ans-follow">${list.map((q) => `<button type="button" class="example-chip" data-q="${escapeHtml(q)}">${escapeHtml(q)}</button>`).join('')}</div>`;
+  }
+  function renderComposed(r) {
+    let h = `<div class="answer-lead ans-direct">${escapeHtml(r.lead || '')}</div>`;
+    if (r.points && r.points.length) h += `<ul class="ans-points">${r.points.map((p) => `<li>${escapeHtml(p)}</li>`).join('')}</ul>`;
+    if (r.basis && r.basis.length) h += `<div class="answer-tags">${basisTags(r.basis)}</div>`;
+    if (r.item) {
+      h += `<details class="ans-item"${r.openAnalysis ? ' open' : ''}><summary>${escapeHtml(SCHEDULE_SHORT[r.item.schedule] || r.item.schedule)} ${escapeHtml(r.item.item_no)} — full item${r.rateLine ? ' · ' + escapeHtml(r.rateLine) : ''}</summary>${renderItemAnswer(r.item)}</details>`;
+    }
+    h += renderSections(r.sections);
+    if (r.alts && r.alts.length) h += `<div class="ans-h">Related items</div><div class="ans-alts">${r.alts.map(itemChip).join('')}</div>`;
+    h += followChips(r.follow);
+    if (r.item) h += `<div class="answer-sources">Answer built from the schedule item and its explanation in this app. The schedule's own description, notes and specification prevail.</div>`;
+    return h;
+  }
+  function renderCompare(r) {
+    let h = `<div class="answer-lead ans-direct">${escapeHtml(r.lead)}</div><ul class="ans-points">${r.points.map((p) => `<li>${escapeHtml(p)}</li>`).join('')}</ul>`;
+    if (r.uses && r.uses.length) h += `<div class="ans-sec"><div class="ans-h">Where each is used</div><ul>${r.uses.map((u) => `<li><b>${escapeHtml(u[0])}</b> — ${escapeHtml(u[1])}</li>`).join('')}</ul></div>`;
+    h += `<div class="ans-alts">${itemChip(r.a)}${itemChip(r.b)}</div>`;
+    return h + followChips(r.follow);
+  }
+  function renderList(r) {
+    return `<div class="answer-lead ans-direct">${escapeHtml(r.lead)}</div><div class="ans-alts">${r.list.map(itemChip).join('')}</div>`;
+  }
+
   function renderAnswer(result) {
+    if (result.type === 'composed') return renderComposed(result);
+    if (result.type === 'compare') return renderCompare(result);
+    if (result.type === 'list') return renderList(result);
     if (result.type === 'item') return renderItemAnswer(result.item);
     if (result.type === 'closest_item') return renderItemAnswer(result.item, { closest: true });
     if (result.type === 'note') return renderNoteAnswer(result.note);
@@ -205,6 +251,13 @@
     row.appendChild(card);
     conversation.appendChild(row);
 
+    card.querySelectorAll('[data-q]').forEach((b) => b.addEventListener('click', () => { questionInput.value = b.dataset.q; submitQuestion(); }));
+    card.querySelectorAll('[data-pick]').forEach((b) => b.addEventListener('click', () => {
+      const it = b.querySelector('.ans-alt-no');
+      addUserBubble(it ? it.textContent : 'This item');
+      const id = isNaN(Number(b.dataset.pick)) ? b.dataset.pick : Number(b.dataset.pick);
+      addAnswerBubble(engine.pick ? engine.pick(id) : { type: 'none' });
+    }));
     const toggle = card.querySelector('.breakdown-toggle');
     if (toggle) {
       toggle.addEventListener('click', () => {
@@ -257,6 +310,7 @@
     conversation.querySelectorAll('.msg-row').forEach((row) => row.remove());
     if (welcome) welcome.hidden = false;
     if (composerHint) composerHint.textContent = HINT_FIRST;
+    if (engine && engine.reset) engine.reset();
     questionInput.value = '';
     questionInput.style.height = 'auto';
     conversation.scrollTop = 0;
@@ -284,12 +338,13 @@
 
   function ensureStarted() {
     if (started || !pendingItems) return;
-    engine = window.createDoubtEngine(pendingItems, pendingMeta, window.DOUBT_NOTES || []);
+    engine = window.createDoubtBrain ? window.createDoubtBrain(pendingItems, pendingMeta, window.DOUBT_NOTES || [], pendingExpl || [])
+      : window.createDoubtEngine(pendingItems, pendingMeta, window.DOUBT_NOTES || []);
     started = true;
     init();
   }
   window.DoubtUI = {
-    setData(items, meta) { pendingItems = items; pendingMeta = meta; },
+    setData(items, meta, expl) { pendingItems = items; pendingMeta = meta; pendingExpl = expl; },
     open(prefill) {
       ensureStarted();
       if (prefill) {

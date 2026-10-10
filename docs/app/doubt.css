@@ -360,3 +360,23 @@
 body.tab-ds #form, body.tab-ds main.wrap { display: none; }
 body:not(.tab-ds) #ds { display: none; }
 .act.ask-btn { color: var(--accent-dark); }
+
+/* ---- composed answers (doubt-brain.js) ---- */
+#ds .ans-direct { font-size: 15px; font-weight: 600; line-height: 1.5; }
+#ds .ans-points { margin: 8px 0 4px; padding-left: 20px; font-size: 13.5px; line-height: 1.5; }
+#ds .ans-points li { margin: 3px 0; }
+#ds .tag-basis { background: var(--chip, #eef2f0); color: var(--text-muted); font-size: 10.5px; font-weight: 500; padding: 1px 7px; border-radius: 999px; white-space: nowrap; }
+#ds .ans-sec { margin-top: 10px; font-size: 13.5px; line-height: 1.5; }
+#ds .ans-sec p { margin: 2px 0; }
+#ds .ans-sec ul { margin: 2px 0; padding-left: 20px; }
+#ds .ans-h { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: var(--accent-dark); margin: 12px 0 4px; }
+#ds .ans-item { margin-top: 10px; border: 1px solid var(--border); border-radius: 10px; padding: 6px 10px; background: var(--surface); }
+#ds .ans-item > summary { cursor: pointer; font-size: 12.5px; font-weight: 600; color: var(--accent-dark); padding: 2px 0; }
+#ds .ans-item[open] > summary { margin-bottom: 6px; }
+#ds .ans-alts { display: flex; flex-direction: column; gap: 6px; margin-top: 6px; }
+#ds .ans-alt { display: grid; grid-template-columns: 1fr auto; gap: 2px 10px; text-align: left; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 8px 10px; cursor: pointer; font: inherit; color: var(--text); }
+#ds .ans-alt:hover { border-color: #bfe3d2; background: var(--accent-soft); }
+#ds .ans-alt-no { font-family: ui-monospace, monospace; font-size: 12px; font-weight: 700; color: var(--accent-dark); }
+#ds .ans-alt-r { grid-row: 1 / span 2; grid-column: 2; align-self: center; font-weight: 700; font-size: 13px; white-space: nowrap; }
+#ds .ans-alt-d { font-size: 12.5px; color: var(--text-muted); line-height: 1.35; }
+#ds .ans-follow { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }

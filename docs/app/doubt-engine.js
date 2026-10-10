@@ -433,10 +433,11 @@ function createQaEngine(items, metaIn, notesIn) {
     return { type: 'none' };
   }
 
-  return { meta, ask };
+  return { meta, ask, search: searchEngine.search };
 }
 
 
 
 window.createDoubtEngine = createQaEngine;
+window.__doubtScheduleHint = detectScheduleHint;
 })();
