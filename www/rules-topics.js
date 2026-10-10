@@ -29,10 +29,12 @@ window.WBSR_TOPICS = [
       'It must not be used to get round the rules on charge of office, start / end of leave or return to duty, or to extend any leave beyond what is admissible. [I:207]',
       'If you take half-a-day CL in the afternoon with no CL left and cannot rejoin the next working day, the last half-day CL for that afternoon is not allowed. [I:167]',
       'Special casual leave (sportsmen, delegates to association meetings etc.) can be combined with CL, but CL is not combined with both special CL and regular leave together. [I:167]',
-      'The number of days and other instructions are in Government\'s general instructions (Appendix No. 10), which is not part of this copy. [I:207]'
+      'You get 14 days of casual leave in a calendar year, normally not more than 7 days at a time (Sundays and holidays in between count), unless very special circumstances are recorded in writing. [A:cl14]',
+      'Half-day CL can be taken for the forenoon or afternoon session; not on a day the office is not held for the full day. No daily allowance for CL taken while on tour. [A:cl14]',
+      'Apply for CL through HRMS (from 15.03.2024). [A:hrms]'
     ],
-    cite: ['I:207', 'I:167', 'I:166'],
-    note: 'The yearly number of CL days is fixed by Government orders, not by these rules.'
+    cite: ['I:207', 'I:167', 'I:166'], am: ['cl14', 'hrms'],
+    note: ''
   },
   {
     id: 'earned', t: 'Earned leave (EL)',
@@ -41,12 +43,14 @@ window.WBSR_TOPICS = [
       'In a non-vacation department, EL is credited in advance in two instalments of 15 days each, on 1 January and 1 July. [I:169]',
       'In the half-year you join, credit is 2½ days per completed calendar month you are likely to serve; in the half-year you retire / resign, 2½ days per completed month up to that date. [I:170]',
       'Extraordinary leave / dies non in a half-year reduces the next credit by 1/10 of that period (maximum 15 days). [I:170]',
-      'Accumulation limit in this copy: 240 days. Maximum EL at one time: 120 days (up to 240 days if the leave is spent outside India and the neighbouring countries named). [I:169]',
+      'Earned leave can be accumulated up to 300 days (the book says 240; raised by Memo 4625-F dt. 26.05.1999). [A:el300]',
+      'Maximum EL at one time: 120 days (up to 240 days if the leave is spent outside India and the neighbouring countries named). [I:169]',
+      'Unused EL is paid as cash on retirement / death / invalidation up to 300 days; on resignation, half the EL at credit up to 150 days. [A:el300]',
       'Leave salary during EL = full pay with increments falling due and DA / other allowances. [I:176]',
       'Vacation departments earn EL differently (in proportion to vacation not availed). [I:171] [I:172]'
     ],
-    cite: ['I:169', 'I:170', 'I:176', 'I:171'],
-    note: 'Accumulation / encashment limits have been revised by later Finance Department orders — confirm the current limit.'
+    cite: ['I:169', 'I:170', 'I:176', 'I:171'], am: ['el300', 'hrms'],
+    note: ''
   },
   {
     id: 'hpl', t: 'Half-pay leave, commuted leave and leave not due',
@@ -55,10 +59,10 @@ window.WBSR_TOPICS = [
       'Half-pay leave (HPL): 20 days for each completed year of service; taken on medical certificate or on private affairs. [I:173]',
       'Commuted leave: up to half of the HPL due, on medical certificate; twice the commuted days are debited from HPL; full leave salary (twice HPL salary). [I:173] [I:176]',
       'Up to 180 days of HPL in the whole service can be commuted without medical certificate for an approved course of study in public interest (bond needed). [I:173]',
-      'Leave not due is an advance of HPL; if you resign / retire before earning it back, leave salary for the unearned part is recovered (not if retirement is for ill-health or on death). [I:173]',
+      'Leave not due is an advance of HPL — up to 360 days in the whole service (without medical certificate: 90 days at a time, 180 days in all). If you resign / retire before earning it back, leave salary for the unearned part is recovered (not if retirement is for ill-health or on death). [A:lnd] [I:173]',
       'Leave salary during HPL / leave not due = half pay plus DA and allowances as ordered. [I:176]'
     ],
-    cite: ['I:173', 'I:176', 'I:166'],
+    cite: ['I:173', 'I:176', 'I:166'], am: ['lnd'],
     note: ''
   },
   {
@@ -76,27 +80,28 @@ window.WBSR_TOPICS = [
   },
   {
     id: 'maternity', t: 'Maternity leave',
-    kw: ['maternity', 'maternity leave', 'pregnancy', 'pregnant', 'delivery', 'miscarriage', 'abortion', 'child birth', 'childbirth', 'baby', 'female employee', 'child care leave', 'ccl', 'paternity'],
+    kw: ['maternity', 'maternity leave', 'pregnancy', 'pregnant', 'delivery', 'miscarriage', 'abortion', 'child birth', 'childbirth', 'baby', 'female employee'],
     a: [
-      'A female Government employee may be granted maternity leave — 90 days from the date it starts in this copy of the rules — on leave salary equal to pay drawn on earned leave. [I:199]',
+      'A female Government employee may be granted maternity leave for a maximum of 180 days (from 01.01.2011; the book prints 90), on leave salary equal to pay drawn on earned leave. [A:mat180] [I:199]',
       'For miscarriage / abortion (including MTP Act cases): up to 6 weeks on a medical certificate. [I:199]',
       'It can be combined with any other leave; up to 60 days of other leave (including commuted leave) in continuation can be granted without medical certificate; further leave needs a medical certificate, and may also be given for the illness of the newborn. [I:199]',
-      'Maternity leave is not debited to the leave account. [I:199]'
+      'Maternity leave is not debited to the leave account. [I:199]',
+      'After it, Child Care Leave (up to 730 days in service) can also be taken for children below 18. [A:ccl]'
     ],
-    cite: ['I:199'],
-    note: 'Maternity leave duration and Child Care Leave / paternity leave have been provided or revised by later Finance Department notifications that are not in this copy — check the latest order.'
+    cite: ['I:199'], am: ['mat180', 'ccl', 'adopt'],
+    note: ''
   },
   {
     id: 'lpr', t: 'Leave before retirement and leave encashment',
     kw: ['leave preparatory to retirement', 'lpr', 'encashment', 'encash', 'cash equivalent', 'leave salary on retirement', 'retirement leave', 'refused leave', 'death leave salary', 'invalidation'],
     a: [
-      'Leave preparatory to retirement: EL due (up to 240 days) together with HPL due, provided it runs up to and includes the date of retirement; it cannot include EOL. [I:168]',
-      'On death in service, the family gets the cash equivalent of leave salary for the EL due (max 240 days) plus DA and medical allowance, without reduction for pension equivalent; order of payment: widow / widower, then children, then mother, then father. [I:168B]',
+      'Leave preparatory to retirement: EL due (now up to 300 days) together with HPL due, provided it runs up to and includes the date of retirement; it cannot include EOL. [I:168]',
+      'On death in service, the family gets the cash equivalent of leave salary for the EL due (now max 300 days) plus DA and medical allowance, without reduction for pension equivalent; order of payment: widow / widower, then children, then mother, then father. [I:168B]',
       'If declared permanently incapacitated, cash equivalent of leave due may be granted (not beyond the normal superannuation date). [I:168C]',
-      'Cash equivalent on retirement is in rule 168A (referred to in these rules; its own text is incomplete in this copy). [I:168]'
+      'On superannuation you get cash for unused EL up to 300 days; on resignation, half the EL at credit up to 150 days. [A:el300]'
     ],
-    cite: ['I:168', 'I:168B', 'I:168C'],
-    note: 'The 240-day ceiling has been revised by later orders — confirm the current limit.'
+    cite: ['I:168', 'I:168B', 'I:168C'], am: ['el300'],
+    note: ''
   },
   {
     id: 'joining', t: 'Joining time on transfer',
@@ -116,10 +121,11 @@ window.WBSR_TOPICS = [
     kw: ['retirement', 'retire', 'superannuation', 'retirement age', 'age of retirement', 'date of retirement', '58', '60 years', 'date of birth'],
     a: [
       'Retirement is from the afternoon of the last day of the month in which you reach the prescribed age; if born on the 1st of a month, from the last day of the previous month. [I:75] [I:166]',
-      'This copy prints 58 years (other than Group D), with a proviso that a higher age up to 60 applies where fixed by Government orders. [I:75]'
+      'The age of superannuation is 60 years (raised from 58 by No. 3830-F dt. 15.05.1998). [A:retire60]',
+      'Some services (e.g. teachers, doctors) have their own higher age under separate orders.'
     ],
-    cite: ['I:75', 'I:166'],
-    note: 'The present retirement age is set by later Government orders (the proviso allows up to 60) — confirm with your office.'
+    cite: ['I:75', 'I:166'], am: ['retire60'],
+    note: ''
   },
   {
     id: 'suspension', t: 'Suspension and subsistence allowance',
@@ -152,9 +158,10 @@ window.WBSR_TOPICS = [
       'Any kind of leave may be combined with any other, except where the rules say otherwise (casual leave cannot be combined). [I:167]',
       'Holidays may be prefixed / suffixed to leave as allowed by rule 155 and 157. [I:155] [I:157]',
       'Group A leave is sanctioned by the authority competent to fill the post; Group B, C, D by the authorities named in rule 152. [I:151] [I:152]',
-      'If recalled from leave, the recall is treated as compulsory: you are on duty from the day you start, with TA for the journey. [I:158] [II:125]'
+      'If recalled from leave, the recall is treated as compulsory: you are on duty from the day you start, with TA for the journey. [I:158] [II:125]',
+      'Leave is now applied for and sanctioned through HRMS. [A:hrms]'
     ],
-    cite: ['I:153', 'I:167', 'I:155', 'I:157', 'I:151', 'I:152', 'I:158', 'II:125'],
+    cite: ['I:153', 'I:167', 'I:155', 'I:157', 'I:151', 'I:152', 'I:158', 'II:125'], am: ['hrms'],
     note: ''
   },
   {
@@ -175,11 +182,12 @@ window.WBSR_TOPICS = [
       'Daily allowance is a uniform allowance for each day of absence from headquarters to cover ordinary daily charges. [II:55]',
       'You are on tour when absent on duty from headquarters within, or with sanction beyond, your sphere of duty. [II:63]',
       'For absence under 24 hours: up to 6 hours — nil; 6 to 12 hours — 70%; over 12 hours — full DA. Each calendar day counts separately. [II:71A]',
-      'After a continuous halt of 30 days, the halting place becomes temporary headquarters. [II:74]',
-      'The rate scale is in rule 57 (by pay range and place). [II:57]'
+      'Rates (Memo 4730-F, from 01.06.1999), staying in Govt guest house / dak bungalow / own arrangement — ordinary place / Kolkata & Darjeeling district: pay Rs 16,400+: Rs 135 / 260; Rs 8,000–16,399: 120 / 230; Rs 6,500–7,999: 105 / 200; Rs 4,100–6,499: 90 / 170; below 4,100: 55 / 105. In a hotel at scheduled tariff: 335 / 650; 225 / 505; 200 / 380; 130 / 245; 65 / 125. [A:ta1999]',
+      'Continuous halt at one place: full DA for 60 days, half from day 61 to 180, nil after that. [A:ta1999]',
+      'No DA for casual leave taken while on tour. [A:cl14]'
     ],
-    cite: ['II:55', 'II:63', 'II:71A', 'II:74', 'II:57'],
-    note: 'The money rates printed in rule 57 are old; current DA rates are notified by the Finance Department.'
+    cite: ['II:55', 'II:63', 'II:71A', 'II:74', 'II:57'], am: ['ta1999'],
+    note: 'The pay ranges are of the 1998 pay scales; ask your DDO for the equivalent at your present pay level.'
   },
   {
     id: 'training', t: 'TA / DA for training',
@@ -198,10 +206,11 @@ window.WBSR_TOPICS = [
       'On transfer in public interest you get fares for yourself and family members, a transfer grant by pay range, and carriage of personal effects as prescribed. [II:100]',
       'If allowed to hand / take over charge away from headquarters: tour-rate TA for those journeys plus transfer grant and family / effects TA. [II:106]',
       'Family following within six months is covered as provided in rule 105. [II:105]',
-      'Transfer TA is only for transfer in public convenience; a transfer at your own request is not public convenience unless the sanctioning authority records special reasons. [II:99]'
+      'Transfer TA is only for transfer in public convenience; a transfer at your own request is not public convenience unless the sanctioning authority records special reasons. [II:99]',
+      'Lump-sum transfer grant / packing allowance (Memo 4730-F): pay Rs 16,400+: Rs 2,250 / 1,500; 8,000–16,399: 1,800 / 1,200; 6,500–7,999: 1,350 / 900; 4,100–6,499: 900 / 675; below 4,100: 675 / 675. Full only if residence changes and the new station is over 20 km away; otherwise one-third. [A:ta1999]'
     ],
-    cite: ['II:100', 'II:105', 'II:106', 'II:99'],
-    note: 'Money limits printed in these rules are old; check current Finance Department rates.'
+    cite: ['II:100', 'II:105', 'II:106', 'II:99'], am: ['ta1999'],
+    note: 'The pay ranges are of the 1998 pay scales; ask your DDO for the equivalent at your present pay level.'
   },
   {
     id: 'exam', t: 'TA for departmental examinations',
@@ -253,5 +262,50 @@ window.WBSR_TOPICS = [
     ],
     cite: ['I:17', 'I:18', 'I:97', 'I:98', 'I:145'],
     note: ''
+  },
+  {
+    id: 'ccl', t: 'Child Care Leave (CCL)',
+    kw: ['child care leave', 'child care', 'ccl', 'c.c.l', 'care of child', 'children', 'child exam', 'sick child', 'adopted child'],
+    a: [
+      'Female employees can take Child Care Leave up to 730 days (2 years) in the whole service, for up to two children below 18 years — for rearing, examinations, sickness etc. [A:ccl]',
+      'Full pay (the pay drawn just before the leave); not debited to your leave account; can be combined with other leave. [A:ccl]',
+      'Not more than 3 spells in a calendar year and not less than 15 days a spell; not ordinarily during probation. [A:ccl]',
+      'Also admissible for a legally adopted child (from 01.03.2013). [A:cclad]',
+      'Apply through HRMS. [A:hrms]'
+    ],
+    cite: ['I:199', 'I:166'], am: ['ccl', 'cclad', 'hrms'],
+    note: ''
+  },
+  {
+    id: 'paternity', t: 'Paternity-cum-Child Care Leave (male employees)',
+    kw: ['paternity', 'paternity leave', 'father', 'male employee child', 'parent cum child care', 'paternity cum child care'],
+    a: [
+      'Male employees with less than two surviving children get 30 days of Paternity-cum-Child Care Leave, usable at childbirth and any time until the child is 18. [A:pat]',
+      'Full pay (pay drawn just before the leave); can be combined with any other leave; not debited to the leave account. [A:pat]'
+    ],
+    cite: ['I:199'], am: ['pat'],
+    note: ''
+  },
+  {
+    id: 'adoption', t: 'Child Adoption Leave',
+    kw: ['adoption', 'adopt', 'adopted', 'child adoption leave'],
+    a: [
+      'A female employee with less than two surviving children who adopts a child below 1 year gets 135 days of Child Adoption Leave on full pay. [A:adopt]',
+      'Then other leave due may be taken up to one year or till the child turns one (whichever is earlier); up to 60 days of leave not due / commuted leave need no medical certificate. [A:adopt]',
+      'Child Care Leave is also admissible for a legally adopted child. [A:cclad]'
+    ],
+    cite: ['I:199'], am: ['adopt', 'cclad'],
+    note: ''
+  },
+  {
+    id: 'ltc', t: 'LTC and Home Travel Concession (HTC)',
+    kw: ['ltc', 'htc', 'leave travel concession', 'home travel concession', 'home town', 'travel concession', 'holiday travel'],
+    a: [
+      'LTC: once in 10 years, anywhere in India or to listed neighbouring countries. HTC: once in 5 years, anywhere in West Bengal. If both spouses are State employees only one may claim. [A:ltc]',
+      'Rail class from 01.12.2024: basic pay Rs 50,000 and above — AC 2-tier; below Rs 50,000 — AC 3-tier. [A:ltc]',
+      'The current LTC / HTC block that was to end on 31.10.2025 is extended up to 31.10.2026. [A:ltc]'
+    ],
+    cite: [], am: ['ltc'],
+    note: 'LTC / HTC is governed by Finance Department orders, not by the WBSR text itself.'
   }
 ];

@@ -1,10 +1,10 @@
 {
   "web": {
-    "version": 2026101003,
-    "notes": "New Service Rules tab: search and ask about WBSR Part I & II",
-    "sha256": "d21b5687e8caf00c06d24a6c81b2ede7854802dd536cebbc32cf7b98aa015f86",
+    "version": 2026101101,
+    "notes": "Service Rules updated with later Finance Department orders (retirement 60, EL 300 days, maternity 180, CCL, paternity, adoption, CL, HRMS, TA/DA, LTC)",
+    "sha256": "d14b37f4eb947db6958f9005e448e216045f17e320111002b4df7a13dff60e74",
     "min_build": 0,
-    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026101003.zip",
-    "published": "2026-10-10T18:41:39.345Z"
+    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026101101.zip",
+    "published": "2026-10-10T19:39:14.707Z"
   }
 }
