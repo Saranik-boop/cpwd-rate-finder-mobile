@@ -110,6 +110,7 @@
     <nav class="tabs" role="tablist" aria-label="Sections">
       <button type="button" role="tab" id="tabRf" class="on" aria-selected="true" data-tab="rf">Rate Finder</button>
       <button type="button" role="tab" id="tabDs" aria-selected="false" data-tab="ds">Doubt Solver</button>
+      <button type="button" role="tab" id="tabSr" aria-selected="false" data-tab="sr">Service Rules</button>
     </nav>
     <form id="form" autocomplete="off">
       <div class="inputs">
@@ -151,6 +152,27 @@
   <div id="list" class="list" hidden></div>
   <footer class="foot">Designed by Saranik (Arya) · <span class="tag">TCD1</span></footer>
 </main>
+<!-- ============ SERVICE RULES TAB (WBSR Part I & II) ============ -->
+<section id="sr" class="wrap" role="tabpanel" aria-labelledby="tabSr">
+  <div class="sr-head">
+    <div class="brand-mark sr-mark">§</div>
+    <div><h2>Service Rules</h2><p>West Bengal Service Rules · Part I &amp; Part II · <span id="srCount"></span></p></div>
+  </div>
+  <form id="srForm" class="sr-form" autocomplete="off">
+    <div class="inp sr-inp">
+      <input id="srQ" type="search" enterkeyhint="search" placeholder="Search a word or ask, e.g. can I get study leave for PhD?">
+      <button type="button" class="clr" id="srClr" aria-label="Clear" hidden>×</button>
+    </div>
+    <div class="sr-books"><button type="button" class="chip-btn active" data-book="">Both parts</button><button type="button" class="chip-btn" data-book="I">Part I (pay, leave…)</button><button type="button" class="chip-btn" data-book="II">Part II (TA / DA)</button></div>
+  </form>
+  <div id="srIntro" class="sr-intro">
+    <p>Type a topic like <b>casual leave</b> or ask a question. You get a short answer for common doubts with the rules it comes from, and every matching rule in full below.</p>
+    <div class="sr-ex" id="srEx"></div>
+  </div>
+  <div id="srRes" class="sr-res"></div>
+  <p class="sr-disc">Text as printed in the WBSR compendium copy in this app. Later Finance Department notifications may have changed some limits and amounts; confirm with the latest order before acting.</p>
+  <footer class="foot">Designed by Saranik (Arya) · <span class="tag">TCD1</span></footer>
+</section>
 <!-- ============ DOUBT SOLVER TAB (desktop CPWD Doubt Solver 1.1.0, same behaviour) ============ -->
 <section id="ds" class="wrap" role="tabpanel" aria-labelledby="tabDs">
   <header class="topbar">
@@ -264,6 +286,9 @@
 <script src="doubt-engine.js"></script>
 <script src="doubt-brain.js"></script>
 <script src="doubt-ui.js"></script>
+<script src="rules-data.js"></script>
+<script src="rules-topics.js"></script>
+<script src="rules-ui.js"></script>
 <script src="search-ui.js"></script>
 <script src="gate.js"></script>
 <script src="pwa.js"></script>

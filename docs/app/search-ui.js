@@ -473,14 +473,15 @@ window.startSearch = function (items, meta, expl) {
   }
 
   // ---------- Rate Finder / Doubt Solver tabs (each tab keeps its own typing, results and scroll position) ----------
-  var tabScroll = { rf: 0, ds: 0 }, curTab = 'rf';
+  var tabScroll = { rf: 0, ds: 0, sr: 0 }, curTab = 'rf';
   function showTab(tab) {
     if (tab === curTab) return;
     tabScroll[curTab] = window.scrollY;
     curTab = tab;
     document.body.classList.toggle('tab-ds', tab === 'ds');
-    ['rf', 'ds'].forEach(function (k) {
-      var b = $(k === 'rf' ? 'tabRf' : 'tabDs'); if (!b) return;
+    document.body.classList.toggle('tab-sr', tab === 'sr');
+    ['rf', 'ds', 'sr'].forEach(function (k) {
+      var b = $(k === 'rf' ? 'tabRf' : k === 'ds' ? 'tabDs' : 'tabSr'); if (!b) return;
       b.classList.toggle('on', k === tab); b.setAttribute('aria-selected', k === tab ? 'true' : 'false');
     });
     if (tab === 'ds' && window.DoubtUI) window.DoubtUI.open();
