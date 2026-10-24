@@ -1,6 +1,6 @@
 // Offline helper. Only caches this app's own files; access checks with the server always go to the network.
-const CACHE = 'cpwd-469ab8d829ba';
-const FILES = ["./","index.html","app.css","capacitor.js","config.js","data.enc","diagram-kit.js","diagram-view.js","diagrams.js","diagrams2.js","doubt-brain.js","doubt-engine.js","doubt-notes.js","doubt-ui.js","doubt.css","fuse.js","gate.css","gate.js","rules-amend.js","rules-data.js","rules-topics.js","rules-ui.js","schedules.js","search-ui.js","updater.js","usage.js","version.js","manifest.webmanifest","apple-touch-icon.png","icon-192.png","pwa.js"];
+const CACHE = 'cpwd-34dd57e3e190';
+const FILES = ["./","index.html","app.css","capacitor.js","config.js","data.enc","diagram-kit.js","diagram-map.js","diagram-view.js","diagrams.js","diagrams2.js","diagrams3.js","doubt-brain.js","doubt-engine.js","doubt-notes.js","doubt-ui.js","doubt.css","fuse.js","gate.css","gate.js","rules-amend.js","rules-data.js","rules-topics.js","rules-ui.js","schedules.js","search-ui.js","updater.js","usage.js","version.js","manifest.webmanifest","apple-touch-icon.png","icon-192.png","pwa.js"];
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(FILES)).then(() => self.skipWaiting()));
 });

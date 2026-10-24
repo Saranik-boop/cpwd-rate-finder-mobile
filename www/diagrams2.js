@@ -144,11 +144,11 @@
   // ---------------- sanitary fittings ----------------
   def('sanitary', 'Toilet: WC, cistern, wash basin and traps', {
     cistern: /cistern|flushing|flush valve|flush pipe/i, basin: /wash ?basin|lavatory|basin|sink/i, seat: /\bseat\b/i,
-    trap: /trap|nahani|gully|floor drain/i, mirror: /mirror|towel|soap|shelf|grab/i, urinal: /urinal/i,
+    tap: /pillar cock|bib ?cock|\btaps?\b|faucet|\bjet\b|shower|mixer|stop ?cock|angle valve/i, trap: /trap|nahani|gully|floor drain|waste|\bplug\b|coupling|bottle/i, mirror: /mirror|towel|soap|shelf|grab/i, urinal: /urinal/i,
     wc: /w\.?c\.?|water closet|commode|pan|orissa|squatting/i
   }, 'wc', function () {
     var s = S({ az: 34, el: 30 });
-    s.pill = { wc: 'Water closet (WC)', cistern: 'Flushing cistern', basin: 'Wash basin', trap: 'Floor trap', mirror: 'Mirror / accessories', seat: 'WC seat & cover', urinal: 'Urinal' };
+    s.pill = { wc: 'Water closet (WC)', cistern: 'Flushing cistern', basin: 'Wash basin', tap: 'Tap / pillar cock', trap: 'Floor trap', mirror: 'Mirror / accessories', seat: 'WC seat & cover', urinal: 'Urinal' };
     s.box(0, 60, -4, 220, 100, 4, { c: '#d9dfe3' });
     s.box(-6, 160, -4, 232, 6, 160, { c: '#e7ecef' });
     s.box(-6, 20, -4, 6, 146, 160, { c: '#dfe5e8' });
@@ -161,7 +161,7 @@
     // basin
     s.box(150, 120, 80, 56, 40, 14, { c: M.white, k: 'basin' });
     s.box(156, 124, 90, 44, 30, 4.5, { c: '#c7d8e0', k: 'basin' });
-    s.cyl('z', [178, 152, 94], 2, 14, { c: '#d8dde2', k: 'basin' });
+    s.cyl('z', [178, 152, 94], 2, 14, { c: '#d8dde2', k: 'tap' }); s.box(176, 140, 106, 4, 14, 2, { c: '#d8dde2', k: 'tap' });
     s.cyl('z', [178, 140, 30], 3, 50, { c: '#c9ced3', k: 'trap' });
     s.box(156, 158, 112, 44, 2, 40, { c: '#bcd3e0', k: 'mirror' });
     s.box(0, 30, 50, 16, 26, 48, { c: M.white, k: 'urinal' });
@@ -173,6 +173,7 @@
     s.lab('seat', [60, 115, 43], -70, -20, 'Seat & cover', 'Plastic seat with lid (often a separate item)');
     s.lab('cistern', [60, 140, 80], 20, -70, 'Flushing cistern', 'Low / high level cistern with flush pipe');
     s.lab('basin', [178, 120, 87], 60, 20, 'Wash basin', 'With brackets, waste and pillar tap (check item)');
+    s.lab('tap', [178, 146, 108], 50, -60, 'Pillar cock', 'Tap on the basin');
     s.lab('trap', [178, 140, 40], 60, 50, 'Waste & trap', 'Bottle trap / waste pipe to the floor trap');
     s.lab('trap', [120, 80, 1], 20, 60, 'Floor trap', 'Nahani trap with grating');
     s.lab('mirror', [178, 157, 140], 50, -40, 'Mirror', 'Accessories are separate items');
@@ -287,7 +288,7 @@
 
   // ---------------- bank protection: geo-bags & porcupines ----------------
   def('bank_protection', 'River bank protection: geo-bags and bamboo porcupines', {
-    porcupine: /porcupine|bamboo|ballah|screen|spur/i, bag: /geo.?bag|sand ?bag|bag|cement bag|e\.?c\.? bag|geo.?tube/i, bank: /earth|bank|embankment/i
+    bag: /geo.?bags?|sand ?bags?|\bbags?\b|gunny|geo.?tube/i, porcupine: /porcupine|bamboo|ballah|bullah|jhaw|eucalyptus|\bpins?\b|wailing|dip trees?|darma|\bmats?\b|brush ?wood|screen|spur/i, bank: /earth|bank|embankment/i
   }, 'bag', function () {
     var s = S({ az: 26, el: 26 });
     s.pill = { bag: 'Sand / geo-bags', porcupine: 'Bamboo porcupines' };

@@ -1,10 +1,10 @@
 {
   "web": {
-    "version": 2026102401,
-    "notes": "13 new 3D drawings: rolling shutter, boundary wall & gate, staircase, water pipes & valves, toilet fittings, water tank, wall tiles, lintel & chajja, pitching, geo-bags & porcupines, box culvert, tube well, fencing",
-    "sha256": "2ab583ccb9a9144e83049680c449b26450d7f7c32153e26e51a7252aeaf0464f",
+    "version": 2026102402,
+    "notes": "Drawings for every item: 26 new base drawings, each item's own part highlighted",
+    "sha256": "654c618770c5b36f9925563854ff08666d78074cc5a1180ded16eb6205a0346f",
     "min_build": 0,
-    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026102401.zip",
-    "published": "2026-10-24T08:48:13.177Z"
+    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026102402.zip",
+    "published": "2026-10-24T13:16:40.865Z"
   }
 }
