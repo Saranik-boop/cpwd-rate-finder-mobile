@@ -128,7 +128,7 @@ with sync_playwright() as p:
     ok('approved phone unlocks and search works', '399.45' in A.inner_text('#list'))
     A.locator('.ra-btn').first.click()
     ok('rate analysis still works', A.locator('.p-ra').first.is_visible())
-    ok('footer TCD1 still there', A.locator('#app .foot .tag').inner_text() == 'TCD1')
+    ok('footer TCD1 still there', A.locator('#app .foot .tag').first.inner_text() == 'TCD1')
     tokA = A.evaluate("localStorage.getItem('cpwd.token')")
     ok('access token stored after approval', tokA and len(tokA) > 30)
     A.reload(); wait_screen(A, '#app')
