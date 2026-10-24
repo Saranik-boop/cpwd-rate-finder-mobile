@@ -265,7 +265,14 @@ window.startSearch = function (items, meta, expl) {
     if (e.c && e.c.length) h += '<h4>Codes &amp; specifications</h4><p>' + e.c.map(esc).join(' · ') + '</p>';
     if (e.s && e.s.length) h += '<h4>Site notes</h4><ul>' + e.s.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul>';
     if (e.v) h += '<h4>Sub-items</h4><p>' + esc(e.v) + '</p>';
-    var fig = e.d && window.DiagramView ? window.DiagramView.figure(e.d, it.description) : '';
+    var did = e.d || '';
+    if (window.pickDiagram && !(e.generic && isBasic(it))) {
+      var main = String(it.description || '').split(/\b(?:including|incl\.|complete)\b/i)[0];
+      var strong = window.pickDiagram(main);
+      if (strong && /^(rolling_shutter|sanitary|water_tank|tube_well)$/.test(strong)) did = strong;
+      else if (!did) did = window.pickDiagram(it.description);
+    }
+    var fig = did && window.DiagramView ? window.DiagramView.figure(did, it.description) : '';
     if (fig) h += '<h4>Drawing</h4>' + fig;
     return h + '</div>';
   }
