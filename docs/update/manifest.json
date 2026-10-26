@@ -1,10 +1,10 @@
 {
   "web": {
-    "version": 2026102602,
-    "notes": "Drawings: second full review — about 650 items moved to the right drawing and about 1,800 now highlight the right part; the 'this item' label never covers a number",
-    "sha256": "eef807c28a7dc72a6e0f789bfa12f0fa3ff97d43068b36df32896afef78c1404",
+    "version": 2026102603,
+    "notes": "Drawings: second full review — about 650 items moved to the right drawing and about 1,800 now highlight the right part; works on older iPhones",
+    "sha256": "2ed79f921ecc1c2b036f5cb53ab317ea23d52101094c31bde45985a76959dac6",
     "min_build": 0,
-    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026102602.zip",
-    "published": "2026-10-26T12:21:55.625Z"
+    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026102603.zip",
+    "published": "2026-10-26T12:22:34.481Z"
   }
 }

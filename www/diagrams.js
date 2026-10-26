@@ -272,7 +272,7 @@
   });
 
   def('plaster_layers', 'Plaster and finishes on a wall', {
-    paint: /paint|distemper|emulsion|white ?wash|colou?r ?wash|texture|snowcem|enamel/i, putty: /(?<!lime )putty|primer/i, plaster: /plaster|render|punning|rough cast|pebble/i
+    paint: /paint|distemper|emulsion|white ?wash|colou?r ?wash|texture|snowcem|enamel/i, putty: /^(?!.*lime putty).*(?:putty|primer)/i, plaster: /plaster|render|punning|rough cast|pebble/i
   }, 'plaster', function () {
     var s = S({ az: 32, el: 20 }), Hh = 80;
     s.box(0, 0, 0, 140, 23, Hh, { c: M.brick, k: 'masonry' });
