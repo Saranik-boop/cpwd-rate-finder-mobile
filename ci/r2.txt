@@ -1,0 +1,40 @@
+10-26 12:27:52.774  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 version native 3.1.0
+10-26 12:27:52.774  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 All delays canceled from checkCancelDelay
+10-26 12:27:52.775  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 AppLifecycleObserver registered with ProcessLifecycleOwner
+10-26 12:27:52.775  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Using ProcessLifecycleOwner for foreground/background detection (Android 14+)
+10-26 12:27:52.775  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 semaphoreUp
+10-26 12:27:52.775  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Cleanup complete
+10-26 12:27:52.775  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 handleOnStart: onActivityStarted com.saranik.cpwdratefinder.mobile.MainActivity
+10-26 12:27:52.775  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 ProcessLifecycleOwner: App moved to foreground
+10-26 12:27:52.776  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 All delays canceled from checkCancelDelay
+10-26 12:27:52.776  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Background timestamp unset
+10-26 12:27:52.776  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Auto update is disabled
+10-26 12:27:52.776  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 sendReadyToJs: disabled
+10-26 12:27:52.776  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Wait for 15000ms, then check for notifyAppReady
+10-26 12:27:52.856  4217  4217 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 93287790, pluginId: CapacitorUpdater, methodName: reportWebViewError
+10-26 12:27:52.856  4217  4217 V Capacitor: callback: 93287790, pluginId: CapacitorUpdater, methodName: reportWebViewError, methodData: {"type":"webview_unclean_restart","message":"WebView restarted without a clean page unload","previous_session_id":"1793017661648-k1h088asbpf","previous_href":"https:\/\/localhost\/","previous_started_at":"1793017661648","previous_updated_at":"1793017661648","href":"https:\/\/localhost\/","user_agent":"Mozilla\/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build\/AE3A.240806.043; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/124.0.6367.219 Mobile Safari\/537.36","session_id":"1793017672823-uog7rq9ez9d"}
+10-26 12:27:52.946  4217  4217 I Capacitor/Console: File: https://localhost/updater.js - Line 122 - Msg: WEBVER 2026102603
+10-26 12:27:52.947  4217  4217 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 26928988, pluginId: CapacitorUpdater, methodName: notifyAppReady
+10-26 12:27:52.947  4217  4217 V Capacitor: callback: 26928988, pluginId: CapacitorUpdater, methodName: notifyAppReady, methodData: {}
+10-26 12:27:52.947  4217  4217 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 26928989, pluginId: CapacitorUpdater, methodName: list
+10-26 12:27:52.947  4217  4217 V Capacitor: callback: 26928989, pluginId: CapacitorUpdater, methodName: list, methodData: {}
+10-26 12:27:52.947  4217  4274 I CapgoUpdater: 🟢 Version successfully loaded: 2026102603
+10-26 12:27:52.947  4217  4274 I CapgoUpdater: 🟢 Current bundle loaded successfully. ['notifyAppReady()' was called] {"id":"nmPFDSCgVA","version":"2026102603","downloaded":"2026-10-26T12:26:48.121+0000","checksum":"2ed79f921ecc1c2b036f5cb53ab317ea23d52101094c31bde45985a76959dac6","status":"success"}
+10-26 12:27:52.947  4217  4274 I CapgoUpdater: 🟢 semaphoreReady countDown
+10-26 12:27:52.948  4217  4274 I CapgoUpdater: 🟢 semaphoreDown
+10-26 12:27:52.948  4217  4274 I CapgoUpdater: 🟢 semaphoreDown count 0
+10-26 12:27:52.948  4217  4279 I CapgoUpdater: 🟢 semaphoreReady count 1
+10-26 12:27:52.948  4217  4279 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event appReady
+10-26 12:27:52.948  4217  4279 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event appReady
+10-26 12:27:52.948  4217  4274 I CapgoUpdater: 🟢 semaphoreReady countDown done
+10-26 12:27:52.954  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Version successfully loaded: 2026102603
+10-26 12:27:52.954  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Current bundle loaded successfully. ['notifyAppReady()' was called] {"id":"nmPFDSCgVA","version":"2026102603","downloaded":"2026-10-26T12:26:48.121+0000","checksum":"2ed79f921ecc1c2b036f5cb53ab317ea23d52101094c31bde45985a76959dac6","status":"success"}
+10-26 12:27:52.954  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 semaphoreReady countDown
+10-26 12:27:52.954  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 semaphoreDown
+10-26 12:27:52.954  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 semaphoreDown count 0
+10-26 12:27:52.954  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 semaphoreReady count 1
+10-26 12:27:52.954  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 semaphoreReady countDown done
+10-26 12:27:53.116  4217  4217 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 26928991, pluginId: CapacitorUpdater, methodName: reportWebViewError
+10-26 12:27:53.116  4217  4217 V Capacitor: callback: 26928991, pluginId: CapacitorUpdater, methodName: reportWebViewError, methodData: {"type":"webview_dom_content_loaded","message":"WebView DOM content loaded","duration_ms":"243","page_started_at":"1793017672872","href":"https:\/\/localhost\/","user_agent":"Mozilla\/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build\/AE3A.240806.043; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/124.0.6367.219 Mobile Safari\/537.36","session_id":"1793017672872-pe0hc2hx3b"}
+10-26 12:28:07.616  4217  4280 I CapgoUpdater: 🟢 notifyAppReady was called. This is fine: nmPFDSCgVA
+10-26 12:28:07.617  4217  4217 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 notifyAppReady was called. This is fine: nmPFDSCgVA

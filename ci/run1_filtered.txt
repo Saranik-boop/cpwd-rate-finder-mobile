@@ -1,0 +1,300 @@
+10-26 12:26:44.893  2603  2603 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 22225812, pluginId: SecureStoragePlugin, methodName: remove
+10-26 12:26:44.893  2603  2603 V Capacitor: callback: 22225812, pluginId: SecureStoragePlugin, methodName: remove, methodData: {"key":"last_ok"}
+10-26 12:26:44.924  2603  2603 I Capacitor/Console: File:  - Line 333 - Msg: {"value":true}
+10-26 12:26:44.932  2603  2735 D Capacitor: Sending plugin error: {"save":false,"callbackId":"22225809","pluginId":"SecureStoragePlugin","methodName":"remove","success":false,"error":{"message":"Item with given key does not exist"}}
+10-26 12:26:44.934  2603  2603 I Capacitor/Console: File:  - Line 333 - Msg: {"value":true}
+10-26 12:26:44.935  2603  2735 D Capacitor: Sending plugin error: {"save":false,"callbackId":"22225810","pluginId":"SecureStoragePlugin","methodName":"remove","success":false,"error":{"message":"Item with given key does not exist"}}
+10-26 12:26:44.935  2603  2603 E Capacitor/Console: File:  - Line 330 - Msg: [object Object]
+10-26 12:26:44.938  2603  2603 E Capacitor/Console: File:  - Line 330 - Msg: [object Object]
+10-26 12:26:44.938  2603  2735 D Capacitor: Sending plugin error: {"save":false,"callbackId":"22225811","pluginId":"SecureStoragePlugin","methodName":"remove","success":false,"error":{"message":"Item with given key does not exist"}}
+10-26 12:26:44.943  2603  2603 E Capacitor/Console: File:  - Line 330 - Msg: [object Object]
+10-26 12:26:44.945  2603  2735 D Capacitor: Sending plugin error: {"save":false,"callbackId":"22225812","pluginId":"SecureStoragePlugin","methodName":"remove","success":false,"error":{"message":"Item with given key does not exist"}}
+10-26 12:26:44.946  2603  2603 E Capacitor/Console: File:  - Line 330 - Msg: [object Object]
+10-26 12:26:44.946  2603  2603 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+10-26 12:26:44.946  2603  2603 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+10-26 12:26:44.947  2603  2603 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+10-26 12:26:44.947  2603  2603 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+10-26 12:26:44.947  2603  2603 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 22225813, pluginId: SecureStoragePlugin, methodName: get
+10-26 12:26:44.947  2603  2603 V Capacitor: callback: 22225813, pluginId: SecureStoragePlugin, methodName: get, methodData: {"key":"token"}
+10-26 12:26:44.947  2603  2603 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 22225814, pluginId: SecureStoragePlugin, methodName: get
+10-26 12:26:44.947  2603  2603 V Capacitor: callback: 22225814, pluginId: SecureStoragePlugin, methodName: get, methodData: {"key":"status"}
+10-26 12:26:44.948  2603  2603 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 22225815, pluginId: SecureStoragePlugin, methodName: get
+10-26 12:26:44.948  2603  2603 V Capacitor: callback: 22225815, pluginId: SecureStoragePlugin, methodName: get, methodData: {"key":"data_key"}
+10-26 12:26:44.948  2603  2603 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 22225816, pluginId: SecureStoragePlugin, methodName: get
+10-26 12:26:44.951  2603  2603 V Capacitor: callback: 22225816, pluginId: SecureStoragePlugin, methodName: get, methodData: {"key":"last_ok"}
+10-26 12:26:44.958  2603  2735 E Capacitor/Plugin: Item with given key does not exist
+10-26 12:26:44.958  2603  2735 E Capacitor/Plugin: java.lang.Exception: Item with given key does not exist
+10-26 12:26:44.958  2603  2735 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin._get(SecureStoragePluginPlugin.java:112)
+10-26 12:26:44.958  2603  2735 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin.get(SecureStoragePluginPlugin.java:48)
+10-26 12:26:44.958  2603  2735 E Capacitor/Plugin: 	at java.lang.reflect.Method.invoke(Native Method)
+10-26 12:26:44.958  2603  2735 E Capacitor/Plugin: 	at com.getcapacitor.PluginHandle.invoke(PluginHandle.java:138)
+10-26 12:26:44.958  2603  2735 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.lambda$callPluginMethod$0(Bridge.java:847)
+10-26 12:26:44.958  2603  2735 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.$r8$lambda$FNYM7cvgeBk0k8YXQH7M96Mrf-c(Unknown Source:0)
+10-26 12:26:44.958  2603  2735 E Capacitor/Plugin: 	at com.getcapacitor.Bridge$$ExternalSyntheticLambda0.run(D8$$SyntheticClass:0)
+10-26 12:26:44.958  2603  2735 E Capacitor/Plugin: 	at android.os.Handler.handleCallback(Handler.java:959)
+10-26 12:26:44.958  2603  2735 E Capacitor/Plugin: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+10-26 12:26:44.958  2603  2735 E Capacitor/Plugin: 	at android.os.Looper.loopOnce(Looper.java:232)
+10-26 12:26:44.958  2603  2735 E Capacitor/Plugin: 	at android.os.Looper.loop(Looper.java:317)
+10-26 12:26:44.958  2603  2735 E Capacitor/Plugin: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+10-26 12:26:44.958  2603  2735 D Capacitor: Sending plugin error: {"save":false,"callbackId":"22225813","pluginId":"SecureStoragePlugin","methodName":"get","success":false,"error":{"message":"Item with given key does not exist"}}
+10-26 12:26:44.959  2603  2735 E Capacitor/Plugin: Item with given key does not exist
+10-26 12:26:44.959  2603  2735 E Capacitor/Plugin: java.lang.Exception: Item with given key does not exist
+10-26 12:26:44.959  2603  2735 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin._get(SecureStoragePluginPlugin.java:112)
+10-26 12:26:44.959  2603  2735 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin.get(SecureStoragePluginPlugin.java:48)
+10-26 12:26:44.959  2603  2735 E Capacitor/Plugin: 	at java.lang.reflect.Method.invoke(Native Method)
+10-26 12:26:44.959  2603  2735 E Capacitor/Plugin: 	at com.getcapacitor.PluginHandle.invoke(PluginHandle.java:138)
+10-26 12:26:44.959  2603  2735 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.lambda$callPluginMethod$0(Bridge.java:847)
+10-26 12:26:44.959  2603  2735 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.$r8$lambda$FNYM7cvgeBk0k8YXQH7M96Mrf-c(Unknown Source:0)
+10-26 12:26:44.959  2603  2735 E Capacitor/Plugin: 	at com.getcapacitor.Bridge$$ExternalSyntheticLambda0.run(D8$$SyntheticClass:0)
+10-26 12:26:44.959  2603  2735 E Capacitor/Plugin: 	at android.os.Handler.handleCallback(Handler.java:959)
+10-26 12:26:44.959  2603  2735 E Capacitor/Plugin: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+10-26 12:26:44.959  2603  2735 E Capacitor/Plugin: 	at android.os.Looper.loopOnce(Looper.java:232)
+10-26 12:26:44.959  2603  2735 E Capacitor/Plugin: 	at android.os.Looper.loop(Looper.java:317)
+10-26 12:26:44.959  2603  2735 E Capacitor/Plugin: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+10-26 12:26:44.959  2603  2735 D Capacitor: Sending plugin error: {"save":false,"callbackId":"22225814","pluginId":"SecureStoragePlugin","methodName":"get","success":false,"error":{"message":"Item with given key does not exist"}}
+10-26 12:26:44.960  2603  2603 E Capacitor/Console: File:  - Line 330 - Msg: [object Object]
+10-26 12:26:44.962  2603  2603 E Capacitor/Console: File:  - Line 330 - Msg: [object Object]
+10-26 12:26:44.971  2603  2735 E Capacitor/Plugin: Item with given key does not exist
+10-26 12:26:44.971  2603  2735 E Capacitor/Plugin: java.lang.Exception: Item with given key does not exist
+10-26 12:26:44.971  2603  2735 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin._get(SecureStoragePluginPlugin.java:112)
+10-26 12:26:44.971  2603  2735 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin.get(SecureStoragePluginPlugin.java:48)
+10-26 12:26:44.971  2603  2735 E Capacitor/Plugin: 	at java.lang.reflect.Method.invoke(Native Method)
+10-26 12:26:44.971  2603  2735 E Capacitor/Plugin: 	at com.getcapacitor.PluginHandle.invoke(PluginHandle.java:138)
+10-26 12:26:44.971  2603  2735 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.lambda$callPluginMethod$0(Bridge.java:847)
+10-26 12:26:44.971  2603  2735 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.$r8$lambda$FNYM7cvgeBk0k8YXQH7M96Mrf-c(Unknown Source:0)
+10-26 12:26:44.971  2603  2735 E Capacitor/Plugin: 	at com.getcapacitor.Bridge$$ExternalSyntheticLambda0.run(D8$$SyntheticClass:0)
+10-26 12:26:44.971  2603  2735 E Capacitor/Plugin: 	at android.os.Handler.handleCallback(Handler.java:959)
+10-26 12:26:44.971  2603  2735 E Capacitor/Plugin: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+10-26 12:26:44.971  2603  2735 E Capacitor/Plugin: 	at android.os.Looper.loopOnce(Looper.java:232)
+10-26 12:26:44.971  2603  2735 E Capacitor/Plugin: 	at android.os.Looper.loop(Looper.java:317)
+10-26 12:26:44.971  2603  2735 E Capacitor/Plugin: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+10-26 12:26:44.975  2603  2735 D Capacitor: Sending plugin error: {"save":false,"callbackId":"22225815","pluginId":"SecureStoragePlugin","methodName":"get","success":false,"error":{"message":"Item with given key does not exist"}}
+10-26 12:26:44.979  2603  2735 E Capacitor/Plugin: Item with given key does not exist
+10-26 12:26:44.979  2603  2735 E Capacitor/Plugin: java.lang.Exception: Item with given key does not exist
+10-26 12:26:44.979  2603  2735 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin._get(SecureStoragePluginPlugin.java:112)
+10-26 12:26:44.979  2603  2735 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin.get(SecureStoragePluginPlugin.java:48)
+10-26 12:26:44.979  2603  2735 E Capacitor/Plugin: 	at java.lang.reflect.Method.invoke(Native Method)
+10-26 12:26:44.979  2603  2735 E Capacitor/Plugin: 	at com.getcapacitor.PluginHandle.invoke(PluginHandle.java:138)
+10-26 12:26:44.979  2603  2735 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.lambda$callPluginMethod$0(Bridge.java:847)
+10-26 12:26:44.979  2603  2735 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.$r8$lambda$FNYM7cvgeBk0k8YXQH7M96Mrf-c(Unknown Source:0)
+10-26 12:26:44.979  2603  2735 E Capacitor/Plugin: 	at com.getcapacitor.Bridge$$ExternalSyntheticLambda0.run(D8$$SyntheticClass:0)
+10-26 12:26:44.979  2603  2735 E Capacitor/Plugin: 	at android.os.Handler.handleCallback(Handler.java:959)
+10-26 12:26:44.979  2603  2735 E Capacitor/Plugin: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+10-26 12:26:44.979  2603  2735 E Capacitor/Plugin: 	at android.os.Looper.loopOnce(Looper.java:232)
+10-26 12:26:44.979  2603  2735 E Capacitor/Plugin: 	at android.os.Looper.loop(Looper.java:317)
+10-26 12:26:44.979  2603  2735 E Capacitor/Plugin: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+10-26 12:26:44.979  2603  2735 D Capacitor: Sending plugin error: {"save":false,"callbackId":"22225816","pluginId":"SecureStoragePlugin","methodName":"get","success":false,"error":{"message":"Item with given key does not exist"}}
+10-26 12:26:44.989  2603  2603 E Capacitor/Console: File:  - Line 330 - Msg: [object Object]
+10-26 12:26:44.990  2603  2603 E Capacitor/Console: File:  - Line 330 - Msg: [object Object]
+10-26 12:26:46.539  1360  1693 I Icing   : updateResources: need to parse bfgz{com.google.android.googlequicksearchbox}
+10-26 12:26:46.720   559   593 I ActivityManager: Start proc 3026:com.google.android.configupdater/u0a136 for broadcast {com.google.android.configupdater/com.google.android.configupdater.MainReceiver}
+10-26 12:26:46.765  3026  3026 I d.configupdater: Using CollectorTypeCMC GC.
+10-26 12:26:46.768  3026  3026 W d.configupdater: Unexpected CPU variant for x86: x86_64.
+10-26 12:26:46.768  3026  3026 W d.configupdater: Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, goldmont-without-sha-xsaves, tremont, kabylake, default
+10-26 12:26:46.770  3026  3026 E d.configupdater: Not starting debugger since process cannot load the jdwp agent.
+10-26 12:26:46.791  3026  3026 D nativeloader: Configuring product-clns-7 for unbundled product apk /product/priv-app/ConfigUpdater/ConfigUpdater.apk. target_sdk_version=30, uses_libraries=, library_path=/product/priv-app/ConfigUpdater/lib/x86_64:/product/lib64:/system/product/lib64, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.configupdater:/product/lib64:/system/product/lib64
+10-26 12:26:46.929  2603  2603 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+10-26 12:26:46.929  2603  2603 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 22225817, pluginId: App, methodName: getInfo
+10-26 12:26:46.929  2603  2603 V Capacitor: callback: 22225817, pluginId: App, methodName: getInfo, methodData: {}
+10-26 12:26:46.957  2603  2603 I Capacitor/Console: File:  - Line 333 - Msg: {"name":"CPWD Rate Finder","id":"com.saranik.cpwdratefinder.mobile","build":"15","version":"3.1.0"}
+10-26 12:26:47.048  3026  3026 E ConfigUpdater: ignoring update request
+10-26 12:26:47.056  3026  3026 E ConfigUpdater: ignoring update request
+10-26 12:26:47.057  3026  3026 E ConfigUpdater: ignoring update request
+10-26 12:26:47.058  3026  3026 E ConfigUpdater: ignoring update request
+10-26 12:26:47.059  3026  3026 E ConfigUpdater: ignoring update request
+10-26 12:26:47.062  3026  3026 E ConfigUpdater: ignoring update request
+10-26 12:26:47.065  3026  3026 E ConfigUpdater: ignoring update request
+10-26 12:26:47.086  3026  3026 E ConfigUpdater: ignoring update request
+10-26 12:26:47.087  3026  3026 E ConfigUpdater: ignoring update request
+10-26 12:26:47.090  3026  3026 E ConfigUpdater: ignoring update request
+10-26 12:26:47.092  3026  3026 E ConfigUpdater: ignoring update request
+10-26 12:26:47.092  3026  3026 E ConfigUpdater: ignoring update request
+10-26 12:26:47.093  3026  3026 E ConfigUpdater: ignoring update request
+10-26 12:26:47.207  2603  2603 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+10-26 12:26:47.207  2603  2603 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 22225818, pluginId: CapacitorUpdater, methodName: list
+10-26 12:26:47.207  2603  2603 V Capacitor: callback: 22225818, pluginId: CapacitorUpdater, methodName: list, methodData: {}
+10-26 12:26:47.207  2603  2735 I CapgoUpdater: 🟢 No versions available to list/data/user/0/com.saranik.cpwdratefinder.mobile/files/versions
+10-26 12:26:47.208  2603  2603 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 No versions available to list/data/user/0/com.saranik.cpwdratefinder.mobile/files/versions
+10-26 12:26:47.209  2603  2603 I Capacitor/Console: File:  - Line 333 - Msg: {"bundles":[]}
+10-26 12:26:47.209  2603  2603 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+10-26 12:26:47.212  2603  2603 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 22225819, pluginId: CapacitorUpdater, methodName: download
+10-26 12:26:47.212  2603  2603 V Capacitor: callback: 22225819, pluginId: CapacitorUpdater, methodName: download, methodData: {"url":"https:\/\/saranik-boop.github.io\/cpwd-rate-finder-mobile\/update\/bundle-2026102603.zip","version":"2026102603","checksum":"2ed79f921ecc1c2b036f5cb53ab317ea23d52101094c31bde45985a76959dac6"}
+10-26 12:26:47.215  2603  2735 I CapgoUpdater: 🟢 Downloading https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026102603.zip
+10-26 12:26:47.220  2603  2603 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Downloading https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026102603.zip
+10-26 12:26:47.220  2603  3053 I CapgoUpdater: 🟢 No versions available to list/data/user/0/com.saranik.cpwdratefinder.mobile/files/versions
+10-26 12:26:47.221  2603  2603 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 No versions available to list/data/user/0/com.saranik.cpwdratefinder.mobile/files/versions
+10-26 12:26:47.264  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:47.264  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:47.264  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:47.264  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:47.268  2603  3053 I CapgoUpdater: 🟢 Emulator detected - using lenient network constraints
+10-26 12:26:47.275  2603  2603 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Emulator detected - using lenient network constraints
+10-26 12:26:47.456  2603  2603 D WM-WorkerWrapper: Starting work for ee.forgr.capacitor_updater.DownloadService
+10-26 12:26:47.457  2603  3068 I CapacitorCookies: Getting cookies at: 'https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026102603.zip'
+10-26 12:26:47.461  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:47.461  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:47.648  2603  2626 D WM-WorkProgressUpdater: Updating progress for fe63f24d-cdb4-44dc-a53c-cc95a6334c61 (Data {percent : 10})
+10-26 12:26:47.653  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:47.653  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:47.730  2603  2626 D WM-WorkProgressUpdater: Updating progress for fe63f24d-cdb4-44dc-a53c-cc95a6334c61 (Data {percent : 20})
+10-26 12:26:47.731  2603  2646 D WM-WorkProgressUpdater: Updating progress for fe63f24d-cdb4-44dc-a53c-cc95a6334c61 (Data {percent : 30})
+10-26 12:26:47.742  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:47.743  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:47.749  2603  2626 D WM-WorkProgressUpdater: Updating progress for fe63f24d-cdb4-44dc-a53c-cc95a6334c61 (Data {percent : 40})
+10-26 12:26:47.752  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:47.752  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:47.764  2603  2626 D WM-WorkProgressUpdater: Updating progress for fe63f24d-cdb4-44dc-a53c-cc95a6334c61 (Data {percent : 50})
+10-26 12:26:47.770  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:47.770  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:47.778  2603  2646 D WM-WorkProgressUpdater: Updating progress for fe63f24d-cdb4-44dc-a53c-cc95a6334c61 (Data {percent : 60})
+10-26 12:26:47.782  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:47.782  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:47.793  2603  2646 D WM-WorkProgressUpdater: Updating progress for fe63f24d-cdb4-44dc-a53c-cc95a6334c61 (Data {percent : 70})
+10-26 12:26:47.796  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:47.796  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:47.852  2603  2626 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=fe63f24d-cdb4-44dc-a53c-cc95a6334c61, tags={ ee.forgr.capacitor_updater.DownloadService,nmPFDSCgVA,2026102603,capacitor_updater_download } ]
+10-26 12:26:47.945  2603  2603 I CapgoUpdater: 🟢 Download succeeded: SUCCEEDED
+10-26 12:26:47.945  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:47.945  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:47.947  2603  2603 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Download succeeded: SUCCEEDED
+10-26 12:26:48.031  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:48.031  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:48.031  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:48.031  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:48.089  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:48.089  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:48.090  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:48.090  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:48.092  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:48.092  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:48.094  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:48.094  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:48.095  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:48.096  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:48.098  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:48.098  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:48.100  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:48.100  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:48.115  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:48.115  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:48.116  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:48.116  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:48.119  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:48.119  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:48.119  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:48.119  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:48.128  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event download
+10-26 12:26:48.128  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event download
+10-26 12:26:48.128  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event downloadComplete
+10-26 12:26:48.128  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event downloadComplete
+10-26 12:26:48.128  2603  3097 I CapgoUpdater: 🟢 updateAvailable: {bundle={"checksum":"2ed79f921ecc1c2b036f5cb53ab317ea23d52101094c31bde45985a76959dac6","id":"nmPFDSCgVA","version":"2026102603","downloaded":"2026-10-26T12:26:48.121+0000","status":"pending"}}
+10-26 12:26:48.129  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event updateAvailable
+10-26 12:26:48.129  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event updateAvailable
+10-26 12:26:48.129  2603  3097 I CapgoUpdater: 🟢 setNext: false
+10-26 12:26:48.129  2603  2603 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 updateAvailable: {bundle={"checksum":"2ed79f921ecc1c2b036f5cb53ab317ea23d52101094c31bde45985a76959dac6","id":"nmPFDSCgVA","version":"2026102603","downloaded":"2026-10-26T12:26:48.121+0000","status":"pending"}}
+10-26 12:26:48.131  2603  2603 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 setNext: false
+10-26 12:26:48.138  2603  2603 I Capacitor/Console: File:  - Line 333 - Msg: {"checksum":"2ed79f921ecc1c2b036f5cb53ab317ea23d52101094c31bde45985a76959dac6","id":"nmPFDSCgVA","version":"2026102603","downloaded":"2026-10-26T12:26:48.121+0000","status":"pending"}
+10-26 12:26:48.138  2603  2603 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+10-26 12:26:48.139  2603  2603 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 22225820, pluginId: CapacitorUpdater, methodName: next
+10-26 12:26:48.139  2603  2603 V Capacitor: callback: 22225820, pluginId: CapacitorUpdater, methodName: next, methodData: {"id":"nmPFDSCgVA"}
+10-26 12:26:48.139  2603  2735 I CapgoUpdater: 🟢 Setting next active id nmPFDSCgVA
+10-26 12:26:48.146  2603  2603 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Setting next active id nmPFDSCgVA
+10-26 12:26:48.354  2603  2603 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event setNext
+10-26 12:26:48.354  2603  2603 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event setNext
+10-26 12:26:48.358  2603  2603 I Capacitor/Console: File:  - Line 333 - Msg: {"checksum":"2ed79f921ecc1c2b036f5cb53ab317ea23d52101094c31bde45985a76959dac6","id":"nmPFDSCgVA","version":"2026102603","downloaded":"2026-10-26T12:26:48.121+0000","status":"pending"}
+10-26 12:26:48.358  2603  2603 I Capacitor/Console: File: https://localhost/updater.js - Line 99 - Msg: UPDATE_READY 2026102603
+10-26 12:26:51.629  1064  1302 D ConfigUpdaterMetricsStats: reportConfigUpdaterMetrics: SatelliteConfigUpdaterParams(configVersion=-1, oemConfigResult=4, carrierConfigResult=4, count=1)
+10-26 12:26:51.630  1064  1302 D ConfigUpdaterMetricsStats: reportConfigUpdaterMetrics: SatelliteConfigUpdaterParams(configVersion=-1, oemConfigResult=4, carrierConfigResult=4, count=1)
+10-26 12:26:52.166  3026  3326 D ProfileInstaller: Installing profile for com.google.android.configupdater
+10-26 12:26:54.296  3260  3392 I RcsAvailabilityUpdaterL: updateAvailabilityForAllSimsAsync: scheduling updateAvailabilityForRcsProvisioningId call. Hint: BOOT_COMPLETE, enableWelcomePopupWithoutGoogleTos: false, reshowSuccessPopup: false
+10-26 12:26:54.296  3260  3372 I RcsAvailabilityUpdaterL: updateRcsAvailabilityForDefaultCallSim: hint: BOOT_COMPLETE, canReshowWelcomeMessage: false
+10-26 12:26:54.790  3260  3390 I RcsAvailabilityUpdaterL: RcsAvailability configuration availability and enabled status: simId: redacted-pii:sim_id[chars:0,last3:], SipConnectionType: DUAL_REG, isConfigurationAvailableAndEnabled: false
+10-26 12:26:54.791  3260  3390 I RcsAvailabilityUpdaterL: updateRcsAvailability: currentAvailability: 1, newAvailability: 9, hint: NO_HINT
+10-26 12:26:55.812  3260  3391 I BugleRcsProvisioning: RcsProvisioningTrigger: updateRcsAvailabilityForProvisioningId : rcsProvisioningId = redacted-pii:sim_id[chars:35,last3:97)] hint = SIM_SWAP, logTriggerEvent = true 
+10-26 12:26:55.825  3260  3391 I RcsAvailabilityUpdaterL: updateAvailabilityForRcsProvisioningId. SimId: redacted-pii:sim_id[chars:20,last3:897], currentAvailability: 1, newAvailability: 9, hint: SIM_SWAP
+10-26 12:26:56.455  2603  2755 I CapgoUpdater: 🟢 Built-in bundle is active. We skip the check for notifyAppReady.
+10-26 12:26:56.456  2603  2603 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Built-in bundle is active. We skip the check for notifyAppReady.
+10-26 12:26:58.127   559  1743 W JobScheduler: Job didn't exist in JobStore: a8d52d6 #u0a136/1 com.google.android.configupdater/.MainJobService
+10-26 12:26:58.136  3026  3633 I ConfigUpdater: Update started
+10-26 12:26:58.172  3026  3633 I ConfigUpdater: Update started
+10-26 12:26:58.623  1560  1934 D nativeloader: Load /system/lib64/libwebviewchromium_plat_support.so using ns clns-9 from class loader (caller=/data/app/~~Rl9N6vp2myhmqwNF1Ilj2Q==/com.google.android.webview-mpVhFT0qNyKXWYWJPJbDvw==/WebViewGoogle.apk): ok
+10-26 12:26:58.629  1560  3667 W chromium: [1026/122658.629522:WARNING:url_request_context_config.cc(716)] Unrecognized Cronet experimental option "enable_telemetry" with params "false
+10-26 12:26:58.629  1560  3667 W chromium: 
+10-26 12:26:58.647  1560  3672 I chromium: [1026/122658.647080:INFO:variations_seed_loader.cc(66)] Failed to open file for reading.: No such file or directory (2)
+10-26 12:26:58.647  1560  3672 I chromium: [1026/122658.647812:INFO:variations_seed_loader.cc(66)] Failed to open file for reading.: No such file or directory (2)
+10-26 12:26:58.710  3026  3633 I ConfigUpdater: Update downloaded, starting installation
+10-26 12:26:58.777   559   593 I ActivityManager: Start proc 3679:com.google.android.webview:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:0/u0i1 for  {com.google.android.googlequicksearchbox/org.chromium.content.app.SandboxedProcessService0:0}
+10-26 12:26:58.779  3026  3633 I ConfigUpdater: doneInstall
+10-26 12:26:59.038  3026  3633 I ConfigUpdater: Update downloaded, starting installation
+10-26 12:26:59.042  3026  3633 I ConfigUpdater: doneInstall
+10-26 12:26:59.280  3679  3679 I cr_WebViewApkApp: Launched version=124.0.6367.219 minSdkVersion=29 isBundle=false processName=com.google.android.webview:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:0
+10-26 12:26:59.400  3260  3337 I BugleRcsProvisioning: RcsProvisioningTrigger: updateRcsAvailability : hint = GSERVICE_UPDATE
+10-26 12:26:59.560  3260  3337 I RcsAvailabilityUpdaterL: updateAvailabilityAsync: scheduling updateRcsAvailability call. Hint: GSERVICE_UPDATE, enableWelcomePopupWithoutGoogleTos: false, reshowSuccessPopup: false
+10-26 12:26:59.645  3260  3395 I RcsAvailabilityUpdaterL: RcsAvailability configuration availability and enabled status: simId: redacted-pii:sim_id[chars:0,last3:], SipConnectionType: DUAL_REG, isConfigurationAvailableAndEnabled: false
+10-26 12:26:59.645  3260  3395 I RcsAvailabilityUpdaterL: updateRcsAvailability: currentAvailability: 9, newAvailability: 9, hint: GSERVICE_UPDATE
+10-26 12:26:59.651  1756  1767 W d.process.media: ApkAssets: Deleting an ApkAssets object '<empty> and /product/priv-app/ConfigUpdater/ConfigUpdater.apk' with 1 weak references
+10-26 12:27:01.429  1209  1217 W .gms.persistent: ApkAssets: Deleting an ApkAssets object '<empty> and /product/priv-app/ConfigUpdater/ConfigUpdater.apk' with 1 weak references
+10-26 12:27:04.965  1360  3727 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@7ae28ad
+10-26 12:27:05.152  1209  1217 W .gms.persistent: ApkAssets: Deleting an ApkAssets object '<empty> and /product/priv-app/ConfigUpdater/ConfigUpdater.apk' with 1 weak references
+10-26 12:27:05.350  3026  3026 D ConfigUpdater: PhenotypeBroadcastReceiver : com.google.android.gms.phenotype.UPDATE
+10-26 12:27:05.558  3026  3633 I ConfigUpdater: Update started
+10-26 12:27:05.623  3026  3633 I ConfigUpdater: Update started
+10-26 12:27:05.660  3026  3633 I ConfigUpdater: Update started
+10-26 12:27:06.125  1756  1767 W d.process.media: ApkAssets: Deleting an ApkAssets object '<empty> and /product/priv-app/ConfigUpdater/ConfigUpdater.apk' with 1 weak references
+10-26 12:27:06.329  3026  3633 I ConfigUpdater: Update downloaded, starting installation
+10-26 12:27:06.381  3026  3633 I ConfigUpdater: doneInstall
+10-26 12:27:07.066  3026  3633 I ConfigUpdater: Update downloaded, starting installation
+10-26 12:27:07.111  3026  3633 I ConfigUpdater: doneInstall
+10-26 12:27:07.459  3026  3633 I ConfigUpdater: Update downloaded, starting installation
+10-26 12:27:07.543  3026  3633 I ConfigUpdater: doneInstall
+10-26 12:27:08.206  3260  3395 I BugleRcsProvisioning: RcsProvisioningTrigger: updateRcsAvailabilityForProvisioningId : rcsProvisioningId = redacted-pii:sim_id[chars:35,last3:97)] hint = SIM_SWAP, logTriggerEvent = true 
+10-26 12:27:08.231  3260  3395 I RcsAvailabilityUpdaterL: updateAvailabilityForRcsProvisioningId. SimId: redacted-pii:sim_id[chars:20,last3:897], currentAvailability: 9, newAvailability: 9, hint: SIM_SWAP
+10-26 12:27:08.799  3260  3391 I RcsAvailabilityUpdaterL: updateAvailabilityAsync: scheduling updateRcsAvailability call. Hint: NO_HINT, enableWelcomePopupWithoutGoogleTos: false, reshowSuccessPopup: false
+10-26 12:27:08.868  3260  3397 I RcsAvailabilityUpdaterL: RcsAvailability configuration availability and enabled status: simId: redacted-pii:sim_id[chars:20,last3:897], SipConnectionType: DUAL_REG, isConfigurationAvailableAndEnabled: false
+10-26 12:27:08.868  3260  3397 I RcsAvailabilityUpdaterL: updateRcsAvailability: currentAvailability: 9, newAvailability: 2, hint: NO_HINT
+10-26 12:27:08.942   559   651 W JobScheduler: Job didn't exist in JobStore: db6395c #u0a136/1 com.google.android.configupdater/.MainJobService
+10-26 12:27:09.181  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.getEnabledCronetProviders(PG:25)
+10-26 12:27:09.181  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.createBuilderDelegate(PG:16)
+10-26 12:27:09.181  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.<init>(PG:1)
+10-26 12:27:09.181  3260  3380 D StrictMode: 	at org.chromium.net.ExperimentalCronetEngine$Builder.<init>(PG:1)
+10-26 12:27:09.191  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.getEnabledCronetProviders(PG:25)
+10-26 12:27:09.191  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.createBuilderDelegate(PG:16)
+10-26 12:27:09.191  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.<init>(PG:1)
+10-26 12:27:09.191  3260  3380 D StrictMode: 	at org.chromium.net.ExperimentalCronetEngine$Builder.<init>(PG:1)
+10-26 12:27:09.191  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.getEnabledCronetProviders(PG:25)
+10-26 12:27:09.191  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.createBuilderDelegate(PG:16)
+10-26 12:27:09.191  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.<init>(PG:1)
+10-26 12:27:09.191  3260  3380 D StrictMode: 	at org.chromium.net.ExperimentalCronetEngine$Builder.<init>(PG:1)
+10-26 12:27:09.195  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.getEnabledCronetProviders(PG:25)
+10-26 12:27:09.195  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.createBuilderDelegate(PG:16)
+10-26 12:27:09.195  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.<init>(PG:1)
+10-26 12:27:09.195  3260  3380 D StrictMode: 	at org.chromium.net.ExperimentalCronetEngine$Builder.<init>(PG:1)
+10-26 12:27:09.195  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.getEnabledCronetProviders(PG:25)
+10-26 12:27:09.195  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.createBuilderDelegate(PG:16)
+10-26 12:27:09.195  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.<init>(PG:1)
+10-26 12:27:09.195  3260  3380 D StrictMode: 	at org.chromium.net.ExperimentalCronetEngine$Builder.<init>(PG:1)
+10-26 12:27:09.195  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.getEnabledCronetProviders(PG:25)
+10-26 12:27:09.195  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.createBuilderDelegate(PG:16)
+10-26 12:27:09.195  3260  3380 D StrictMode: 	at org.chromium.net.CronetEngine$Builder.<init>(PG:1)
+10-26 12:27:09.195  3260  3380 D StrictMode: 	at org.chromium.net.ExperimentalCronetEngine$Builder.<init>(PG:1)
+10-26 12:27:09.386  3260  3392 I RcsAvailabilityUpdaterL: updateAvailabilityForAllSimsAsync: scheduling updateAvailabilityForRcsProvisioningId call. Hint: NO_HINT, enableWelcomePopupWithoutGoogleTos: false, reshowSuccessPopup: false
+10-26 12:27:09.388  3260  3865 I RcsAvailabilityUpdaterL: updateRcsAvailabilityForDefaultCallSim: hint: NO_HINT, canReshowWelcomeMessage: false
+10-26 12:27:09.424  3260  3865 I RcsAvailabilityUpdaterL: RcsAvailability configuration availability and enabled status: simId: redacted-pii:sim_id[chars:20,last3:897], SipConnectionType: DUAL_REG, isConfigurationAvailableAndEnabled: false
+10-26 12:27:09.676  3260  3865 I RcsAvailabilityUpdaterL: updateAvailabilityForRcsProvisioningId. SimId: redacted-pii:sim_id[chars:20,last3:897], currentAvailability: 2, newAvailability: 2, hint: NO_HINT
+10-26 12:27:09.775  3260  3877 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@55f6681
+10-26 12:27:09.809  3260  3397 I RcsAvailabilityUpdaterL: updateAvailabilityForRcsProvisioningIdAsync: scheduling updateAvailabilityForRcsProvisioningId call. Hint: MOBILE_CONFIGURATION_UPDATE, enableWelcomePopupWithoutGoogleTos: false, reshowSuccessPopup: false
+10-26 12:27:09.849  3260  3383 I RcsAvailabilityUpdaterL: RcsAvailability configuration availability and enabled status: simId: redacted-pii:sim_id[chars:20,last3:897], SipConnectionType: DUAL_REG, isConfigurationAvailableAndEnabled: false
+10-26 12:27:09.854  3260  3383 I RcsAvailabilityUpdaterL: updateAvailabilityForRcsProvisioningId. SimId: redacted-pii:sim_id[chars:20,last3:897], currentAvailability: 2, newAvailability: 2, hint: MOBILE_CONFIGURATION_UPDATE
+10-26 12:27:10.781  3260  3337 I RcsAvailabilityUpdaterL: updateAvailabilityForAllSimsAsync: scheduling updateAvailabilityForRcsProvisioningId call. Hint: CSLIB_PHENOTYPE_UPDATE, enableWelcomePopupWithoutGoogleTos: false, reshowSuccessPopup: false
+10-26 12:27:10.800  3260  3383 I RcsAvailabilityUpdaterL: updateRcsAvailabilityForDefaultCallSim: hint: CSLIB_PHENOTYPE_UPDATE, canReshowWelcomeMessage: false
+10-26 12:27:10.815  3260  3383 I RcsAvailabilityUpdaterL: RcsAvailability configuration availability and enabled status: simId: redacted-pii:sim_id[chars:20,last3:897], SipConnectionType: DUAL_REG, isConfigurationAvailableAndEnabled: false
+10-26 12:27:10.882  3260  3383 I RcsAvailabilityUpdaterL: updateAvailabilityForRcsProvisioningId. SimId: redacted-pii:sim_id[chars:20,last3:897], currentAvailability: 2, newAvailability: 2, hint: CSLIB_PHENOTYPE_UPDATE
+10-26 12:27:11.462  1360  1693 I Icing   : updateResources: need to parse bfgz{com.google.android.googlequicksearchbox}
+10-26 12:27:11.485  1360  1693 I Icing   : updateResources: need to parse bfgz{com.google.android.gms}
+10-26 12:27:11.838  3260  3877 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@8547874
+10-26 12:27:13.752  1209  1217 W .gms.persistent: ApkAssets: Deleting an ApkAssets object '<empty> and /product/priv-app/ConfigUpdater/ConfigUpdater.apk' with 1 weak references
+10-26 12:27:16.934  3260  3370 I RcsAvailabilityUpdaterL: updateAvailabilityForAllSimsAsync: scheduling updateAvailabilityForRcsProvisioningId call. Hint: CSLIB_PHENOTYPE_UPDATE, enableWelcomePopupWithoutGoogleTos: false, reshowSuccessPopup: false
+10-26 12:27:16.935  3260  3395 I RcsAvailabilityUpdaterL: updateRcsAvailabilityForDefaultCallSim: hint: CSLIB_PHENOTYPE_UPDATE, canReshowWelcomeMessage: false
+10-26 12:27:16.951  3260  3395 I RcsAvailabilityUpdaterL: RcsAvailability configuration availability and enabled status: simId: redacted-pii:sim_id[chars:20,last3:897], SipConnectionType: DUAL_REG, isConfigurationAvailableAndEnabled: false
+10-26 12:27:16.958  3260  3395 I RcsAvailabilityUpdaterL: RcsAvailability: Subscription Id: 1, simId: redacted-pii:sim_id[chars:20,last3:897], sipConnectionType: DUAL_REG, isRcsAvailable: false
+10-26 12:27:16.959  3260  3395 I RcsAvailabilityUpdaterL: updateAvailabilityForRcsProvisioningId. SimId: redacted-pii:sim_id[chars:20,last3:897], currentAvailability: 2, newAvailability: 10, hint: CSLIB_PHENOTYPE_UPDATE
