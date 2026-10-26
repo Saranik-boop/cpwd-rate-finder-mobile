@@ -1,10 +1,10 @@
 {
   "web": {
-    "version": 2026102601,
-    "notes": "Drawings upgraded: clearer labels, hidden/small parts shown, 12 drawings redrawn, smarter part and drawing choice",
-    "sha256": "0022a178b184a0a906e98a455b6e4460acae52b33bdf67b16f57935a47024d4a",
+    "version": 2026102602,
+    "notes": "Drawings: second full review — about 650 items moved to the right drawing and about 1,800 now highlight the right part; the 'this item' label never covers a number",
+    "sha256": "eef807c28a7dc72a6e0f789bfa12f0fa3ff97d43068b36df32896afef78c1404",
     "min_build": 0,
-    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026102601.zip",
-    "published": "2026-10-26T06:47:06.653Z"
+    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026102602.zip",
+    "published": "2026-10-26T12:21:55.625Z"
   }
 }

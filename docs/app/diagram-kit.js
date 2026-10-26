@@ -303,7 +303,7 @@
       }
       return c;
     }
-    var pilled = {};
+    var pilled = {}, ext = 0;
     placed.forEach(function (m) {
       var h = m.h, ax = m.ax, ay = m.ay, mx = m.mx, my = m.my;
       mk.push('<line x1="' + f1(ax) + '" y1="' + f1(ay) + '" x2="' + f1(mx) + '" y2="' + f1(my) + '" stroke="#fff" stroke-width="' + (h ? 3.4 : 2.6) + '" stroke-opacity="0.75"/>' +
@@ -323,12 +323,15 @@
             var v = boxFree(c[0], c[1], tw, th) + 1; if (v < pc) { pc = v; pick = c; }
           });
         }
-        pick = [Math.max(2, Math.min(W - 2 - tw, pick[0])), Math.max(2, Math.min(H - 2 - th, pick[1]))];
+        if (pc > 16) {
+          // still covers something: give the label its own strip above the drawing
+          ext += th + 6; pick = [(W - tw) / 2, 3 - ext];
+        } else pick = [Math.max(2, Math.min(W - 2 - tw, pick[0])), Math.max(2, Math.min(H - 2 - th, pick[1]))];
         pills.push('<rect x="' + f1(pick[0]) + '" y="' + f1(pick[1]) + '" width="' + f1(tw) + '" height="' + th + '" rx="11" fill="#c2410c" stroke="#fff" stroke-width="1.2"/>' +
           '<text x="' + f1(pick[0] + tw / 2) + '" y="' + f1(pick[1] + 15.5) + '" text-anchor="middle" font-size="12.5" font-weight="700" fill="#fff">' + esc(txt) + '</text>');
       }
     });
-    var svg = '<svg viewBox="0 0 ' + W + ' ' + H + '" class="dg3" role="img" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif">' +
+    var svg = '<svg viewBox="0 ' + (-ext) + ' ' + W + ' ' + (H + ext) + '" class="dg3" role="img" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif">' +
       '<g>' + out.join('') + '</g><g>' + xray.join('') + '</g><g>' + mk.join('') + pills.join('') + '</g></svg>';
     return { svg: svg, legend: legend };
   };
@@ -340,7 +343,7 @@
   // Which part does this item text refer to? Item texts read "heading : specific type : size", so the most
   // specific segment is tried first (last to first), then the heading's main clause (before "including / with /
   // complete"), then the whole text. Verbs like "fitting and fixing" are removed so they don't look like parts.
-  function clean(t) { return String(t).replace(/\b(top|bottom|underside|soffit) of (the )?[\w /]{0,14}?pile caps?\b/gi, ' ').replace(/\b(socket|spigot)\s*(&|and)\s*(spigot|socket)\b|\bS\s?&\s?S\b/gi, ' ').replace(/\b(supplying|providing)?[, ]*\bfitting\s*(,|and|&)\s*fixing\b/gi, ' ').replace(/\bfitting\s+(of|the)\b/gi, ' '); }
+  function clean(t) { return String(t).replace(/\b(to|in|into|on) (the )?existing (door |window )?(frames?|chowkh?ats?)\b/gi, ' ').replace(/\b((top|bottom|underside|soffit) of|below|under) (the )?[\w /]{0,14}?pile caps?\b/gi, ' ').replace(/\b(socket|spigot)\s*(&|and)\s*(spigot|socket)\b|\bS\s?&\s?S\b/gi, ' ').replace(/\b(supplying|providing)?[, ]*\bfitting\s*(,|and|&)\s*fixing\b/gi, ' ').replace(/(^\W*|\b(?:supplying|supply|providing|labour for)[, ]*(?:and |& )?)fitting\s+(of|the)\b/gi, ' '); }
   // split on ':' separators that are not inside brackets (mix ratios like 1 cement : 3 sand stay whole)
   function splitTop(t) {
     var out = [], cur = '', dep = 0;
@@ -348,7 +351,7 @@
       var ch = t[i];
       if (ch === '(' || ch === '[') dep++; else if ((ch === ')' || ch === ']') && dep) dep--;
       if (ch === ':' && !dep && (t[i + 1] === ' ' || t[i - 1] === ' ') && !/\d/.test(t[i - 1] || '') &&
-          !/\b(IS|IRC|BS|ASTM|EN|ISO|No|Nos|Code|clause|MORT&H|MoRTH|IS\s?No)\.?\s*$/i.test(cur) &&
+          !/\b(IS|IRC|BS|ASTM|EN|ISO|No|Nos|Code|clause|MORT&H|MoRTH|IS\s?No)\.?\s*$/i.test(cur) && !(/\d\s*$/.test(cur) && /^\s*\d/.test(t.slice(i + 1))) &&
           !(/\d+(\.\d+)?\s+[a-z][a-z \-\/()]*\s*$/i.test(cur) && /^\s*\d+(\.\d+)?\s*[a-z]/i.test(t.slice(i + 1)))) { out.push(cur); cur = ''; continue; }
       cur += ch;
     }
@@ -356,16 +359,16 @@
     return out.map(function (x) { return x.trim(); }).filter(function (x) { return x; });
   }
   // "Up to 300 mm dia", "15 mm nominal bore", "Height 5m to 10m" … only say how big, not which part
-  var SIZEW = /\b(mm|cm|m|mtrs?|metres?|meters?|dia|diameter|nominal|bore|size|sizes|up|upto|to|over|above|below|exceeding|not|and|from|in|of|the|length|height|depth|thick|thickness|width|wide|long|kg|kgs|gms?|sq|sqm|cum|litres?|ltrs?|lit|nos?|each|per|grade|class|case|beyond|within|lead|lift|km|any|for|or|outside|inside|internal|external|dia\.|a|b|c|i|ii|iii|iv|v|vi|x|working|pressure|heavy|medium|light|duty|type|series|mpa|gauge|swg|psi|etc|but|greater|than|less|minimum|maximum|approx|outer|inner)\b/gi;
+  var SIZEW = /\b(gis|cts|mm|cm|m|mtrs?|metres?|meters?|dia|diameter|nominal|bore|size|sizes|up|upto|to|over|above|below|exceeding|not|and|from|in|of|the|length|height|depth|thick|thickness|width|wide|long|kg|kgs|gms?|sq|sqm|cum|litres?|ltrs?|lit|nos?|each|per|grade|class|case|beyond|within|lead|lift|km|any|for|or|outside|inside|internal|external|dia\.|a|b|c|i|ii|iii|iv|v|vi|x|working|pressure|heavy|medium|light|duty|type|series|mpa|gauge|swg|psi|etc|but|greater|than|less|minimum|maximum|approx|outer|inner)\b/gi;
   function isSize(t) { return String(t).replace(/\([^)]*\)/g, ' ').replace(/\b(pipes?|cables?|projection|thick|depth)\b/gi, ' ').replace(/\d+(\.\d+)?\s*[x×]\s*(?=\d)/gi, ' ').replace(/[\d.,/()\-+×%"'’*#°]+/g, ' ').replace(SIZEW, ' ').replace(/[^a-z]/gi, '').length < 3; }
   function pickFocus(d, text) {
     if (!text) return [d.dflt];
     var full = clean(text), segs = splitTop(full.split(/\s[—–]\s/)[0]), keys = Object.keys(d.parts);
-    var cut = function (t) { return t.split(/\s[—–]\s|\b(?:including|incl\.|excluding|excl\.|with|complete|conforming|as per)\b/i)[0]; };
-    var find = function (t) { for (var k = 0; k < keys.length; k++) if (d.parts[keys[k]].test(t)) return keys[k]; return null; };
+    var cut = function (t) { return t.split(/\s[—–]\s|\b(?:including|incl\.|excluding|excl\.|except|excepting|with|complete|conforming|as per|consisting of)\b/i)[0]; };
+    var find = function (t) { for (var k = 0; k < keys.length; k++) if (d.parts[keys[k]].test(t)) return keys[k].split('#')[0]; return null; };
     // 1) the specific segments, last first (skipping ones that only give a size)
-    var mA = null, weak = false;
-    for (var i = segs.length - 1; i >= 1 && !mA; i--) { var c = cut(segs[i]); if (!isSize(c)) { mA = find(c); weak = /^\s*(on|over|for|in|at|to|from|upto|up to|below|above|beyond|under|with|without|using|by)\b/i.test(c); } }
+    var mA = null, weak = false, aw = 0;
+    for (var i = segs.length - 1; i >= 1 && !mA; i--) { var c = cut(segs[i]); if (!isSize(c)) { mA = find(c); aw = c.trim().split(/\s+/).length; weak = /^\s*(on|over|for|in|at|to|from|upto|up to|below|above|beyond|under|with|without|using|by)\b/i.test(c); } }
     // 2) the heading: its first clause, then its main clause; 3) then all of the heading and the whole text
     var h = cut(segs[0]), h1 = h.split(/,\s/)[0], mH = null, mR = null;
     [h1.split(/\s+/).length >= 5 ? h1 : null, h].some(function (t) { return t && (mH = find(t)); });
@@ -373,7 +376,8 @@
     [segs[0], dash ? cut(dash) : null, full].some(function (t) { return t && (mR = find(t)); });
     // a segment naming only the general part, or only a qualifier ("On steel surface", "For T-beam"),
     // does not beat a heading that names a specific part
-    if (mA && !((mA === d.dflt || weak) && mH && mH !== d.dflt)) return [mA];
+    var mH1 = h1.split(/\s+/).length >= 2 ? find(h1) : null;
+    if (mA && (d.segFirst || !((mA === d.dflt || weak) && mH1 && mH1 !== d.dflt))) return [mA];
     return [mH || mA || mR || d.dflt];
   }
 

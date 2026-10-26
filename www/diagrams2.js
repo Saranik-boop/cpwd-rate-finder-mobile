@@ -37,7 +37,7 @@
 
   // ---------------- boundary wall with gate and railing ----------------
   def('boundary_wall', 'Boundary wall with pillars, MS railing and gate', {
-    gate: /\bgates?\b/i, railing: /railing|grill|grille|ms (flat|square|bar)|m\.s\.? (flat|square|bar)/i, coping: /coping/i,
+    gate: /\bgates?\b|collapsible/i, railing: /railing|grill|grille|ms (flat|square|bar)|m\.s\.? (flat|square|bar)/i, coping: /coping/i,
     pillar: /pillar|pier/i, found: /foundation|footing/i, wall: /boundary wall|compound wall|brick|wall/i
   }, 'wall', function () {
     var s = S({ az: 30, el: 18 });
@@ -73,7 +73,7 @@
 
   // ---------------- staircase ----------------
   def('staircase', 'RCC staircase: waist slab, steps, landing and railing', {
-    handrail: /hand ?rail/i, railing: /railing|baluster|grill/i, nosing: /nosing|treads?|risers?|kota|stone|marble|granite|tiles?/i,
+    handrail: /hand ?rail/i, railing: /railing|baluster|grill/i, nosing: /nosing|edging|treads?|risers?|kota|stone|marble|granite|tiles?/i,
     landing: /landing/i, waist: /stair|step|waist|r\.?c\.?c|concrete/i
   }, 'waist', function () {
     var s = S({ az: 52, el: 18 });
@@ -105,8 +105,8 @@
 
   // ---------------- water supply pipes & fittings ----------------
   def('water_pipe', 'Water supply pipe with fittings, valve and tap', {
-    valve: /valve|stop ?cock|gate valve|ball valve|full way/i, tap: /\btaps?\b|bib ?cock|pillar cock|faucet|mixer/i,
-    clamp: /clamp|hook|holder|clip/i, fitting: /elbow|\btees?\b|\bbends?\b|union|socket|coupler|reducer|fitting|nipple|\bplug|\bcaps?\b/i,
+    valve: /valve|stop ?cock|gate valve|ball valve|ball ?cock|full way/i, tap: /\btaps?\b|bib ?cock|pillar cock|push ?cock|faucet|mixer|shower/i,
+    clamp: /clamp|hook|holder|clip/i, fitting: /^(?!.*\bpipes? (and|&) fittings?\b).*(?:elbow|\btees?\b|\bbends?\b|union|socket|coupl|reduc|fitting|nipple|\bplug|\bcaps?\b|flange|adapt|adopt|\bbush|solvent|\bcross\b(?! drainage)|jam ?nut|back nut|connector)/i,
     pipe: /pipe|g\.?i\.?|cpvc|ppr|hdpe|upvc|pvc|ms pipe/i
   }, 'pipe', function () {
     var s = S({ az: 32, el: 18 });
@@ -143,9 +143,12 @@
 
   // ---------------- sanitary fittings ----------------
   def('sanitary', 'Toilet: WC, cistern, wash basin and traps', {
-    cistern: /cistern|flushing|flush valve|flush pipe/i, basin: /wash ?basin|lavatory|basin|sink/i, seat: /\bseat\b/i,
-    tap: /pillar cock|bib ?cock|\btaps?\b|faucet|\bjet\b|shower|mixer|stop ?cock|angle valve/i, trap: /trap|nahani|gully|floor drain|waste|\bplug\b|coupling|bottle/i, mirror: /mirror|towel|soap|shelf|grab/i, urinal: /urinal/i,
-    wc: /w\.?c\.?|water closet|commode|pan|orissa|squatting/i
+    urinal: /urinal/i, cistern: /cistern|flushing|flush valve|flush pipe/i, seat: /\bseat\b/i,
+    mirror: /mirror|towel|soap|shelf|grab|paper holder|\bring\b/i,
+    wc: /\bw\.?\s?c\.?\b|water closet|commode|\bpans?\b|orissa|squatting|\bewc\b/i,
+    trap: /trap|nahani|gully|floor drain|waste|\bplug\b|coupling|bottle/i,
+    tap: /pillar cock|bib ?cock|\btaps?\b|faucet|\bjet\b|shower|mixer|stop ?cock|angle valve/i,
+    basin: /wash ?basin|lavatory|basin|sink|drain(ing)? board/i
   }, 'wc', function () {
     var s = S({ az: 30, el: 24 });
     s.pill = { wc: 'Water closet (WC)', cistern: 'Flushing cistern', basin: 'Wash basin', tap: 'Tap / pillar cock', trap: 'Floor trap', mirror: 'Mirror / accessories', seat: 'WC seat & cover', urinal: 'Urinal' };
@@ -197,7 +200,7 @@
 
   // ---------------- overhead water tank ----------------
   def('water_tank', 'Overhead water tank on the roof', {
-    platform: /platform|\bstand\b|pedestal|brick ?work/i, overflow: /overflow/i, valve: /ball ?valve|float/i,
+    platform: /platform|\bstand\b|pedestal|brick ?work/i, overflow: /overflow/i, valve: /ball ?(valve|cock)|polythene ball|float/i,
     tank: /tank|reservoir|cistern|storage|sintex|polyethylene|ferro/i
   }, 'tank', function () {
     var s = S({ az: 30, el: 22 });
@@ -270,7 +273,7 @@
 
   // ---------------- slope pitching with toe wall / apron ----------------
   def('pitching', 'Pitching on a river / canal bank with filter, toe wall and apron', {
-    toe: /toe wall/i, apron: /apron|launching/i, pitch: /pitching|revetment/i,
+    toe: /toe wall/i, apron: /apron|launching/i, pitch: /pitching|revetment|concrete blocks|tetrapod/i,
     filter: /filter|khoa|geo.?textile|back ?filling/i
   }, 'pitch', function () {
     var s = S({ az: -32, el: 26 });

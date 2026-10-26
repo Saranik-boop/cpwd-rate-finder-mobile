@@ -72,19 +72,21 @@
 
   // ======================= 1. MATERIALS =======================
   def('materials', 'Materials (basic rates) stacked at site', {
-    sanitary: /closet|wash ?basin|\bsinks?\b|urinal|cistern|\btaps?\b|bib ?cock|pillar cock|shower|mirror|commode|squatting|\bw\.?c\.? pan|\bewc\b/i,
-    glass: /\bglass\b(?! ?(wool|fibre|fiber))|glazing/i,
-    paint: /\bpaints?\b|primer|enamel|distemper|varnish|french polish|wax polish|putty|thinner|chemical|adhesive|admixture|\bcompound\b|sealant|solution|resin|epoxy|\boil\b|\bacid\b|emulsion paint|white ?wash|\blime wash|colour wash/i,
-    bitumen: /bitumen|asphalt|\btar\b|\bemulsion\b|crmb|coaltar|coal tar/i,
-    pipe: /\bpipes?\b|\btubes?\b|hume|\bsockets?\b|\bbends?\b|\btees?\b|elbow|\bfittings?\b|valve|\btraps?\b|manhole cover|junction|coupling|reducer|adapter|adaptor|connector|nipple|\bunion\b|flange|ferrule|\bcock\b/i,
-    hardware: /\bbolts?\b|\bnuts?\b|\bscrews?\b|\bnails?\b|hinges?|\bhooks?\b|clamps?|rivets?|fasteners?|washers?|handles?|\blocks?\b|\bstays?\b|\bcatch|\bpins?\b|gaskets?|\bclips?\b|staples?|aldrop|tower bolt|latch|hasps?/i,
-    tile: /\btiles?\b|stone slab|\bslabs?\b|marble(?! (dust|chips|powder))|granite|\bkota\b|sand ?stone|shahabad|mirzapur/i,
-    cement: /\bcement\b(?! (board|sheet|panel|fibre|corrugated))|\blime\b|surki|surkhi|fly ?ash|gypsum|plaster of paris|pozzolana|\bgrout\b/i,
-    steel: /\bsteel\b|\btor\b|\btmt\b|\brods?\b|\bbars?\b|\bm\.?s\.?\b|joist|\bangles?\b|\bchannels?\b|\bplates?\b|strands?|\bwires?\b|\bsheets?\b|\bg\.?i\.?\b|\biron\b|alumin|copper|brass|\blead\b|zinc/i,
+    'steel#1': /structural steel|\bjoists?\b|\btees,? angles|\bangles?\b.{0,20}\bchannels?\b|\bflats\b|\b(m\.?s\.?|mild steel|iron) flats?\b|flat (bars?|iron|strap)|pintels?/i,
+    'timber#1': /hard ?board|particle board|block ?board|plywood|\bply\b|ball(ie|y|ah)s?\b|bullah/i,
+    sanitary: /closet|wash ?basin|\bsinks?\b|urinal|cistern|\btaps?\b|bib ?cock|pillar cock|shower|\bmirror\b(?! polish)|commode|squatting|\bw\.?c\.?\b|\bewc\b|\bjet\b|rubber plug|toilet|\bseat\b|towel|soap|brass waste|waste (coupling|fitting)|bottle trap|\bmixer\b(?!.*(concrete|mortar|drum))/i,
+    hardware: /\bbolts?\b(?! ?less)|\bnuts?\b|\bscrews?\b|\bnails?\b|hinges?|\bhooks?\b|clamps?|rivets?|fasten(er|ers)|fastner|washers?|handles?|\blocks?\b|\bstays?\b|\bcatch|\bpins?\b(?! ?headed)|gaskets?|\bclips?\b|staples?|aldrop|tower bolt|latch|hasps?|stoppers?|door closer|\bknobs?\b|\bpivots?\b|kicking plate|curtain rods?|\bbrackets?\b|cramps?|turn ?buckles?/i,
+    glass: /^(?!.*(fib(re|er) ?glass|glass (reinforced|fib(re|er)|wool|tissue|cloth)|reinforced (plastic|gypsum))).*(\bglass\b|glazing)/i,
+    pipe: /^(?!.*(ceiling|door reducer|trap stone|\bsandpaper)).*(?:\bpipes?\b|\btubes?\b|hume|hubless|\bspouts?\b|\bsockets?\b|\bbends?\b|\btees?\b|elbow|\bfittings?\b|valve|\btraps?\b|manhole cover|junction|coupling|reducer|adapter|adaptor|connector|nipple|\bunion\b|flange|ferrule|\bcock\b|branch|collars?|door pieces?|couplers?|cowl|terminal guard|strainer|specials|gully|grating|surface box|\bshoes?\b)/i,
+    bitumen: /bitumen|a\.?p\.?p\.? modified|polymeric felt|asphalt|\btar\b|crmb|coaltar|coal tar|cationic/i,
+    paint: /^(?!.*(resistant|ceiling) tiles?)(?!.*(glass ?wool|rock ?wool|plastic sheet)).*(?:\bpaints?\b|primer|enamel|distemper|varnish|french polish|wax polish|putty|thinner|chemical|adhesive|admixture|\bcompound\b|sealant|solution|resin|epoxy|\boil\b|\bacid\b|emulsion|acrylic|white ?wash|\blime wash|colour wash|pigment|shellac|spirit|whiting)/i,
+    tile: /\btiles?\b(?! class)|stone slab|\bslabs?\b|marble(?! (dust|chips|powder))|granite|\bkota\b|sand ?stone|shahabad|mirzapur/i,
+    cement: /^(?!.*fibres? (reinforced )?cement)(?!.*\bbricks?\b)(?=.*(\bcement\b(?! (board|sheet|panel|fibre|corrugat))|\blime\b|surki|surkhi|fly ?ash|gypsum|plaster of paris|pozzolana|\bgrout\b))/i,
+    steel: /fibres? (reinforced )?cement(?! board)|\bsteel\b|\btor\b|\btmt\b|\brods?\b|\bbars?\b|\bm\.?s\.?\b|\bplates?\b|strands?|\bwires?\b|(g\.?i\.?|galvani[sz]ed|steel|aluminium|metal|iron|copper|zinc)\s.{0,12}sheets?|\bg\.?i\.?\b|\biron\b|alumin|copper|brass|\blead\b|zinc|mesh/i,
     aggregate: /aggregate|\bchips\b|\bmetal\b|ballast|boulder|shingle|gravel|bajr|moorum|stone dust|screening|\bgrit\b|khoa|\bstones?\b|marble (dust|chips|powder)/i,
     brick: /\bbricks?\b|jhama|\bblocks?\b(?! ?board)|\baac\b|\bbats?\b/i,
-    sand: /\bsand\b|\bsilt\b|\bearth\b|\bsoil\b/i,
-    timber: /timber|\bwood|teak|\bsal\b|\bply\b|plywood|\bboards?\b|bamboo|ballah|\blogs?\b|sissoo|deodar|\bchir\b|batten|\bplanks?\b/i
+    sand: /\bsand\b(?! blast)|\bsilt\b|\bearth\b|\bsoil\b/i,
+    timber: /timber|\bwood|teak|\bsal\b|\bboards?\b|bamboo|\blogs?\b|sissoo|deodar|\bchir\b|batten|\bplanks?\b|scantling/i
   }, 'other', function () {
     var s = S({ az: 22, el: 38 });
     s.pill = { cement: 'Cement / lime', sand: 'Sand / earth', aggregate: 'Stone aggregate', brick: 'Bricks / blocks', steel: 'Steel / metal', timber: 'Timber / wood',
@@ -165,9 +167,9 @@
 
   // ======================= 2. LABOUR =======================
   def('labour', 'Labour on a site', {
-    mason: /mason|bricklayer|mistry|mathor|stone cutter/i, carpenter: /carpenter|wood|polisher/i,
-    plumber: /plumber|fitter|pipe/i, painter: /painter|white ?washer|polish/i, welder: /welder|black ?smith|smith|rivet|fabricat/i,
-    operator: /operator|driver|khalasi|machine|mechanic|electrician|wireman|lineman/i,
+    plumber: /plumber|plumbing|fitter|pipe|sewer ?man/i, mason: /mason|bricklayer|mistry|mathor|stone cutter|mosaic/i, carpenter: /carpenter|wood|polisher|upvc|windows?/i,
+    painter: /painter|white ?washer|polish/i, welder: /welder|black ?smith|smith|rivet|fabricat/i,
+    operator: /operator|driver|khalasi|machine|mechanic|electrician|wireman|lineman|technician|driller|mazhi|boat/i,
     beldar: /beldar|mazdoor|majdoor|coolie|helper|labour|bandhani|gharamee|santras|bhisti|chowkidar|mate|tarman|unskilled|semi.?skilled|skilled/i
   }, 'beldar', function () {
     var s = S({ az: 18, el: 26 });
@@ -217,12 +219,14 @@
     return s;
   });
 
+  K.defs.labour.segFirst = true;
+
   // ======================= 3. PLANT & MACHINERY =======================
   def('machinery', 'Plant & machinery (hire charges)', {
-    roller: /roller|compactor|rammer|plate compactor/i, mixer: /mixer|batching|\bbatch\b|transit|hot ?mix|drum mix|wet mix plant|paver|finisher|boiler|sprayer|distributor|chip spreader|kettle/i,
-    excavator: /excavator|jcb|loader|dozer|grader|backhoe|poclain|motor grader|crane|tripod|winch|hoist|lift|pile|rig|derrick/i,
-    truck: /truck|tipper|dumper|tanker|tractor|trailer|lorry|carriage|sweeper|bus|jeep|car\b/i,
-    pump: /pump|dewater|generator|gen.?set|compressor|vibrator|welding|cutter|breaker|drill|chisel|saw|grinder|blower|needle/i
+    roller: /roller|compactor|rammer|plate compactor/i, mixer: /mixer|batching|\bbatch\b|transit|hot ?mix|drum mix|drum type|\bhmp\b|asphalt plant|barber|mastic|cooker|wet mix plant|paver|finisher|boiler|sprayer|distributor|chip spreader|kettle/i,
+    excavator: /excavator|jcb|loader|dozer|grader|backhoe|poclain|motor grader|crane|tripod|winch|hoist|\blift|\bpiling|pile driv|\brig\b|derrick|grab\b/i,
+    truck: /truck|tipper|dumper|tanker|tractor|trailer|lorry|carriage|sweeper|broom|tata|\b407\b|tempo|\bbus\b|jeep|\bcar\b/i,
+    pump: /pump|dewater|generator|gen.?set|compressor|vibrator|welding|cutter|cutting|breaker|drill|chisel|\bsaw\b|grinder|blower|needle|spray|rubbing|applicator|texturing|jet|blast|inject|testing|ultra ?violet|machine/i
   }, 'excavator', function () {
     var s = S({ az: 18, el: 30 });
     s.pill = { excavator: 'Excavator / crane / rig', roller: 'Road roller', mixer: 'Mixer / plant / paver', truck: 'Truck / tipper / tanker', pump: 'Pump / generator / small tools' };
@@ -312,7 +316,7 @@
   def('soil_testing', 'Soil boring, sampling and testing', {
     spt: /\bspt\b|standard penetration|\bcones?\b|penetration test|dcpt|scpt/i, sample: /sample|\bcores?\b|undisturbed|\bud\b|disturbed/i,
     plate: /plate load|field density|sand replacement|cbr|core cutter|load test|pile load/i,
-    lab: /\blab(oratory)?\b|\btest(ing|s)?\b|sieve|analysis|limit|moisture|proctor|compressive|cube|consolidation|shear|chemical|permeability|specific gravity|grain|density|determination|consistency|strength|value\b|index/i,
+    lab: /^(?!.*drilling mud).*(?:\blab(oratory)?\b|\btest(ing|s)?\b|sieve|analysis|limit|moisture|proctor|compressive|cube|consolidation|shear|chemical|permeability|specific gravity|grain|density|determination|consistency|strength|value\b|index)/i,
     boring: /boring|bore ?hole|drilling|auger|wash|rotary|casing/i
   }, 'boring', function () {
     var s = S({ az: 30, el: 22 });
@@ -355,9 +359,10 @@
 
   // ======================= 7. DISMANTLING =======================
   def('dismantling', 'Dismantling / demolition of a building', {
-    door: /doors?|windows?|shutters?|frames?|chowkat|grill|gate|glass/i, roof: /roof|sheets?|tiles? (from|in) roof|truss|terrac|ceiling/i,
-    steel: /steel|iron|joist|reinforcement|rails?|structural/i, pipe: /pipe|fitting|sanitary|hydrant|fixture|w\.?c|basin|tank/i,
-    floor: /floor|pavement|tiles?|stone slabs?|soling/i, concrete: /concrete|r\.?c\.?c|r\.?b\.?|lime concrete|cement concrete/i,
+    door: /\bdoors?\b|windows?|shutters?|ventilator|chowkat|grill|gate|glass|glazing|trellis/i, roof: /roof|sheets?|tiles? (from|in) roof|truss|rafter|purlin|terrac|ceiling|karries|phaska|jack arch/i,
+    pipe: /pipe|fitting|sanitary|hydrant|fixture|\bw\.?c\b|basin|tank|cistern|valve|gully|\btraps?\b|\bcovers?\b|manhole|chamber|\bcocks?\b|spreader|distiller|burner|ferrule/i,
+    steel: /steel|iron|joist|reinforcement|rails?|structural|barbed|wire|expanded metal|fabric|fencing/i,
+    floor: /floor|pavement|\broad\b|tiles?|stone slabs?|soling/i, concrete: /concrete|r\.?c\.?c|r\.?b\.?|lime concrete|cement concrete/i,
     debris: /rubbish|debris|malba|disposal|removal of|carting/i, masonry: /masonry|brick|stone|wall|partition|plaster|cutting|chase|holes?/i
   }, 'masonry', function () {
     var s = S({ az: 32, el: 20 });
@@ -382,10 +387,10 @@
 
   // ======================= 8. PAINTING =======================
   def('painting', 'Painting and finishing of walls, steel and wood', {
-    primer: /primer|priming/i, steel: /steel|iron|metal|g\.?i\.?|grill|anti.?corrosive|aluminium paint|red lead|black japan|bitumastic|structural/i,
-    wood: /wood|varnish|french polish|polish|timber|teak|melamine|lacquer|wax/i,
-    prep: /scraping|removing|cleaning|smoothening|sand ?paper|rubbing|putty|plaster of paris|rendering/i,
-    wall: /wall|distemper|emulsion|cement paint|white ?wash|colour ?wash|texture|snowcem|acrylic|exterior|interior|ceiling|plaster|border|letter|bands?/i
+    primer: /^(?!.*\bover (a |the )?(coat of )?([a-z ]+ )?prim).*(primer|priming)/i, steel: /steel|\biron\b|metal|\bg\.?i\.?\b|\bg\.?s\.? sheet|cistern|bath ?tub|enamel|acid proof|coal tar(?!.*wood)|\bsheets?\b|\bpipes?\b|grill|anti.?corrosive|aluminium paint|red lead|black japan|bitumastic|structural/i,
+    wood: /^(?!.*(floor polishing|masonry or concrete floors)).*(?:wood|varnish|french polish|polish|timber|teak|melamine|lacquer|wax)/i,
+    prep: /^(?!\s*(cement wash|red oxide wash|applying|painting|finishing)).*(?:scraping|removing|cleaning|smoothening|sand ?paper|rubbing|putty|plaster of paris|rendering)/i,
+    wall: /wall|concrete|distemper|cement wash|cement based paint|red oxide wash|lime wash|emulsion|cement paint|white ?wash|colour ?wash|texture|snowcem|acrylic|exterior|interior|ceiling|plaster|border|letter|bands?/i
   }, 'wall', function () {
     var s = S({ az: 30, el: 16 });
     s.pill = { wall: 'Wall painting / washing', primer: 'Priming coat', steel: 'Painting on steel', wood: 'Painting / polishing wood', prep: 'Surface preparation' };
@@ -406,9 +411,9 @@
 
   // ======================= 9. WOODWORK / PANELLING / PARTITIONS =======================
   def('woodwork', 'Wood work: wall panelling, partition, shelves, cupboard, posts & rafters', {
-    frame: /frame ?work|\bgrounds?\b|g\.?i\.? (section|frame)|\bstuds?\b|studding|framework/i, shelf: /shel(f|ves)|rack|counter|platform|top/i,
-    cupboard: /cupboard|almirah|drawers?|wardrobe|kitchen|cabinet/i, partition: /partition/i,
-    post: /\bposts?\b|post plates?|rafters?|\bbeams?\b|burgah|purlin|truss|eaves|joists?|wall plates?|louv/i,
+    frame: /frame ?work|\bgrounds?\b|g\.?i\.? (section|frame)|\bstuds?\b|studding|framework/i, shelf: /shel(f|ves)|rack|counter|platform|\btops?\b(?!,? (and )?bottom)/i,
+    cupboard: /cupboard|almirah|drawers?|wardrobe|kitchen|cabinet/i, partition: /partition|partion/i,
+    post: /\bposts?\b|post plates?|rafters?|\bbeams?\b|burgh?a|purlin|truss|eaves|joists?|wall plates?|louv/i,
     panel: /panell?ing|lining|board|ply|mdf|particle|veneer|laminate|plank|sheet|block ?board/i
   }, 'panel', function () {
     var s = S({ az: 32, el: 18 });
@@ -454,8 +459,8 @@
 
   // ======================= 11. SOIL / WASTE PIPE =======================
   def('soil_pipe', 'Soil and waste pipe stack with fittings', {
-    vent: /vent|cowl|anti.?syphon/i, gully: /gully|floor trap|nahani|grating|chamber/i, joint: /\bjoints?\b|lead caulk|caulk|spun yarn|rubber ring|solvent|collar|\btesting\b/i,
-    fitting: /\bbends?\b|\btees?\b|branch|junction|\by\b|\by-|socket|plug|reducer|offset|shoe|trap|clamp|holder|access|door|fitting|heel rest/i,
+    vent: /vent|cowl|anti.?syphon|terminal guard|air inlet/i, gully: /gully|floor trap|nahani|grating|chamber|\bjall?i\b/i, joint: /\bjoints?\b|lead caulk|caulk|spun yarn|rubber ring|solvent|collar|coupling|\btesting\b/i,
+    fitting: /\bbends?\b|\btees?\b|branch|junction|\by\b|\by-|socket(?!ed pipe)|plug|reducer|off ?sets?|shoe|trap|clamp|holder|access|door|fitting|heel rest/i,
     pipe: /pipe|stack|soil|waste|swr|s\.?c\.?i|c\.?i\.?|pvc/i
   }, 'pipe', function () {
     var s = S({ az: 30, el: 18 });
@@ -541,8 +546,8 @@
 
   // ======================= 15. DUG WELL =======================
   def('dug_well', 'Dug well with steining, kerb, parapet and platform', {
-    kerb: /kerb|curb|cutting edge/i, parapet: /parapet|coping/i, platform: /platform|apron|drain/i, cover: /cover|pulley|lid|net|grill/i,
-    silt: /silt|bail|dewater|cleaning|disinfect|bleach|moss/i, dig: /digging|excavat|sinking|earth/i, steining: /steining|\bring\b|masonry|brick/i
+    silt: /silt|bail|dewater|cleaning|disinfect|bleach|moss|scum/i, kerb: /kerb|curb|cutting edge/i, parapet: /parapet|coping/i, platform: /platform|apron|drain/i, cover: /cover|pulley|pully|lid|net|grill/i,
+    dig: /digging|excavat|sinking|earth/i, steining: /steining|\bring\b|masonry|brick/i
   }, 'steining', function () {
     var s = S({ az: 30, el: 22 });
     s.pill = { steining: 'Well steining', dig: 'Digging / sinking', kerb: 'Well kerb', parapet: 'Parapet', platform: 'Platform & drain', cover: 'Cover / pulley', silt: 'Silt clearance / bailing' };
@@ -587,8 +592,8 @@
 
   // ======================= 17. HORTICULTURE =======================
   def('horticulture', 'Horticulture: lawn, trees, shrubs, hedge and good earth', {
-    guard: /guard/i, hedge: /hedge|edging|edge/i, earth: /earth|manure|sludge|compost|soil|mulch|fertili/i,
-    shrub: /shrub|flower|seasonal|plant(s|ing)? (of|in)|pot|creeper|bushes/i, tree: /trees?|sapling|avenue|palm|tree pit|planting/i,
+    guard: /guard|gabion/i, hedge: /hedge|edging|edge/i, earth: /earth|manure|sludge|compost|soil|mulch|fertili/i,
+    tree: /trees?|sapling|avenue|palm|tree pit|afforestation/i, shrub: /shrub|flower|seasonal|plant(s|ing)? (of|in)|pot|creeper|bushes|plants?/i,
     lawn: /lawn|grass|turf|dooba|doob|mowing|ploughing|dragging|swagha/i
   }, 'lawn', function () {
     var s = S({ az: 26, el: 28 });
@@ -638,7 +643,7 @@
 
   // ======================= 19. RECHARGE PIT =======================
   def('recharge_pit', 'Rain-water harvesting recharge pit with bore', {
-    boulder: /boulders?/i, gravel: /gravel|pebbles|chips/i, sand: /sand|filter/i, inlet: /inlet|pipe|desilting|chamber|cover|grating/i, bore: /bore|casing|strainer|recharge well|shaft/i
+    sand: /\bsand\b/i, gravel: /gravel|pebbles|chips/i, boulder: /boulders?/i, inlet: /inlet|pipe|desilting|chamber|cover|grating/i, bore: /bore|casing|strainer|recharge well|shaft/i
   }, 'boulder', function () {
     var s = S({ az: 30, el: 22 });
     s.pill = { boulder: 'Boulder layer', gravel: 'Gravel layer', sand: 'Sand layer', inlet: 'Inlet / desilting chamber', bore: 'Recharge bore' };
@@ -657,7 +662,7 @@
 
   // ======================= 20. SITE CLEARANCE =======================
   def('site_clearance', 'Site clearance: trees, jungle, stumps and old structures', {
-    stump: /stump|root/i, jungle: /jungle|grubbing|grass|bushes|shrub|weeds?|hyacinth|clearing|vegetation|surface dressing/i, structure: /dismantl|structures?|culvert|pipes?|masonry|brick|concrete|scraping/i,
+    stump: /stumps?|\broots?\b/i, jungle: /jungle|grubbing|grass|bushes|shrub|weeds?|hyacinth|clearing|vegetation|surface dressing/i, structure: /dismantl|structures?|culvert|pipes?|masonry|brick|concrete|scraping/i,
     tree: /trees?|branches|felling|cutting of/i
   }, 'tree', function () {
     var s = S({ az: 26, el: 26 });
@@ -726,7 +731,7 @@
     joint: /expansion joint|strip seal|filler joint|asphaltic plug|slab seal|modular joint|seal joint|modular strip/i, wearing: /wearing coat|mastic|asphalt|wearing/i,
     railing: /railing|crash barrier|parapet|kerb|footpath/i, approach: /approach slab|approach/i, spout: /spout|drainage spout|weep/i,
     prestress: /prestress|strand|cable|sheathing|anchorage|post.?tension/i, girder: /girder|beam|t.?beam|box/i,
-    pier: /pier|cap|column|trestle/i, abutment: /abutment|return wall|wing|dirt wall/i, deck: /deck|slab|superstructure|r\.?c\.?c|concrete|reinforcement|steel|formwork|staging/i
+    pier: /pier|\bcap\b|column|trestle|sub-?\s?structure/i, abutment: /abutment|return wall|wing|dirt wall/i, deck: /deck|slab|superstructure|r\.?c\.?c|concrete|reinforcement|steel|formwork|staging/i
   }, 'deck', function () {
     var s = S({ az: 30, el: 18 });
     s.pill = { deck: 'Deck slab', girder: 'Girders', pier: 'Pier & pier cap', abutment: 'Abutment / wing walls', wearing: 'Wearing coat', joint: 'Expansion joint', railing: 'Railing / crash barrier', approach: 'Approach slab', spout: 'Drainage spout', prestress: 'Prestressing cables' };
@@ -794,7 +799,7 @@
   // ======================= 26. WATER MAIN (distribution) =======================
   def('water_main', 'Water main: pipe in trench, joints, valves, hydrant and connection', {
     hydrant: /hydrant|fire/i, air: /air valve|air release/i, ferrule: /ferrule|connection|service/i, meter: /\bmeters?\b(?! (dia|long|length|depth|height|wide))|water meter/i,
-    valve: /sluice|valve|butterfly|reflux|non.?return|surface box|chamber/i, joint: /\bjoints?\b|flange|collar|gasket|detachable|dresser|tyton|rubber ring|\bspecials?\b/i,
+    valve: /sluice|valve|butterfly|reflux|non.?return|surface box/i, joint: /\bjoints?\b|flange|collar|gasket|detachable|dresser|tyton|rubber ring|\bspecials?\b/i,
     pipe: /pipe|main|c\.?i\.?|d\.?i\.?|h\.?d\.?p\.?e|m\.?s\.?|pe.?al.?pe|composite|u\.?p\.?v\.?c|polyethylene/i
   }, 'pipe', function () {
     var s = S({ az: 28, el: 24 });

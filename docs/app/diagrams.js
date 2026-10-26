@@ -80,8 +80,8 @@
   });
 
   def('door_fittings', 'Door with its fittings', {
-    closer: /closer|floor spring|hydraulic/i, hinge: /hinge/i, tbolt: /tower bolt|barrel/i, aldrop: /aldrop|sliding (door )?bolt|hasp|staple/i,
-    lock: /lock|latch/i, handle: /handle|knob|pull/i, stopper: /stopper|door stop|buffer|catch|holder/i, kick: /kick/i, shutter: /shutter/i
+    closer: /closer|floor spring|hydraulic|door spring/i, hinge: /hinge/i, tbolt: /tower bolt|barrel|flush bolt|socket bolt|skeleton bolt/i, aldrop: /aldrop|sliding (door )?bolt|hasp|staple|haskal/i,
+    lock: /\blocks?\b|latch|locking|pad bolt/i, handle: /handle|knob|\bpull\b|door ring|finger plate/i, stopper: /stopper|door stop|buffer|catch|holder|hooks? and eyes/i, kick: /kick/i, shutter: /^(?!.*\bfor\b.{0,50}shutters?).*shutters?/i
   }, 'hinge', function () {
     var s = S({ az: 22, el: 16 }), T = doorBase(s, { ang: 30 }); doorTop(s);
     var W = 100, Ht = 202, t = 3.5;
@@ -108,7 +108,7 @@
   });
 
   def('window', 'Window: frame, shutters and glazing', {
-    grill: /grill|grille|guard bar/i, frame: /\bframes?\b|chowkhat/i, glass: /glass|glazing|\bpanes?\b/i, fitting: /hinge|stay|fastener|bolt|handle/i, shutter: /shutter|sash|casement|window/i
+    grill: /grill|grille|guard bar|\bbars? with m\.?s\.? flats|fabric|wire mesh|expanded metal/i, frame: /\bframes?\b|chowkhat/i, glass: /glass|glazing|\bpanes?\b/i, fitting: /hinge|stay|fastener|bolt|handle|pivot|chain with hook|spring catch|curtain rods?/i, shutter: /shutter|sash|casement|window/i
   }, 'shutter', function () {
     var s = S({ az: 36 });
     s.box(-10, 0, 40, 230, 23, 50, { c: M.plaster });                        // wall below sill
@@ -148,7 +148,7 @@
 
   // ======================= CONCRETE & MASONRY =======================
   function rng(seed) { return function () { seed = (seed * 16807) % 2147483647; return (seed - 1) / 2147483646; }; }
-  var STEEL = /^\W*(steel|reinforcement|thermo|tmt|m\.?s\.? bars?|providing.{0,40}(reinforcement|tmt|bars))/i;
+  var STEEL = /^\W*(under parent item [\d.]+\s*\W*)?(providing and fixing parallel threaded couplers|steel|reinforcement|thermo|tmt|m\.?s\.? bars?|providing.{0,40}(reinforcement|tmt|bars))/i;
 
   def('rcc_slab_beam', 'RCC slab and beam (see-through)', {
     steel: STEEL, conc: /concrete|rcc|r\.c\.c|slab|beam|lintel|chajja|floor|roof/i
@@ -272,7 +272,7 @@
   });
 
   def('plaster_layers', 'Plaster and finishes on a wall', {
-    paint: /paint|distemper|emulsion|white ?wash|colou?r ?wash|texture|snowcem|enamel/i, putty: /putty|primer/i, plaster: /plaster|render|punning|rough cast|pebble/i
+    paint: /paint|distemper|emulsion|white ?wash|colou?r ?wash|texture|snowcem|enamel/i, putty: /(?<!lime )putty|primer/i, plaster: /plaster|render|punning|rough cast|pebble/i
   }, 'plaster', function () {
     var s = S({ az: 32, el: 20 }), Hh = 80;
     s.box(0, 0, 0, 140, 23, Hh, { c: M.brick, k: 'masonry' });
@@ -332,7 +332,7 @@
 
   def('roof_waterproofing', 'Roof waterproofing build-up', {
     khurra: /khurra|spout|rain ?water|down ?pipe/i, tile: /tile|terracotta|china/i, membrane: /membrane|app|bitumen|felt|sheet|polymer|coating/i,
-    coba: /brick ?bat|coba|lime|grading|screed|slope|water ?proof/i, slab: /slab|concrete/i
+    coba: /brick ?bat|coba|lime|grading|screed|slope|water ?proof|phaska/i, slab: /slab|concrete/i
   }, 'membrane', function () {
     var s = S({ az: 34, el: 28 });
     s.box(0, 0, 0, 140, 100, 12, { c: M.concrete, k: 'slab' });
@@ -526,7 +526,7 @@
   });
 
   def('steel_truss', 'Steel roof truss with purlins and sheeting', {
-    purlin: /purlin/i, sheet: /sheet|roofing|corrugated|profile|galvalume|cladding/i, truss: /truss|structural steel|steel work|welded|bolted|riveted|angle|section/i
+    purlin: /purlin/i, sheet: /sheet|roofing|corrugated|ridg(e|ing)|translucent|polycarbonate|profile|galvalume|cladding/i, truss: /truss|structural steel|steel work|welded|bolted|riveted|angle|section/i
   }, 'truss', function () {
     var s = S({ az: 32, el: 18 }), Wd = 240, Hr = 60, y;
     s.pill = { truss: 'Steel truss', purlin: 'Purlins', sheet: 'Roof sheeting' };
@@ -553,9 +553,9 @@
 
   // ======================= ROADS & BRIDGES =======================
   def('pavement_flexible', 'Flexible (bituminous) road pavement layers', {
-    prime: /prime coat|tack coat|\bprime\b|\btack\b/i, bc: /bituminous concrete|\bb\.?c\.?\b|wearing|surface dress|seal coat|mastic|premix|open.graded|carpet/i,
+    prime: /^(?!.*(slurry|cold mix|seal coat)).*(prime coat|tack coat|\bprime\b|\btack\b)/i, bc: /^(?!.*inverted choke).*(?:bituminous concrete|slurry seal|cold mix|matrix asphalt|micro.?surfac|fog spray|\bb\.?c\.?\b|wearing|surface dress|seal coat|mastic|premix|open.graded|carpet)/i,
     dbm: /dense bituminous|\bd\.?b\.?m\b|bituminous macadam|\bb\.?m\.?\b/i, wmm: /wet mix|\bw\.?m\.?m\b|water bound|\bw\.?b\.?m\b/i,
-    gsb: /granular sub|\bg\.?s\.?b\b|sub.?base|moorum|sand/i, sub: /sub.?grade|embankment|earth/i
+    gsb: /^(?!.*screening).*(?:granular sub|inverted choke|\bg\.?s\.?b\b|sub.?base|moorum|sand)/i, sub: /sub.?grade|embankment|earth/i
   }, 'bc', function () {
     var s = S({ az: 36, el: 26 });
     s.pill = { bc: 'Bituminous wearing course', dbm: 'Bituminous base (DBM / BM)', wmm: 'WMM / WBM base', gsb: 'Granular sub-base', sub: 'Subgrade', prime: 'Prime / tack coat' };
@@ -626,7 +626,7 @@
   });
 
   def('pipe_culvert', 'Pipe culvert under a road', {
-    head: /head ?wall|wing|parapet|apron|face wall/i, pipe: /pipe|hume|\bnp\d|r\.?c\.?c\.? pipe/i, bed: /bedding|cradle/i, emb: /earth|embankment|fill/i
+    head: /head ?wall|wing|parapet|apron|face wall/i, pipe: /^(?!.*in foundation).*(?:pipe|hume|\bnp\d|r\.?c\.?c\.? pipe)/i, bed: /bedding|cradle|in foundation/i, emb: /earth|embankment|fill/i
   }, 'pipe', function () {
     var s = S({ az: 30, el: 22 });
     s.pill = { pipe: 'Culvert pipe', head: 'Headwall & wings', bed: 'Pipe bedding' };
@@ -748,7 +748,7 @@
   });
 
   def('embankment', 'Earthen embankment / canal bank', {
-    turf: /turf|grass|sodding|pitching/i, borrow: /borrow/i, compact: /compact|consolidat|roller|layer/i, earth: /earth|embankment|bank|filling|excavat/i
+    turf: /turf|grass|sodding|pitching|seeding|mulch/i, borrow: /borrow/i, compact: /compact|consolidat|roller|layer/i, earth: /earth|embankment|bank|filling|excavat/i
   }, 'earth', function () {
     var s = S({ az: 30, el: 26 });
     s.pill = { earth: 'Earthwork in embankment', turf: 'Turfing', compact: 'Compaction in layers', borrow: 'Borrow area' };
