@@ -1,0 +1,52 @@
+PASS first launch shows Request Access
+PASS bad phone number is rejected in app
+PASS after request shows Waiting for approval
+PASS search is not usable while waiting
+PASS email sent with approve + reject links
+PASS email goes to owner
+PASS email shows name, phone, device, time
+PASS db stores hashes, not the device secret
+PASS approve page shows who is asking
+PASS opening the link alone does not approve (scanner-safe)
+PASS approve link approves
+PASS approve link cannot be reused
+PASS reject link dead after approve
+PASS approved phone unlocks and search works
+PASS rate analysis still works
+PASS footer TCD1 still there
+PASS access token stored after approval
+PASS reopening needs no login
+PASS rejected phone stays blocked
+PASS rejected phone cannot re-request by reopening
+PASS expired link refused
+PASS admin sees pending request
+PASS admin approved list marks this phone
+PASS admin blocked list shows rejected
+PASS admin approve works
+PASS phone approved from admin unlocks
+PASS revoke asks for a second tap
+PASS revoke saved on server
+PASS revoke clears token on server
+PASS revoked phone locked on next open
+PASS revoked phone lost its data key
+PASS no network spam on quick app switches
+PASS revoked while open -> locked when app is reopened
+  [console] error Failed to load resource: the server responded with a status of 503 (Service Unavailable)
+PASS approved phone works offline
+  [console] error Failed to load resource: the server responded with a status of 503 (Service Unavailable)
+PASS offline > 30 days -> must go online
+PASS back online -> re-checks and unlocks
+PASS last check time refreshed
+PASS forged token -> locked
+PASS without server key the data cannot be read
+PASS reinstall / new phone must request again
+  [console] error Failed to load resource: the server responded with a status of 403 (Forbidden)
+PASS non-owner is refused admin
+PASS non-owner session discarded
+  [console] error Failed to load resource: the server responded with a status of 401 (Unauthorized)
+PASS admin API refuses anonymous calls
+  [console] error Failed to load resource: the server responded with a status of 401 (Unauthorized)
+PASS public key cannot read the device table
+PASS no script errors
+
+45/45 passed
