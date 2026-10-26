@@ -106,7 +106,7 @@
   // ---------------- water supply pipes & fittings ----------------
   def('water_pipe', 'Water supply pipe with fittings, valve and tap', {
     valve: /valve|stop ?cock|gate valve|ball valve|full way/i, tap: /\btaps?\b|bib ?cock|pillar cock|faucet|mixer/i,
-    clamp: /clamp|hook|holder|clip/i, fitting: /elbow|tee|bend|union|socket|coupler|reducer|fitting|nipple|plug|cap\b/i,
+    clamp: /clamp|hook|holder|clip/i, fitting: /elbow|\btees?\b|\bbends?\b|union|socket|coupler|reducer|fitting|nipple|\bplug|\bcaps?\b/i,
     pipe: /pipe|g\.?i\.?|cpvc|ppr|hdpe|upvc|pvc|ms pipe/i
   }, 'pipe', function () {
     var s = S({ az: 32, el: 18 });
@@ -147,42 +147,57 @@
     tap: /pillar cock|bib ?cock|\btaps?\b|faucet|\bjet\b|shower|mixer|stop ?cock|angle valve/i, trap: /trap|nahani|gully|floor drain|waste|\bplug\b|coupling|bottle/i, mirror: /mirror|towel|soap|shelf|grab/i, urinal: /urinal/i,
     wc: /w\.?c\.?|water closet|commode|pan|orissa|squatting/i
   }, 'wc', function () {
-    var s = S({ az: 34, el: 30 });
+    var s = S({ az: 30, el: 24 });
     s.pill = { wc: 'Water closet (WC)', cistern: 'Flushing cistern', basin: 'Wash basin', tap: 'Tap / pillar cock', trap: 'Floor trap', mirror: 'Mirror / accessories', seat: 'WC seat & cover', urinal: 'Urinal' };
-    s.box(0, 60, -4, 220, 100, 4, { c: '#d9dfe3' });
-    s.box(-6, 160, -4, 232, 6, 160, { c: '#e7ecef' });
-    s.box(-6, 20, -4, 6, 146, 160, { c: '#dfe5e8' });
-    // WC
-    s.cyl('z', [60, 114, 0], 15, 30, { c: M.white, k: 'wc' }); s.cyl('z', [60, 104, 0], 13, 30, { c: M.white, k: 'wc' });
-    s.prism('z', [[44, 90], [76, 90], [80, 140], [40, 140]], 30, 40, { c: M.white, k: 'wc' });
-    s.prism('z', [[44, 94], [76, 94], [78, 138], [42, 138]], 40, 43, { c: '#eef1f3', k: 'seat' });
-    s.box(38, 140, 40, 44, 20, 50, { c: M.white, k: 'cistern' });
-    s.box(56, 138, 82, 8, 3, 5, { c: '#c9ced3', k: 'cistern' });
-    // basin
-    s.box(150, 120, 80, 56, 40, 14, { c: M.white, k: 'basin' });
-    s.box(156, 124, 90, 44, 30, 4.5, { c: '#c7d8e0', k: 'basin' });
-    s.cyl('z', [178, 152, 94], 2, 14, { c: '#d8dde2', k: 'tap' }); s.box(176, 140, 106, 4, 14, 2, { c: '#d8dde2', k: 'tap' });
-    s.cyl('z', [178, 140, 30], 3, 50, { c: '#c9ced3', k: 'trap' });
-    s.box(156, 158, 112, 44, 2, 40, { c: '#bcd3e0', k: 'mirror' });
-    s.box(0, 30, 50, 16, 26, 48, { c: M.white, k: 'urinal' });
-    s.box(12, 34, 56, 4, 18, 30, { c: '#e3e8eb', k: 'urinal' });
-    s.lab('urinal', [16, 43, 80], -60, -40, 'Urinal', 'Wall-hung urinal with flush valve');
-    // floor trap
-    s.cyl('z', [120, 80, 0], 9, 1, { c: '#8d969e', k: 'trap' }, 20);
-    s.lab('wc', [60, 108, 20], -70, 40, 'Water closet', 'EWC / Indian pan, with P / S trap');
-    s.lab('seat', [60, 115, 43], -70, -20, 'Seat & cover', 'Plastic seat with lid (often a separate item)');
-    s.lab('cistern', [60, 140, 80], 20, -70, 'Flushing cistern', 'Low / high level cistern with flush pipe');
-    s.lab('basin', [178, 120, 87], 60, 20, 'Wash basin', 'With brackets, waste and pillar tap (check item)');
-    s.lab('tap', [178, 146, 108], 50, -60, 'Pillar cock', 'Tap on the basin');
-    s.lab('trap', [178, 140, 40], 60, 50, 'Waste & trap', 'Bottle trap / waste pipe to the floor trap');
-    s.lab('trap', [120, 80, 1], 20, 60, 'Floor trap', 'Nahani trap with grating');
-    s.lab('mirror', [178, 157, 140], 50, -40, 'Mirror', 'Accessories are separate items');
+    function fr(cx, cy, z0, z1, r0, r1, o) {
+      var n = 22, A = [], B = [];
+      for (var i = 0; i < n; i++) { var t = i / n * 2 * Math.PI; A.push([cx + r0 * Math.cos(t), cy + r0 * 1.25 * Math.sin(t), z0]); B.push([cx + r1 * Math.cos(t), cy + r1 * 1.25 * Math.sin(t), z1]); }
+      var f = [A, B]; for (var j = 0; j < n; j++) { var q = (j + 1) % n, sd = [A[j], A[q], B[q], B[j]]; sd.sm = true; f.push(sd); }
+      s.solid(f, o);
+    }
+    s.box(0, 0, -4, 236, 120, 4, { c: '#d9dfe3' });
+    for (var t = 0; t < 236; t += 24) s.box(t, 0, -0.1, 0.4, 120, 0.2, { c: '#b9c2c9' });
+    s.box(0, -6, -4, 236, 6, 168, { c: '#e7ecef' });
+    s.box(-6, -6, -4, 6, 126, 168, { c: '#dfe5e8' });
+    // wall tiles band behind the fixtures
+    s.box(0, -0.2, 0, 236, 0.4, 70, { c: '#eef2f4' });
+    // urinal on the side wall
+    s.box(0, 74, 48, 14, 26, 46, { c: M.white, k: 'urinal' }); s.box(13.8, 78, 54, 0.6, 18, 32, { c: '#e2e8ec', k: 'urinal' });
+    s.cyl('z', [5, 87, 94], 1.6, 30, { c: '#c9ced3', k: 'urinal' }, 10);
+    // WC: cistern on the wall, pan with seat and the lid up
+    s.box(46, 0, 46, 48, 16, 34, { c: M.white, k: 'cistern' }); s.box(46, 0, 80, 48, 17, 3, { c: '#eef1f3', k: 'cistern' });
+    s.cyl('z', [70, 9, 83], 3, 1.5, { c: '#c9ced3', k: 'cistern' }, 12);
+    s.box(58, 0, 18, 24, 22, 20, { c: M.white, k: 'wc' });
+    fr(70, 40, 0, 22, 9, 8, { c: M.white, k: 'wc' });
+    fr(70, 40, 22, 36, 11, 15, { c: M.white, k: 'wc' });
+    s.box(56, 16, 36, 28, 3, 32, { c: '#eef1f3', k: 'seat' });
+    fr(70, 40, 36, 38.5, 15.5, 15.5, { c: '#eef1f3', k: 'seat' });
+    fr(70, 41, 38.6, 38.9, 10, 10, { c: '#bfd6e2', k: 'wc' });
+    // wash basin with pillar cock, bottle trap and mirror
+    s.box(150, 0, 110, 56, 2, 42, { c: '#8f9aa3', k: 'mirror' }); s.box(152, 1.8, 112, 52, 0.6, 38, { c: '#bcd3e0', k: 'mirror' });
+    s.box(156, 0, 60, 4, 30, 4, { c: '#b9c0c7', k: 'basin' }); s.box(196, 0, 60, 4, 30, 4, { c: '#b9c0c7', k: 'basin' });
+    s.cyl('z', [178, 18, 30], 2.4, 46, { c: '#c9ced3', k: 'trap' }, 12); s.cyl('z', [178, 18, 36], 5, 12, { c: '#d8dde2', k: 'trap' }, 14);
+    s.cyl('y', [178, 0, 32], 2.4, 18, { c: '#c9ced3', k: 'trap' }, 12);
+    s.box(150, 0, 76, 56, 36, 12, { c: M.white, k: 'basin' }); s.box(156, 6, 87.6, 44, 26, 0.6, { c: '#c7d8e0', k: 'basin' });
+    s.cyl('z', [178, 6, 88], 2.4, 13, { c: '#d8dde2', k: 'tap' }, 12); s.box(176.5, 6, 98, 3, 11, 2.4, { c: '#d8dde2', k: 'tap' }); s.cyl('z', [178, 6, 101], 4, 2, { c: '#b9c0c7', k: 'tap' }, 12);
+    // floor trap with grating
+    s.cyl('z', [120, 84, 0], 9, 0.8, { c: '#8d969e', k: 'trap' }, 20);
+    for (var g = -6; g <= 6; g += 3) s.box(120 + g - 0.5, 77, 0.8, 1, 14, 0.3, { c: '#5d666e', k: 'trap' });
+    s.lab('urinal', [7, 87, 80], -40, -40, 'Urinal', 'Wall-hung urinal with flush valve');
+    s.lab('wc', [70, 52, 26], -50, 45, 'Water closet', 'EWC / Indian pan, with P / S trap');
+    s.lab('seat', [70, 18, 60], -40, -40, 'Seat & cover', 'Plastic seat with lid (often a separate item)');
+    s.lab('cistern', [80, 8, 70], 10, -60, 'Flushing cistern', 'Low / high level cistern with flush pipe');
+    s.lab('basin', [195, 30, 82], 50, 10, 'Wash basin', 'With brackets, waste and pillar tap (check item)');
+    s.lab('tap', [178, 12, 100], 25, -50, 'Pillar cock', 'Tap on the basin');
+    s.lab('trap', [178, 22, 42], 40, 45, 'Waste & bottle trap', 'Waste pipe to the floor trap');
+    s.lab('trap', [120, 84, 1], 10, 50, 'Floor trap', 'Nahani trap with grating');
+    s.lab('mirror', [160, 2, 140], -30, -40, 'Mirror', 'Accessories are separate items');
     return s;
   });
 
   // ---------------- overhead water tank ----------------
   def('water_tank', 'Overhead water tank on the roof', {
-    platform: /platform|stand|pedestal|support|brick ?work/i, overflow: /overflow/i, valve: /ball ?valve|float/i,
+    platform: /platform|\bstand\b|pedestal|brick ?work/i, overflow: /overflow/i, valve: /ball ?valve|float/i,
     tank: /tank|reservoir|cistern|storage|sintex|polyethylene|ferro/i
   }, 'tank', function () {
     var s = S({ az: 30, el: 22 });
@@ -207,7 +222,7 @@
 
   // ---------------- wall tiling / dado ----------------
   def('wall_tiles', 'Wall tiles (dado) on a toilet / kitchen wall', {
-    bed: /mortar|adhesive|bed/i, grout: /grout|joint|pointing/i, skirting: /skirting/i, tile: /tile|dado|cladding|granite|marble|stone/i
+    skirting: /skirting/i, grout: /grout|pointing/i, tile: /tile|dado|cladding|granite|marble|stone/i, bed: /mortar|adhesive|\bbed\b/i
   }, 'tile', function () {
     var s = S({ az: 34, el: 18 });
     s.pill = { tile: 'Wall tiles (dado)', bed: 'Mortar / adhesive bed', grout: 'Joints / grout', skirting: 'Skirting' };
@@ -241,7 +256,7 @@
     s.box(0, 0, 0, 200, 25, 80, { c: M.plaster, k: 'wall' });
     s.box(-20, 0, 175, 240, 25, 30, { c: M.concrete, k: 'lintel' });
     s.box(0, 0, 205, 200, 25, 25, { c: M.plaster, k: 'wall' });
-    s.hexa([[-20, 25, 198], [220, 25, 198], [220, 65, 198], [-20, 65, 198], [-20, 25, 206], [220, 25, 206], [220, 65, 201], [-20, 65, 201]], { c: M.conc2, k: 'chajja' });
+    s.hexa([[-20, 25, 196], [220, 25, 196], [220, 68, 199], [-20, 68, 199], [-20, 25, 206], [220, 25, 206], [220, 68, 203], [-20, 68, 203]], { c: M.concrete, k: 'chajja' });
     s.box(-4, -2, 80, 208, 30, 5, { c: '#c9c1ae', k: 'sill' });
     s.box(0, 6, 85, 200, 10, 90, { c: M.wood2, k: 'window' });
     s.box(10, 9, 95, 85, 4, 70, { c: M.glass, k: 'window' }); s.box(105, 9, 95, 85, 4, 70, { c: M.glass, k: 'window' });
@@ -256,9 +271,9 @@
   // ---------------- slope pitching with toe wall / apron ----------------
   def('pitching', 'Pitching on a river / canal bank with filter, toe wall and apron', {
     toe: /toe wall/i, apron: /apron|launching/i, pitch: /pitching|revetment/i,
-    filter: /filter|khoa|chips|graded|geo.?textile/i
+    filter: /filter|khoa|geo.?textile|back ?filling/i
   }, 'pitch', function () {
-    var s = S({ az: 26, el: 24 });
+    var s = S({ az: -32, el: 26 });
     s.pill = { pitch: 'Slope pitching', filter: 'Filter layer', toe: 'Toe wall', apron: 'Launching apron' };
     s.prism('y', [[-60, -80], [140, -80], [140, 40], [100, 40], [-20, -40], [-60, -40]], 0, 160, { c: M.soil, k: 'bank' });
     s.box(100, 0, 40, 40, 160, 3, { c: M.grass, k: 'bank' });

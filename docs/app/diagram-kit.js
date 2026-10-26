@@ -32,6 +32,7 @@
   function h2r(h) { h = h.replace('#', ''); return [parseInt(h.substr(0, 2), 16), parseInt(h.substr(2, 2), 16), parseInt(h.substr(4, 2), 16)]; }
   function r2h(c) { return '#' + c.map(function (v) { v = Math.max(0, Math.min(255, Math.round(v))); return (v < 16 ? '0' : '') + v.toString(16); }).join(''); }
   function shade(hex, f) { return r2h(h2r(hex).map(function (v) { return f >= 1 ? v + (255 - v) * (f - 1) : v * f; })); }
+  function mix(a, b, t) { var x = h2r(a), y = h2r(b); return r2h([0, 1, 2].map(function (i) { return x[i] + (y[i] - x[i]) * t; })); }
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   function f1(v) { return Math.round(v * 10) / 10; }
 
@@ -53,8 +54,19 @@
     this.ops.push({ t: 'f', pts: pts, b: 0.6 + 0.48 * d, o: o, sm: sm });
   };
   // Convex (or nearly convex) solid from faces; normals are turned outward from the solid's centre.
+  // Shift everything drawn inside fn by (dx, dy, dz) — used to lay out groups of objects.
+  SP.at = function (dx, dy, dz, fn) {
+    var prev = this._off; this._off = prev ? [prev[0] + dx, prev[1] + dy, prev[2] + dz] : [dx, dy, dz];
+    try { fn(); } finally { this._off = prev; }
+    return this;
+  };
+  SP._mv = function (pts) {
+    var d = this._off; if (!d) return pts;
+    var r = pts.map(function (p) { return [p[0] + d[0], p[1] + d[1], p[2] + d[2]]; }); if (pts.sm) r.sm = true; return r;
+  };
   SP.solid = function (faces, o) {
     o = o || {};
+    if (this._off) { var me = this; faces = faces.map(function (f) { return me._mv(f); }); }
     var c = [0, 0, 0], k = 0, self = this;
     faces.forEach(function (f) { f.forEach(function (p) { c[0] += p[0]; c[1] += p[1]; c[2] += p[2]; k++; }); });
     c = [c[0] / k, c[1] / k, c[2] / k];
@@ -118,20 +130,23 @@
       var n = mk(axis, 0, 0, k ? 1 : -1);
       if (self.facing(n) > 0) {
         var ring = circle(a[1], a[2], r - (t || r * 0.16), 30).map(function (p) { return mk(axis, p[0], p[1], end + (k ? 0.05 : -0.05)); });
-        self.face(ring, n, Object.assign({}, o, { c: '#2b2f35', op: 1 }));
+        ring = self._mv(ring);
+        if (self._grp) { var mark = self.ops.length; self.face(ring, n, Object.assign({}, o, { c: '#2b2f35', op: 1 })); self._grp.push({ d: self.rot(cent(ring))[2] + 0.01, ops: self.ops.splice(mark) }); }
+        else self.face(ring, n, Object.assign({}, o, { c: '#2b2f35', op: 1 }));
       }
     });
     return this;
   };
   // Flat polygon, always drawn, shaded as if facing the viewer.
   SP.plane = function (pts, o) {
+    pts = this._mv(pts);
     var n = newell(pts);
     if (this.facing(n) < 0) n = [-n[0], -n[1], -n[2]];
     this.face(pts, n, o || {});
     return this;
   };
-  SP.line = function (pts, o) { this.ops.push({ t: 'l', pts: pts, o: o || {} }); return this; };
-  SP.lab = function (k, p, dx, dy, s, t) { this.labels.push({ k: k, p: p, dx: dx, dy: dy, s: s, t: t || '' }); return this; };
+  SP.line = function (pts, o) { this.ops.push({ t: 'l', pts: this._mv(pts), o: o || {} }); return this; };
+  SP.lab = function (k, p, dx, dy, s, t) { this.labels.push({ k: k, p: this._mv([p])[0], dx: dx, dy: dy, s: s, t: t || '' }); return this; };
 
   SP.render = function (focus) {
     var self = this, all = [];
@@ -150,7 +165,7 @@
     var hot = function (k) { return k && ex.indexOf(k) >= 0; };
     var out = [];
     ops.forEach(function (e) {
-      var o = e.op.o, base = hot(o.k) ? (o.hc || ACC) : (o.c || '#bbbbbb');
+      var o = e.op.o, base = hot(o.k) ? (o.hc || mix(o.c || '#bbbbbb', ACC, 0.82)) : (o.c || '#bbbbbb');
       var d = 'M' + e.q.map(function (r) { return X(r) + ' ' + Y(r); }).join('L');
       if (e.op.t === 'l') {
         out.push('<path d="' + d + '" fill="none" stroke="' + (hot(o.k) ? ACC : (o.c || '#333')) + '" stroke-width="' + (o.w || 1.4) +
@@ -162,44 +177,159 @@
       out.push('<path d="' + d + 'Z" fill="' + fill + '" stroke="' + st + '" stroke-width="' + (e.op.sm ? 0.5 : (hot(o.k) ? 0.9 : 0.6)) +
         '" stroke-linejoin="round"' + (o.op ? ' fill-opacity="' + o.op + '"' + (o.op < 1 ? ' stroke-opacity="' + Math.min(1, o.op + 0.25) + '"' : '') : '') + '/>');
     });
-    // markers
-    var mk = [], pills = [], legend = [], n = 0;
-    var labs = this.labels.map(function (l, i) { l.i = i; return l; }).sort(function (a, b) { return ((lhot(a.k) ? 1 : 0) - (lhot(b.k) ? 1 : 0)) || (a.i - b.i); });
+    // Highlighted part: x-ray overlay so a part hidden inside others (dowels in a slab, a well plug) still
+    // shows its outline, and a ring around parts too small to spot at phone size.
+    var hb = [1e9, 1e9, -1e9, -1e9], xray = [];
+    var P = ops.map(function (e) {
+      var pts = e.q.map(function (r) { return [ox + r[0] * s, oy + r[1] * s]; }), bb = [1e9, 1e9, -1e9, -1e9];
+      pts.forEach(function (p) { if (p[0] < bb[0]) bb[0] = p[0]; if (p[1] < bb[1]) bb[1] = p[1]; if (p[0] > bb[2]) bb[2] = p[0]; if (p[1] > bb[3]) bb[3] = p[1]; });
+      return { pts: pts, bb: bb };
+    });
+    function inPoly(x, y, pts) {
+      var c = false;
+      for (var i = 0, j = pts.length - 1; i < pts.length; j = i++) {
+        var a = pts[i], b = pts[j];
+        if ((a[1] > y) !== (b[1] > y) && x < (b[0] - a[0]) * (y - a[1]) / (b[1] - a[1]) + a[0]) c = !c;
+      }
+      return c;
+    }
+    // 0 = in view, 1 = seen only through see-through faces, 2 = behind something solid
+    function covered(i, x, y) {
+      var r = 0;
+      for (var j = i + 1; j < ops.length; j++) {
+        var e = ops[j], o = e.op.o, bb = P[j].bb;
+        if (e.op.t !== 'f' || hot(o.k)) continue;
+        if (x < bb[0] || x > bb[2] || y < bb[1] || y > bb[3]) continue;
+        if (inPoly(x, y, P[j].pts)) { if (o.op != null && o.op < 0.85) r = 1; else return 2; }
+      }
+      return r;
+    }
+    var hidN = 0, allN = 0, hidFaces = [], dimFaces = [];
+    ops.forEach(function (e, i) {
+      var o = e.op.o; if (!hot(o.k)) return;
+      var pts = P[i].pts, bb = P[i].bb;
+      if (bb[0] < hb[0]) hb[0] = bb[0]; if (bb[1] < hb[1]) hb[1] = bb[1]; if (bb[2] > hb[2]) hb[2] = bb[2]; if (bb[3] > hb[3]) hb[3] = bb[3];
+      var c = [0, 0]; pts.forEach(function (p) { c[0] += p[0] / pts.length; c[1] += p[1] / pts.length; });
+      var smp = [c].concat(pts.slice(0, 6).map(function (p) { return [c[0] * 0.45 + p[0] * 0.55, c[1] * 0.45 + p[1] * 0.55]; }));
+      var h = 0, d = 0; smp.forEach(function (p) { var v = covered(i, p[0], p[1]); if (v === 2) h++; else if (v === 1) d++; });
+      var ar = 0; for (var a = 0; a < pts.length; a++) { var b2 = pts[(a + 1) % pts.length]; ar += pts[a][0] * b2[1] - b2[0] * pts[a][1]; }
+      ar = Math.abs(ar) / 2 + 1;
+      hidN += ar * h / smp.length; allN += ar;
+      if (h * 2 > smp.length) hidFaces.push(i); else if ((h + d) * 2 > smp.length) dimFaces.push(i);
+    });
+    // seen through glass / a see-through slab: redraw on top so it keeps its full colour
+    dimFaces.forEach(function (i) {
+      var e = ops[i], o = e.op.o, d = 'M' + e.q.map(function (r) { return X(r) + ' ' + Y(r); }).join('L');
+      if (e.op.t === 'l') { xray.push('<path d="' + d + '" fill="none" stroke="' + ACC + '" stroke-width="' + (o.w || 1.4) + '"/>'); return; }
+      var fill = shade(o.hc || mix(o.c || '#bbbbbb', ACC, 0.82), e.op.b);
+      xray.push('<path d="' + d + 'Z" fill="' + fill + '" stroke="' + (e.op.sm ? fill : shade(fill, 0.68)) + '" stroke-width="0.6" fill-opacity="' + (o.op || 1) + '"/>');
+    });
+    // only when a good share of the part is out of sight; visible parts are already orange
+    if (allN && hidN / allN > 0.45) hidFaces.forEach(function (i) {
+      var e = ops[i], o = e.op.o, d = 'M' + e.q.map(function (r) { return X(r) + ' ' + Y(r); }).join('L');
+      if (e.op.t === 'l') xray.push('<path d="' + d + '" fill="none" stroke="' + ACC + '" stroke-width="' + (o.w || 1.4) + '" stroke-dasharray="3 2" opacity="0.85"/>');
+      else if (e.op.sm) xray.push('<path d="' + d + 'Z" fill="' + ACC + '" fill-opacity="0.12" stroke="none"/>');
+      else xray.push('<path d="' + d + 'Z" fill="' + ACC + '" fill-opacity="0.12" stroke="#c2410c" stroke-width="0.9" stroke-dasharray="3 2" stroke-opacity="0.85"/>');
+    });
+    // small parts (hinges, a valve, a dowel): ring each cluster so it can be found at phone size
+    var hotArea = 0, cl = [];
+    ops.forEach(function (e, i) {
+      if (!hot(e.op.o.k)) return;
+      var p = P[i].pts, ar = 0;
+      for (var a = 0; a < p.length; a++) { var b = p[(a + 1) % p.length]; ar += p[a][0] * b[1] - b[0] * p[a][1]; }
+      hotArea += Math.abs(ar) / 2;
+      var bb = P[i].bb, c = null;
+      for (var q = 0; q < cl.length && !c; q++) { var k2 = cl[q]; if (bb[0] < k2[2] + 14 && bb[2] > k2[0] - 14 && bb[1] < k2[3] + 14 && bb[3] > k2[1] - 14) c = k2; }
+      if (c) { c[0] = Math.min(c[0], bb[0]); c[1] = Math.min(c[1], bb[1]); c[2] = Math.max(c[2], bb[2]); c[3] = Math.max(c[3], bb[3]); }
+      else cl.push(bb.slice());
+    });
+    if (hotArea < 450 && cl.length <= 8) cl.forEach(function (c) {
+      var r = Math.max(c[2] - c[0], c[3] - c[1]) / 2 + 8;
+      if (r > 40) return;
+      xray.push('<circle cx="' + f1((c[0] + c[2]) / 2) + '" cy="' + f1((c[1] + c[3]) / 2) + '" r="' + f1(r) + '" fill="none" stroke="#fff" stroke-width="3.2" stroke-opacity="0.8"/>' +
+        '<circle cx="' + f1((c[0] + c[2]) / 2) + '" cy="' + f1((c[1] + c[3]) / 2) + '" r="' + f1(r) + '" fill="none" stroke="#c2410c" stroke-width="1.7" stroke-dasharray="4 3"/>');
+    });
+    // markers: numbered circles with leader lines, placed so they never overlap each other or leave the frame
+    var mk = [], pills = [], legend = [], n = 0, R = 9.5, RH = 11;
     var num = {};
     this.labels.forEach(function (l) { n++; num[l.s + '|' + l.k] = n; legend.push({ n: n, s: l.s, t: l.t, hot: lhot(l.k) }); });
-    var pilled = {}, spots = [];
-    labs.forEach(function (l) {
-      var r = self.rot(l.p), ax = ox + r[0] * s, ay = oy + r[1] * s;
-      l.ax = ax; l.ay = ay; l.mx = Math.max(11, Math.min(W - 11, ax + l.dx)); l.my = Math.max(11, Math.min(H - 11, ay + l.dy));
-      spots.push([l.mx, l.my]);
+    var labs = this.labels.map(function (l, i) {
+      var r = self.rot(l.p);
+      return { l: l, i: i, h: lhot(l.k), ax: ox + r[0] * s, ay: oy + r[1] * s, no: num[l.s + '|' + l.k] };
     });
-    function clear(x, y, w, h) {
-      if (x < 2 || y < 2 || x + w > W - 2 || y + h > H - 2) return false;
-      return spots.every(function (p) { return p[0] < x - 11 || p[0] > x + w + 11 || p[1] < y - 11 || p[1] > y + h + 11; });
+    var placed = [];
+    function segDist(px, py, a, b, c, d) {
+      var vx = c - a, vy = d - b, L = vx * vx + vy * vy, t = L ? Math.max(0, Math.min(1, ((px - a) * vx + (py - b) * vy) / L)) : 0;
+      return Math.hypot(px - a - t * vx, py - b - t * vy);
     }
-    labs.forEach(function (l) {
-      var ax = l.ax, ay = l.ay, mx = l.mx, my = l.my;
-      var h = lhot(l.k), no = num[l.s + '|' + l.k];
-      mk.push('<line x1="' + f1(ax) + '" y1="' + f1(ay) + '" x2="' + f1(mx) + '" y2="' + f1(my) + '" stroke="' + (h ? '#c2410c' : '#1f2933') + '" stroke-width="' + (h ? 1.4 : 0.9) + '"/>' +
-        '<circle cx="' + f1(ax) + '" cy="' + f1(ay) + '" r="' + (h ? 2.6 : 1.9) + '" fill="' + (h ? '#c2410c' : '#1f2933') + '"/>' +
-        '<circle cx="' + f1(mx) + '" cy="' + f1(my) + '" r="' + (h ? 10 : 8.5) + '" fill="' + (h ? ACC : '#ffffff') + '" stroke="' + (h ? '#9a3412' : '#1f2933') + '" stroke-width="1.1"/>' +
-        '<text x="' + f1(mx) + '" y="' + f1(my + 3.6) + '" text-anchor="middle" font-size="' + (h ? 11 : 10) + '" font-weight="700" fill="' + (h ? '#fff' : '#1f2933') + '">' + no + '</text>');
-      if (h && !pilled[l.k] && (pilled[l.k] = 1)) {
-        var txt = (self.pill[l.k] || l.s) + ' — this item', tw = txt.length * 6.9 + 16, th = 20;
-        var others = spots.filter(function (p) { return p[0] !== mx || p[1] !== my; });
-        var keep = spots; spots = others;
-        var cands = [[mx + 13, my - 10], [mx - 13 - tw, my - 10], [mx - tw / 2, my - 34], [mx - tw / 2, my + 14], [mx + 13, my - 30], [mx - 13 - tw, my - 30], [mx + 13, my + 10], [mx - 13 - tw, my + 10]];
+    function cost(m, x, y, r) {
+      var c = 0;
+      if (x < r + 2 || x > W - r - 2 || y < r + 2 || y > H - r - 2) c += 1000;
+      placed.forEach(function (p) {
+        var d = Math.hypot(p.mx - x, p.my - y); if (d < p.r + r + 3) c += 500 + (p.r + r + 3 - d) * 20;
+        if (segDist(x, y, p.ax, p.ay, p.mx, p.my) < r + 1) c += 60;
+        if (segDist(p.mx, p.my, m.ax, m.ay, x, y) < p.r + 1) c += 60;
+      });
+      labs.forEach(function (o) { if (o !== m && Math.hypot(o.ax - x, o.ay - y) < r + 3) c += 40; });
+      return c;
+    }
+    labs.slice().sort(function (a, b) { return (b.h - a.h) || (a.i - b.i); }).forEach(function (m) {
+      var r = m.h ? RH : R, dx = m.l.dx, dy = m.l.dy, len = Math.max(18, Math.hypot(dx, dy)), ang = Math.atan2(dy, dx);
+      var best = null;
+      [1, 1.25, 0.8, 1.55, 1.9, 0.6, 2.3].some(function (lf) {
+        return [0, 0.35, -0.35, 0.7, -0.7, 1.05, -1.05, 1.5, -1.5, 2.1, -2.1, Math.PI].some(function (da) {
+          var x = m.ax + Math.cos(ang + da) * len * lf, y = m.ay + Math.sin(ang + da) * len * lf;
+          var c = cost(m, x, y, r) + Math.abs(da) * 4 + Math.abs(lf - 1) * 6;
+          if (!best || c < best.c) best = { x: x, y: y, c: c };
+          return c < 30;
+        });
+      });
+      m.mx = Math.max(r + 2, Math.min(W - r - 2, best.x)); m.my = Math.max(r + 2, Math.min(H - r - 2, best.y)); m.r = r;
+      placed.push(m);
+    });
+    function boxFree(x, y, w, h) {
+      if (x < 2 || y < 2 || x + w > W - 2 || y + h > H - 2) return 1e4;
+      var c = 0;
+      placed.forEach(function (p) {
+        var nx = Math.max(x, Math.min(p.mx, x + w)), ny = Math.max(y, Math.min(p.my, y + h));
+        if (Math.hypot(nx - p.mx, ny - p.my) < p.r + 2) c += 100;
+        if (p.ax > x - 2 && p.ax < x + w + 2 && p.ay > y - 2 && p.ay < y + h + 2) c += 20;
+      });
+      // keep the highlighted part itself uncovered
+      if (hb[2] > hb[0]) {
+        var ix = Math.max(0, Math.min(x + w, hb[2]) - Math.max(x, hb[0])), iy = Math.max(0, Math.min(y + h, hb[3]) - Math.max(y, hb[1]));
+        var ha = Math.max(1, (hb[2] - hb[0]) * (hb[3] - hb[1]));
+        c += 70 * Math.min(1, ix * iy / Math.min(ha, w * h));
+      }
+      return c;
+    }
+    var pilled = {};
+    placed.forEach(function (m) {
+      var h = m.h, ax = m.ax, ay = m.ay, mx = m.mx, my = m.my;
+      mk.push('<line x1="' + f1(ax) + '" y1="' + f1(ay) + '" x2="' + f1(mx) + '" y2="' + f1(my) + '" stroke="#fff" stroke-width="' + (h ? 3.4 : 2.6) + '" stroke-opacity="0.75"/>' +
+        '<line x1="' + f1(ax) + '" y1="' + f1(ay) + '" x2="' + f1(mx) + '" y2="' + f1(my) + '" stroke="' + (h ? '#c2410c' : '#1f2933') + '" stroke-width="' + (h ? 1.5 : 1) + '"/>' +
+        '<circle cx="' + f1(ax) + '" cy="' + f1(ay) + '" r="' + (h ? 2.8 : 2.1) + '" fill="' + (h ? '#c2410c' : '#1f2933') + '" stroke="#fff" stroke-width="0.8"/>' +
+        '<circle cx="' + f1(mx) + '" cy="' + f1(my) + '" r="' + m.r + '" fill="' + (h ? ACC : '#ffffff') + '" stroke="' + (h ? '#9a3412' : '#1f2933') + '" stroke-width="1.2"/>' +
+        '<text x="' + f1(mx) + '" y="' + f1(my + 4) + '" text-anchor="middle" font-size="' + (h ? 12 : 11) + '" font-weight="700" fill="' + (h ? '#fff' : '#1f2933') + '">' + m.no + '</text>');
+      if (h && !pilled[m.l.k] && (pilled[m.l.k] = 1)) {
+        var txt = (self.pill[m.l.k] || m.l.s) + ' — this item', tw = txt.length * 7.6 + 20, th = 22;
+        var cands = [[mx + 15, my - 11], [mx - 15 - tw, my - 11], [mx - tw / 2, my - 37], [mx - tw / 2, my + 15], [mx + 15, my - 33], [mx - 15 - tw, my - 33], [mx + 15, my + 11], [mx - 15 - tw, my + 11]];
         if (mx > W / 2) cands = [cands[1], cands[0]].concat(cands.slice(2));
-        var pick = null;
-        for (var ci = 0; ci < cands.length && !pick; ci++) if (clear(cands[ci][0], cands[ci][1], tw, th)) pick = cands[ci];
-        spots = keep;
-        if (!pick) pick = [Math.max(2, Math.min(W - 2 - tw, mx - tw / 2)), my + 14 > H - 24 ? my - 34 : my + 14];
-        pills.push('<rect x="' + f1(pick[0]) + '" y="' + f1(pick[1]) + '" width="' + f1(tw) + '" height="' + th + '" rx="10" fill="#c2410c"/>' +
-          '<text x="' + f1(pick[0] + tw / 2) + '" y="' + f1(pick[1] + 14) + '" text-anchor="middle" font-size="11.5" font-weight="700" fill="#fff">' + esc(txt) + '</text>');
+        var pick = null, pc = 1e9;
+        cands.forEach(function (c) { var v = boxFree(c[0], c[1], tw, th); if (v < pc) { pc = v; pick = c; } });
+        if (pc > 0) {
+          // no clear spot beside the marker: use a strip along the top or bottom edge
+          [[(W - tw) / 2, 3], [(W - tw) / 2, H - th - 3], [3, 3], [W - tw - 3, 3], [3, H - th - 3], [W - tw - 3, H - th - 3]].forEach(function (c) {
+            var v = boxFree(c[0], c[1], tw, th) + 1; if (v < pc) { pc = v; pick = c; }
+          });
+        }
+        pick = [Math.max(2, Math.min(W - 2 - tw, pick[0])), Math.max(2, Math.min(H - 2 - th, pick[1]))];
+        pills.push('<rect x="' + f1(pick[0]) + '" y="' + f1(pick[1]) + '" width="' + f1(tw) + '" height="' + th + '" rx="11" fill="#c2410c" stroke="#fff" stroke-width="1.2"/>' +
+          '<text x="' + f1(pick[0] + tw / 2) + '" y="' + f1(pick[1] + 15.5) + '" text-anchor="middle" font-size="12.5" font-weight="700" fill="#fff">' + esc(txt) + '</text>');
       }
     });
     var svg = '<svg viewBox="0 0 ' + W + ' ' + H + '" class="dg3" role="img" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif">' +
-      '<g>' + out.join('') + '</g><g>' + mk.join('') + pills.join('') + '</g></svg>';
+      '<g>' + out.join('') + '</g><g>' + xray.join('') + '</g><g>' + mk.join('') + pills.join('') + '</g></svg>';
     return { svg: svg, legend: legend };
   };
 
@@ -207,17 +337,44 @@
   var DEFS = {};
   function def(id, title, parts, dflt, build) { DEFS[id] = { title: title, parts: parts, dflt: dflt, build: build }; }
 
-  // Which part does this item text refer to? Parts are tried in priority order on the main clause of
-  // the description first (text before "including / with / complete"), then on the whole text.
+  // Which part does this item text refer to? Item texts read "heading : specific type : size", so the most
+  // specific segment is tried first (last to first), then the heading's main clause (before "including / with /
+  // complete"), then the whole text. Verbs like "fitting and fixing" are removed so they don't look like parts.
+  function clean(t) { return String(t).replace(/\b(top|bottom|underside|soffit) of (the )?[\w /]{0,14}?pile caps?\b/gi, ' ').replace(/\b(socket|spigot)\s*(&|and)\s*(spigot|socket)\b|\bS\s?&\s?S\b/gi, ' ').replace(/\b(supplying|providing)?[, ]*\bfitting\s*(,|and|&)\s*fixing\b/gi, ' ').replace(/\bfitting\s+(of|the)\b/gi, ' '); }
+  // split on ':' separators that are not inside brackets (mix ratios like 1 cement : 3 sand stay whole)
+  function splitTop(t) {
+    var out = [], cur = '', dep = 0;
+    for (var i = 0; i < t.length; i++) {
+      var ch = t[i];
+      if (ch === '(' || ch === '[') dep++; else if ((ch === ')' || ch === ']') && dep) dep--;
+      if (ch === ':' && !dep && (t[i + 1] === ' ' || t[i - 1] === ' ') && !/\d/.test(t[i - 1] || '') &&
+          !/\b(IS|IRC|BS|ASTM|EN|ISO|No|Nos|Code|clause|MORT&H|MoRTH|IS\s?No)\.?\s*$/i.test(cur) &&
+          !(/\d+(\.\d+)?\s+[a-z][a-z \-\/()]*\s*$/i.test(cur) && /^\s*\d+(\.\d+)?\s*[a-z]/i.test(t.slice(i + 1)))) { out.push(cur); cur = ''; continue; }
+      cur += ch;
+    }
+    out.push(cur);
+    return out.map(function (x) { return x.trim(); }).filter(function (x) { return x; });
+  }
+  // "Up to 300 mm dia", "15 mm nominal bore", "Height 5m to 10m" … only say how big, not which part
+  var SIZEW = /\b(mm|cm|m|mtrs?|metres?|meters?|dia|diameter|nominal|bore|size|sizes|up|upto|to|over|above|below|exceeding|not|and|from|in|of|the|length|height|depth|thick|thickness|width|wide|long|kg|kgs|gms?|sq|sqm|cum|litres?|ltrs?|lit|nos?|each|per|grade|class|case|beyond|within|lead|lift|km|any|for|or|outside|inside|internal|external|dia\.|a|b|c|i|ii|iii|iv|v|vi|x|working|pressure|heavy|medium|light|duty|type|series|mpa|gauge|swg|psi|etc|but|greater|than|less|minimum|maximum|approx|outer|inner)\b/gi;
+  function isSize(t) { return String(t).replace(/\([^)]*\)/g, ' ').replace(/\b(pipes?|cables?|projection|thick|depth)\b/gi, ' ').replace(/\d+(\.\d+)?\s*[x×]\s*(?=\d)/gi, ' ').replace(/[\d.,/()\-+×%"'’*#°]+/g, ' ').replace(SIZEW, ' ').replace(/[^a-z]/gi, '').length < 3; }
   function pickFocus(d, text) {
     if (!text) return [d.dflt];
-    var full = String(text), main = full.split(/\b(?:including|incl\.|with|complete)\b/i)[0];
-    var keys = Object.keys(d.parts);
-    for (var pass = 0; pass < 2; pass++) {
-      var t = pass ? full : main;
-      for (var i = 0; i < keys.length; i++) if (d.parts[keys[i]].test(t)) return [keys[i]];
-    }
-    return [d.dflt];
+    var full = clean(text), segs = splitTop(full.split(/\s[—–]\s/)[0]), keys = Object.keys(d.parts);
+    var cut = function (t) { return t.split(/\s[—–]\s|\b(?:including|incl\.|excluding|excl\.|with|complete|conforming|as per)\b/i)[0]; };
+    var find = function (t) { for (var k = 0; k < keys.length; k++) if (d.parts[keys[k]].test(t)) return keys[k]; return null; };
+    // 1) the specific segments, last first (skipping ones that only give a size)
+    var mA = null, weak = false;
+    for (var i = segs.length - 1; i >= 1 && !mA; i--) { var c = cut(segs[i]); if (!isSize(c)) { mA = find(c); weak = /^\s*(on|over|for|in|at|to|from|upto|up to|below|above|beyond|under|with|without|using|by)\b/i.test(c); } }
+    // 2) the heading: its first clause, then its main clause; 3) then all of the heading and the whole text
+    var h = cut(segs[0]), h1 = h.split(/,\s/)[0], mH = null, mR = null;
+    [h1.split(/\s+/).length >= 5 ? h1 : null, h].some(function (t) { return t && (mH = find(t)); });
+    var dash = full.split(/\s[—–]\s/)[1];
+    [segs[0], dash ? cut(dash) : null, full].some(function (t) { return t && (mR = find(t)); });
+    // a segment naming only the general part, or only a qualifier ("On steel surface", "For T-beam"),
+    // does not beat a heading that names a specific part
+    if (mA && !((mA === d.dflt || weak) && mH && mH !== d.dflt)) return [mA];
+    return [mH || mA || mR || d.dflt];
   }
 
   var cache = {};

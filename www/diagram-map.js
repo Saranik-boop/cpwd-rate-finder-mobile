@@ -10,10 +10,12 @@
 (function () {
   'use strict';
   function R(d, o) { o.d = d; return o; }
-  var MAIN = /\b(?:including|incl\.|complete|with necessary)\b/i;
+  var MAIN = /\b(?:including|incl\.|excluding|excl\.|complete|with necessary|but without)\b/i;
   var FLOORLVL = /\b(up ?to|upto|above|below|for each|each additional|additional|ground|first|second|third|1st|2nd|3rd|\d+th|in) floors?( (five|v|level|i|ii|iii|iv))?\b|\bfloors? (five|v|level|i|ii|iii|iv)\b|\bfloor v\b|\bstorey\b/gi;
   var FIT = /\b(hinges?|tower bolts?|aldrops?|handles?|door closers?|floor spring|door stoppers?|hasp|haskal|latch|mortice lock|sliding door bolt|casement stays?|catch hooks?|hooks and eyes|pivots?|kick plate|door seal|magnetic catch|buffer|stays?|bolts? (black|bright|anodised|oxidised|chromium)|fittings? (for|of) (doors?|windows?))\b/i;
-  function key(desc) { var m = desc.split(MAIN)[0], parts = desc.split(/\s:\s/); return (m + ' ' + parts.slice(1).join(' ')).replace(FLOORLVL, ' '); }
+  function key(desc) { var m = desc.split(MAIN)[0], parts = desc.split(/\s:\s/); return (m + ' ' + parts.slice(1).join(' ')).replace(FLOORLVL, ' ').replace(ROADBRIDGE, ' '); }
+  // "Specifications for Road & Bridge Works of MoRT&H" is a book title, not a bridge item
+  var ROADBRIDGE = /road\s*(&|and)\s*bridge works?|road and bridges?|r\s*&\s*b\b/gi;
   var PIPECAT = /water supply|g\.?i\.? pipe|cpvc|soil pipe|sanitary|cistern|basin|closets|tube ?well|hydrant|ferrule|drainage|inspection pit|harvesting/i;
 
   // ---- 1. family rules (cat = category, re = whole description, start = main clause) ----
@@ -30,7 +32,7 @@
     R('dismantling', { cat: /dismantling|demolish/i, notre: /^\W*(cleaning|scraping)/i }),
     R('dismantling', { start: /^\W*(dismantling|demolishing|demolition|removing (old |existing )?(and stacking )?(brick|stone|tiles?|sheets?|doors?|windows?|floor|plaster|concrete)|removal of rubbish|cutting (holes|chase|openings?))/i, notcat: /sluice|water supply|g\.?i\.? pipe|cpvc|soil pipe|sanitary|cistern|basin|closets|tube well|hydrant|glazier|aluminium|wood and pvc|fencing|thatch|steel works|site clearance/i }),
     R('painting', { cat: /white wash|colour wash|distemper|painting, vernishing/i }),
-    R('painting', { start: /^\W*(painting|applying (priming|a coat|one coat|two coats|.{0,40}\bpaint|.{0,40}primer|.{0,40}distemper)|priming coat|white ?washing|colour ?washing|distempering|wall painting|finishing walls with|polishing|french polish|varnishing|wax polish|coal ?tarring|tarring)/i }),
+    R('painting', { start: /^\W*(painting|applying (priming|a coat|one coat|two coats|.{0,40}\bpaint|.{0,40}primer|.{0,40}distemper)|priming coat|white ?washing|colour ?washing|distempering|wall painting|finishing walls with|polishing|french polish|varnishing|wax polish|coal ?tarring|tarring)/i, notre: /^\W*(grinding|polishing) (only )?(of )?(old )?(marble|terrazz?o|mosaic|kota|granite|stone|floor)/i }),
     R('thatch_hut', { cat: /thatch, mud and bamboo/i }),
     R('fencing', { cat: /\(o\) fencing/i }),
     R('brick_soling', { cat: /soling, edging and metalling/i }),
@@ -42,19 +44,21 @@
     R('recharge_pit', { cat: /rain water harvesting/i, re: /recharge|\bpits?\b|boulders?|gravel|filter|percolation|harvest/i }),
     R('tube_well', { cat: /rain water harvesting|tube ?well/i }),
     R('site_clearance', { cat: /site clearance/i }),
+    R('kerb_channel', { cat: /traffic signs|road appurtenances/i, start: /\bkerbs?\b/i }),
     R('road_furniture', { cat: /traffic signs|road appurtenances/i }),
     R('reinforced_earth', { cat: /geosynthetics|reinforced earth/i }),
     R('road_repair', { cat: /maintenance of roads/i }),
     R('rainwater_pipe', { re: /rain ?water pipe|\bdown ?pipe|rain water spout|\br\.w\.p\b|eaves gutter|valley gutter/i, notcat: /water supply|harvesting/i }),
     R('rainwater_pipe', { cat: /drain, down pipes/i }),
+    R('sanitary', { start: /water closets?|w\.?c\.? pans?|squatting pan|orissa pattern|wash ?basins?|\bsinks?\b|urinals?|flushing cisterns?|closet seat|\be\.?w\.?c\b|pedestal pan|mirror|towel|soap (dish|holder)|grab bar/i, cat: /sanitary installations|basin|closets|soil pipe|\(c-i\) miscellaneous/i }),
     R('soil_pipe', { cat: /soil pipe/i }),
-    R('soil_pipe', { re: /\b(soil pipe|waste pipe|s\.?w\.?r\b|swr pipe|s\.?c\.?i\.?\b|sand cast iron|hubless|vent pipe|cowl|heel rest|invert branch|gully trap|anti.?syphon|fresh air inlet)/i, notre: /pressure pipe|water supply/i, notcat: /water supply|g\.?i\.? pipe|cpvc/i }),
+    R('soil_pipe', { start: /\b(soil pipe|waste pipe|s\.?w\.?r\b|swr pipe|s\.?c\.?i\.?\b|sand cast iron|hubless|vent pipe|cowl|heel rest|invert branch|gully trap|anti.?syphon|fresh air inlet)/i, notre: /pressure pipe|water supply/i, notcat: /water supply|g\.?i\.? pipe|cpvc/i }),
     R('water_tank', { cat: /cistern, g\.?i\.? tanks/i, re: /\btanks?\b|cistern/i }),
     R('sanitary', { cat: /cistern, g\.?i\.? tanks|basin and sinks|water closets and urinals/i }),
     R('water_main', { cat: /hydrant|ferrule/i }),
     R('water_main', { re: /\b(c\.?i\.?|d\.?i\.?|ductile iron|cast iron|centrifugally cast|spun iron|h\.?d\.?p\.?e|pe.?al.?pe|composite pressure)\b|sluice valve|air valve|reflux valve|butterfly valve|fire hydrant|ferrule|water meter|surface box/i, cat: /water supply|g\.?i\.? pipe/i }),
     R('repair', { cat: /statues and monuments|conservation of heritage|concrete works etc\. - repair/i }),
-    R('reinforced_earth', { start: /geogrid|geocell|geotextile|geo.?composite|drainage composite/i, notcat: /protective|river|protection/i })
+    R('reinforced_earth', { start: /geogrid|geocell|geotextile|geo.?composite|drainage composite/i, notcat: /protective|river|protection|bituminous|surface courses|water ?proofing/i })
   ];
 
   var STRONG = /^(rolling_shutter|sanitary|water_tank|tube_well)$/;
@@ -95,6 +99,11 @@
     [/panell?ing|partition|lining|\bboards?\b|shel(f|ves)|cupboard|pelmet|drawer|wardrobe|kitchen|plank|eaves|rafters?|posts?|beams?|burgah|purlin|truss/i, 'woodwork'], [/stair|hand ?rail|balust|railing/i, 'staircase'],
     [/frame|chowkh?at|doors?|shutters?/i, 'door_panelled']];
   var FIRST = [
+    { cat: /^pile work$/i, d: 'pile', sub: [] },
+    { cat: /special items for sluice/i, d: 'sluice_gate', sub: [] },
+    { cat: /^(\(1[34]\) )?(sub|super)-?structure$/i, sched: /PWD-NH|PWD-RB/, d: 'bridge', sub: [[/^\W*.{0,60}\b(bullah|eucalyptus|staging|centering|shuttering)\b/i, 'formwork'], [/bearing/i, 'bridge_bearing']] },
+    { cat: /^(\(16\) )?repair and rehabilitation$/i, sched: /PWD-NH|PWD-RB/, d: 'bridge', sub: [[/^\W*.{0,60}\b(bullah|eucalyptus|staging)\b/i, 'formwork'], [/bearing/i, 'bridge_bearing'], [/crack|epoxy|grout|guniting|shotcrete|jacket|polymer|patch(ing)? of (damaged )?concrete|concrete surface|spall/i, 'repair'], [/pavement|bituminous|pot ?holes?|patch|surface dressing|road surface|shoulder/i, 'road_repair']] },
+    { cat: /^miscellaneous works$/i, sched: /PWD-RB/, d: 'road_repair', sub: [[/bamboo|bullah|eucalyptus|drum sheet|porcupine/i, 'bank_protection'], [/railing|parapet|wheel guard|bridge/i, 'bridge'], [/joists?|angles?|channels?|steel (elements|materials)|plates/i, 'steel_truss']] },
     { cat: /^concrete work$/i, d: 'rcc_column_footing', sub: [[/centering|shuttering|formwork/i, 'formwork'], [/(solid|hollow|precast).{0,30}blocks?/i, 'brick_bond'], [/plinth protection|kerb|channel/i, 'kerb_channel'], [/stair|steps?\b/i, 'staircase'], [/d\.?p\.?c|damp proof/i, 'dpc'], [/bollard|jali/i, 'rcc_slab_beam']] },
     { cat: /reinforced cement concrete/i, sched: /CPWD/, d: 'rcc_slab_beam', sub: [[/centering|shuttering|formwork|staging/i, 'formwork'], [/column|footing|foundation|plinth|raft/i, 'rcc_column_footing'], [/stair/i, 'staircase'], [/lintel|chajja|sunshade/i, 'lintel_chajja'], [/well.?steining/i, 'well_foundation'], [/curing compound|finishing of the exposed|plaster/i, 'plaster_layers'], [/expansion joint/i, 'repair']] },
     { cat: /^masonry work$/i, d: 'brick_bond', sub: [] },
@@ -104,7 +113,7 @@
     { cat: /^water proofing$/i, d: 'roof_waterproofing', sub: [[/water ?stops?|basement|retaining|raft/i, 'rcc_slab_beam'], [/tanks?\b|reservoir/i, 'water_tank']] },
     { cat: /^earth work$/i, d: 'trench', sub: [[/termite/i, 'anti_termite'], [/embank|banking|bund/i, 'embankment'], [/surface dressing|jungle|clearing/i, 'site_clearance']] },
     { cat: /^road work$/i, d: 'pavement_flexible', sub: [[/sign ?boards?|road marking|kilomet|km stone|delineator|crash barrier/i, 'road_furniture'], [/kerb|channel|footpath|paver|interlocking/i, 'kerb_channel'], [/cement concrete pavement|in roads|c\.?c\.? pavement|pqc|dowel|dry lean/i, 'pavement_rigid'], [/fenc|posts?\b|struts|pales/i, 'fencing'], [/gabion/i, 'gabion'], [/edging|bajri path|\bpath\b/i, 'brick_soling'], [/^\W*supplying (and stacking )?at site/i, 'materials'], [/cutting road|making good/i, 'road_repair']] },
-    { cat: /^roofing$/i, d: 'roof_waterproofing', sub: [[/ceiling|insulat/i, 'false_ceiling'], [/sheets?\b|corrugated|truss|purlin|ridg|valley|roofing accessor|flashing|fibre cement|aluminium roofing|polycarbonate/i, 'steel_truss'], [/rain ?water|gutter|spout|grating/i, 'rainwater_pipe'], [/stone slab|karries|battens/i, 'woodwork']] },
+    { cat: /^roofing$/i, d: 'roof_waterproofing', sub: [[/stone slab/i, 'roof_waterproofing'], [/ceiling|insulat/i, 'false_ceiling'], [/sheets?\b|corrugated|truss|purlin|ridg|valley|roofing accessor|flashing|fibre cement|aluminium roofing|polycarbonate/i, 'steel_truss'], [/rain ?water|gutter|spout|grating/i, 'rainwater_pipe'], [/stone slab|karries|battens/i, 'woodwork']] },
     { cat: /^steel work$|structural steel works/i, d: 'steel_truss', sub: [[/rolling shutter/i, 'rolling_shutter'], [/collapsible|grill|grille|\bgates?\b|railing|haskal|jail/i, 'boundary_wall'], [/windows?|ventilators?|doors?|glazed|t-iron frame|fly proof|wire gauze|\bsash/i, 'window'], [/stair|ladder|hand ?rail/i, 'staircase']] },
     { cat: /^finishing$/i, d: 'plaster_layers', sub: [[/paint|primer|distemper|wash|polish|varnish/i, 'painting'], [/\bband\b|moulding|cornice|drip|throating|groove|nosing/i, 'mouldings'], [/dado|skirting/i, 'wall_tiles']] },
     { cat: /new technologies/i, d: 'repair', sub: [[/geogrid|geocell|geotextile|soil reinforcement/i, 'reinforced_earth'], [/transportation/i, 'carriage'], [/doors?\b|shutters?/i, 'door_panelled'], [/windows?/i, 'window'], [/bamboo|wood|ply\b|plywood|skirting|board/i, 'woodwork'], [/hollow core|precast|prestressed|\bslabs?\b|beams?\b|columns?|eps\b|sandwich|wall panels?|light ?weight|reinforcement|rust|wire (mesh|fabric)/i, 'rcc_slab_beam'], [/floor|tiles?|pavers?/i, 'floor_layers'], [/plaster|putty/i, 'plaster_layers'], [/water ?proof|membrane|coating/i, 'roof_waterproofing']] },
@@ -119,7 +128,7 @@
     { cat: /miscellaneous woodwork/i, d: 'woodwork', sub: [[/louv|venetian|valves/i, 'window'], [/stair|hand ?rail|balust/i, 'staircase'], [/doors?\b/i, 'door_panelled']] },
     { cat: /wall panelling/i, d: 'woodwork', sub: [] },
     { cat: /\(a\) earth work/i, d: 'trench', sub: [[/termite/i, 'anti_termite'], [/surface dressing|jungle/i, 'site_clearance']] },
-    { cat: /brick works$/i, d: 'brick_bond', sub: [[/\bfloor|pavement|soling|flat brick/i, 'brick_soling'], [/\bstone/i, 'stone_masonry']] },
+    { cat: /brick works$/i, d: 'brick_bond', sub: [[/brick[- ]on[- ]edge (floor|pavement)|brick (floor|flooring|pavement)|\bpavement|soling|flat brick|floor or pavement/i, 'brick_soling'], [/\bstone (masonry|work)|rubble/i, 'stone_masonry']] },
     { cat: /concrete works etc\. - concrete works/i, d: 'rcc_column_footing', sub: [[/pile/i, 'pile'], [/centering|shuttering|formwork/i, 'formwork'], [/lintel|chajja/i, 'lintel_chajja'], [/stair/i, 'staircase'], [/(hollow|stone|precast|concrete).{0,20}blocks?|masonry/i, 'brick_bond'], [/shel(f|ves)/i, 'woodwork'], [/d\.?p\.?c|damp/i, 'dpc'], [/reinforc|\br\.?c\.?c?\b|rcc/i, 'rcc_slab_beam'], [/\bfloor|pavement|terraz/i, 'floor_layers']] },
     { cat: /\(d\) flooring/i, d: 'floor_layers', sub: [[/dado|skirting|\bwalls?\b|columns?|facia|cladding/i, 'wall_tiles'], [/stair|treads?\b|steps?\b|risers?|nosing/i, 'staircase']] },
     { cat: /roofing, sheet walling.*repair/i, d: 'roof_waterproofing', sub: [[/sheets?\b|ridg|hook.?bolt|corrugated|asbestos|g\.?c\.?i/i, 'steel_truss'], [/beams?\b|joists?|karr|battens?|rafters?|purlins?/i, 'woodwork'], [/channel drain|gutter|spout/i, 'rainwater_pipe'], [/plaster|rounding/i, 'plaster_layers']] },
@@ -172,9 +181,24 @@
     var desc = String(it.description || ''), main = desc.split(MAIN)[0], cat = it.category || '', i;
     var has = function (id) { return window.DiagramKit && window.DiagramKit.defs[id]; };
     for (i = 0; i < FAMILY.length; i++) if (test(FAMILY[i], it, desc, main) && has(FAMILY[i].d)) return { d: FAMILY[i].d, via: 'family' };
-    var strong = window.pickDiagram ? window.pickDiagram(main) : '';
+    var strong = window.pickDiagram ? window.pickDiagram(main.split(/\s:\s/)[0]) : '';
     if (strong && STRONG.test(strong)) return { d: strong, via: 'strong' };
     var k = key(desc);
+    // what the item IS (before "with / having / made of …"): door & window frames and shutters, cupboards
+    var head = main.split(/\b(?:with|having|consisting|comprising|made (?:of|out|from)|fixed (?:to|with)|fixing with|conforming)\b/i)[0];
+    if (!PIPECAT.test(cat) && !/^\W*(dismantling|demolishing|removing|taking out)/i.test(head)) {
+      if (/\bpitching\b|back ?filling for pitching/i.test(head) && !/protective and lining|canal/i.test(cat) && has('pitching')) return { d: 'pitching', via: 'head' };
+      if (/\b(corrugated|profiled?|roofing) sheets?\b|sheet roofing|polycarbonate sheets?|wind ties?/i.test(head) && has('steel_truss')) return { d: 'steel_truss', via: 'head' };
+      if (/\bbollards?\b/i.test(head) && has('road_furniture')) return { d: 'road_furniture', via: 'head' };
+    }
+    if (!PIPECAT.test(cat) && !FIT.test(head) && !/^\W*(painting|polishing|repair|renewing|dismantling)/i.test(head)) {
+      if (/cup ?board|almirah|wardrobe|kitchen cabinet/i.test(head) && !/stone|slab|granite|marble|frames? for doors/i.test(head) && has('woodwork')) return { d: 'woodwork', via: 'head' };
+      if (/\bflush (type )?(door|shutter)|flush doors?/i.test(head) && has('door_flush')) return { d: 'door_flush', via: 'head' };
+      if (/\b(frames?|shutters?|chowkh?ats?|doorsets?|door assembl(y|ies))\b/i.test(head)) {
+        if (/\bwindows?\b|ventilators?|clerestory/i.test(head) && !/\bdoors?\b/i.test(head) && has('window')) return { d: 'window', via: 'head' };
+        if (/\bdoors?\b|chowkh?at/i.test(head) && has('door_panelled')) return { d: 'door_panelled', via: 'head' };
+      }
+    }
     if (e && e.d === 'pipe_joint' && /g\.?i\.? pipe|water supply|cpvc/i.test(cat) && !/stoneware|s\.?w\.? pipe|sewer/i.test(desc)) return { d: 'water_pipe', via: 'linked' };
     if (e && e.d === 'formwork' && /sub-?structure|super-?structure/i.test(cat) && !/centering|shuttering|formwork|staging/i.test(main)) return { d: 'bridge', via: 'linked' };
     if (e && e.d === 'rcc_slab_beam' && /super-?structure/i.test(cat)) return { d: 'bridge', via: 'linked' };
@@ -186,7 +210,7 @@
       for (var j = 0; j < F.sub.length; j++) if (F.sub[j][0].test(k) && has(F.sub[j][1])) return { d: F.sub[j][1], via: 'chapter+' };
       if (has(F.d)) return { d: F.d, via: 'chapter+' };
     }
-    var old = window.pickDiagram ? window.pickDiagram(desc) : '';
+    var old = window.pickDiagram ? window.pickDiagram(desc.replace(ROADBRIDGE, ' ')) : '';
     if (old && has(old) && !PIPECAT.test(cat)) return { d: old, via: 'words' };
     if (!PIPECAT.test(cat)) for (i = 0; i < SPECIFIC.length; i++) if (test(SPECIFIC[i], it, k, k) && has(SPECIFIC[i].d)) return { d: SPECIFIC[i].d, via: 'words' };
     if (BUILDSCHED.test(it.schedule || '') && !PIPECAT.test(cat)) for (i = 0; i < BUILD.length; i++) if (test(BUILD[i], it, k, k) && has(BUILD[i].d)) return { d: BUILD[i].d, via: 'words' };

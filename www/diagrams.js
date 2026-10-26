@@ -238,7 +238,7 @@
   });
 
   def('stone_masonry', 'Random rubble stone masonry', {
-    pointing: /pointing/i, through: /through|bond stone/i, stone: /stone|rubble|masonry|ashlar/i
+    pointing: /pointing/i, through: /\bthrough\b|bond stone/i, stone: /stone|rubble|masonry|ashlar/i
   }, 'stone', function () {
     var s = S({ az: 30, el: 22 }), R = rng(7), X = 120, Ht = 72, T = 45, thr = [60, Ht];
     s.pill = { stone: 'Stone masonry', pointing: 'Pointing / mortar' };
@@ -498,7 +498,7 @@
   });
 
   def('false_ceiling', 'False ceiling: hangers, grid and boards', {
-    hanger: /hanger|suspen|\brods?\b/i, grid: /grid|runner|\btees?\b|channel|section|frame ?work/i,
+    hanger: /hanger|suspen|\brods?\b/i, grid: /grid|runner|\btees?\b|channel|section|frame ?work|\bframes?\b/i,
     tile: /tile|board|gypsum|panel|calcium|mineral|fibre|ceiling/i
   }, 'tile', function () {
     var s = S({ az: 34, el: 30 });
@@ -630,22 +630,25 @@
   }, 'pipe', function () {
     var s = S({ az: 30, el: 22 });
     s.pill = { pipe: 'Culvert pipe', head: 'Headwall & wings', bed: 'Pipe bedding' };
-    s.prism('x', [[-130, 0], [130, 0], [60, 50], [-60, 50]], 0, 120, { c: M.soil, k: 'emb' });
-    s.box(0, -60, 50, 120, 120, 4, { c: M.bitumen, k: 'road' });
-    s.box(-10, 100, -8, 140, 50, 8, { c: M.conc2, k: 'head' });
+    // pipe and bed first: the embankment then covers them, and they show in x-ray when highlighted
     s.box(20, 0, 0, 80, 132, 10, { c: M.pcc, k: 'bed' });
     s.pipe('y', [60, 0, 28], 18, 132, { c: '#c4c1ba', k: 'pipe' }, 4);
-    s.box(10, 125, 0, 100, 12, 60, { c: M.stone, k: 'head' });
-    s.hexa([[-30, 105, 0], [10, 125, 0], [10, 137, 0], [-30, 117, 0], [-30, 105, 15], [10, 125, 60], [10, 137, 60], [-30, 117, 15]], { c: M.stone2, k: 'head' });
-    s.hexa([[110, 125, 0], [150, 105, 0], [150, 117, 0], [110, 137, 0], [110, 125, 60], [150, 105, 15], [150, 117, 15], [110, 137, 60]], { c: M.stone2, k: 'head' });
-    s.pipe('y', [60, 137, 28], 18, 1, { c: '#c4c1ba', k: 'pipe' }, 4);
+    s.prism('x', [[-125, 0], [125, 0], [125, 62], [72, 74], [-72, 74], [-125, 62]], 0, 120, { c: M.soil, k: 'emb' });
+    s.box(0, -72, 74, 120, 144, 4, { c: M.bitumen, k: 'road' });
+    for (var rm = -64; rm < 64; rm += 22) s.box(59, rm, 78, 2, 12, 0.3, { c: '#f2f2f2', k: 'road' });
+    s.box(-24, 137, -8, 168, 34, 8, { c: M.conc2, k: 'head' });
+    s.box(10, 125, 0, 100, 12, 64, { c: M.stone, k: 'head' });
+    s.hexa([[-30, 105, 0], [10, 125, 0], [10, 137, 0], [-30, 117, 0], [-30, 105, 18], [10, 125, 64], [10, 137, 64], [-30, 117, 18]], { c: M.stone2, k: 'head' });
+    s.hexa([[110, 125, 0], [150, 105, 0], [150, 117, 0], [110, 137, 0], [110, 125, 64], [150, 105, 18], [150, 117, 18], [110, 137, 64]], { c: M.stone2, k: 'head' });
+    s.box(30, 137, 0, 60, 5, 10, { c: M.pcc, k: 'bed' });
+    s.pipe('y', [60, 137, 28], 18, 1.5, { c: '#c4c1ba', k: 'pipe' }, 4);
     s.lab('pipe', [60, 138, 46], 60, -40, 'Culvert pipe', 'RCC (NP3 / NP4) pipe, measured per metre');
     s.lab('head', [30, 137, 50], -50, -40, 'Headwall', 'Masonry / concrete face wall');
     s.lab('head', [130, 125, 20], 60, 10, 'Wing wall', 'Retains the embankment slopes');
-    s.lab('head', [-10, 140, 0], -40, 30, 'Apron', 'Floor at the outlet against scour');
-    s.lab('bed', [95, 132, 6], 30, 50, 'Bedding', 'Concrete / granular bed under the pipe');
-    s.lab('road', [60, -40, 54], 30, -40, 'Road over embankment', 'Cushion of earth above the pipe');
-    s.lab('emb', [60, -95, 25], -50, 20, 'Road embankment', 'Earth fill over and around the pipe, compacted in layers');
+    s.lab('head', [-10, 160, 0], -40, 30, 'Apron', 'Floor at the outlet against scour');
+    s.lab('bed', [85, 142, 6], 30, 50, 'Bedding', 'Concrete / granular bed under the pipe');
+    s.lab('road', [60, -40, 78], 30, -40, 'Road over embankment', 'Cushion of earth above the pipe');
+    s.lab('emb', [120, -90, 35], 40, 30, 'Road embankment', 'Earth fill over and around the pipe, compacted in layers');
     return s;
   });
 
@@ -698,7 +701,7 @@
   });
 
   def('well_foundation', 'Well foundation (see-through)', {
-    cutting: /cutting edge/i, curb: /\bcurb\b/i, steining: /steining/i, plug: /plug|sealing/i, sand: /sand fill|filling/i, cap: /well cap|\bcap\b/i
+    cutting: /cutting edge/i, curb: /\bcurb\b/i, steining: /steining|sinking/i, plug: /plug|sealing/i, sand: /sand fill|filling/i, cap: /well cap|\bcap\b/i
   }, 'steining', function () {
     var s = S({ az: 34, el: 18 });
     s.pill = { steining: 'Well steining' };

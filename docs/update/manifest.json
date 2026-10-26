@@ -1,10 +1,10 @@
 {
   "web": {
-    "version": 2026102402,
-    "notes": "Drawings for every item: 26 new base drawings, each item's own part highlighted",
-    "sha256": "654c618770c5b36f9925563854ff08666d78074cc5a1180ded16eb6205a0346f",
+    "version": 2026102601,
+    "notes": "Drawings upgraded: clearer labels, hidden/small parts shown, 12 drawings redrawn, smarter part and drawing choice",
+    "sha256": "0022a178b184a0a906e98a455b6e4460acae52b33bdf67b16f57935a47024d4a",
     "min_build": 0,
-    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026102402.zip",
-    "published": "2026-10-24T13:16:40.865Z"
+    "url": "https://saranik-boop.github.io/cpwd-rate-finder-mobile/update/bundle-2026102601.zip",
+    "published": "2026-10-26T06:47:06.653Z"
   }
 }

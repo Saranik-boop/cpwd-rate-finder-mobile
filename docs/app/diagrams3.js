@@ -10,74 +10,156 @@
   function S(o) { return new K.Scene(o); }
 
   // ---------- small parts reused by several drawings ----------
-  function person(s, x, y, o) {
-    o = o || {}; var k = o.k, c = o.c || '#3f6e9e', sk = '#d2a27a';
-    s.box(x - 5, y - 3, 0, 4, 6, 30, { c: '#3b3f46', k: k }); s.box(x + 1, y - 3, 0, 4, 6, 30, { c: '#3b3f46', k: k });
-    s.box(x - 7, y - 4, 30, 14, 8, 26, { c: c, k: k });
-    s.box(x - 10, y - 2, 34, 3, 4, 20, { c: c, k: k }); s.box(x + 7, y - 2, 34, 3, 4, 20, { c: c, k: k });
-    s.cyl('z', [x, y, 56], 5, 10, { c: sk, k: k }, 14);
-    s.cyl('z', [x, y, 65], o.hat ? 7 : 5.2, o.hat ? 3 : 3, { c: o.hat || '#2b2b2b', k: k }, 14);
+  function pt(axis, u, v, a) { return axis === 'x' ? [a, u, v] : axis === 'y' ? [u, a, v] : [u, v, a]; }
+  // Truncated cone between a0 and a1 along an axis (radius r0 -> r1), centre (u0, v0) in the other two axes.
+  function frustum(s, axis, u0, v0, a0, a1, r0, r1, o, n) {
+    n = n || 18; var A = [], B = [];
+    for (var i = 0; i < n; i++) { var t = i / n * 2 * Math.PI, c = Math.cos(t), sn = Math.sin(t); A.push(pt(axis, u0 + r0 * c, v0 + r0 * sn, a0)); B.push(pt(axis, u0 + r1 * c, v0 + r1 * sn, a1)); }
+    var f = [A, B]; for (var j = 0; j < n; j++) { var q = (j + 1) % n, sd = [A[j], A[q], B[q], B[j]]; sd.sm = true; f.push(sd); }
+    s.solid(f, o);
   }
-  function heap(s, x, y, r, h, c, k) {
-    var n = 10, base = [], top = [];
-    for (var i = 0; i < n; i++) { var a = i / n * 2 * Math.PI; base.push([x + r * Math.cos(a), y + r * Math.sin(a), 0]); top.push([x + r * 0.25 * Math.cos(a), y + r * 0.25 * Math.sin(a), h]); }
-    var f = [base, top]; for (var j = 0; j < n; j++) { var q = (j + 1) % n; f.push([base[j], base[q], top[q], top[j]]); }
+  function person(s, x, y, o) {
+    o = o || {}; var k = o.k, c = o.c || '#3f6e9e', sk = '#d2a27a', tr = o.tr || '#3b3f46';
+    s.group(function () {
+      s.box(x - 6, y - 3, 0, 5, 6, 28, { c: tr, k: k }); s.box(x + 1, y - 3, 0, 5, 6, 28, { c: tr, k: k });
+      s.box(x - 6.5, y - 4, 0, 6, 9, 3, { c: '#2a2a2a', k: k }); s.box(x + 0.5, y - 4, 0, 6, 9, 3, { c: '#2a2a2a', k: k });
+      s.box(x - 8, y - 4.5, 27, 16, 9, 25, { c: c, k: k });
+      if (o.armUp) { s.box(x - 12, y - 2.5, 40, 4, 5, 26, { c: c, k: k }); s.box(x + 8, y - 2.5, 40, 4, 5, 26, { c: c, k: k }); }
+      else { s.box(x - 12, y - 2.5, 31, 4, 5, 20, { c: c, k: k }); s.box(x + 8, y - 2.5, 31, 4, 5, 20, { c: c, k: k }); }
+      s.box(x - 2, y - 2, 52, 4, 4, 3, { c: sk, k: k });
+    });
+    s.cyl('z', [x, y, 54], 5.5, 11, { c: sk, k: k }, 16);
+    if (o.hat) { s.cyl('z', [x, y, 63], 7, 1.6, { c: o.hat, k: k }, 16); frustum(s, 'z', x, y, 64.6, 69, 6, 3.5, { c: o.hat, k: k }, 16); }
+    else s.cyl('z', [x, y, 63], 5.7, 3, { c: '#2b2b2b', k: k }, 16);
+  }
+  function heap(s, x, y, r, h, c, k, z0) {
+    z0 = z0 || 0; var n = 14, base = [], mid = [], top = [];
+    for (var i = 0; i < n; i++) {
+      var a = i / n * 2 * Math.PI, w = 1 + 0.06 * Math.sin(i * 2.3);
+      base.push([x + r * w * Math.cos(a), y + r * w * Math.sin(a), z0]);
+      mid.push([x + r * 0.62 * w * Math.cos(a), y + r * 0.62 * w * Math.sin(a), z0 + h * 0.55]);
+      top.push([x + r * 0.2 * Math.cos(a), y + r * 0.2 * Math.sin(a), z0 + h]);
+    }
+    var f = [base, top]; for (var j = 0; j < n; j++) { var q = (j + 1) % n, f1 = [base[j], base[q], mid[q], mid[j]], f2 = [mid[j], mid[q], top[q], top[j]]; f1.sm = f2.sm = true; f.push(f1, f2); }
     s.solid(f, { c: c, k: k });
   }
+  function wheel(s, x, y, z, r, w, k) { s.cyl('y', [x, y, z], r, w, { c: '#25282c', k: k }, 18); s.cyl('y', [x, y + (w > 0 ? w : 0) + 0.1, z], r * 0.5, 0.6, { c: '#9aa1a8', k: k }, 14); }
+  // Tipper truck along +x (cab at the +x end). Wheels on both sides.
   function truck(s, x, y, o) {
-    o = o || {}; var k = o.k;
-    s.box(x, y, 8, 70, 30, 8, { c: '#3a3f45', k: k });
-    s.box(x, y, 16, 50, 30, 22, { c: o.body || '#d8a23a', k: k });
-    s.box(x + 52, y, 16, 18, 30, 26, { c: o.cab || '#c0392b', k: k });
-    s.box(x + 66, y + 3, 30, 4.2, 24, 9, { c: M.glass, k: k });
-    [x + 12, x + 58].forEach(function (wx) { s.cyl('y', [wx, y - 1, 8], 8, 4, { c: '#25282c', k: k }, 16); s.cyl('y', [wx, y + 27, 8], 8, 4, { c: '#25282c', k: k }, 16); });
-    if (o.load) heap(s, x + 25, y + 15, 14, 12 + 16, o.load, o.lk || k);
+    o = o || {}; var k = o.k, body = o.body || '#d8a23a', cab = o.cab || '#c0392b';
+    [x + 14, x + 30, x + 70].forEach(function (wx) { wheel(s, wx, y - 1, 9, 9, 5, k); });
+    s.box(x, y + 3, 7, 88, 24, 6, { c: '#3a3f45', k: k });
+    // tipper body: tub with a sloped front wall
+    s.hexa([[x, y, 13], [x + 56, y, 13], [x + 56, y + 30, 13], [x, y + 30, 13], [x - 2, y - 1, 36], [x + 58, y - 1, 36], [x + 58, y + 31, 36], [x - 2, y + 31, 36]], { c: body, k: k });
+    s.box(x + 2, y + 2, 35.2, 52, 26, 1, { c: shadeC(body), k: k });
+    if (o.load) heap(s, x + 28, y + 15, 14, 10, o.load, o.lk || k, 33);
+    s.box(x + 60, y + 1, 13, 6, 28, 22, { c: '#33373c', k: k });
+    s.hexa([[x + 66, y, 13], [x + 88, y, 13], [x + 88, y + 30, 13], [x + 66, y + 30, 13], [x + 66, y, 42], [x + 82, y, 42], [x + 82, y + 30, 42], [x + 66, y + 30, 42]], { c: cab, k: k });
+    s.plane([[x + 85.4, y + 3, 28], [x + 85.4, y + 27, 28], [x + 82.8, y + 27, 40], [x + 82.8, y + 3, 40]], { c: M.glass, k: k });
+    s.box(x + 69, y + 30.1, 28, 10, 0.5, 10, { c: M.glass, k: k });
+    [x + 14, x + 30, x + 70].forEach(function (wx) { wheel(s, wx, y + 27, 9, 9, 5, k); });
+    s.box(x + 88, y + 4, 11, 2, 22, 5, { c: '#9aa1a8', k: k });
+  }
+  function shadeC(h) { var c = parseInt(h.slice(1), 16), r = (c >> 16) * 0.8, g = ((c >> 8) & 255) * 0.8, b = (c & 255) * 0.8; return '#' + [r, g, b].map(function (v) { v = Math.round(v); return (v < 16 ? '0' : '') + v.toString(16); }).join(''); }
+  function tree(s, x, y, h, k, o) {
+    o = o || {};
+    s.cyl('z', [x, y, 0], o.tr || 3.2, h * 0.5, { c: '#7a5232', k: o.tk || k }, 12);
+    var g = o.c || '#4f8a3c';
+    frustum(s, 'z', x, y, h * 0.35, h * 0.62, h * 0.2, h * 0.3, { c: g, k: k }, 14);
+    frustum(s, 'z', x, y, h * 0.62, h * 0.86, h * 0.3, h * 0.22, { c: g, k: k }, 14);
+    frustum(s, 'z', x, y, h * 0.86, h, h * 0.22, h * 0.06, { c: g, k: k }, 14);
   }
 
   // ======================= 1. MATERIALS =======================
   def('materials', 'Materials (basic rates) stacked at site', {
-    sanitary: /closet|wash ?basin|sink|urinal|cistern|\btaps?\b|bib ?cock|pillar cock|shower|mirror|commode|squatting/i,
-    glass: /glass/i,
-    paint: /paint|primer|enamel|distemper|varnish|polish|putty|thinner|chemical|adhesive|admixture|compound|sealant|solution|resin|epoxy|\boil\b|acid|emulsion paint/i,
-    bitumen: /bitumen|asphalt|\btar\b|emulsion|crmb|coaltar/i,
-    hardware: /bolts?|nuts?\b|screws?|nails?|hinges?|hooks?|clamps?|rivets?|fasteners?|washers?|handles?|\blocks?\b|stays?|catch|\bpins?\b|gaskets?|rubber|clips?|staples?|aldrop|tower bolt|latch/i,
-    pipe: /pipe|tube|hume|socket|bend|\btee\b|elbow|fitting|valve|trap|manhole cover/i,
-    tile: /tiles?|stone slab|slabs?|marble|granite|kota|sand ?stone|shahabad|mirzapur/i,
-    cement: /cement|lime\b|surki|fly ?ash|gypsum|plaster of paris|pozzolana/i,
-    steel: /steel|\btor\b|tmt|rods?\b|bars?\b|\bm\.?s\.?\b|joist|angle|channel|plate|strand|wire|sheet|g\.?i\.?|iron|alumin|copper|brass|lead\b|zinc/i,
-    brick: /bricks?|jhama|blocks?\b|aac/i,
-    aggregate: /aggregate|chips|metal\b|ballast|boulder|shingle|gravel|bajr|moorum|stone dust|screening|grit|khoa|stone/i,
-    sand: /sand|silt|earth|soil/i,
-    timber: /timber|wood|teak|\bsal\b|ply|board|bamboo|ballah|log|sissoo|deodar|chir/i
+    sanitary: /closet|wash ?basin|\bsinks?\b|urinal|cistern|\btaps?\b|bib ?cock|pillar cock|shower|mirror|commode|squatting|\bw\.?c\.? pan|\bewc\b/i,
+    glass: /\bglass\b(?! ?(wool|fibre|fiber))|glazing/i,
+    paint: /\bpaints?\b|primer|enamel|distemper|varnish|french polish|wax polish|putty|thinner|chemical|adhesive|admixture|\bcompound\b|sealant|solution|resin|epoxy|\boil\b|\bacid\b|emulsion paint|white ?wash|\blime wash|colour wash/i,
+    bitumen: /bitumen|asphalt|\btar\b|\bemulsion\b|crmb|coaltar|coal tar/i,
+    pipe: /\bpipes?\b|\btubes?\b|hume|\bsockets?\b|\bbends?\b|\btees?\b|elbow|\bfittings?\b|valve|\btraps?\b|manhole cover|junction|coupling|reducer|adapter|adaptor|connector|nipple|\bunion\b|flange|ferrule|\bcock\b/i,
+    hardware: /\bbolts?\b|\bnuts?\b|\bscrews?\b|\bnails?\b|hinges?|\bhooks?\b|clamps?|rivets?|fasteners?|washers?|handles?|\blocks?\b|\bstays?\b|\bcatch|\bpins?\b|gaskets?|\bclips?\b|staples?|aldrop|tower bolt|latch|hasps?/i,
+    tile: /\btiles?\b|stone slab|\bslabs?\b|marble(?! (dust|chips|powder))|granite|\bkota\b|sand ?stone|shahabad|mirzapur/i,
+    cement: /\bcement\b(?! (board|sheet|panel|fibre|corrugated))|\blime\b|surki|surkhi|fly ?ash|gypsum|plaster of paris|pozzolana|\bgrout\b/i,
+    steel: /\bsteel\b|\btor\b|\btmt\b|\brods?\b|\bbars?\b|\bm\.?s\.?\b|joist|\bangles?\b|\bchannels?\b|\bplates?\b|strands?|\bwires?\b|\bsheets?\b|\bg\.?i\.?\b|\biron\b|alumin|copper|brass|\blead\b|zinc/i,
+    aggregate: /aggregate|\bchips\b|\bmetal\b|ballast|boulder|shingle|gravel|bajr|moorum|stone dust|screening|\bgrit\b|khoa|\bstones?\b|marble (dust|chips|powder)/i,
+    brick: /\bbricks?\b|jhama|\bblocks?\b(?! ?board)|\baac\b|\bbats?\b/i,
+    sand: /\bsand\b|\bsilt\b|\bearth\b|\bsoil\b/i,
+    timber: /timber|\bwood|teak|\bsal\b|\bply\b|plywood|\bboards?\b|bamboo|ballah|\blogs?\b|sissoo|deodar|\bchir\b|batten|\bplanks?\b/i
   }, 'other', function () {
-    var s = S({ az: 34, el: 26 });
+    var s = S({ az: 22, el: 38 });
     s.pill = { cement: 'Cement / lime', sand: 'Sand / earth', aggregate: 'Stone aggregate', brick: 'Bricks / blocks', steel: 'Steel / metal', timber: 'Timber / wood',
       tile: 'Tiles / stone slabs', glass: 'Glass', paint: 'Paint / chemicals', bitumen: 'Bitumen', pipe: 'Pipes & fittings', hardware: 'Hardware (bolts, hinges…)', sanitary: 'Sanitary ware', other: 'Material' };
-    s.box(-20, -20, -4, 380, 220, 4, { c: '#d6d2c6' });
-    s.group(function () {
-      for (var i = 0; i < 3; i++) for (var j = 0; j < 2; j++) for (var l = 0; l < 3; l++) s.box(i * 22, j * 15, l * 9, 21, 14, 9, { c: '#c9c3b5', k: 'cement' });
-    });
-    heap(s, 110, 20, 30, 34, M.sand, 'sand');
-    heap(s, 185, 20, 30, 34, M.gravel, 'aggregate');
-    s.group(function () { for (var bi = 0; bi < 4; bi++) for (var bj = 0; bj < 4; bj++) for (var bl = 0; bl < 4; bl++) s.box(250 + bi * 13, bj * 7, bl * 6, 12.5, 6.5, 5.5, { c: (bi + bj + bl) % 2 ? M.brick : M.brick2, k: 'brick' }); });
-    s.group(function () { for (var r = 0; r < 6; r++) s.cyl('x', [0, 80 + (r % 3) * 7, 3 + Math.floor(r / 3) * 6], 2.5, 120, { c: M.rebar, k: 'steel' }, 10); });
-    s.group(function () { for (var t = 0; t < 4; t++) s.box(140, 75 + t * 11, 0, 90, 10, 8 + (t % 2) * 8, { c: t % 2 ? M.wood : M.wood2, k: 'timber' }); });
-    s.group(function () { for (var p = 0; p < 3; p++) s.pipe('x', [245, 85 + p * 18, 8], 8, 100, { c: '#9aa6b1', k: 'pipe' }, 2); });
-    s.group(function () { for (var ts = 0; ts < 5; ts++) s.box(0, 140, ts * 3, 50, 40, 2.6, { c: ts % 2 ? M.tile : M.tile2, k: 'tile' }); });
-    s.box(70, 150, 0, 4, 40, 50, { c: M.glass, k: 'glass', op: 0.8 }); s.box(78, 150, 0, 4, 40, 50, { c: M.glass, k: 'glass', op: 0.8 });
-    [[105, 150], [120, 150], [105, 168], [120, 168]].forEach(function (q) { s.cyl('z', [q[0], q[1], 0], 6, 14, { c: '#5b8bc0', k: 'paint' }, 16); });
-    s.cyl('z', [160, 165, 0], 13, 36, { c: '#24272b', k: 'bitumen' }, 18);
-    s.box(195, 150, 0, 34, 26, 16, { c: '#8d6e4d', k: 'hardware' });
-    s.cyl('z', [212, 163, 16], 4, 6, { c: '#b9c2ca', k: 'hardware' }, 10);
-    s.box(255, 150, 0, 40, 30, 22, { c: M.white, k: 'sanitary' });
-    s.box(300, 150, 0, 40, 34, 30, { c: '#a8885c', k: 'other' });
-    s.lab('cement', [30, 0, 27], -50, -40, 'Cement bags', ''); s.lab('sand', [110, 20, 30], -10, -60, 'Sand / earth', '');
-    s.lab('aggregate', [185, 20, 30], 20, -60, 'Stone aggregate', 'Chips, metal, boulders'); s.lab('brick', [276, 0, 24], 50, -50, 'Bricks / blocks', '');
-    s.lab('steel', [60, 87, 12], -60, 20, 'Steel bars & sections', ''); s.lab('timber', [185, 75, 16], 10, -60, 'Timber', '');
-    s.lab('pipe', [295, 85, 16], 70, -10, 'Pipes & fittings', ''); s.lab('tile', [25, 140, 14], -60, 30, 'Tiles / stone slabs', '');
-    s.lab('glass', [76, 150, 40], -20, -70, 'Glass sheets', ''); s.lab('paint', [112, 160, 14], -20, 60, 'Paint / chemicals', '');
-    s.lab('bitumen', [160, 165, 36], 20, -60, 'Bitumen drum', ''); s.lab('hardware', [212, 150, 16], 40, 60, 'Hardware', 'Bolts, screws, hinges, clamps');
-    s.lab('sanitary', [275, 150, 22], 50, 40, 'Sanitary ware', ''); s.lab('other', [320, 150, 30], 60, -20, 'Other materials', '');
+    s.box(-8, -8, -3, 366, 196, 3, { c: '#d9d5ca' });
+    // store yard: three rows of five bays, built back to front
+    var CW = 72, RW = 64;
+    var cells = {
+      cement: [0, 0], sand: [1, 0], aggregate: [2, 0], brick: [3, 0], steel: [4, 0],
+      timber: [0, 1], tile: [1, 1], glass: [2, 1], pipe: [3, 1], bitumen: [4, 1],
+      paint: [0, 2], hardware: [1, 2], sanitary: [2, 2], other: [3, 2]
+    };
+    var draw = {
+      cement: function (x, y) { s.group(function () { for (var l = 0; l < 3; l++) for (var i = 0; i < 2; i++) for (var j = 0; j < 3 - l; j++) { s.box(x + 4 + i * 27, y + 6 + j * 15 + l * 7, l * 9, 26, 14, 7, { c: '#cfc8b8', k: 'cement' }); s.box(x + 5.5 + i * 27, y + 7.5 + j * 15 + l * 7, l * 9 + 7, 23, 11, 2, { c: '#cfc8b8', k: 'cement' }); } }); },
+      sand: function (x, y) { heap(s, x + 32, y + 28, 29, 30, M.sand, 'sand'); },
+      aggregate: function (x, y) { heap(s, x + 32, y + 26, 28, 27, M.gravel, 'aggregate'); [[x + 52, y + 50], [x + 40, y + 54], [x + 58, y + 40]].forEach(function (b) { s.box(b[0], b[1], 0, 8, 7, 6, { c: M.stone, k: 'aggregate' }); }); },
+      brick: function (x, y) { s.group(function () { for (var l = 0; l < 5; l++) for (var i = 0; i < 4; i++) for (var j = 0; j < 6; j++) s.box(x + 4 + i * 14.5, y + 6 + j * 7.5, l * 5.5, 14, 7, 5.2, { c: (i + j + l) % 3 ? M.brick : M.brick2, k: 'brick' }); }); },
+      steel: function (x, y) {
+        s.box(x + 8, y + 6, 0, 5, 48, 5, { c: M.wood2 }); s.box(x + 50, y + 6, 0, 5, 48, 5, { c: M.wood2 });
+        s.group(function () { for (var l = 0; l < 2; l++) for (var j = 0; j < 8 - l; j++) s.cyl('x', [x + 2, y + 10 + j * 5 + l * 2.5, 7 + l * 4], 2, 64, { c: M.rebar, k: 'steel' }, 10); });
+        var I = [[-7, 0], [7, 0], [7, 2], [1.2, 2], [1.2, 12], [7, 12], [7, 14], [-7, 14], [-7, 12], [-1.2, 12], [-1.2, 2], [-7, 2]];
+        s.prism('x', I.map(function (p) { return [y + 30 + p[0], 15 + p[1]]; }), x + 4, x + 64, { c: M.steel2, k: 'steel' });
+      },
+      timber: function (x, y) { s.group(function () { for (var l = 0; l < 4; l++) { if (l % 2) for (var a = 0; a < 3; a++) s.box(x + 6 + a * 24, y + 6, l * 6, 4, 46, 6, { c: M.wood2, k: 'timber' }); else for (var b = 0; b < 4; b++) s.box(x + 2, y + 6 + b * 12, l * 6, 62, 10, 6, { c: b % 2 ? M.wood : '#c69159', k: 'timber' }); } }); },
+      tile: function (x, y) {
+        s.box(x + 4, y + 6, 0, 58, 46, 5, { c: M.wood2 });
+        s.group(function () { [[0, 0], [30, 0], [0, 24], [30, 24]].forEach(function (q, qi) { for (var t = 0; t < 7 - qi; t++) s.box(x + 6 + q[0], y + 8 + q[1], 5 + t * 2.4, 26, 20, 2.2, { c: t % 2 ? M.tile : M.tile2, k: 'tile' }); }); });
+      },
+      glass: function (x, y) {
+        s.box(x + 6, y + 14, 0, 54, 26, 4, { c: '#7a7f86' });
+        s.box(x + 8, y + 24, 4, 3, 3, 40, { c: '#7a7f86' }); s.box(x + 55, y + 24, 4, 3, 3, 40, { c: '#7a7f86' });
+        [16, 22, 30, 36].forEach(function (gy) { s.box(x + 11, y + gy, 4, 44, 1.6, 38, { c: M.glass, k: 'glass', op: 0.72 }); });
+      },
+      pipe: function (x, y) { s.group(function () { [[0, 0], [1, 0], [2, 0], [0.5, 1], [1.5, 1], [1, 2]].forEach(function (q) { s.pipe('x', [x + 2, y + 12 + q[0] * 16, 8 + q[1] * 14], 8, 62, { c: '#a9b4bf', k: 'pipe' }, 2); }); }); },
+      bitumen: function (x, y) {
+        s.cyl('z', [x + 20, y + 18, 0], 13, 34, { c: '#26292d', k: 'bitumen' }, 22); s.cyl('z', [x + 20, y + 18, 11], 13.4, 1.4, { c: '#3a3e44', k: 'bitumen' }, 22); s.cyl('z', [x + 20, y + 18, 22], 13.4, 1.4, { c: '#3a3e44', k: 'bitumen' }, 22);
+        s.cyl('x', [x + 24, y + 44, 12], 12, 32, { c: '#2c2f34', k: 'bitumen' }, 22);
+      },
+      paint: function (x, y) {
+        s.group(function () {
+          [[0, 0, '#3f7dc0'], [16, 0, '#f2f2f2'], [32, 0, '#c63d2f'], [8, 16, '#e7b52c'], [24, 16, '#3f9b5c'], [40, 16, '#f2f2f2']].forEach(function (q) {
+            s.cyl('z', [x + 12 + q[0], y + 14 + q[1], 0], 7, 13, { c: q[2], k: 'paint' }, 18); s.cyl('z', [x + 12 + q[0], y + 14 + q[1], 13], 7.3, 1.4, { c: '#b9c0c7', k: 'paint' }, 18);
+          });
+          s.cyl('z', [x + 50, y + 44, 0], 9, 22, { c: '#5b6b7a', k: 'paint' }, 18);
+        });
+      },
+      hardware: function (x, y) {
+        s.box(x + 6, y + 8, 0, 46, 34, 16, { c: '#8d6e4d', k: 'hardware' }); s.box(x + 9, y + 11, 16, 40, 28, 0.6, { c: '#9aa6b1', k: 'hardware' });
+        s.group(function () { [[16, 18], [26, 24], [36, 16], [42, 30], [20, 32]].forEach(function (b) { s.cyl('z', [x + b[0], y + b[1], 16.6], 3, 3, { c: '#c0c7ce', k: 'hardware' }, 6); }); });
+        s.box(x + 14, y + 46, 0, 22, 12, 1.6, { c: '#b7c2cc', k: 'hardware' }); s.cyl('x', [x + 14, y + 52, 2.6], 1.4, 22, { c: '#8a949d', k: 'hardware' }, 8);
+      },
+      sanitary: function (x, y) {
+        frustum(s, 'z', x + 20, y + 28, 0, 12, 8, 6, { c: M.white, k: 'sanitary' }, 18); s.cyl('z', [x + 20, y + 28, 12], 11, 7, { c: M.white, k: 'sanitary' }, 22); s.cyl('z', [x + 20, y + 28, 18.9], 8.5, 0.4, { c: '#c9d3db', k: 'sanitary' }, 20);
+        s.box(x + 6, y + 18, 19, 7, 20, 18, { c: M.white, k: 'sanitary' });
+        s.cyl('z', [x + 48, y + 20, 0], 4, 22, { c: M.white, k: 'sanitary' }, 14); s.box(x + 38, y + 12, 22, 22, 18, 7, { c: M.white, k: 'sanitary' }); s.box(x + 41, y + 15, 28.6, 16, 12, 0.6, { c: '#c9d3db', k: 'sanitary' });
+      },
+      other: function (x, y) { s.box(x + 6, y + 10, 0, 34, 30, 24, { c: '#b08b5a', k: 'other' }); s.box(x + 6, y + 10, 10, 34.4, 30.4, 3, { c: '#8d6b40', k: 'other' }); s.box(x + 12, y + 16, 24, 22, 20, 16, { c: '#c49c66', k: 'other' }); }
+    };
+    Object.keys(cells).map(function (k) { var c = cells[k]; return { k: k, x: c[0] * CW, y: c[1] * RW, d: c[0] * CW * 0.59 + c[1] * RW * 0.81 }; })
+      .sort(function (a, b) { return a.d - b.d; }).forEach(function (c) { draw[c.k](c.x, c.y); });
+    var A = function (k, dx, dy, z) { var c = cells[k]; return [c[0] * CW + dx, c[1] * RW + dy, z]; };
+    s.lab('cement', A('cement', 30, 20, 26), -30, -40, 'Cement / lime', 'Bags or per tonne');
+    s.lab('sand', A('sand', 32, 28, 26), -10, -50, 'Sand / earth', 'Coarse / fine sand, moorum, earth');
+    s.lab('aggregate', A('aggregate', 32, 26, 22), 0, -50, 'Stone aggregate', 'Chips, metal, ballast, boulders');
+    s.lab('brick', A('brick', 34, 28, 27), 20, -45, 'Bricks / blocks', '');
+    s.lab('steel', A('steel', 40, 30, 29), 40, -35, 'Steel / metal', 'Bars, sections, sheets, wire');
+    s.lab('timber', A('timber', 10, 30, 24), -45, -10, 'Timber / wood', 'Logs, planks, ballah, bamboo, ply');
+    s.lab('tile', A('tile', 20, 18, 20), -30, -40, 'Tiles / stone slabs', '');
+    s.lab('glass', A('glass', 33, 36, 34), 10, -55, 'Glass sheets', '');
+    s.lab('pipe', A('pipe', 62, 28, 30), 30, -40, 'Pipes & fittings', '');
+    s.lab('bitumen', A('bitumen', 20, 18, 34), 45, -30, 'Bitumen / emulsion', 'Drums or bulk');
+    s.lab('paint', A('paint', 20, 20, 14), -45, 20, 'Paint / chemicals', 'Paint, primer, putty, admixture, sealant');
+    s.lab('hardware', A('hardware', 28, 26, 17), -20, 45, 'Hardware', 'Bolts, screws, hinges, clamps');
+    s.lab('sanitary', A('sanitary', 20, 28, 19), 0, 50, 'Sanitary ware', 'WC, basin, taps, cistern');
+    s.lab('other', A('other', 24, 24, 40), 40, 30, 'Other materials', '');
     return s;
   });
 
@@ -88,55 +170,100 @@
     operator: /operator|driver|khalasi|machine|mechanic|electrician|wireman|lineman/i,
     beldar: /beldar|mazdoor|majdoor|coolie|helper|labour|bandhani|gharamee|santras|bhisti|chowkidar|mate|tarman|unskilled|semi.?skilled|skilled/i
   }, 'beldar', function () {
-    var s = S({ az: 28, el: 16 });
+    var s = S({ az: 18, el: 26 });
     s.pill = { mason: 'Mason', carpenter: 'Carpenter', plumber: 'Plumber / fitter', painter: 'Painter', welder: 'Welder / blacksmith', operator: 'Operator / driver / electrician', beldar: 'Labourer (beldar / mazdoor)' };
-    s.box(-30, -40, -4, 420, 110, 4, { c: '#d9d3c4' });
-    s.box(-20, 20, 0, 50, 12, 42, { c: M.brick, k: 'mason' }); person(s, 10, 0, { k: 'mason', c: '#8d5a3b', hat: '#f2c230' }); s.box(16, -10, 44, 10, 3, 2, { c: '#9aa6b1', k: 'mason' });
-    person(s, 70, 0, { k: 'beldar', c: '#5e7f54', hat: '#f2c230' }); s.box(55, -14, 0, 26, 18, 10, { c: '#7a7f86', k: 'beldar' });
-    s.box(105, 10, 26, 60, 20, 4, { c: M.wood, k: 'carpenter' }); s.box(108, 12, 0, 4, 4, 26, { c: M.wood2, k: 'carpenter' }); s.box(158, 12, 0, 4, 4, 26, { c: M.wood2, k: 'carpenter' });
-    person(s, 135, -10, { k: 'carpenter', c: '#a0632e', hat: '#f2c230' });
-    s.cyl('x', [190, 20, 40], 3, 50, { c: M.gi, k: 'plumber' }); person(s, 210, 0, { k: 'plumber', c: '#2f6db0', hat: '#ffffff' });
-    s.box(250, 24, 0, 40, 4, 70, { c: '#f3e2b3', k: 'painter' }); person(s, 268, 5, { k: 'painter', c: '#e6e6e6', hat: '#ffffff' }); s.box(276, 14, 50, 12, 3, 4, { c: '#d24b3c', k: 'painter' });
-    person(s, 320, 0, { k: 'welder', c: '#4b4f55', hat: '#2f2f2f' }); s.box(310, 14, 20, 30, 10, 4, { c: '#6f7b87', k: 'welder' }); s.cyl('z', [330, 19, 24], 2, 4, { c: '#ffb020', k: 'welder' }, 8);
-    s.box(360, -10, 0, 34, 30, 30, { c: '#e0a020', k: 'operator' }); s.box(368, -6, 30, 20, 22, 18, { c: M.glass, k: 'operator' }); person(s, 375, -30, { k: 'operator', c: '#1f5f7a', hat: '#f2c230' });
-    s.lab('mason', [10, 0, 50], -40, -60, 'Mason', 'Brick / stone / plaster work'); s.lab('beldar', [70, 0, 45], -20, 60, 'Labourer', 'Beldar / mazdoor / helper');
-    s.lab('carpenter', [135, -10, 50], 10, -70, 'Carpenter', ''); s.lab('plumber', [210, 0, 45], 30, 60, 'Plumber / fitter', '');
-    s.lab('painter', [268, 5, 50], 0, -70, 'Painter', 'Also white washer'); s.lab('welder', [320, 0, 45], 30, 60, 'Welder / blacksmith', '');
-    s.lab('operator', [377, 0, 40], 40, -50, 'Operator / driver', 'Machine operator, driver, electrician');
+    s.box(-40, -92, -3, 380, 176, 3, { c: '#ddd7c8' });
+    var HAT = '#f2c230';
+    // back row (each worker in front of his own work)
+    s.at(0, -50, 0, function () {
+      s.group(function () { for (var l = 0; l < 8; l++) for (var i = 0; i < 3; i++) s.box(-24 + i * 14.5 + (l % 2) * 7, -26, l * 6, 14, 7, 5.6, { c: (i + l) % 2 ? M.brick : M.brick2, k: 'mason' }); });
+      person(s, 0, 0, { k: 'mason', c: '#8d5a3b', hat: HAT }); s.box(11, -8, 40, 12, 6, 1.5, { c: '#b7c2cc', k: 'mason' });
+    });
+    s.at(90, -50, 0, function () {
+      s.box(-28, -26, 26, 56, 16, 4, { c: M.wood, k: 'carpenter' }); s.box(-25, -24, 0, 4, 4, 26, { c: M.wood2, k: 'carpenter' }); s.box(21, -24, 0, 4, 4, 26, { c: M.wood2, k: 'carpenter' });
+      s.box(-16, -24, 30, 34, 12, 3, { c: '#d8b07a', k: 'carpenter' });
+      person(s, 0, 0, { k: 'carpenter', c: '#a0632e', hat: HAT });
+    });
+    s.at(180, -50, 0, function () {
+      s.box(-26, -30, 0, 52, 5, 80, { c: '#f3e2b3', k: 'painter' }); s.box(-26, -25.2, 28, 34, 0.6, 46, { c: '#e9c86a', k: 'painter' });
+      person(s, 0, 0, { k: 'painter', c: '#e6e6e6', hat: '#ffffff', armUp: true }); s.box(-6, -20, 64, 14, 5, 5, { c: '#d24b3c', k: 'painter' }); s.cyl('y', [1, -15, 66], 1.2, 12, { c: '#7a7f86', k: 'painter' }, 6);
+    });
+    s.at(270, -50, 0, function () {
+      s.box(-24, -26, 0, 6, 6, 46, { c: M.steel2, k: 'welder' }); s.box(18, -26, 0, 6, 6, 46, { c: M.steel2, k: 'welder' }); s.box(-24, -26, 40, 48, 6, 6, { c: M.steel2, k: 'welder' });
+      person(s, 0, 0, { k: 'welder', c: '#4b4f55', hat: '#2f2f2f' }); s.box(-5, -6.5, 54, 10, 1.5, 9, { c: '#1d2125', k: 'welder' });
+      s.cyl('z', [2, -20, 42], 2.4, 3, { c: '#ffb020', k: 'welder' }, 8);
+    });
+    // front row, set between the back-row workers
+    s.at(75, 40, 0, function () {
+      s.box(-40, -6, 0, 24, 20, 3, { c: '#7a7f86', k: 'beldar' }); heap(s, -28, 4, 9, 8, M.sand, 'beldar', 3);
+      person(s, 0, 0, { k: 'beldar', c: '#5e7f54', armUp: true }); frustum(s, 'z', 0, 0, 66, 71, 6, 10, { c: '#6f757c', k: 'beldar' }, 18); heap(s, 0, 0, 8, 4, M.gravel, 'beldar', 71);
+    });
+    s.at(165, 40, 0, function () {
+      s.cyl('x', [12, -4, 26], 3.2, 36, { c: M.gi, k: 'plumber' }, 14); s.cyl('x', [48, -4, 26], 4.4, 6, { c: '#c9a43a', k: 'plumber' }, 14);
+      person(s, 0, 0, { k: 'plumber', c: '#2f6db0', hat: '#ffffff' }); s.box(10, -2, 30, 3, 3, 14, { c: '#c0392b', k: 'plumber' });
+    });
+    s.at(255, 40, 0, function () {
+      person(s, 0, 0, { k: 'operator', c: '#1f5f7a', hat: HAT });
+      s.box(16, -14, 8, 46, 30, 6, { c: '#5d6670', k: 'operator' }); wheel(s, 26, -15, 7, 7, 3, 'operator'); wheel(s, 26, 13, 7, 7, 3, 'operator');
+      frustum(s, 'x', 1, 34, 24, 48, 14, 14, { c: '#f08c2e', k: 'operator' }, 20); frustum(s, 'x', 1, 34, 48, 60, 14, 8, { c: '#f08c2e', k: 'operator' }, 20);
+    });
+    s.lab('mason', [0, -50, 62], -30, -40, 'Mason', 'Brick, stone and plaster work');
+    s.lab('carpenter', [90, -50, 62], -10, -50, 'Carpenter', '');
+    s.lab('painter', [180, -50, 62], 10, -50, 'Painter', 'Also white washer, polisher');
+    s.lab('welder', [270, -50, 62], 30, -40, 'Welder / blacksmith', '');
+    s.lab('beldar', [75, 40, 40], -40, 40, 'Labourer', 'Beldar / mazdoor / helper');
+    s.lab('plumber', [165, 40, 40], 0, 50, 'Plumber / fitter', '');
+    s.lab('operator', [255, 40, 40], 30, 45, 'Operator / driver', 'Machine operator, driver, electrician');
     return s;
   });
 
   // ======================= 3. PLANT & MACHINERY =======================
   def('machinery', 'Plant & machinery (hire charges)', {
-    roller: /roller|compactor|rammer|plate compactor/i, mixer: /mixer|batching|transit|hot ?mix|drum mix|wet mix plant|paver|finisher|boiler|sprayer|distributor|chip spreader|kettle/i,
+    roller: /roller|compactor|rammer|plate compactor/i, mixer: /mixer|batching|\bbatch\b|transit|hot ?mix|drum mix|wet mix plant|paver|finisher|boiler|sprayer|distributor|chip spreader|kettle/i,
     excavator: /excavator|jcb|loader|dozer|grader|backhoe|poclain|motor grader|crane|tripod|winch|hoist|lift|pile|rig|derrick/i,
     truck: /truck|tipper|dumper|tanker|tractor|trailer|lorry|carriage|sweeper|bus|jeep|car\b/i,
     pump: /pump|dewater|generator|gen.?set|compressor|vibrator|welding|cutter|breaker|drill|chisel|saw|grinder|blower|needle/i
   }, 'excavator', function () {
-    var s = S({ az: 30, el: 22 });
+    var s = S({ az: 18, el: 30 });
     s.pill = { excavator: 'Excavator / crane / rig', roller: 'Road roller', mixer: 'Mixer / plant / paver', truck: 'Truck / tipper / tanker', pump: 'Pump / generator / small tools' };
-    s.box(-40, -60, -4, 420, 200, 4, { c: '#cdbf9f' });
-    // excavator
-    s.box(0, 0, 0, 60, 34, 12, { c: '#3a3f45', k: 'excavator' }); s.box(6, 2, 12, 46, 30, 24, { c: '#e3a51c', k: 'excavator' }); s.box(36, 4, 36, 16, 26, 18, { c: M.glass, k: 'excavator' });
-    s.hexa([[50, 14, 30], [56, 14, 30], [56, 20, 30], [50, 20, 30], [86, 14, 70], [92, 14, 70], [92, 20, 70], [86, 20, 70]], { c: '#e3a51c', k: 'excavator' });
-    s.hexa([[86, 14, 66], [92, 14, 66], [92, 20, 66], [86, 20, 66], [104, 14, 20], [110, 14, 20], [110, 20, 20], [104, 20, 20]], { c: '#e3a51c', k: 'excavator' });
-    s.box(100, 10, 6, 18, 14, 14, { c: '#55595f', k: 'excavator' });
-    // roller
-    s.cyl('y', [170, 0, 16], 16, 34, { c: '#8e979f', k: 'roller' }, 22); s.box(186, 0, 6, 50, 34, 24, { c: '#e3a51c', k: 'roller' });
-    s.cyl('y', [236, 0, 12], 12, 34, { c: '#2b2e33', k: 'roller' }, 18); s.box(200, 4, 30, 24, 26, 20, { c: M.glass, k: 'roller' });
-    // mixer
-    s.box(0, 90, 10, 50, 30, 8, { c: '#5d6670', k: 'mixer' }); s.cyl('y', [10, 90, 0], 6, 30, { c: '#25282c', k: 'mixer' }, 12);
-    s.cyl('x', [8, 105, 40], 18, 40, { c: '#f08c2e', k: 'mixer' }, 20); s.cyl('x', [48, 105, 40], 10, 8, { c: '#f5a95a', k: 'mixer' }, 16);
-    // truck
-    truck(s, 90, 90, { k: 'truck', body: '#d8a23a' });
-    // pump & generator
-    s.box(200, 95, 0, 34, 24, 22, { c: '#3c7a4f', k: 'pump' }); s.cyl('x', [234, 107, 10], 5, 20, { c: '#2c3a46', k: 'pump' }, 12);
-    s.box(270, 95, 0, 40, 28, 28, { c: '#c0392b', k: 'pump' });
-    s.lab('excavator', [40, 17, 36], -40, -60, 'Excavator / crane / rig', 'Hire per hour / day');
-    s.lab('roller', [205, 0, 30], 30, -60, 'Road roller', '');
-    s.lab('mixer', [28, 105, 58], -60, -30, 'Concrete mixer / plant', 'Also hot-mix plant, paver, boiler');
-    s.lab('truck', [130, 90, 38], 10, -70, 'Truck / tipper / tanker', '');
-    s.lab('pump', [255, 95, 28], 60, -20, 'Pump / generator', 'Also vibrator, compressor, small tools');
+    s.box(-14, -72, -3, 300, 262, 3, { c: '#cdbf9f' });
+    var Y = '#e3a51c', k;
+    // back row: excavator (left), tipper truck (right)
+    k = 'excavator';
+    [-60, -30].forEach(function (ty) {
+      s.hexa([[0, ty, 0], [66, ty, 0], [66, ty + 10, 0], [0, ty + 10, 0], [-6, ty, 12], [72, ty, 12], [72, ty + 10, 12], [-6, ty + 10, 12]], { c: '#33373c', k: k });
+    });
+    s.box(8, -52, 12, 50, 26, 4, { c: '#55595f', k: k });
+    s.box(4, -58, 16, 58, 38, 22, { c: Y, k: k }); s.box(-2, -58, 16, 10, 38, 18, { c: '#8e7a2a', k: k });
+    s.box(40, -36, 38, 22, 16, 26, { c: Y, k: k }); s.box(62.2, -34, 44, 0.5, 12, 16, { c: M.glass, k: k }); s.box(42, -19.8, 44, 16, 0.5, 16, { c: M.glass, k: k });
+    s.hexa([[52, -52, 34], [62, -52, 34], [62, -42, 34], [52, -42, 34], [96, -52, 86], [104, -52, 80], [104, -42, 80], [96, -42, 86]], { c: Y, k: k });
+    s.hexa([[96, -51, 80], [104, -51, 86], [104, -43, 86], [96, -43, 80], [122, -51, 26], [128, -51, 30], [128, -43, 30], [122, -43, 26]], { c: Y, k: k });
+    s.hexa([[118, -53, 30], [134, -53, 30], [134, -41, 30], [118, -41, 30], [116, -53, 10], [132, -53, 4], [132, -41, 4], [116, -41, 10]], { c: '#4a4e54', k: k });
+    k = 'truck'; truck(s, 150, -58, { k: k, load: M.gravel });
+    // front row: road roller, concrete mixer, pump + generator (shifted forward and right of the back row)
+    s.at(30, 96, 0, function () {
+    k = 'roller';
+    s.cyl('y', [16, 20, 18], 18, 40, { c: '#8e979f', k: k }, 24);
+    s.box(30, 20, 14, 52, 40, 20, { c: Y, k: k }); s.box(4, 18, 30, 26, 44, 6, { c: Y, k: k });
+    wheel(s, 70, 14, 14, 14, 6, k); wheel(s, 70, 60, 14, 14, 6, k);
+    [[44, 22], [74, 22], [44, 56], [74, 56]].forEach(function (p) { s.box(p[0], p[1], 34, 2.4, 2.4, 26, { c: '#33373c', k: k }); });
+    s.box(42, 20, 60, 36, 40, 3, { c: Y, k: k }); s.box(52, 26, 34, 14, 26, 14, { c: '#55595f', k: k });
+    k = 'mixer';
+    s.box(104, 26, 10, 48, 34, 6, { c: '#5d6670', k: k }); wheel(s, 116, 25, 9, 9, 4, k); wheel(s, 116, 58, 9, 9, 4, k);
+    s.box(140, 30, 16, 4, 26, 26, { c: '#5d6670', k: k });
+    frustum(s, 'x', 43, 42, 106, 128, 17, 17, { c: '#f08c2e', k: k }, 22); frustum(s, 'x', 43, 42, 128, 142, 17, 9, { c: '#f08c2e', k: k }, 22);
+    s.hexa([[96, 30, 16], [106, 30, 16], [106, 54, 16], [96, 54, 16], [90, 26, 36], [106, 26, 36], [106, 58, 36], [90, 58, 36]], { c: '#9aa6b1', k: k });
+    k = 'pump';
+    s.box(170, 20, 0, 50, 34, 30, { c: '#c0392b', k: k }); s.box(170.2, 54.2, 4, 30, 0.5, 20, { c: '#7d241b', k: k });
+    for (var g = 0; g < 5; g++) s.box(220.2, 24 + g * 6, 8, 0.5, 3.5, 16, { c: '#7d241b', k: k });
+    s.box(186, 64, 0, 30, 18, 4, { c: '#4a4e54', k: k }); s.cyl('x', [188, 73, 13], 8, 14, { c: '#3c7a4f', k: k }, 18); s.cyl('y', [207, 66, 13], 9, 8, { c: '#2f5e3e', k: k }, 18);
+    s.cyl('x', [211, 70, 13], 3.4, 30, { c: '#2c3a46', k: k }, 12);
+    });
+    s.lab('excavator', [40, -40, 40], -30, -55, 'Excavator / crane / rig', 'Also JCB, dozer, grader, pile rig — per hour / day');
+    s.lab('truck', [178, -58, 46], 20, -50, 'Truck / tipper / tanker', '');
+    s.lab('roller', [46, 136, 36], -40, 45, 'Road roller', 'Also plate compactor, rammer');
+    s.lab('mixer', [154, 138, 58], 0, 55, 'Concrete mixer / plant', 'Also hot-mix plant, paver, boiler');
+    s.lab('pump', [225, 116, 30], 45, 40, 'Pump / generator', 'Also vibrator, compressor, small tools');
     return s;
   });
 
@@ -144,33 +271,48 @@
   def('carriage', 'Carriage of materials: loading, lead and unloading', {
     boat: /boat|ferry|country boat|barge/i, rail: /rail(way)? wagon|wagon|railway|rake/i,
     manual: /manual|head ?load|by labour|by manual|basket|wheel ?barrow|hand/i,
-    loading: /loading|unloading|stacking|crushing/i, truck: /mechanical|truck|tipper|lorry|tractor|haulage|carriage|lead|transport/i
+    loading: /loading|unloading|stacking|crushing/i, truck: /mechanical|truck|tipper|lorry|tractor|haulage|transport/i
   }, 'truck', function () {
-    var s = S({ az: 24, el: 24 });
+    var s = S({ az: 18, el: 32 });
     s.pill = { truck: 'Carriage by truck (lead)', loading: 'Loading / unloading & stacking', manual: 'Carriage by manual labour', boat: 'Carriage by boat', rail: 'Railway wagon' };
-    s.box(-50, -50, -4, 330, 150, 4, { c: '#d3c8ae' });
-    s.box(-50, 10, -3.9, 330, 30, 0.6, { c: '#7c7f86' });
-    heap(s, -20, 70, 22, 26, M.gravel, 'source');
-    person(s, 14, 62, { k: 'loading', c: '#5e7f54', hat: '#f2c230' });
-    truck(s, 90, 12, { k: 'truck', load: M.gravel });
-    for (var a = 40; a < 88; a += 14) s.box(a, 24, 0.2, 8, 3, 0.4, { c: '#f4f4f4', k: 'truck' });
-    heap(s, 250, 70, 20, 20, M.gravel, 'site');
-    person(s, 215, 66, { k: 'loading', c: '#5e7f54', hat: '#f2c230' });
-    person(s, 175, 85, { k: 'manual', c: '#8d5a3b' }); heap(s, 175, 85, 6, 6, M.gravel, 'manual');
-    s.box(190, -45, 0, 60, 18, 12, { c: '#7b4a2a', k: 'boat' }); s.box(-40, -45, 0, 80, 20, 20, { c: '#7d4b3a', k: 'rail' });
-    s.lab('truck', [125, 12, 30], 0, -70, 'Truck / tipper', 'Paid per km of lead (or per cum / tonne per km)');
-    s.lab('loading', [14, 62, 50], -40, -50, 'Loading', 'Loading at the source'); s.lab('loading', [215, 66, 50], 40, -60, 'Unloading & stacking', 'At site');
-    s.lab('manual', [175, 85, 45], 50, 40, 'Manual carriage', 'Head load / short lead by labour');
-    s.lab('source', [-20, 70, 18], -50, 30, 'Source / quarry / store', ''); s.lab('site', [250, 70, 16], 50, 30, 'Work site', '');
-    s.lab('boat', [220, -45, 12], 40, 40, 'Boat / ferry', ''); s.lab('rail', [0, -45, 20], -30, 50, 'Railway wagon', '');
+    s.box(-40, -156, -3, 330, 290, 3, { c: '#d3c8ae' });
+    s.at(0, -70, 0, function () {
+    // back strip: railway (left) and river (right)
+    s.box(-40, -80, -2.8, 150, 26, 2, { c: '#a59b8a' });
+    s.box(-40, -74, 0, 150, 1.6, 1.6, { c: '#5b6168', k: 'rail' }); s.box(-40, -60, 0, 150, 1.6, 1.6, { c: '#5b6168', k: 'rail' });
+    wheel(s, 0, -76, 5, 5, 3, 'rail'); wheel(s, 70, -76, 5, 5, 3, 'rail');
+    s.box(-12, -78, 10, 94, 22, 4, { c: '#3a3f45', k: 'rail' }); s.box(-10, -78, 14, 90, 22, 22, { c: '#8a4a32', k: 'rail' });
+    for (var r = 0; r < 6; r++) s.box(-6 + r * 15, -55.6, 16, 1.2, 0.5, 18, { c: '#6b3826', k: 'rail' });
+    heap(s, 35, -67, 14, 8, M.gravel, 'rail', 36);
+    wheel(s, 0, -58, 5, 5, 3, 'rail'); wheel(s, 70, -58, 5, 5, 3, 'rail');
+    s.box(140, -84, -2.9, 150, 40, 2.2, { c: M.water, op: 0.85 });
+    s.hexa([[170, -72, 0], [250, -72, 0], [250, -58, 0], [170, -58, 0], [160, -78, 14], [264, -78, 14], [264, -52, 14], [160, -52, 14]], { c: '#7b4a2a', k: 'boat' });
+    s.box(168, -74, 13.6, 88, 18, 0.6, { c: '#5a3520', k: 'boat' }); heap(s, 210, -65, 12, 8, M.sand, 'boat', 14);
+    });
+    // road with the truck, quarry heap at the start, site at the end
+    s.box(-40, -36, -2.8, 330, 34, 2, { c: '#6b6f76' });
+    for (var a = -30; a < 290; a += 24) s.box(a, -20, -0.7, 12, 2, 0.3, { c: '#f4f4f4' });
+    truck(s, 80, -34, { k: 'truck', load: M.gravel });
+    s.at(0, 30, 0, function () {
+    heap(s, -10, 30, 28, 30, M.gravel, 'source'); person(s, 30, 20, { k: 'loading', c: '#5e7f54', hat: '#f2c230' });
+    s.group(function () { for (var l = 0; l < 4; l++) for (var i = 0; i < 4; i++) for (var j = 0; j < 3; j++) s.box(220 + i * 13, 10 + j * 7, l * 5, 12.5, 6.6, 4.8, { c: (i + j + l) % 2 ? M.brick : M.brick2, k: 'site' }); });
+    heap(s, 262, 54, 22, 20, M.gravel, 'site');
+    person(s, 212, 44, { k: 'loading', c: '#5e7f54', hat: '#f2c230' });
+    person(s, 140, 60, { k: 'manual', c: '#8d5a3b', armUp: true }); frustum(s, 'z', 140, 60, 66, 71, 6, 10, { c: '#6f757c', k: 'manual' }, 18); heap(s, 140, 60, 8, 4, M.gravel, 'manual', 71);
+    });
+    s.lab('truck', [118, -34, 40], -10, -60, 'Truck / tipper', 'Paid per km of lead (per cum or tonne)');
+    s.lab('loading', [30, 50, 60], -30, 45, 'Loading', 'At the source / store'); s.lab('loading', [212, 74, 60], 20, 50, 'Unloading & stacking', 'At site');
+    s.lab('manual', [140, 90, 70], -10, 50, 'Manual carriage', 'Head load / short lead by labour');
+    s.lab('source', [-10, 60, 26], -40, 30, 'Source / quarry / store', ''); s.lab('site', [245, 50, 20], 45, 30, 'Work site', '');
+    s.lab('boat', [210, -122, 14], 40, -40, 'Boat / ferry', ''); s.lab('rail', [30, -126, 30], -40, -50, 'Railway wagon', '');
     return s;
   });
 
   // ======================= 5. SOIL BORING & TESTING =======================
   def('soil_testing', 'Soil boring, sampling and testing', {
-    spt: /spt|standard penetration|cone|penetration test|dcpt|scpt/i, sample: /sample|core|undisturbed|ud\b|disturbed/i,
+    spt: /\bspt\b|standard penetration|\bcones?\b|penetration test|dcpt|scpt/i, sample: /sample|\bcores?\b|undisturbed|\bud\b|disturbed/i,
     plate: /plate load|field density|sand replacement|cbr|core cutter|load test|pile load/i,
-    lab: /lab|test(ing)?|sieve|analysis|limit|moisture|proctor|compressive|cube|consolidation|shear|chemical|permeability|specific gravity|grain|density/i,
+    lab: /\blab(oratory)?\b|\btest(ing|s)?\b|sieve|analysis|limit|moisture|proctor|compressive|cube|consolidation|shear|chemical|permeability|specific gravity|grain|density|determination|consistency|strength|value\b|index/i,
     boring: /boring|bore ?hole|drilling|auger|wash|rotary|casing/i
   }, 'boring', function () {
     var s = S({ az: 30, el: 22 });
@@ -194,7 +336,7 @@
 
   // ======================= 6. MORTAR =======================
   def('mortar', 'Mortar mixing at site', {
-    lime: /lime|surki/i, sand: /sand|marble dust|stone dust/i, cement: /cement/i
+    mortar: /mortar/i, lime: /lime|surki/i, sand: /sand|marble dust|stone dust/i, cement: /cement/i
   }, 'mortar', function () {
     var s = S({ az: 30, el: 26 });
     s.pill = { mortar: 'Mortar (mix)', cement: 'Cement', sand: 'Sand', lime: 'Lime / surki' };
@@ -242,7 +384,7 @@
   def('painting', 'Painting and finishing of walls, steel and wood', {
     primer: /primer|priming/i, steel: /steel|iron|metal|g\.?i\.?|grill|anti.?corrosive|aluminium paint|red lead|black japan|bitumastic|structural/i,
     wood: /wood|varnish|french polish|polish|timber|teak|melamine|lacquer|wax/i,
-    prep: /scraping|removing|cleaning|smoothening|sand ?paper|rubbing|putty|plaster of paris|rendering|washing/i,
+    prep: /scraping|removing|cleaning|smoothening|sand ?paper|rubbing|putty|plaster of paris|rendering/i,
     wall: /wall|distemper|emulsion|cement paint|white ?wash|colour ?wash|texture|snowcem|acrylic|exterior|interior|ceiling|plaster|border|letter|bands?/i
   }, 'wall', function () {
     var s = S({ az: 30, el: 16 });
@@ -264,9 +406,9 @@
 
   // ======================= 9. WOODWORK / PANELLING / PARTITIONS =======================
   def('woodwork', 'Wood work: wall panelling, partition, shelves, cupboard, posts & rafters', {
-    frame: /frame ?work|battens?|grounds?|g\.?i\.? (section|frame)|profile|studs?|framework/i, shelf: /shel(f|ves)|rack|counter|platform|top/i,
+    frame: /frame ?work|\bgrounds?\b|g\.?i\.? (section|frame)|\bstuds?\b|studding|framework/i, shelf: /shel(f|ves)|rack|counter|platform|top/i,
     cupboard: /cupboard|almirah|drawers?|wardrobe|kitchen|cabinet/i, partition: /partition/i,
-    post: /posts?|post plates?|rafters?|beams?|burgah|purlin|truss|eaves|joists?|plates?|valves?|louv/i,
+    post: /\bposts?\b|post plates?|rafters?|\bbeams?\b|burgah|purlin|truss|eaves|joists?|wall plates?|louv/i,
     panel: /panell?ing|lining|board|ply|mdf|particle|veneer|laminate|plank|sheet|block ?board/i
   }, 'panel', function () {
     var s = S({ az: 32, el: 18 });
@@ -289,7 +431,7 @@
   // ======================= 10. RAIN WATER PIPE =======================
   def('rainwater_pipe', 'Rain-water down pipe from the roof', {
     spout: /spout|khurra|gargoyle/i, grating: /grating|grille|mouth|cowl|guard/i, shoe: /shoe/i, clamp: /clamps?|holder|hold.?bats?|nails?/i,
-    special: /special|bend|offset|branch|head|socket|tee|junction|elbow/i, drain: /drain|channel|gutter|cracks?|chimney/i,
+    special: /special|\bbends?\b|offset|branch|\bheads?\b|socket|\btees?\b|junction|elbow/i, drain: /drain|channel|gutter|cracks?|chimney/i,
     pipe: /pipe|down pipe|rain.?water/i
   }, 'pipe', function () {
     var s = S({ az: 30, el: 18 });
@@ -312,8 +454,8 @@
 
   // ======================= 11. SOIL / WASTE PIPE =======================
   def('soil_pipe', 'Soil and waste pipe stack with fittings', {
-    vent: /vent|cowl|anti.?syphon/i, gully: /gully|floor trap|nahani|grating|chamber/i, joint: /joints?|lead|caulk|spun yarn|rubber ring|solvent|collar|testing/i,
-    fitting: /bend|tee|branch|junction|y\b|socket|plug|reducer|offset|shoe|trap|clamp|holder|access|door|fitting|heel rest/i,
+    vent: /vent|cowl|anti.?syphon/i, gully: /gully|floor trap|nahani|grating|chamber/i, joint: /\bjoints?\b|lead caulk|caulk|spun yarn|rubber ring|solvent|collar|\btesting\b/i,
+    fitting: /\bbends?\b|\btees?\b|branch|junction|\by\b|\by-|socket|plug|reducer|offset|shoe|trap|clamp|holder|access|door|fitting|heel rest/i,
     pipe: /pipe|stack|soil|waste|swr|s\.?c\.?i|c\.?i\.?|pvc/i
   }, 'pipe', function () {
     var s = S({ az: 30, el: 18 });
@@ -338,7 +480,7 @@
   // ======================= 12. MOULDINGS / CORNICE =======================
   def('mouldings', 'Band moulding, cornice, drip course and sill on a facade', {
     cornice: /cornice/i, drip: /drip|throating|nosing/i, sill: /sill|chowkat|curb|kerb/i, coping: /coping/i,
-    groove: /groove|v.?groove|rustic/i, baluster: /baluster|balustrade|finial|ornament|plaque|number/i, band: /band|moulding|string course|projection/i
+    groove: /groove|v.?groove|rustic/i, baluster: /baluster|balustrade|finial|ornament|plaque|number/i, band: /band|moulding|string course/i
   }, 'band', function () {
     var s = S({ az: 28, el: 14 });
     s.pill = { band: 'Band moulding', cornice: 'Cornice', drip: 'Drip course / throating', sill: 'Sill / curb', coping: 'Coping', groove: 'V-groove', baluster: 'Balusters / ornament' };
@@ -381,7 +523,7 @@
 
   // ======================= 14. BRICK SOLING / PAVEMENT =======================
   def('brick_soling', 'Brick soling, edging and metalling of a path', {
-    edging: /edging|edge|brick on end|brick on edge.*edg/i, metal: /metal|metalling|khoa|moorum|wbm|surki|gravel|chips|jhama metal/i,
+    edging: /edging|brick on end|\bedge (wall|line|of (the )?(path|road|pavement))|kerb/i, metal: /metal|metalling|khoa|moorum|wbm|surki|gravel|chips|jhama metal/i,
     sand: /sand|bed/i, soling: /soling|soiling|flat brick|brick on edge|bricks?|paver|pavement|chequer|block/i
   }, 'soling', function () {
     var s = S({ az: 28, el: 26 });
@@ -400,7 +542,7 @@
   // ======================= 15. DUG WELL =======================
   def('dug_well', 'Dug well with steining, kerb, parapet and platform', {
     kerb: /kerb|curb|cutting edge/i, parapet: /parapet|coping/i, platform: /platform|apron|drain/i, cover: /cover|pulley|lid|net|grill/i,
-    silt: /silt|bail|dewater|cleaning|disinfect|bleach|moss/i, dig: /digging|excavat|sinking|earth/i, steining: /steining|ring|masonry|brick|well/i
+    silt: /silt|bail|dewater|cleaning|disinfect|bleach|moss/i, dig: /digging|excavat|sinking|earth/i, steining: /steining|\bring\b|masonry|brick/i
   }, 'steining', function () {
     var s = S({ az: 30, el: 22 });
     s.pill = { steining: 'Well steining', dig: 'Digging / sinking', kerb: 'Well kerb', parapet: 'Parapet', platform: 'Platform & drain', cover: 'Cover / pulley', silt: 'Silt clearance / bailing' };
@@ -421,22 +563,25 @@
 
   // ======================= 16. TEMPORARY WORKS / EVENTS =======================
   def('temporary', 'Temporary works: bamboo barricade, tent, rope fencing, toilets', {
-    tent: /tent|shamiana|pandal|canvas|tarpaulin|shed|stage|platform/i, toilet: /latrine|urinal|toilet/i, rope: /rope|coir/i,
+    tent: /tent|shamiana|pandal|canvas|tarpaulin|shed|stage|platform/i, toilet: /latrine|urinal|toilet/i, rope: /\bropes?\b|coir/i,
     furniture: /table|bench|chair|furniture|rack|lifting/i, railing: /railing|barricad|bamboo|fencing|post/i
   }, 'railing', function () {
-    var s = S({ az: 28, el: 20 });
+    var s = S({ az: 26, el: 24 });
     s.pill = { railing: 'Bamboo railing / barricade', tent: 'Tent / shamiana', rope: 'Rope fencing', toilet: 'Temporary toilet', furniture: 'Furniture / shifting' };
-    s.box(-40, -60, -4, 360, 200, 4, { c: '#c9c19c' });
-    s.group(function () { for (var x = 0; x <= 150; x += 30) s.cyl('z', [x, 0, 0], 3, 90, { c: '#b38b4d', k: 'railing' }, 10); [30, 60, 85].forEach(function (z) { s.cyl('x', [0, 0, z], 2.4, 150, { c: '#c8a85a', k: 'railing' }, 10); }); });
-    s.group(function () { for (var x2 = 180; x2 <= 300; x2 += 40) s.cyl('z', [x2, -20, 0], 2.5, 60, { c: '#b38b4d', k: 'rope' }, 10); });
-    s.line([[180, -20, 50], [220, -20, 46], [260, -20, 50], [300, -20, 46]], { c: '#9b7b3f', w: 2, k: 'rope' });
-    s.prism('x', [[40, 80], [90, 120], [140, 80]], 40, 200, { c: '#e9e4d6', k: 'tent' });
-    [[40, 40], [40, 140], [200, 40], [200, 140]].forEach(function (p) { s.cyl('z', [p[0], p[1], 0], 2, 80, { c: '#8a8f96', k: 'tent' }, 8); });
-    s.box(250, 70, 0, 40, 40, 80, { c: '#6b8f9e', k: 'toilet' });
-    s.box(100, 80, 0, 60, 30, 30, { c: '#a87445', k: 'furniture' });
-    s.lab('railing', [75, 0, 60], -40, -60, 'Bamboo railing', 'Hire and labour, per metre'); s.lab('rope', [240, -20, 48], 60, -40, 'Rope fencing', '');
-    s.lab('tent', [120, 100, 110], 20, -60, 'Tent / shamiana', ''); s.lab('toilet', [270, 70, 60], 60, -10, 'Temporary toilet', '');
-    s.lab('furniture', [130, 80, 30], -60, 40, 'Furniture', 'Benches, tables, shifting');
+    s.box(-30, -40, -3, 340, 220, 3, { c: '#c9c19c' });
+    // tent (back), toilet (back right), rope fencing (right), furniture inside the tent, bamboo railing along the front
+    [[20, 0], [20, 90], [150, 0], [150, 90]].forEach(function (p) { s.cyl('z', [p[0], p[1], 0], 2, 70, { c: '#8a8f96', k: 'tent' }, 8); });
+    s.group(function () { s.box(40, 30, 26, 70, 26, 3, { c: '#a87445', k: 'furniture' }); [[42, 32], [104, 32], [42, 52], [104, 52]].forEach(function (q) { s.box(q[0], q[1], 0, 4, 4, 26, { c: '#7d5432', k: 'furniture' }); }); s.box(120, 36, 0, 16, 16, 18, { c: '#a87445', k: 'furniture' }); });
+    s.prism('x', [[-6, 70], [45, 110], [96, 70]], 14, 156, { c: '#efe9da', k: 'tent' });
+    s.box(14, 90, 54, 142, 0.8, 16, { c: '#d9cfb6', k: 'tent' });
+    s.box(200, 0, 0, 40, 40, 80, { c: '#6b8f9e', k: 'toilet' }); s.box(200, 0, 80, 44, 44, 4, { c: '#557785', k: 'toilet' }); s.box(210, 40.2, 4, 20, 0.5, 60, { c: '#557785', k: 'toilet' });
+    s.group(function () { for (var x2 = 260; x2 <= 300; x2 += 40) for (var y2 = 0; y2 <= 120; y2 += 40) s.cyl('z', [x2, y2, 0], 2.4, 56, { c: '#b38b4d', k: 'rope' }, 10); });
+    s.line([[260, 0, 48], [260, 40, 44], [260, 80, 48], [260, 120, 44]], { c: '#9b7b3f', w: 2.2, k: 'rope' });
+    s.line([[300, 0, 48], [300, 40, 44], [300, 80, 48], [300, 120, 44]], { c: '#9b7b3f', w: 2.2, k: 'rope' });
+    s.group(function () { for (var x = -20; x <= 240; x += 26) s.cyl('z', [x, 160, 0], 3, 64, { c: '#b38b4d', k: 'railing' }, 10); [22, 42, 60].forEach(function (z) { s.cyl('x', [-24, 162, z], 2.4, 270, { c: '#c8a85a', k: 'railing' }, 10); }); });
+    s.lab('railing', [120, 162, 60], -20, 45, 'Bamboo railing', 'Hire and labour, per metre'); s.lab('rope', [300, 60, 46], 45, -30, 'Rope fencing', '');
+    s.lab('tent', [85, 90, 100], -20, -55, 'Tent / shamiana', ''); s.lab('toilet', [240, 20, 70], 40, -40, 'Temporary toilet', '');
+    s.lab('furniture', [128, 52, 18], 50, 10, 'Furniture', 'Benches, tables, shifting');
     return s;
   });
 
@@ -446,20 +591,27 @@
     shrub: /shrub|flower|seasonal|plant(s|ing)? (of|in)|pot|creeper|bushes/i, tree: /trees?|sapling|avenue|palm|tree pit|planting/i,
     lawn: /lawn|grass|turf|dooba|doob|mowing|ploughing|dragging|swagha/i
   }, 'lawn', function () {
-    var s = S({ az: 30, el: 26 });
+    var s = S({ az: 26, el: 28 });
     s.pill = { lawn: 'Lawn / grassing', tree: 'Trees & planting', guard: 'Tree guard', shrub: 'Shrubs / flowers', hedge: 'Hedge / edging', earth: 'Good earth / manure' };
-    s.box(-40, -40, -6, 320, 200, 6, { c: M.soil });
-    s.box(0, 0, 0, 180, 120, 2, { c: M.grass, k: 'lawn' });
-    s.cyl('z', [220, 30, 0], 4, 70, { c: '#7a5a3a', k: 'tree' }, 10); s.cyl('z', [220, 30, 60], 26, 40, { c: '#3f8a3a', k: 'tree' }, 14);
-    s.group(function () { for (var a = 0; a < 4; a++) { var gx = 220 + (a < 2 ? -10 : 10), gy = 30 + (a % 2 ? -10 : 10); s.box(gx - 1, gy - 1, 0, 2, 2, 45, { c: '#4b5560', k: 'guard' }); } s.box(208, 18, 40, 24, 24, 2, { c: '#4b5560', k: 'guard' }); });
-    [[40, 140], [70, 140], [100, 140]].forEach(function (q) { s.cyl('z', [q[0], q[1], 0], 9, 14, { c: '#5aa34a', k: 'shrub' }, 12); s.cyl('z', [q[0], q[1], 14], 4, 4, { c: '#e05a7a', k: 'shrub' }, 8); });
-    s.box(-20, 0, 0, 12, 120, 22, { c: '#2f7a37', k: 'hedge' });
-    s.group(function () { for (var y = 0; y < 120; y += 8) s.box(182, y, 0, 6, 7.6, 6, { c: M.brick2, k: 'hedge' }); });
-    var n = 8, b = [], t = []; for (var i = 0; i < n; i++) { var g = i / n * 6.283; b.push([230 + 22 * Math.cos(g), 120 + 22 * Math.sin(g), 0]); t.push([230 + 6 * Math.cos(g), 120 + 6 * Math.sin(g), 14]); }
-    var f = [b, t]; for (var j = 0; j < n; j++) { var q2 = (j + 1) % n; f.push([b[j], b[q2], t[q2], t[j]]); } s.solid(f, { c: '#5b3f26', k: 'earth' });
-    s.lab('lawn', [90, 60, 2], -20, -60, 'Lawn', 'Grassing, maintenance per sqm'); s.lab('tree', [220, 30, 90], 30, -60, 'Tree', 'Planting with pit and manure');
-    s.lab('guard', [210, 20, 30], -60, -10, 'Tree guard', ''); s.lab('shrub', [70, 140, 14], -10, 60, 'Shrubs / flowers', '');
-    s.lab('hedge', [-14, 60, 22], -50, -30, 'Hedge', ''); s.lab('earth', [230, 120, 12], 60, 30, 'Good earth / manure', 'Supplied and spread');
+    s.box(-40, -30, -6, 320, 210, 6, { c: M.soil });
+    s.box(0, 0, 0, 170, 120, 2, { c: M.grass, k: 'lawn' });
+    for (var m = 10; m < 170; m += 20) s.box(m, 0, 2, 9, 120, 0.2, { c: '#8cc35a', k: 'lawn' });
+    s.group(function () { for (var y = 0; y < 120; y += 8) s.box(172, y, 0, 6, 7.6, 6, { c: M.brick2, k: 'hedge' }); });
+    s.prism('y', [[-28, 0], [-6, 0], [-8, 22], [-17, 28], [-26, 22]], -10, 120, { c: '#2f7a37', k: 'hedge' }, true);
+    // tree with a guard, then a sapling in a pit
+    tree(s, 225, 30, 120, 'tree');
+    s.group(function () { [[-12, -12], [12, -12], [-12, 12], [12, 12]].forEach(function (q) { s.box(225 + q[0] - 1.2, 30 + q[1] - 1.2, 0, 2.4, 2.4, 46, { c: '#4b5560', k: 'guard' }); }); });
+    [16, 42].forEach(function (z) { s.box(212, 17, z, 26, 1.5, 2, { c: '#4b5560', k: 'guard' }); s.box(212, 41.5, z, 26, 1.5, 2, { c: '#4b5560', k: 'guard' }); s.box(212, 17, z, 1.5, 26, 2, { c: '#4b5560', k: 'guard' }); s.box(236.5, 17, z, 1.5, 26, 2, { c: '#4b5560', k: 'guard' }); });
+    s.cyl('z', [225, 100, -0.5], 12, 1, { c: '#5b3f26', k: 'tree' }, 16); tree(s, 225, 100, 44, 'tree', { tr: 1.6 });
+    // shrubs with flowers in front
+    [[30, 150], [70, 156], [110, 150]].forEach(function (q) {
+      frustum(s, 'z', q[0], q[1], 0, 12, 10, 13, { c: '#5aa34a', k: 'shrub' }, 14); frustum(s, 'z', q[0], q[1], 12, 20, 13, 5, { c: '#5aa34a', k: 'shrub' }, 14);
+      s.group(function () { [[-6, 0], [5, 4], [0, -6], [3, 7]].forEach(function (f) { s.cyl('z', [q[0] + f[0], q[1] + f[1], 17], 2.4, 3, { c: '#e05a7a', k: 'shrub' }, 8); }); });
+    });
+    heap(s, 225, 160, 22, 16, '#5b3f26', 'earth');
+    s.lab('lawn', [90, 60, 2], -20, -60, 'Lawn', 'Grassing, maintenance per sqm'); s.lab('tree', [225, 30, 100], 35, -40, 'Tree', 'Planting with pit and manure');
+    s.lab('guard', [236, 30, 30], 50, 10, 'Tree guard', ''); s.lab('shrub', [70, 156, 18], -10, 50, 'Shrubs / flowers', '');
+    s.lab('hedge', [-17, 60, 28], -40, -40, 'Hedge / edging', 'Hedge and brick edging'); s.lab('earth', [225, 160, 14], 50, 30, 'Good earth / manure', 'Supplied and spread');
     return s;
   });
 
@@ -505,20 +657,24 @@
 
   // ======================= 20. SITE CLEARANCE =======================
   def('site_clearance', 'Site clearance: trees, jungle, stumps and old structures', {
-    stump: /stump|root/i, jungle: /jungle|grubbing|grass|bushes|shrub|weeds?|hyacinth|clearing/i, structure: /dismantl|structures?|culvert|pipes?|masonry|brick|concrete|scraping/i,
-    tree: /trees?|girth|branches|felling|cutting of/i
+    stump: /stump|root/i, jungle: /jungle|grubbing|grass|bushes|shrub|weeds?|hyacinth|clearing|vegetation|surface dressing/i, structure: /dismantl|structures?|culvert|pipes?|masonry|brick|concrete|scraping/i,
+    tree: /trees?|branches|felling|cutting of/i
   }, 'tree', function () {
-    var s = S({ az: 28, el: 22 });
+    var s = S({ az: 26, el: 26 });
     s.pill = { tree: 'Tree cutting', stump: 'Stump removal', jungle: 'Clearing & grubbing', structure: 'Dismantling old structures' };
-    s.box(-40, -40, -4, 360, 180, 4, { c: '#b8a77c' });
-    s.box(0, 0, 0, 140, 140, 1, { c: '#7aa24a', k: 'jungle' });
-    s.group(function () { for (var i = 0; i < 14; i++) s.cyl('z', [10 + (i * 37) % 130, 10 + (i * 53) % 130, 1], 5 + (i % 3) * 2, 8 + (i % 4) * 4, { c: '#5b8f3b', k: 'jungle' }, 10); });
-    s.cyl('z', [190, 40, 0], 6, 90, { c: '#7a5a3a', k: 'tree' }, 12); s.cyl('z', [190, 40, 80], 30, 40, { c: '#3f8a3a', k: 'tree' }, 14);
-    s.cyl('x', [210, 80, 4], 5, 80, { c: '#7a5a3a', k: 'tree' }, 12);
-    s.cyl('z', [190, 110, 0], 7, 8, { c: '#8a6a45', k: 'stump' }, 12);
-    s.box(250, 20, 0, 50, 40, 30, { c: M.conc2, k: 'structure' }); s.cyl('x', [250, 40, 14], 10, 50, { c: '#2b2f35', k: 'structure', op: 0.6 });
-    s.lab('tree', [190, 40, 100], 0, -60, 'Tree cutting', 'By girth class, incl. removing branches'); s.lab('stump', [190, 110, 8], 60, 40, 'Stump & roots', '');
-    s.lab('jungle', [70, 70, 8], -60, -30, 'Clearing & grubbing', 'Light / thick jungle, per hectare'); s.lab('structure', [275, 20, 30], 50, -30, 'Old structures', 'Dismantled, materials stacked');
+    s.box(-30, -30, -4, 340, 200, 4, { c: '#b8a77c' });
+    s.box(0, 0, 0, 130, 130, 1, { c: '#7aa24a', k: 'jungle' });
+    s.group(function () { for (var i = 0; i < 12; i++) { var bx = 14 + (i * 37) % 110, by = 14 + (i * 53) % 110, r = 7 + (i % 3) * 3; frustum(s, 'z', bx, by, 1, 8 + (i % 4) * 3, r, r * 0.4, { c: (i % 2) ? '#5b8f3b' : '#4c7d32', k: 'jungle' }, 10); } });
+    // old structure: broken wall and a rubble heap
+    s.group(function () { for (var l = 0; l < 6; l++) for (var bi = 0; bi < 6 - (l > 2 ? l - 2 : 0); bi++) s.box(250 + bi * 13, 0, l * 6, 12.5, 12, 5.6, { c: (bi + l) % 2 ? M.brick : M.brick2, k: 'structure' }); });
+    heap(s, 270, 40, 20, 14, '#a99a86', 'structure');
+    // standing tree marked for felling, felled log, stump with roots
+    tree(s, 190, 30, 130, 'tree', { tr: 4.5 });
+    s.cyl('x', [160, 110, 6], 6, 90, { c: '#7a5232', k: 'tree' }, 14); frustum(s, 'x', 110, 14, 248, 266, 8, 22, { c: '#4f8a3c', k: 'tree' }, 12); frustum(s, 'x', 110, 14, 266, 292, 22, 4, { c: '#4f8a3c', k: 'tree' }, 12);
+    s.cyl('z', [190, 150, 0], 8, 9, { c: '#8a6a45', k: 'stump' }, 14); s.cyl('z', [190, 150, 9], 8.3, 0.5, { c: '#d9b88a', k: 'stump' }, 14);
+    [0, 1.3, 2.6, 3.9, 5.2].forEach(function (a) { s.hexa([[190 + 6 * Math.cos(a) - 1.5, 150 + 6 * Math.sin(a) - 1.5, 0], [190 + 16 * Math.cos(a), 150 + 16 * Math.sin(a) - 1.5, 0], [190 + 16 * Math.cos(a), 150 + 16 * Math.sin(a) + 1.5, 0], [190 + 6 * Math.cos(a) - 1.5, 150 + 6 * Math.sin(a) + 1.5, 0], [190 + 6 * Math.cos(a) - 1.5, 150 + 6 * Math.sin(a) - 1.5, 4], [190 + 16 * Math.cos(a), 150 + 16 * Math.sin(a) - 1.5, 1.2], [190 + 16 * Math.cos(a), 150 + 16 * Math.sin(a) + 1.5, 1.2], [190 + 6 * Math.cos(a) - 1.5, 150 + 6 * Math.sin(a) + 1.5, 4]], { c: '#7a5a3a', k: 'stump' }); });
+    s.lab('tree', [190, 30, 100], 0, -55, 'Tree cutting', 'By girth class, incl. removing branches'); s.lab('stump', [190, 150, 9], 50, 35, 'Stump & roots', '');
+    s.lab('jungle', [65, 65, 10], -50, -40, 'Clearing & grubbing', 'Light / thick jungle, per hectare'); s.lab('structure', [280, 6, 30], 45, -35, 'Old structures', 'Dismantled, materials stacked');
     return s;
   });
 
@@ -554,9 +710,9 @@
     s.pill = { panel: 'Facing panels', grid: 'Geogrid / strips', fill: 'Select fill', geotextile: 'Geotextile / drain' };
     s.box(-40, -60, -4, 300, 200, 4, { c: '#c9b98f' });
     s.box(0, -4, 0, 200, 4, 120, { c: '#e5e0d3', k: 'geotextile' }); s.cyl('x', [0, -10, 6], 6, 200, { c: '#8aa4b8', k: 'geotextile' });
-    s.box(0, 0, 0, 200, 140, 120, { c: M.sand, k: 'fill', op: 0.45 });
+    [20, 50, 80, 110].forEach(function (z) { s.box(0, 20, z, 200, 120, 1.2, { c: '#3b6e4a', k: 'grid' }); });
+    s.box(0, 0, 0, 200, 140, 120, { c: M.sand, k: 'fill', op: 0.5 });
     s.group(function () { for (var x = 0; x < 200; x += 40) for (var z = 0; z < 120; z += 30) s.box(x + 0.5, 140, z + 0.5, 39, 8, 29, { c: (x / 40 + z / 30) % 2 ? '#c9c3b5' : '#bdb6a7', k: 'panel' }); });
-    [20, 50, 80, 110].forEach(function (z) { s.box(0, 20, z, 200, 120, 1.2, { c: '#3b6e4a', k: 'grid', op: 0.8 }); });
     for (var jx = 40; jx < 200; jx += 40) s.line([[jx, 148.2, 0], [jx, 148.2, 120]], { c: '#7d776b', w: 1.2, k: 'panel' });
     for (var jz = 30; jz < 120; jz += 30) s.line([[0, 148.2, jz], [200, 148.2, jz]], { c: '#7d776b', w: 1.2, k: 'panel' });
     s.box(-10, -20, 120, 220, 170, 4, { c: M.bitumen, k: 'road' });
@@ -567,7 +723,7 @@
 
   // ======================= 23. BRIDGE (general) =======================
   def('bridge', 'RCC bridge: deck, girders, pier, abutment and fittings', {
-    joint: /expansion joint|strip seal|filler joint|asphaltic plug|slab seal|modular joint/i, wearing: /wearing coat|mastic|asphalt|wearing/i,
+    joint: /expansion joint|strip seal|filler joint|asphaltic plug|slab seal|modular joint|seal joint|modular strip/i, wearing: /wearing coat|mastic|asphalt|wearing/i,
     railing: /railing|crash barrier|parapet|kerb|footpath/i, approach: /approach slab|approach/i, spout: /spout|drainage spout|weep/i,
     prestress: /prestress|strand|cable|sheathing|anchorage|post.?tension/i, girder: /girder|beam|t.?beam|box/i,
     pier: /pier|cap|column|trestle/i, abutment: /abutment|return wall|wing|dirt wall/i, deck: /deck|slab|superstructure|r\.?c\.?c|concrete|reinforcement|steel|formwork|staging/i
@@ -638,7 +794,7 @@
   // ======================= 26. WATER MAIN (distribution) =======================
   def('water_main', 'Water main: pipe in trench, joints, valves, hydrant and connection', {
     hydrant: /hydrant|fire/i, air: /air valve|air release/i, ferrule: /ferrule|connection|service/i, meter: /\bmeters?\b(?! (dia|long|length|depth|height|wide))|water meter/i,
-    valve: /sluice|valve|butterfly|reflux|non.?return|surface box|chamber/i, joint: /joint|flange|collar|socket|gasket|detachable|dresser|tyton|rubber ring|testing|specials?/i,
+    valve: /sluice|valve|butterfly|reflux|non.?return|surface box|chamber/i, joint: /\bjoints?\b|flange|collar|gasket|detachable|dresser|tyton|rubber ring|\bspecials?\b/i,
     pipe: /pipe|main|c\.?i\.?|d\.?i\.?|h\.?d\.?p\.?e|m\.?s\.?|pe.?al.?pe|composite|u\.?p\.?v\.?c|polyethylene/i
   }, 'pipe', function () {
     var s = S({ az: 28, el: 24 });
