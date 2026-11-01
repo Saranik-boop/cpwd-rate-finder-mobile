@@ -6,6 +6,10 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 
 const OUT = 'docs/app';
+// Older iPhone Safari (before 16.4) cannot parse regex lookbehind — one in any file stops that file loading.
+for (const f of fs.readdirSync('www').filter((f) => f.endsWith('.js'))) {
+  if (/\(\?<[=!]/.test(fs.readFileSync(path.join('www', f), 'utf8'))) { console.error('Regex lookbehind found in www/' + f + ' — older iPhones cannot load it.'); process.exit(1); }
+}
 fs.rmSync(OUT, { recursive: true, force: true });
 fs.mkdirSync(OUT, { recursive: true });
 

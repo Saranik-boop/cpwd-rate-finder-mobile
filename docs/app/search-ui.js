@@ -266,7 +266,7 @@ window.startSearch = function (items, meta, expl) {
     if (e.s && e.s.length) h += '<h4>Site notes</h4><ul>' + e.s.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul>';
     if (e.v) h += '<h4>Sub-items</h4><p>' + esc(e.v) + '</p>';
     var did = e.d || '', ftext = it.description;
-    if (window.DiagramMap) { did = window.DiagramMap.pick(it, it.gx != null ? expl[it.gx] : null).d; ftext = window.DiagramMap.focusText(it.description); }
+    if (window.DiagramMap) { did = window.DiagramMap.pick(it, it.gx != null ? expl[it.gx] : null).d; ftext = window.DiagramMap.focusText(it.description, it); }
     var fig = did && window.DiagramView ? window.DiagramView.figure(did, ftext) : '';
     if (fig) h += '<h4>Drawing</h4>' + fig;
     return h + '</div>';

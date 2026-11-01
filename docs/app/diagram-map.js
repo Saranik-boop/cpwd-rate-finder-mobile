@@ -252,5 +252,10 @@
     for (i = 0; i < CAT.length; i++) if (CAT[i][0].test(cat) && has(CAT[i][1])) return { d: CAT[i][1], via: 'chapter' };
     return { d: SCHED[it.schedule] || 'materials', via: 'schedule' };
   }
-  window.DiagramMap = { pick: pick, focusText: function (desc) { return String(desc || '').replace(FLOORLVL, ' '); } };
+  window.DiagramMap = { pick: pick, focusText: function (desc, it) {
+    var t = String(desc || '').replace(FLOORLVL, ' ');
+    // bridge sub-structure items often say only "concrete in : grade : height": point them at the pier
+    if (it && /\bsub-?\s?structure\b/i.test(it.category || '') && !/\b(piers?|abutments?|wing|return wall|dirt wall|bearings?|footings?|foundations?|wells?|piles?|backfill|back filling|filter|weep|spouts?|plaster|masonry|brick)\b/i.test(t.split(/\s[—–]\s/)[0])) t = t.replace(/(\s[—–]\s|$)/, ' : sub-structure$1');
+    return t;
+  } };
 })();

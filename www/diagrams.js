@@ -331,8 +331,8 @@
   });
 
   def('roof_waterproofing', 'Roof waterproofing build-up', {
-    khurra: /khurra|spout|rain ?water|down ?pipe/i, tile: /tile|terracotta|china/i, membrane: /membrane|app|bitumen|felt|sheet|polymer|coating/i,
-    coba: /brick ?bat|coba|lime|grading|screed|slope|water ?proof|phaska/i, slab: /slab|concrete/i
+    khurra: /khurra|spout|rain ?water|down ?pipe/i, tile: /tile|terracotta|china/i, membrane: /membrane|\bapp\b|a\.p\.p|bitum|felt|polyure|spray|cement slurry|latex|coats of slurry|sheet|polymer|coating/i,
+    coba: /brick ?bat|coba|lime|grading|screed|\b(to|in) slope|slope of|water ?proof|phaska/i, slab: /^(?!.*layer of .{0,70}stone slab).*(?:slab|concrete)/i
   }, 'membrane', function () {
     var s = S({ az: 34, el: 28 });
     s.box(0, 0, 0, 140, 100, 12, { c: M.concrete, k: 'slab' });

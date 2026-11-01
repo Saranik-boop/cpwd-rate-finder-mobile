@@ -77,7 +77,7 @@
     sanitary: /closet|wash ?basin|\bsinks?\b|urinal|cistern|\btaps?\b|bib ?cock|pillar cock|shower|\bmirror\b(?! polish)|commode|squatting|\bw\.?c\.?\b|\bewc\b|\bjet\b|rubber plug|toilet|\bseat\b|towel|soap|brass waste|waste (coupling|fitting)|bottle trap|\bmixer\b(?!.*(concrete|mortar|drum))/i,
     hardware: /\bbolts?\b(?! ?less)|\bnuts?\b|\bscrews?\b|\bnails?\b|hinges?|\bhooks?\b|clamps?|rivets?|fasten(er|ers)|fastner|washers?|handles?|\blocks?\b|\bstays?\b|\bcatch|\bpins?\b(?! ?headed)|gaskets?|\bclips?\b|staples?|aldrop|tower bolt|latch|hasps?|stoppers?|door closer|\bknobs?\b|\bpivots?\b|kicking plate|curtain rods?|\bbrackets?\b|cramps?|turn ?buckles?/i,
     glass: /^(?!.*(fib(re|er) ?glass|glass (reinforced|fib(re|er)|wool|tissue|cloth)|reinforced (plastic|gypsum))).*(\bglass\b|glazing)/i,
-    pipe: /^(?!.*(ceiling|door reducer|trap stone|\bsandpaper)).*(?:\bpipes?\b|\btubes?\b|hume|hubless|\bspouts?\b|\bsockets?\b|\bbends?\b|\btees?\b|elbow|\bfittings?\b|valve|\btraps?\b|manhole cover|junction|coupling|reducer|adapter|adaptor|connector|nipple|\bunion\b|flange|ferrule|\bcock\b|branch|collars?|door pieces?|couplers?|cowl|terminal guard|strainer|specials|gully|grating|surface box|\bshoes?\b)/i,
+    pipe: /^(?!.*(ceiling|door reducer|trap stone|\bsandpaper)).*(?:\bpipes?\b|\btubes?\b|hume|hubless|jam ?nut|\bspouts?\b|\bsockets?\b|\bbends?\b|\btees?\b|elbow|\bfittings?\b|valve|\btraps?\b|manhole cover|junction|coupling|reducer|adapter|adaptor|connector|nipple|\bunion\b|flange|ferrule|\bcock\b|branch|collars?|door pieces?|couplers?|cowl|terminal guard|strainer|specials|gully|grating|surface box|\bshoes?\b)/i,
     bitumen: /bitumen|a\.?p\.?p\.? modified|polymeric felt|asphalt|\btar\b|crmb|coaltar|coal tar|cationic/i,
     paint: /^(?!.*(resistant|ceiling) tiles?)(?!.*(glass ?wool|rock ?wool|plastic sheet)).*(?:\bpaints?\b|primer|enamel|distemper|varnish|french polish|wax polish|putty|thinner|chemical|adhesive|admixture|\bcompound\b|sealant|solution|resin|epoxy|\boil\b|\bacid\b|emulsion|acrylic|white ?wash|\blime wash|colour wash|pigment|shellac|spirit|whiting)/i,
     tile: /\btiles?\b(?! class)|stone slab|\bslabs?\b|marble(?! (dust|chips|powder))|granite|\bkota\b|sand ?stone|shahabad|mirzapur/i,
@@ -731,7 +731,7 @@
     joint: /expansion joint|strip seal|filler joint|asphaltic plug|slab seal|modular joint|seal joint|modular strip/i, wearing: /wearing coat|mastic|asphalt|wearing/i,
     railing: /railing|crash barrier|parapet|kerb|footpath/i, approach: /approach slab|approach/i, spout: /spout|drainage spout|weep/i,
     prestress: /prestress|strand|cable|sheathing|anchorage|post.?tension/i, girder: /girder|beam|t.?beam|box/i,
-    pier: /pier|\bcap\b|column|trestle|sub-?\s?structure/i, abutment: /abutment|return wall|wing|dirt wall/i, deck: /deck|slab|superstructure|r\.?c\.?c|concrete|reinforcement|steel|formwork|staging/i
+    pier: /pier|\bcap\b|column|trestle|sub-?\s?structure/i, abutment: /abutment|return wall|wing|dirt wall/i, deck: /^(?!\s*using\b|.*(concrete|transit) mixer|.*batching plant).*(?:deck|slab|superstructure|r\.?c\.?c|concrete|reinforcement|steel|formwork|staging)/i
   }, 'deck', function () {
     var s = S({ az: 30, el: 18 });
     s.pill = { deck: 'Deck slab', girder: 'Girders', pier: 'Pier & pier cap', abutment: 'Abutment / wing walls', wearing: 'Wearing coat', joint: 'Expansion joint', railing: 'Railing / crash barrier', approach: 'Approach slab', spout: 'Drainage spout', prestress: 'Prestressing cables' };
