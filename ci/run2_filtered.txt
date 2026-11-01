@@ -1,0 +1,200 @@
+11-01 18:12:32.537  4346  4375 D Capacitor: Handling local request: https://localhost/doubt.css
+11-01 18:12:32.537  4346  4375 D Capacitor: Handling local request: https://localhost/capacitor.js
+11-01 18:12:32.578  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 WebView set successfully for logging
+11-01 18:12:32.580  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 appId: com.saranik.cpwdratefinder.mobile
+11-01 18:12:32.581  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 init for device 5a8b4d89-8dfd-4bbb-85b4-9f4e3887b1a8
+11-01 18:12:32.581  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 version native 3.1.0
+11-01 18:12:32.581  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 All delays canceled from checkCancelDelay
+11-01 18:12:32.581  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 AppLifecycleObserver registered with ProcessLifecycleOwner
+11-01 18:12:32.581  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Using ProcessLifecycleOwner for foreground/background detection (Android 14+)
+11-01 18:12:32.581  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 semaphoreUp
+11-01 18:12:32.581  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Cleanup complete
+11-01 18:12:32.581  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 handleOnStart: onActivityStarted com.saranik.cpwdratefinder.mobile.MainActivity
+11-01 18:12:32.582  4346  4346 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+11-01 18:12:32.587  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 ProcessLifecycleOwner: App moved to foreground
+11-01 18:12:32.587  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 All delays canceled from checkCancelDelay
+11-01 18:12:32.591  4346  4346 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 111677523, pluginId: CapacitorUpdater, methodName: reportWebViewError
+11-01 18:12:32.591  4346  4346 V Capacitor: callback: 111677523, pluginId: CapacitorUpdater, methodName: reportWebViewError, methodData: {"type":"webview_unclean_restart","message":"WebView restarted without a clean page unload","previous_session_id":"1793556741493-dzpwik95fq","previous_href":"https:\/\/localhost\/","previous_started_at":"1793556741493","previous_updated_at":"1793556741493","href":"https:\/\/localhost\/","user_agent":"Mozilla\/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build\/AE3A.240806.043; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/124.0.6367.219 Mobile Safari\/537.36","session_id":"1793556752488-tld0baqi83q"}
+11-01 18:12:32.592  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Background timestamp unset
+11-01 18:12:32.592  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Auto update is disabled
+11-01 18:12:32.593  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 sendReadyToJs: disabled
+11-01 18:12:32.593  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Wait for 15000ms, then check for notifyAppReady
+11-01 18:12:32.602  4346  4374 D Capacitor: Handling local request: https://localhost/
+11-01 18:12:32.603  4379  4397 I chromium: [INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+11-01 18:12:32.604  4379  4397 I chromium: [INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+11-01 18:12:32.604  4379  4397 I chromium: [INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+11-01 18:12:32.748  4346  4346 I Capacitor/Console: File:  - Line 333 - Msg: undefined
+11-01 18:12:32.755  4379  4397 I chromium: [INFO:viewport_data.cc(133)] E2E_Used ViewportFitCover
+11-01 18:12:32.755  4346  4374 D Capacitor: Handling local request: https://localhost/app.css
+11-01 18:12:32.756  4346  4376 D Capacitor: Handling local request: https://localhost/gate.css
+11-01 18:12:32.756  4346  4376 D Capacitor: Handling local request: https://localhost/doubt.css
+11-01 18:12:32.757  4346  4374 D Capacitor: Handling local request: https://localhost/capacitor.js
+11-01 18:12:32.759  4379  4397 I chromium: [INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+11-01 18:12:32.760  4379  4397 I chromium: [INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+11-01 18:12:32.760  4379  4397 I chromium: [INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+11-01 18:12:32.764  4346  4374 D Capacitor: Handling local request: https://localhost/config.js
+11-01 18:12:32.771  4346  4374 D Capacitor: Handling local request: https://localhost/version.js
+11-01 18:12:32.773  4346  4374 D Capacitor: Handling local request: https://localhost/updater.js
+11-01 18:12:32.777  4346  4375 D Capacitor: Handling local request: https://localhost/schedules.js
+11-01 18:12:32.782  4379  4397 I chromium: [INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+11-01 18:12:32.782  4379  4397 I chromium: [INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+11-01 18:12:32.782  4379  4397 I chromium: [INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+11-01 18:12:32.785  4346  4374 D Capacitor: Handling local request: https://localhost/fuse.js
+11-01 18:12:33.943  4346  4346 I Capacitor/Console: File: https://localhost/updater.js - Line 122 - Msg: WEBVER 2026110101
+11-01 18:12:33.944  4346  4346 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+11-01 18:12:33.944  4346  4346 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+11-01 18:12:33.954  4346  4346 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 73859458, pluginId: CapacitorUpdater, methodName: notifyAppReady
+11-01 18:12:33.954  4346  4346 V Capacitor: callback: 73859458, pluginId: CapacitorUpdater, methodName: notifyAppReady, methodData: {}
+11-01 18:12:33.954  4346  4346 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 73859459, pluginId: CapacitorUpdater, methodName: list
+11-01 18:12:33.954  4346  4346 V Capacitor: callback: 73859459, pluginId: CapacitorUpdater, methodName: list, methodData: {}
+11-01 18:12:33.954  4346  4405 I CapgoUpdater: 🟢 Version successfully loaded: 2026110101
+11-01 18:12:33.954  4346  4405 I CapgoUpdater: 🟢 Current bundle loaded successfully. ['notifyAppReady()' was called] {"id":"pR9NaPMDYj","version":"2026110101","downloaded":"2026-11-01T18:11:32.745+0000","checksum":"d638753e8f46c791fb68838c5222d09013d77b428a18c3aa1d2dd4a71993d32e","status":"success"}
+11-01 18:12:33.954  4346  4405 I CapgoUpdater: 🟢 semaphoreReady countDown
+11-01 18:12:33.955  4346  4405 I CapgoUpdater: 🟢 semaphoreDown
+11-01 18:12:33.955  4346  4405 I CapgoUpdater: 🟢 semaphoreDown count 0
+11-01 18:12:33.955  4346  4405 I CapgoUpdater: 🟢 semaphoreReady countDown done
+11-01 18:12:33.955  4346  4416 I CapgoUpdater: 🟢 semaphoreReady count 1
+11-01 18:12:33.955  4346  4416 V Capacitor/CapacitorUpdaterPlugin: Notifying listeners for event appReady
+11-01 18:12:33.955  4346  4416 D Capacitor/CapacitorUpdaterPlugin: No listeners found for event appReady
+11-01 18:12:33.958  4346  4346 I Capacitor/Console: File:  - Line 333 - Msg: {"bundle":{"checksum":"d638753e8f46c791fb68838c5222d09013d77b428a18c3aa1d2dd4a71993d32e","id":"pR9NaPMDYj","version":"2026110101","downloaded":"2026-11-01T18:11:32.745+0000","status":"success"}}
+11-01 18:12:33.958  4346  4346 I Capacitor/Console: File:  - Line 333 - Msg: {"bundles":[{"checksum":"d638753e8f46c791fb68838c5222d09013d77b428a18c3aa1d2dd4a71993d32e","id":"pR9NaPMDYj","version":"2026110101","downloaded":"2026-11-01T18:11:32.745+0000","status":"success"}]}
+11-01 18:12:33.958  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Version successfully loaded: 2026110101
+11-01 18:12:33.958  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 Current bundle loaded successfully. ['notifyAppReady()' was called] {"id":"pR9NaPMDYj","version":"2026110101","downloaded":"2026-11-01T18:11:32.745+0000","checksum":"d638753e8f46c791fb68838c5222d09013d77b428a18c3aa1d2dd4a71993d32e","status":"success"}
+11-01 18:12:33.958  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 semaphoreReady countDown
+11-01 18:12:33.958  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 semaphoreDown
+11-01 18:12:33.958  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 semaphoreDown count 0
+11-01 18:12:33.958  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 semaphoreReady countDown done
+11-01 18:12:33.958  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 semaphoreReady count 1
+11-01 18:12:33.958  4346  4376 D Capacitor: Handling local request: https://localhost/diagram-kit.js
+11-01 18:12:33.965  4346  4375 D Capacitor: Handling local request: https://localhost/diagrams.js
+11-01 18:12:33.975  4346  4374 D Capacitor: Handling local request: https://localhost/diagrams2.js
+11-01 18:12:33.981  4346  4374 D Capacitor: Handling local request: https://localhost/diagrams3.js
+11-01 18:12:33.986  4346  4374 D Capacitor: Handling local request: https://localhost/diagram-map.js
+11-01 18:12:33.990  4346  4374 D Capacitor: Handling local request: https://localhost/diagram-view.js
+11-01 18:12:33.991  4346  4374 D Capacitor: Handling local request: https://localhost/usage.js
+11-01 18:12:33.993  4346  4374 D Capacitor: Handling local request: https://localhost/doubt-notes.js
+11-01 18:12:33.995  4346  4374 D Capacitor: Handling local request: https://localhost/doubt-engine.js
+11-01 18:12:34.005  4346  4374 D Capacitor: Handling local request: https://localhost/doubt-brain.js
+11-01 18:12:34.008  4346  4374 D Capacitor: Handling local request: https://localhost/doubt-ui.js
+11-01 18:12:34.010  4346  4374 D Capacitor: Handling local request: https://localhost/rules-data.js
+11-01 18:12:34.022  4346  4374 D Capacitor: Handling local request: https://localhost/rules-amend.js
+11-01 18:12:34.023  4346  4374 D Capacitor: Handling local request: https://localhost/rules-topics.js
+11-01 18:12:34.026  4346  4374 D Capacitor: Handling local request: https://localhost/rules-ui.js
+11-01 18:12:34.028  4346  4375 D Capacitor: Handling local request: https://localhost/search-ui.js
+11-01 18:12:34.031  4346  4374 D Capacitor: Handling local request: https://localhost/gate.js
+11-01 18:12:34.035  4346  4346 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+11-01 18:12:34.036  4346  4346 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 73859460, pluginId: SecureStoragePlugin, methodName: get
+11-01 18:12:34.036  4346  4346 V Capacitor: callback: 73859460, pluginId: SecureStoragePlugin, methodName: get, methodData: {"key":"owner_session"}
+11-01 18:12:34.036  4346  4346 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+11-01 18:12:34.037  4346  4346 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 73859461, pluginId: CapacitorUpdater, methodName: reportWebViewError
+11-01 18:12:34.037  4346  4346 V Capacitor: callback: 73859461, pluginId: CapacitorUpdater, methodName: reportWebViewError, methodData: {"type":"webview_dom_content_loaded","message":"WebView DOM content loaded","duration_ms":"1282","page_started_at":"1793556752754","href":"https:\/\/localhost\/","user_agent":"Mozilla\/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build\/AE3A.240806.043; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/124.0.6367.219 Mobile Safari\/537.36","session_id":"1793556752754-gxjpr00e1qd"}
+11-01 18:12:34.039  4346  4405 E Capacitor/Plugin: Item with given key does not exist
+11-01 18:12:34.039  4346  4405 E Capacitor/Plugin: java.lang.Exception: Item with given key does not exist
+11-01 18:12:34.039  4346  4405 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin._get(SecureStoragePluginPlugin.java:112)
+11-01 18:12:34.039  4346  4405 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin.get(SecureStoragePluginPlugin.java:48)
+11-01 18:12:34.039  4346  4405 E Capacitor/Plugin: 	at java.lang.reflect.Method.invoke(Native Method)
+11-01 18:12:34.039  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.PluginHandle.invoke(PluginHandle.java:138)
+11-01 18:12:34.039  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.lambda$callPluginMethod$0(Bridge.java:847)
+11-01 18:12:34.039  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.$r8$lambda$FNYM7cvgeBk0k8YXQH7M96Mrf-c(Unknown Source:0)
+11-01 18:12:34.039  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.Bridge$$ExternalSyntheticLambda0.run(D8$$SyntheticClass:0)
+11-01 18:12:34.039  4346  4405 E Capacitor/Plugin: 	at android.os.Handler.handleCallback(Handler.java:959)
+11-01 18:12:34.039  4346  4405 E Capacitor/Plugin: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+11-01 18:12:34.039  4346  4405 E Capacitor/Plugin: 	at android.os.Looper.loopOnce(Looper.java:232)
+11-01 18:12:34.039  4346  4405 E Capacitor/Plugin: 	at android.os.Looper.loop(Looper.java:317)
+11-01 18:12:34.039  4346  4405 E Capacitor/Plugin: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+11-01 18:12:34.039  4346  4405 D Capacitor: Sending plugin error: {"save":false,"callbackId":"73859460","pluginId":"SecureStoragePlugin","methodName":"get","success":false,"error":{"message":"Item with given key does not exist"}}
+11-01 18:12:34.042  4346  4346 E Capacitor/Console: File:  - Line 330 - Msg: [object Object]
+11-01 18:12:34.042  4346  4346 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+11-01 18:12:34.043  4346  4346 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 73859462, pluginId: SecureStoragePlugin, methodName: get
+11-01 18:12:34.043  4346  4346 V Capacitor: callback: 73859462, pluginId: SecureStoragePlugin, methodName: get, methodData: {"key":"dev_id"}
+11-01 18:12:34.043  4346  4346 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+11-01 18:12:34.043  4346  4346 I Capacitor/Console: File:  - Line 333 - Msg: undefined
+11-01 18:12:34.043  4346  4375 D Capacitor: Handling local request: https://localhost/favicon.ico
+11-01 18:12:34.044  4346  4346 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 73859463, pluginId: SecureStoragePlugin, methodName: get
+11-01 18:12:34.044  4346  4346 V Capacitor: callback: 73859463, pluginId: SecureStoragePlugin, methodName: get, methodData: {"key":"dev_secret"}
+11-01 18:12:34.050  4346  4346 I Capacitor/Console: File:  - Line 333 - Msg: {"value":"e5f62217-48e2-4862-ad4f-eaee7128e86f"}
+11-01 18:12:34.056  4346  4346 I Capacitor/Console: File:  - Line 333 - Msg: {"value":"yzYoSgn8tNdyYNcr4Cq5BFL8RJO-qlj8NYwj8RJU2ng"}
+11-01 18:12:34.056  4346  4346 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+11-01 18:12:34.056  4346  4346 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+11-01 18:12:34.056  4346  4346 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+11-01 18:12:34.056  4346  4346 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+11-01 18:12:34.056  4346  4346 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 73859464, pluginId: SecureStoragePlugin, methodName: get
+11-01 18:12:34.056  4346  4346 V Capacitor: callback: 73859464, pluginId: SecureStoragePlugin, methodName: get, methodData: {"key":"token"}
+11-01 18:12:34.056  4346  4346 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 73859465, pluginId: SecureStoragePlugin, methodName: get
+11-01 18:12:34.057  4346  4346 V Capacitor: callback: 73859465, pluginId: SecureStoragePlugin, methodName: get, methodData: {"key":"status"}
+11-01 18:12:34.057  4346  4346 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 73859466, pluginId: SecureStoragePlugin, methodName: get
+11-01 18:12:34.057  4346  4346 V Capacitor: callback: 73859466, pluginId: SecureStoragePlugin, methodName: get, methodData: {"key":"data_key"}
+11-01 18:12:34.057  4346  4346 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 73859467, pluginId: SecureStoragePlugin, methodName: get
+11-01 18:12:34.057  4346  4346 V Capacitor: callback: 73859467, pluginId: SecureStoragePlugin, methodName: get, methodData: {"key":"last_ok"}
+11-01 18:12:34.057  4346  4405 E Capacitor/Plugin: Item with given key does not exist
+11-01 18:12:34.057  4346  4405 E Capacitor/Plugin: java.lang.Exception: Item with given key does not exist
+11-01 18:12:34.057  4346  4405 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin._get(SecureStoragePluginPlugin.java:112)
+11-01 18:12:34.057  4346  4405 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin.get(SecureStoragePluginPlugin.java:48)
+11-01 18:12:34.057  4346  4405 E Capacitor/Plugin: 	at java.lang.reflect.Method.invoke(Native Method)
+11-01 18:12:34.057  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.PluginHandle.invoke(PluginHandle.java:138)
+11-01 18:12:34.057  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.lambda$callPluginMethod$0(Bridge.java:847)
+11-01 18:12:34.057  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.$r8$lambda$FNYM7cvgeBk0k8YXQH7M96Mrf-c(Unknown Source:0)
+11-01 18:12:34.057  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.Bridge$$ExternalSyntheticLambda0.run(D8$$SyntheticClass:0)
+11-01 18:12:34.057  4346  4405 E Capacitor/Plugin: 	at android.os.Handler.handleCallback(Handler.java:959)
+11-01 18:12:34.057  4346  4405 E Capacitor/Plugin: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+11-01 18:12:34.057  4346  4405 E Capacitor/Plugin: 	at android.os.Looper.loopOnce(Looper.java:232)
+11-01 18:12:34.057  4346  4405 E Capacitor/Plugin: 	at android.os.Looper.loop(Looper.java:317)
+11-01 18:12:34.057  4346  4405 E Capacitor/Plugin: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+11-01 18:12:34.057  4346  4405 D Capacitor: Sending plugin error: {"save":false,"callbackId":"73859464","pluginId":"SecureStoragePlugin","methodName":"get","success":false,"error":{"message":"Item with given key does not exist"}}
+11-01 18:12:34.059  4346  4405 E Capacitor/Plugin: Item with given key does not exist
+11-01 18:12:34.059  4346  4405 E Capacitor/Plugin: java.lang.Exception: Item with given key does not exist
+11-01 18:12:34.059  4346  4405 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin._get(SecureStoragePluginPlugin.java:112)
+11-01 18:12:34.059  4346  4405 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin.get(SecureStoragePluginPlugin.java:48)
+11-01 18:12:34.059  4346  4405 E Capacitor/Plugin: 	at java.lang.reflect.Method.invoke(Native Method)
+11-01 18:12:34.059  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.PluginHandle.invoke(PluginHandle.java:138)
+11-01 18:12:34.059  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.lambda$callPluginMethod$0(Bridge.java:847)
+11-01 18:12:34.059  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.$r8$lambda$FNYM7cvgeBk0k8YXQH7M96Mrf-c(Unknown Source:0)
+11-01 18:12:34.059  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.Bridge$$ExternalSyntheticLambda0.run(D8$$SyntheticClass:0)
+11-01 18:12:34.059  4346  4405 E Capacitor/Plugin: 	at android.os.Handler.handleCallback(Handler.java:959)
+11-01 18:12:34.059  4346  4405 E Capacitor/Plugin: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+11-01 18:12:34.059  4346  4405 E Capacitor/Plugin: 	at android.os.Looper.loopOnce(Looper.java:232)
+11-01 18:12:34.059  4346  4405 E Capacitor/Plugin: 	at android.os.Looper.loop(Looper.java:317)
+11-01 18:12:34.059  4346  4405 E Capacitor/Plugin: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+11-01 18:12:34.059  4346  4346 E Capacitor/Console: File:  - Line 330 - Msg: [object Object]
+11-01 18:12:34.059  4346  4405 D Capacitor: Sending plugin error: {"save":false,"callbackId":"73859465","pluginId":"SecureStoragePlugin","methodName":"get","success":false,"error":{"message":"Item with given key does not exist"}}
+11-01 18:12:34.060  4346  4346 E Capacitor/Console: File:  - Line 330 - Msg: [object Object]
+11-01 18:12:34.060  4346  4405 E Capacitor/Plugin: Item with given key does not exist
+11-01 18:12:34.060  4346  4405 E Capacitor/Plugin: java.lang.Exception: Item with given key does not exist
+11-01 18:12:34.060  4346  4405 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin._get(SecureStoragePluginPlugin.java:112)
+11-01 18:12:34.060  4346  4405 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin.get(SecureStoragePluginPlugin.java:48)
+11-01 18:12:34.060  4346  4405 E Capacitor/Plugin: 	at java.lang.reflect.Method.invoke(Native Method)
+11-01 18:12:34.060  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.PluginHandle.invoke(PluginHandle.java:138)
+11-01 18:12:34.060  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.lambda$callPluginMethod$0(Bridge.java:847)
+11-01 18:12:34.060  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.$r8$lambda$FNYM7cvgeBk0k8YXQH7M96Mrf-c(Unknown Source:0)
+11-01 18:12:34.060  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.Bridge$$ExternalSyntheticLambda0.run(D8$$SyntheticClass:0)
+11-01 18:12:34.060  4346  4405 E Capacitor/Plugin: 	at android.os.Handler.handleCallback(Handler.java:959)
+11-01 18:12:34.060  4346  4405 E Capacitor/Plugin: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+11-01 18:12:34.060  4346  4405 E Capacitor/Plugin: 	at android.os.Looper.loopOnce(Looper.java:232)
+11-01 18:12:34.060  4346  4405 E Capacitor/Plugin: 	at android.os.Looper.loop(Looper.java:317)
+11-01 18:12:34.060  4346  4405 E Capacitor/Plugin: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+11-01 18:12:34.060  4346  4405 D Capacitor: Sending plugin error: {"save":false,"callbackId":"73859466","pluginId":"SecureStoragePlugin","methodName":"get","success":false,"error":{"message":"Item with given key does not exist"}}
+11-01 18:12:34.061  4346  4346 E Capacitor/Console: File:  - Line 330 - Msg: [object Object]
+11-01 18:12:34.062  4346  4405 E Capacitor/Plugin: Item with given key does not exist
+11-01 18:12:34.062  4346  4405 E Capacitor/Plugin: java.lang.Exception: Item with given key does not exist
+11-01 18:12:34.062  4346  4405 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin._get(SecureStoragePluginPlugin.java:112)
+11-01 18:12:34.062  4346  4405 E Capacitor/Plugin: 	at com.whitestein.securestorage.SecureStoragePluginPlugin.get(SecureStoragePluginPlugin.java:48)
+11-01 18:12:34.062  4346  4405 E Capacitor/Plugin: 	at java.lang.reflect.Method.invoke(Native Method)
+11-01 18:12:34.062  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.PluginHandle.invoke(PluginHandle.java:138)
+11-01 18:12:34.062  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.lambda$callPluginMethod$0(Bridge.java:847)
+11-01 18:12:34.062  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.Bridge.$r8$lambda$FNYM7cvgeBk0k8YXQH7M96Mrf-c(Unknown Source:0)
+11-01 18:12:34.062  4346  4405 E Capacitor/Plugin: 	at com.getcapacitor.Bridge$$ExternalSyntheticLambda0.run(D8$$SyntheticClass:0)
+11-01 18:12:34.062  4346  4405 E Capacitor/Plugin: 	at android.os.Handler.handleCallback(Handler.java:959)
+11-01 18:12:34.062  4346  4405 E Capacitor/Plugin: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+11-01 18:12:34.062  4346  4405 E Capacitor/Plugin: 	at android.os.Looper.loopOnce(Looper.java:232)
+11-01 18:12:34.062  4346  4405 E Capacitor/Plugin: 	at android.os.Looper.loop(Looper.java:317)
+11-01 18:12:34.062  4346  4405 E Capacitor/Plugin: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+11-01 18:12:34.064  4346  4405 D Capacitor: Sending plugin error: {"save":false,"callbackId":"73859467","pluginId":"SecureStoragePlugin","methodName":"get","success":false,"error":{"message":"Item with given key does not exist"}}
+11-01 18:12:34.064  4346  4346 E Capacitor/Console: File:  - Line 330 - Msg: [object Object]
+11-01 18:12:36.777  4346  4346 I Capacitor/Console: File:  - Line 349 - Msg: [object Object]
+11-01 18:12:36.777  4346  4346 V Capacitor/Plugin: To native (Capacitor plugin): callbackId: 73859468, pluginId: App, methodName: getInfo
+11-01 18:12:36.777  4346  4346 V Capacitor: callback: 73859468, pluginId: App, methodName: getInfo, methodData: {}
+11-01 18:12:36.779  4346  4346 I Capacitor/Console: File:  - Line 333 - Msg: {"name":"CPWD Rate Finder","id":"com.saranik.cpwdratefinder.mobile","build":"15","version":"3.1.0"}
+11-01 18:12:42.611   561   665 D ActivityManager: freezing 2838 com.google.android.webview:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:0
+11-01 18:12:47.428  4346  4417 I CapgoUpdater: 🟢 notifyAppReady was called. This is fine: pR9NaPMDYj
+11-01 18:12:47.429  4346  4346 I Capacitor/Console: File:  - Line 1 - Msg: [CapgoUpdater] 🟢 notifyAppReady was called. This is fine: pR9NaPMDYj
+11-01 18:12:50.501   561   656 D ActivityManager: sync unfroze 2838 com.google.android.webview:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:0 for 6
